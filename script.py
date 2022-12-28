@@ -6,13 +6,13 @@ from pathlib import Path
 import os
 
 def js_open(js):
-    if isinstance(js, str):
+    if isinstance(js, (str, Path)):
         with open(js,'rt') as f:#, errors='ignore',encoding='unicode-escape'
             D1 = json.load(f)#object_pairs_hook=OrderedDict 
     return D1
 
 def js_write(dic, js):
-    if isinstance(js, str):
+    if isinstance(js, (str, Path)):
         with open(js, 'w') as f:
             json.dump(dic, f,indent=4, ensure_ascii=False)
 
@@ -34,7 +34,8 @@ for day in d['sections']:
 title.sort(key=itemgetter('id'))
 
 data_dir = Path("data", "gyao")
-data_dir = "data/gyao"
+# data_dir = "data/gyao"
 
-js_write(title, os.path.join(data_dir+"title.json")
+# js_write(title, os.path.join(data_dir+"title.json"))
+js_write(title, data_dir / "title.json")
 
