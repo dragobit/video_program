@@ -13,6 +13,8 @@ def js_open(js):
 
 def js_write(dic, js):
     if isinstance(js, (str, Path)):
+        js = Path(js)
+        js.parent.mkdir(exist_ok=True, parents=True)
         with open(js, 'w') as f:
             json.dump(dic, f,indent=4, ensure_ascii=False)
 
