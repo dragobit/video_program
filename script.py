@@ -4,6 +4,7 @@ import sys
 from operator import itemgetter
 from pathlib import Path
 import os
+from pprint import pprint
 
 def js_open(js):
     if isinstance(js, (str, Path)):
