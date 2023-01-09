@@ -1,4 +1,4 @@
-name: Commit
+name: Update_Infomation
 
 on:
   push:
@@ -17,8 +17,8 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
         
-      - name: Curl Gyao timetable
-        run: "curl 'https://gyao.yahoo.co.jp/api/schedule/anime?'   -H 'authority: gyao.yahoo.co.jp'   -H 'pragma: no-cache'   -H 'cache-control: no-cache'   -H 'user-agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36'   -H 'content-type: application/json'   -H 'accept: */*'   -H 'sec-fetch-site: same-origin'   -H 'sec-fetch-mode: cors'   -H 'sec-fetch-dest: empty'   -H 'referer: https://gyao.yahoo.co.jp/schedule?category=anime'   -H 'accept-language: ja,en-US;q=0.9,en;q=0.8'   --compressed -o gyao_timetable.json"
+#       - name: Curl Gyao timetable
+#         run: "curl 'https://gyao.yahoo.co.jp/api/schedule/anime?'   -H 'authority: gyao.yahoo.co.jp'   -H 'pragma: no-cache'   -H 'cache-control: no-cache'   -H 'user-agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36'   -H 'content-type: application/json'   -H 'accept: */*'   -H 'sec-fetch-site: same-origin'   -H 'sec-fetch-mode: cors'   -H 'sec-fetch-dest: empty'   -H 'referer: https://gyao.yahoo.co.jp/schedule?category=anime'   -H 'accept-language: ja,en-US;q=0.9,en;q=0.8'   --compressed -o gyao_timetable.json"
   
 
       - uses: actions/setup-python@v3
