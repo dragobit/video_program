@@ -52,6 +52,8 @@ title.sort(key=itemgetter('id'))
 data_dir = Path("data", "gyao")
 # data_dir = "data/gyao"
 
+Path('gyao_timetable.json').unlink()
+
 # js_write(title, os.path.join(data_dir+"title.json"))
 if title:
     js_write(title, data_dir / "title.json")
