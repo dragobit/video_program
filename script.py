@@ -17,12 +17,26 @@ def js_write(dic, js):
         js.parent.mkdir(exist_ok=True, parents=True)
         with open(js, 'w') as f:
             json.dump(dic, f,indent=4, ensure_ascii=False)
+            
+def get_timetable(count=1):
+    
+    headers = {"authority": "gyao.yahoo.co.jp",
+               "referer": "https://gyao.yahoo.co.jp/schedule?category=anime"}
 
-res = requests.get("https://gyao.yahoo.co.jp/api/schedule/anime?'")
-d = res.json()
-try:
-    assert(isinstance(d, dict))
-except:
+    res = requests.get("https://gyao.yahoo.co.jp/api/schedule/anime?'", headers=headers)
+    if count:
+        d = res.json()
+        try:
+            assert(isinstance(d, dict))
+            assert(d["sections"][0]["items"])
+        except:
+            d = get_timetable(count-1)
+        return d
+    return None
+
+
+d = get_timetable(count=10)
+if d is None:
     sys.exit(1)
 
 key = ["title", "id", "url"]
