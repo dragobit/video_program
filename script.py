@@ -40,14 +40,27 @@ if d is None:
     sys.exit(1)
 
 key = ["title", "id", "url"]
+ids = []
 title = []
 for day in d['sections']:
+    youbi = int(day["ult"]["pos"])
     for item in day['items']:
         item_d = {k: item[k] for k in key}
-        if item_d not in title:
+        item_d["renew"] = []
+        item_d["renew"].append(youbi)
+        
+        if item["id"] not in ids:
+            ids.append(item["id"])
             title.append(item_d)
+        else:
+            i = ids.index(item["id"])
+            title[i]["renew"].append(youbi)
+            title[i]["renew"].sort()
+            
+
 
 title.sort(key=itemgetter('id'))
+pprint(title)
 
 data_dir = Path("data", "gyao")
 # data_dir = "data/gyao"
