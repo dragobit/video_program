@@ -66,7 +66,9 @@ pprint(title)
 data_dir = Path("data", "gyao")
 # data_dir = "data/gyao"
 
-Path('gyao_timetable.json').unlink()
+gyao_tt = Path('gyao_timetable.json')
+if gyao_tt.exists():
+    gyao_tt.unlink()
 
 # js_write(title, os.path.join(data_dir+"title.json"))
 if title:
