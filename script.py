@@ -72,6 +72,8 @@ def get_abema_timetable():
     timetable_path.parent.mkdir(exist_ok=True, parents=True)
     js_write(program, timetable_path)
     t = AbemaTable(program)
+    
+    stock = defaultdict(lambda:defaultdict(list))
     for slot in t.slots:
         date_fmt = "%Y%m%d"
         start = fromtimestamp(slot['startAt']).strftime(date_fmt)
