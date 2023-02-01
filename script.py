@@ -63,9 +63,9 @@ def get_abema_timetable():
         start = fromtimestamp(slot['startAt']).strftime(date_fmt)
         end = fromtimestamp(slot['endAt']).strftime(date_fmt)
         if start in t.availableDates :
-        stock[start][slot['channelId']].append(slot)
+            stock[start][slot['channelId']].append(slot)
         if end != start and end in t.availableDates:
-        stock[end][slot['channelId']].append(slot)    
+            stock[end][slot['channelId']].append(slot)    
     for k,v in stock.items():
         j = {"pubAt": t.publishedAt, "pubDate": fromtimestamp(t.publishedAt).strftime("%Y%m%d%H"),"slots":[]}
         j["slots"] = v
