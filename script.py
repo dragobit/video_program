@@ -1,10 +1,29 @@
-import requests
-import json
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
 import sys
-from operator import itemgetter
-from pathlib import Path
+import argparse
+
+
+# from requests import Session
+import requests
+import re
 import os
+import subprocess
+import json
+import time
+import datetime
+# import dataclasses
 from pprint import pprint
+from functools import partial
+from pathlib import Path
+from operator import itemgetter
+from collections import defaultdict
+# from typing import List
+# from itertools import chain
+try:
+    import jsbeautifier
+except:
+    jsbeautifier = None
 
 def js_open(js):
     if isinstance(js, (str, Path)):
@@ -18,22 +37,17 @@ def js_write(dic, js):
         js.parent.mkdir(exist_ok=True, parents=True)
         with open(js, 'w') as f:
             json.dump(dic, f,indent=4, ensure_ascii=False)
-            
-def get_timetable(count=1):
-    
-    headers = {"authority": "gyao.yahoo.co.jp",
-               "referer": "https://gyao.yahoo.co.jp/schedule?category=anime"}
 
-    res = requests.get("https://gyao.yahoo.co.jp/api/schedule/anime?'", headers=headers)
-    if count:
-        d = res.json()
-        try:
-            assert(isinstance(d, dict))
-            assert(d["sections"][0]["items"])
-        except:
-            d = get_timetable(count-1)
-        return d
-    return None
+
+tz_tokyo = datetime.timezone(datetime.timedelta(hours=9))
+
+headers={"authorization": "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOiI5ZWRjMzAzOC1jN2M5LTRiZTgtYjM3ZS00YzExMjA1ZDE4ODYiLCJleHAiOjIxNDc0ODM2NDcsImlzcyI6ImFiZW1hLmlvL3YxIiwic3ViIjoiOW9YZ0RMTnpwR1lnR3cifQ.mmasFiTeb5QpcmJgmNRup_o5MMCiEmlIZT-nqKuusXc"}
+
+abema_timetable = Path("abema", "timetable",)
+
+now = datetime.datetime.now(tz=tz_tokyo)
+
+fromtimestamp = partial(datetime.datetime.fromtimestamp, tz=tz_tokyo)
 
 class AbemaTable:
     def __init__(self, table_json):
@@ -75,6 +89,23 @@ def get_abema_timetable():
     
     
 get_abema_timetable()    
+
+            
+# def get_timetable(count=1):
+    
+#     headers = {"authority": "gyao.yahoo.co.jp",
+#                "referer": "https://gyao.yahoo.co.jp/schedule?category=anime"}
+
+#     res = requests.get("https://gyao.yahoo.co.jp/api/schedule/anime?'", headers=headers)
+#     if count:
+#         d = res.json()
+#         try:
+#             assert(isinstance(d, dict))
+#             assert(d["sections"][0]["items"])
+#         except:
+#             d = get_timetable(count-1)
+#         return d
+#     return None
 
 # d = get_timetable(count=10)
 # if d is None:
