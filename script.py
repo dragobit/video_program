@@ -69,7 +69,7 @@ def get_abema_timetable():
     pub_at = datetime.datetime.fromtimestamp(program['publishedAt'], tz=tz_tokyo)
     
     timetable_path = Path("abema", "timetable","whole", pub_at.strftime("%y%m%d%H")+".json")
-    timetable_path.mkdir(exist_ok=True, parents=True)
+    timetable_path.parent.mkdir(exist_ok=True, parents=True)
     js_write(program, timetable_path)
     t = AbemaTable(program)
     for slot in t.slots:
@@ -84,7 +84,7 @@ def get_abema_timetable():
         j = {"pubAt": t.publishedAt, "pubDate": fromtimestamp(t.publishedAt).strftime("%Y%m%d%H"),"slots":[]}
         j["slots"] = v
         timetable_path = Path("abema", "timetable", "part", k+".json")
-        timetable_path.mkdir(exist_ok=True, parents=True)
+        timetable_path.parent.mkdir(exist_ok=True, parents=True)
         js_write(timetable_path)
     
     
