@@ -87,7 +87,10 @@ def get_abema_timetable():
         j["slots"] = v
         timetable_path = Path("abema", "timetable", "part", k+".json")
         timetable_path.parent.mkdir(exist_ok=True, parents=True)
-        js_write(j, timetable_path)
+        if timetable_path.exists():
+            j2 = js_open(timetable_path)
+            if j["slots"] != j2["slots"]:
+                js_write(j, timetable_path)
     
     
 get_abema_timetable()    
