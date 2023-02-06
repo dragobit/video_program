@@ -138,6 +138,39 @@ def split_abema_timetable(t:AbemaTable):
                 js_write(j, timetable_path)
         else:
             js_write(j, timetable_path)
+ 
+def split_abema_timetable02(t:AbemaTable):
+    # stock = defaultdict(lambda:defaultdict(list))
+    stock = {d :{c['id']:[] for c in t.channels if "anime" in c['id']}
+             for d in t.availableDates}
+    for slot in t.slots:
+        date_fmt = "%Y%m%d"
+        start = fromtimestamp(slot['startAt']).strftime(date_fmt)
+        end = fromtimestamp(slot['endAt']).strftime(date_fmt)
+        try: 
+            if start in t.availableDates :
+                stock[start][slot['channelId']].append(slot)
+            if end != start and end in t.availableDates:
+                stock[end][slot['channelId']].append(slot)   
+        except:
+            continue
+    for k,v in stock.items():
+        j = {"pubAt": t.publishedAt, "pubDate": fromtimestamp(t.publishedAt).strftime("%Y%m%d%H")}
+        j["slots"] = v
+        [c['id'] for c in t.channels]
+        timetable_path = Fold.abema_tt/ "part"/ f"{k}.json"
+        timetable_path.parent.mkdir(exist_ok=True, parents=True)
+        if timetable_path.exists():
+            j2 = js_open(timetable_path)
+            if j["slots"] != j2["slots"]:
+                js_write(j, timetable_path)
+        else:
+            js_write(j, timetable_path)
+       
+# get_abema_timetable() 
+if __name__ == "__main__":
+    t = get_abema_timetable02()
+    split_abema_timetable02(t)
 
        
 # get_abema_timetable() 
