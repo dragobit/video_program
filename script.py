@@ -110,6 +110,7 @@ def get_abema_timetable():
 def get_abema_timetable02():
     res = requests.get("https://api.p-c3-e.abema-tv.com/v1/timetable/dataSet?debug=false",headers=headers)
     program = res.json()
+    program["slotsGroup"].sort(key=itemgetter("id")
     pub_at = fromtimestamp(program['publishedAt'])
     
     timetable_path = Path("abema", "timetable","whole", pub_at.strftime("%y%m%d%H")+".json")
@@ -128,7 +129,7 @@ def split_abema_timetable(t:AbemaTable):
         if end != start and end in t.availableDates:
             stock[end][slot['channelId']].append(slot)    
     for k,v in stock.items():
-        j = {"pubAt": t.publishedAt, "pubDate": fromtimestamp(t.publishedAt).strftime("%Y%m%d%H"),"slots":[]}
+        j = {"pubAt": t.publishedAt, "pubDate": fromtimestamp(t.publishedAt).strftime("%Y%m%d%H")}
         j["slots"] = v
         timetable_path = Fold.abema_tt/ "part"/ f"{k}.json"
         timetable_path.parent.mkdir(exist_ok=True, parents=True)
