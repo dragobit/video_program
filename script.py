@@ -173,11 +173,7 @@ if __name__ == "__main__":
     t = get_abema_timetable02()
     split_abema_timetable02(t)
 
-       
-# get_abema_timetable() 
-if __name__ == "__main__":
-    t = get_abema_timetable02()
-    split_abema_timetable(t)
+
 
    
 
