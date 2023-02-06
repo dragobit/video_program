@@ -110,7 +110,8 @@ def get_abema_timetable():
 def get_abema_timetable02():
     res = requests.get("https://api.p-c3-e.abema-tv.com/v1/timetable/dataSet?debug=false",headers=headers)
     program = res.json()
-    program["slotsGroup"].sort(key=itemgetter("id"))
+    t = AbemaTable(program)
+    t.slotGroups.sort(key=itemgetter("id"))
     pub_at = fromtimestamp(program['publishedAt'])
     
     timetable_path = Path("abema", "timetable","whole", pub_at.strftime("%y%m%d%H")+".json")
