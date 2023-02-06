@@ -1,6 +1,6 @@
 {
-    "pubAt": 1675555271,
-    "pubDate": "2023020509",
+    "pubAt": 1675641671,
+    "pubDate": "2023020609",
     "slots": {
         "abema-news": [
             {
@@ -76,8 +76,10 @@
                 "tableEndAt": 1675618200,
                 "highlight": "大学生キャスターがニュースをお届け",
                 "displayProgramId": "89-140_s0_p607",
-                "displayImageUpdatedAt": 1674094983,
-                "mark": {},
+                "displayImageUpdatedAt": 1675580603,
+                "mark": {
+                    "live": true
+                },
                 "flags": {
                     "timeshift": true,
                     "timeshiftFree": true,
@@ -346,7 +348,7 @@
                 "tableEndAt": 1675659600,
                 "highlight": "アベマ厳選！芸能・エンタメニュース",
                 "displayProgramId": "89-140_s0_p633",
-                "displayImageUpdatedAt": 1674538323,
+                "displayImageUpdatedAt": 1675639228,
                 "mark": {},
                 "flags": {
                     "timeshift": true,
@@ -641,6 +643,783 @@
                 "displaySeriesId": "89-140",
                 "detailHighlight": "最新の芸能・エンタメニュースを厳選して紹介する情報番組。",
                 "content": "速報や解禁情報、芸能人のSNSにまつわるニュースなどホットな話題を毎日配信。\nまた、旬な人物の魅力や素顔に迫る独自インタビューも配信中。"
+            }
+        ],
+        "news-plus": [
+            {
+                "id": "DWAHMFDKghjGE3",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675605600,
+                "endAt": 1675609200,
+                "tableStartAt": 1675605600,
+                "tableEndAt": 1675609200,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13795",
+                "displayImageUpdatedAt": 1674096743,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676210400,
+                "timeshiftFreeEndAt": 1676210400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "8WFaTfVJjFoGs1",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675609200,
+                "endAt": 1675612800,
+                "tableStartAt": 1675609200,
+                "tableEndAt": 1675612800,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13796",
+                "displayImageUpdatedAt": 1674096743,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676214000,
+                "timeshiftFreeEndAt": 1676214000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "8WFaS9b5gQubnP",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675612800,
+                "endAt": 1675616400,
+                "tableStartAt": 1675612800,
+                "tableEndAt": 1675616400,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13797",
+                "displayImageUpdatedAt": 1674096744,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676217600,
+                "timeshiftFreeEndAt": 1676217600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "8WFaQdgrda1vhm",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675616400,
+                "endAt": 1675620000,
+                "tableStartAt": 1675616400,
+                "tableEndAt": 1675620000,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13798",
+                "displayImageUpdatedAt": 1674096744,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676221200,
+                "timeshiftFreeEndAt": 1676221200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "DWAHJD5xHW4tHm",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675620000,
+                "endAt": 1675623600,
+                "tableStartAt": 1675620000,
+                "tableEndAt": 1675623600,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13799",
+                "displayImageUpdatedAt": 1674096744,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676224800,
+                "timeshiftFreeEndAt": 1676224800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fwdtUwtehQs",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675623600,
+                "endAt": 1675627200,
+                "tableStartAt": 1675623600,
+                "tableEndAt": 1675627200,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13800",
+                "displayImageUpdatedAt": 1674096744,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676228400,
+                "timeshiftFreeEndAt": 1676228400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fyTQ3c6PBJX",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675627200,
+                "endAt": 1675630800,
+                "tableStartAt": 1675627200,
+                "tableEndAt": 1675630800,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13801",
+                "displayImageUpdatedAt": 1674096744,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676232000,
+                "timeshiftFreeEndAt": 1676232000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fzfjvLctzjq",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675630800,
+                "endAt": 1675634400,
+                "tableStartAt": 1675630800,
+                "tableEndAt": 1675634400,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13802",
+                "displayImageUpdatedAt": 1674096744,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676235600,
+                "timeshiftFreeEndAt": 1676235600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "ErZzLCTEcRaRyh",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675634400,
+                "endAt": 1675638000,
+                "tableStartAt": 1675634400,
+                "tableEndAt": 1675638000,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13803",
+                "displayImageUpdatedAt": 1674096744,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676239200,
+                "timeshiftFreeEndAt": 1676239200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "ErZzLCUENmjR2w",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675638000,
+                "endAt": 1675641600,
+                "tableStartAt": 1675638000,
+                "tableEndAt": 1675641600,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13804",
+                "displayImageUpdatedAt": 1674096745,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676242800,
+                "timeshiftFreeEndAt": 1676242800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2g1G6oZ3u5rP",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675641600,
+                "endAt": 1675645200,
+                "tableStartAt": 1675641600,
+                "tableEndAt": 1675645200,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13805",
+                "displayImageUpdatedAt": 1674096745,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676246400,
+                "timeshiftFreeEndAt": 1676246400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fykgU2UsnUo",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675645200,
+                "endAt": 1675648800,
+                "tableStartAt": 1675645200,
+                "tableEndAt": 1675648800,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13806",
+                "displayImageUpdatedAt": 1674096745,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676250000,
+                "timeshiftFreeEndAt": 1676250000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "ErZzKuDp3oCvgX",
+                "channelId": "news-plus",
+                "title": "松野官房長官会見ほか",
+                "startAt": 1675648800,
+                "endAt": 1675652400,
+                "tableStartAt": 1675648800,
+                "tableEndAt": 1675652400,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13807",
+                "displayImageUpdatedAt": 1674437742,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676253600,
+                "timeshiftFreeEndAt": 1676253600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "E7tb7Z37Q6p9Qb",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675652400,
+                "endAt": 1675656000,
+                "tableStartAt": 1675652400,
+                "tableEndAt": 1675656000,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13808",
+                "displayImageUpdatedAt": 1674096745,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676257200,
+                "timeshiftFreeEndAt": 1676257200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fwddYpJvS15",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675656000,
+                "endAt": 1675659600,
+                "tableStartAt": 1675656000,
+                "tableEndAt": 1675659600,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13809",
+                "displayImageUpdatedAt": 1674096745,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676260800,
+                "timeshiftFreeEndAt": 1676260800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fykpwN4ndtB",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675659600,
+                "endAt": 1675663200,
+                "tableStartAt": 1675659600,
+                "tableEndAt": 1675663200,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13810",
+                "displayImageUpdatedAt": 1674096745,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676264400,
+                "timeshiftFreeEndAt": 1676264400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fz4Rn6FYxAb",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675663200,
+                "endAt": 1675666800,
+                "tableStartAt": 1675663200,
+                "tableEndAt": 1675666800,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13811",
+                "displayImageUpdatedAt": 1674096746,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676268000,
+                "timeshiftFreeEndAt": 1676268000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "E7tb7FcjYCGee3",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675666800,
+                "endAt": 1675670400,
+                "tableStartAt": 1675666800,
+                "tableEndAt": 1675670400,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13812",
+                "displayImageUpdatedAt": 1674096746,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676271600,
+                "timeshiftFreeEndAt": 1676271600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "E7tb7FcjejoUnK",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675670400,
+                "endAt": 1675674000,
+                "tableStartAt": 1675670400,
+                "tableEndAt": 1675674000,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13813",
+                "displayImageUpdatedAt": 1674096746,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676275200,
+                "timeshiftFreeEndAt": 1676275200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fz4TGrKKFtj",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675674000,
+                "endAt": 1675677600,
+                "tableStartAt": 1675674000,
+                "tableEndAt": 1675677600,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13814",
+                "displayImageUpdatedAt": 1674096746,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676278800,
+                "timeshiftFreeEndAt": 1676278800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "Cu2fzyDJd1Dk6s",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675677600,
+                "endAt": 1675681200,
+                "tableStartAt": 1675677600,
+                "tableEndAt": 1675681200,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13815",
+                "displayImageUpdatedAt": 1674096746,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676282400,
+                "timeshiftFreeEndAt": 1676282400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "ErZzLpVEKuokcP",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675681200,
+                "endAt": 1675684800,
+                "tableStartAt": 1675681200,
+                "tableEndAt": 1675684800,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13816",
+                "displayImageUpdatedAt": 1674096746,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676286000,
+                "timeshiftFreeEndAt": 1676286000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "ErZzLWvP8RMQST",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675684800,
+                "endAt": 1675688400,
+                "tableStartAt": 1675684800,
+                "tableEndAt": 1675688400,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13817",
+                "displayImageUpdatedAt": 1674096746,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676289600,
+                "timeshiftFreeEndAt": 1676289600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "E7tb94DX1cPUzj",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675688400,
+                "endAt": 1675692000,
+                "tableStartAt": 1675688400,
+                "tableEndAt": 1675692000,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13818",
+                "displayImageUpdatedAt": 1674096747,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676293200,
+                "timeshiftFreeEndAt": 1676293200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
+            },
+            {
+                "id": "E7tbAHBFVjYNjH",
+                "channelId": "news-plus",
+                "title": "コロナ最新情報、政治経済、芸能も。注目会見を逃さず生配信",
+                "startAt": 1675692000,
+                "endAt": 1675695600,
+                "tableStartAt": 1675692000,
+                "tableEndAt": 1675695600,
+                "highlight": "注目の会見を逃さず生配信！",
+                "displayProgramId": "89-102_s0_p13819",
+                "displayImageUpdatedAt": 1674096747,
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1676296800,
+                "timeshiftFreeEndAt": 1676296800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "89-102",
+                "detailHighlight": "日本初「会見チャンネル」。最新のコロナ関連の会見や官邸記者会見から芸能関連の会見まで。日本に限らず世界の注目会見をリアルタイムに。",
+                "content": "会見映像が入り次第お送りします。"
             }
         ],
         "abema-special": [
@@ -7527,7 +8306,7 @@
                 "tableEndAt": 1675636500,
                 "highlight": "棋王戦 藤井聡太竜王 対 豊島将之九段",
                 "displayProgramId": "268-31_s48_p48",
-                "displayImageUpdatedAt": 1675064818,
+                "displayImageUpdatedAt": 1675595098,
                 "mark": {},
                 "flags": {
                     "timeshift": true,
