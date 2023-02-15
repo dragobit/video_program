@@ -145,8 +145,9 @@ def split_abema_timetable02(t:AbemaTable):
     # stock = defaultdict(lambda:defaultdict(list))
     stock = {d :{c['id']:[] for c in t.channels if "anime" in c['id']}
              for d in t.availableDates}
+    date_fmt = "%Y%m%d"
     for slot in t.slots:
-        date_fmt = "%Y%m%d"
+        del slot['displayImageUpdatedAt']
         start = fromtimestamp(slot['startAt']).strftime(date_fmt)
         end = fromtimestamp(slot['endAt']).strftime(date_fmt)
         try: 
