@@ -197,13 +197,15 @@ def allanime():
             break
     return jss
 
-def allanime02():
+def allanime02(sort=True):
     
     def append01(jss, js):
         jss["items"].extend(js["cards"])
         
     def append02(jss, js):
         need_keys = ['seriesId', 'title', 'label', 'onDemandTypes']
+        assert(js["cards"])
+        
         for item in js["cards"]:
             # out_item = {}
             # for k in item.keys():
@@ -223,13 +225,19 @@ def allanime02():
     jss["pubAt"] =  now.strftime("%Y%m%d%H")
     jss["items"] = []
     append02(jss, js)
+    num = len(jss["items"])
+    print(num, end="\r")
     while True:
         try:
             js, nextq = nextver(nextq)
             append02(jss, js)
+            num = len(jss["items"])
+            print(num, end="\r")
         except:
+            print(num)
             break
-    jss["items"].sort(key=itemgetter('seriesId'))
+    if sort:
+        jss["items"].sort(key=itemgetter('seriesId'))
     return jss
     
 
@@ -277,7 +285,7 @@ def save_renew(program, filepath: Path, attr="items"):
     
     if filepath.exists():
         program2 = js_open(filepath)
-        if json_data[attr] != program2[attr]:
+        if program[attr] != program2[attr]:
             js_write(program, filepath)
             return True
         return False
@@ -552,16 +560,19 @@ def _extract_info(base):
 if __name__ == "__main__":
     t = get_abema_timetable02()
     split_abema_timetable02(t)
+    print("abema")
     
     year = 2023
     for season in range(0,4):
         try:
             n = NicoList(year, season)
             n.save()
+            print(f"nico {season}")
         except:
             pass
             
     save_abema_allanime()
+    print("abema anime")
     
     
     
