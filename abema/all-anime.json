@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023041010",
+    "pubAt": "2023041110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -423,17 +423,6 @@
             ]
         },
         {
-            "seriesId": "13-49",
-            "title": "ケロロ軍曹",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "13-67",
             "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
             "label": {
@@ -463,30 +452,8 @@
             ]
         },
         {
-            "seriesId": "149-1",
-            "title": "灼眼のシャナ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "149-11",
             "title": "無職転生 ～異世界行ったら本気だす～",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "149-14",
-            "title": "吸血鬼すぐ死ぬ",
             "label": {
                 "someFree": true
             },
@@ -510,8 +477,7 @@
             "seriesId": "149-19",
             "title": "吸血鬼すぐ死ぬ２",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -674,10 +640,11 @@
             "seriesId": "169-134",
             "title": "異世界はスマートフォンとともに。２",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -806,10 +773,9 @@
             "seriesId": "174-1",
             "title": "這いよれ！ニャル子さん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1102,11 +1068,9 @@
         {
             "seriesId": "19-106",
             "title": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1188,9 +1152,11 @@
         {
             "seriesId": "19-116",
             "title": "銀の匙 Silver Spoon（第2期）",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1350,17 +1316,6 @@
             ]
         },
         {
-            "seriesId": "19-144",
-            "title": "BANANA FISH",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "19-147",
             "title": "四月は君の嘘",
             "label": {},
@@ -1391,8 +1346,7 @@
             "seriesId": "19-150",
             "title": "もののがたり",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1909,9 +1863,10 @@
             "seriesId": "203-11",
             "title": "血界戦線 & BEYOND",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1938,8 +1893,7 @@
             "seriesId": "210-10",
             "title": "REVENGER",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2192,12 +2146,19 @@
             "seriesId": "25-14",
             "title": "ゼロの使い魔F",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "25-146",
+            "title": "Re:ゼロから始める異世界生活 氷結の絆",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -2526,10 +2487,9 @@
             "seriesId": "25-211",
             "title": "ようこそ実力至上主義の教室へ 2nd Season",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3003,9 +2963,10 @@
             "seriesId": "25-6",
             "title": "オーバーロード",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3525,9 +3486,10 @@
             "seriesId": "26-66",
             "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3993,6 +3955,17 @@
             ]
         },
         {
+            "seriesId": "54-80",
+            "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "54-82",
             "title": "アリス・ギア・アイギス 〜ドキッ！アクトレスだらけのマーメイドグランプリ♡",
             "label": {
@@ -4127,6 +4100,28 @@
             "title": "リーマンズクラブ",
             "label": {
                 "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1652",
+            "title": "王様戦隊キングオージャー",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1653",
+            "title": "仮面ライダー",
+            "label": {
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
