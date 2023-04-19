@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023041810",
+    "pubAt": "2023041910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -215,6 +215,17 @@
         {
             "seriesId": "115-96",
             "title": "おとなりに銀河",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "115-97",
+            "title": "デッドマウント・デスプレイ",
             "label": {
                 "free": true,
                 "newest": true
@@ -604,7 +615,7 @@
         },
         {
             "seriesId": "169-134",
-            "title": "異世界はスマートフォンとともに。２",
+            "title": "異世界はスマートフォンとともに。2",
             "label": {
                 "someFree": true,
                 "newest": true
@@ -751,9 +762,10 @@
             "seriesId": "174-1",
             "title": "這いよれ！ニャル子さん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -776,6 +788,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "174-13",
+            "title": "超人高校生たちは異世界でも余裕で生き抜くようです！",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -853,10 +876,9 @@
             "seriesId": "174-28",
             "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1123,11 +1145,9 @@
         {
             "seriesId": "19-116",
             "title": "銀の匙 Silver Spoon（第2期）",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1456,10 +1476,9 @@
             "seriesId": "19-34",
             "title": "Ｄｒ．ＳＴＯＮＥ　第１期",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1727,7 +1746,7 @@
         },
         {
             "seriesId": "2-14",
-            "title": "ポケットモンスター",
+            "title": "アニメ「ポケットモンスター」",
             "label": {
                 "someFree": true,
                 "newest": true
@@ -2077,9 +2096,10 @@
             "seriesId": "25-12jpgzpcyjjb",
             "title": "狼と香辛料II",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2468,9 +2488,10 @@
             "seriesId": "25-210",
             "title": "異世界薬局",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2833,10 +2854,9 @@
             "seriesId": "25-37btyx385rbe",
             "title": "ストライクウィッチーズ2",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3027,9 +3047,10 @@
             "seriesId": "25-73",
             "title": "ようこそ実力至上主義の教室へ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3103,17 +3124,6 @@
                 "free": true
             },
             "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "259-4",
-            "title": "うたわれるもの 二人の白皇",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3606,14 +3616,6 @@
             ]
         },
         {
-            "seriesId": "420-5",
-            "title": "攻殻機動隊 STAND ALONE COMPLEX",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "420-55",
             "title": "RWBY 氷雪帝国",
             "label": {},
@@ -3894,10 +3896,11 @@
             "seriesId": "54-78",
             "title": "真・進化の実～知らないうちに勝ち組人生～",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
