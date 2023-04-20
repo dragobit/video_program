@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023041910",
+    "pubAt": "2023042010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -95,9 +95,10 @@
             "seriesId": "115-24",
             "title": "みなみけ〜おかわり〜",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -728,10 +729,11 @@
             "seriesId": "172-53",
             "title": "Re:STARS",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -984,8 +986,7 @@
             "seriesId": "189-45",
             "title": "もういっぽん！",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -996,10 +997,9 @@
             "seriesId": "189-46",
             "title": "解雇された暗黒兵士(30代)のスローなセカンドライフ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2107,8 +2107,7 @@
             "seriesId": "25-132",
             "title": "旗揚！けものみち",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2722,10 +2721,11 @@
             "seriesId": "25-239",
             "title": "この素晴らしい世界に爆焔を！",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2733,10 +2733,11 @@
             "seriesId": "25-240",
             "title": "【推しの子】",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2947,8 +2948,7 @@
             "seriesId": "25-55",
             "title": "文豪ストレイドッグス",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3014,10 +3014,11 @@
             "seriesId": "25-63",
             "title": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3069,9 +3070,10 @@
             "seriesId": "25-7krpy-sgurg",
             "title": "氷菓",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3090,20 +3092,19 @@
             "seriesId": "25-8cwxyxikzsj",
             "title": "アクセル・ワールド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
         {
             "seriesId": "25-90",
             "title": "劇場版 ソードアート・オンライン –オーディナル・スケール-",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3432,10 +3433,9 @@
             "seriesId": "26-35",
             "title": "WORKING!!!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3603,8 +3603,7 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3629,6 +3628,17 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "420-58",
+            "title": "ワールドダイスター",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -3672,22 +3682,9 @@
         {
             "seriesId": "5-27",
             "title": "ワールドトリガー 3rdシーズン",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "5-29",
-            "title": "ドラゴンボール改",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3809,10 +3806,9 @@
             "seriesId": "54-60",
             "title": "月が導く異世界道中",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3941,9 +3937,7 @@
         {
             "seriesId": "54-82",
             "title": "アリス・ギア・アイギス 〜ドキッ！アクトレスだらけのマーメイドグランプリ♡",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
