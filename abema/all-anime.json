@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023042110",
+    "pubAt": "2023042210",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -230,10 +230,11 @@
             "seriesId": "115-98",
             "title": "魔法少女マジカルデストロイヤーズ",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -894,6 +895,17 @@
             ]
         },
         {
+            "seriesId": "174-5",
+            "title": "落第騎士の英雄譚（キャバルリィ）",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "174-7",
             "title": "ソード・オラトリア　ダンジョンに出会いを求めるのは間違っているだろうか外伝",
             "label": {
@@ -1027,10 +1039,11 @@
             "seriesId": "189-51",
             "title": "カワイスギクライシス",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1079,9 +1092,11 @@
         {
             "seriesId": "19-108",
             "title": "PSYCHO-PASS サイコパス 2",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1430,9 +1445,7 @@
         {
             "seriesId": "19-166",
             "title": "PSYCHO-PASS サイコパス Sinners of the System",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -2050,10 +2063,9 @@
             "seriesId": "25-11ijxdyytjnx",
             "title": "月刊少女野崎くん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2061,9 +2073,10 @@
             "seriesId": "25-12",
             "title": "ゼロの使い魔　三美姫の輪舞",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3127,9 +3140,10 @@
             "seriesId": "26-108",
             "title": "『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3384,10 +3398,11 @@
             "seriesId": "26-199",
             "title": "マッシュル-MASHLE-",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3684,17 +3699,6 @@
             ]
         },
         {
-            "seriesId": "5-29",
-            "title": "ドラゴンボール改",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "5-30",
             "title": "ドラゴンボール超",
             "label": {
@@ -3899,8 +3903,7 @@
             "seriesId": "54-78",
             "title": "真・進化の実～知らないうちに勝ち組人生～",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3964,10 +3967,11 @@
             "seriesId": "564-4",
             "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4043,10 +4047,11 @@
             "seriesId": "632-1",
             "title": "女神のカフェテラス",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4054,10 +4059,11 @@
             "seriesId": "632-2",
             "title": "マイホームヒーロー",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
