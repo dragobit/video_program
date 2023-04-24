@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023042310",
+    "pubAt": "2023042410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -148,14 +148,6 @@
         {
             "seriesId": "115-73",
             "title": "劇場版 生徒会役員共",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "115-76",
-            "title": "イジらないで、長瀞さん",
             "label": {},
             "onDemandTypes": [
                 1
@@ -751,11 +743,10 @@
             "seriesId": "173-5",
             "title": "事情を知らない転校生がグイグイくる。",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -950,6 +941,17 @@
             ]
         },
         {
+            "seriesId": "189-29",
+            "title": "『SSSS.DYNAZENON』",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "189-30",
             "title": "東京リベンジャーズ",
             "label": {
@@ -1019,6 +1021,17 @@
             "title": "解雇された暗黒兵士(30代)のスローなセカンドライフ",
             "label": {
                 "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "189-48",
+            "title": "贄姫と獣の王",
+            "label": {
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -1144,7 +1157,7 @@
             "title": "ヲタクに恋は難しい",
             "label": {},
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1152,7 +1165,7 @@
             "title": "ヲタクに恋は難しい OAD",
             "label": {},
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1643,10 +1656,9 @@
             "seriesId": "194-25",
             "title": "異世界食堂２",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2448,9 +2460,10 @@
             "seriesId": "25-204",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2476,10 +2489,9 @@
             "seriesId": "25-209",
             "title": "異世界おじさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2487,10 +2499,9 @@
             "seriesId": "25-20xetywbrdye",
             "title": "涼宮ハルヒの憂鬱(2009年放送版)",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2582,9 +2593,10 @@
             "seriesId": "25-222",
             "title": "新米錬金術師の店舗経営",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3200,9 +3212,10 @@
             "seriesId": "26-162",
             "title": "かぐや様は告らせたい-ウルトラロマンティック-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3699,17 +3712,6 @@
             ]
         },
         {
-            "seriesId": "5-29",
-            "title": "ドラゴンボール改",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "5-30",
             "title": "ドラゴンボール超",
             "label": {
@@ -3788,9 +3790,10 @@
             "seriesId": "536-1",
             "title": "呪術廻戦",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3816,8 +3819,17 @@
         {
             "seriesId": "539-2",
             "title": "グリザイア：ファントムトリガー THE ANIMATION スターゲイザー",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "54-23",
+            "title": "SSSS.GRIDMAN",
             "label": {
-                "free": true
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -3936,10 +3948,11 @@
             "seriesId": "54-80",
             "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4027,14 +4040,6 @@
             ]
         },
         {
-            "seriesId": "605-2",
-            "title": "京と秋のにじさんじ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "605-3",
             "title": "にじさんじ “LIGHT UP TONES”",
             "label": {},
@@ -4086,8 +4091,8 @@
             ]
         },
         {
-            "seriesId": "87-1652",
-            "title": "王様戦隊キングオージャー",
+            "seriesId": "87-1084",
+            "title": "ドラえもん",
             "label": {
                 "free": true,
                 "newest": true
@@ -4097,8 +4102,8 @@
             ]
         },
         {
-            "seriesId": "87-1653",
-            "title": "仮面ライダー",
+            "seriesId": "87-830",
+            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
