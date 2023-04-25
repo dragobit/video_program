@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023042410",
+    "pubAt": "2023042510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -117,9 +117,10 @@
             "seriesId": "115-26",
             "title": "みなみけ　ただいま",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -503,9 +504,10 @@
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -555,6 +557,17 @@
             ]
         },
         {
+            "seriesId": "168-45",
+            "title": "サマーゴースト",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "168-5",
             "title": "異世界魔王と召喚少女の奴隷魔術",
             "label": {
@@ -600,9 +613,11 @@
         {
             "seriesId": "169-133",
             "title": "最強陰陽師の異世界転生記",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -632,19 +647,20 @@
         {
             "seriesId": "169-47",
             "title": "異世界はスマートフォンとともに。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "169-81",
             "title": "神達に拾われた男",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1155,7 +1171,9 @@
         {
             "seriesId": "19-113",
             "title": "ヲタクに恋は難しい",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
                 3
             ]
@@ -1163,7 +1181,9 @@
         {
             "seriesId": "19-114",
             "title": "ヲタクに恋は難しい OAD",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
                 3
             ]
@@ -1508,12 +1528,9 @@
         {
             "seriesId": "19-47",
             "title": "ハイキュー!! OVA",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1635,9 +1652,10 @@
             "seriesId": "194-16",
             "title": "炎炎ノ消防隊",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1645,10 +1663,9 @@
             "seriesId": "194-17",
             "title": "炎炎ノ消防隊　弐ノ章",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1742,10 +1759,11 @@
             "seriesId": "198-9",
             "title": "こえつり",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1765,18 +1783,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "2-14",
-            "title": "アニメ「ポケットモンスター」",
-            "label": {
-                "someFree": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -1879,17 +1885,6 @@
             ]
         },
         {
-            "seriesId": "203-8",
-            "title": "新テニスの王子様 U-17 WORLD CUP",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "203-9",
             "title": "新テニスの王子様 氷帝vs立海 Game of Future",
             "label": {},
@@ -1979,11 +1974,14 @@
             ]
         },
         {
-            "seriesId": "241-214",
-            "title": "パプリカ",
-            "label": {},
+            "seriesId": "218-570",
+            "title": "声優とフィギュる 2023",
+            "label": {
+                "free": true,
+                "newest": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2275,10 +2273,9 @@
             "seriesId": "25-15nn-yaysxby",
             "title": "日常",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2361,17 +2358,6 @@
         {
             "seriesId": "25-195",
             "title": "このヒーラー、めんどくさい",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-196",
-            "title": "RPG不動産",
             "label": {
                 "someFree": true
             },
@@ -2845,10 +2831,9 @@
             "seriesId": "25-3069dr7nb-uc",
             "title": "はたらく魔王さま！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2938,9 +2923,10 @@
             "seriesId": "25-45",
             "title": "この素晴らしい世界に祝福を！２",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3035,8 +3021,7 @@
             "seriesId": "25-63",
             "title": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3142,9 +3127,10 @@
             "seriesId": "25-97",
             "title": "オーバーロードⅢ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3960,10 +3946,11 @@
             "seriesId": "54-81",
             "title": "アリス・ギア・アイギス Expansion",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4024,10 +4011,9 @@
             "seriesId": "593-2",
             "title": "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4093,6 +4079,28 @@
         {
             "seriesId": "87-1084",
             "title": "ドラえもん",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1652",
+            "title": "王様戦隊キングオージャー",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1653",
+            "title": "仮面ライダー",
             "label": {
                 "free": true,
                 "newest": true
