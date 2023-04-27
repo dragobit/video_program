@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023042610",
+    "pubAt": "2023042710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -803,10 +803,11 @@
             "seriesId": "174-13",
             "title": "超人高校生たちは異世界でも余裕で生き抜くようです！",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -896,9 +897,10 @@
             "seriesId": "174-28",
             "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2079,8 +2081,7 @@
             "seriesId": "25-119",
             "title": "異世界チート魔術師",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2290,6 +2291,18 @@
             "title": "蜘蛛ですが、なにか？",
             "label": {
                 "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-161",
+            "title": "文豪ストレイドッグス わん！",
+            "label": {
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -2554,9 +2567,10 @@
             "seriesId": "25-21mnmuhwpipb",
             "title": "ストライクウィッチーズ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2694,10 +2708,9 @@
             "seriesId": "25-235",
             "title": "スパイ教室",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2705,9 +2718,10 @@
             "seriesId": "25-236",
             "title": "転生王女と天才令嬢の魔法革命",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2726,10 +2740,11 @@
             "seriesId": "25-238",
             "title": "神無き世界のカミサマ活動",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2749,11 +2764,10 @@
             "seriesId": "25-240",
             "title": "【推しの子】",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3017,9 +3031,10 @@
             "seriesId": "25-60",
             "title": "ロクでなし魔術講師と禁忌教典",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3049,10 +3064,9 @@
             "seriesId": "25-70",
             "title": "NEW GAME!!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3581,10 +3595,9 @@
             "seriesId": "415-3",
             "title": "MIX",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3650,10 +3663,11 @@
             "seriesId": "420-58",
             "title": "ワールドダイスター",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3712,14 +3726,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "5-32",
-            "title": "ドラゴンボールＧＴ 悟空外伝！ 勇気の証しは四星球",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -3852,10 +3858,9 @@
             "seriesId": "54-70",
             "title": "史上最強の大魔王、村人Aに転生する",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4008,10 +4013,9 @@
             "seriesId": "593-1",
             "title": "阿波連さんははかれない",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
