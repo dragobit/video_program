@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023042710",
+    "pubAt": "2023042810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -273,6 +273,17 @@
             ]
         },
         {
+            "seriesId": "117-20",
+            "title": "八男って、それはないでしょう！",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "117-35",
             "title": "彼女が公爵邸に行った理由",
             "label": {
@@ -426,16 +437,6 @@
             ]
         },
         {
-            "seriesId": "143-41",
-            "title": "EDENS ZERO 第2期",
-            "label": {
-                "newest": true
-            },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "149-11",
             "title": "無職転生 ～異世界行ったら本気だす～",
             "label": {
@@ -537,8 +538,7 @@
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1145,9 +1145,11 @@
         {
             "seriesId": "19-109",
             "title": "PSYCHO-PASS サイコパス 3",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1700,10 +1702,9 @@
             "seriesId": "194-27",
             "title": "パリピ孔明",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2209,9 +2210,10 @@
             "seriesId": "25-14",
             "title": "ゼロの使い魔F",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2226,6 +2228,17 @@
         {
             "seriesId": "25-147",
             "title": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-148",
+            "title": "Re:ゼロから始める異世界生活　2nd season",
             "label": {
                 "someFree": true
             },
@@ -2291,18 +2304,6 @@
             "title": "蜘蛛ですが、なにか？",
             "label": {
                 "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-161",
-            "title": "文豪ストレイドッグス わん！",
-            "label": {
-                "someFree": true,
-                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -2411,9 +2412,10 @@
             "seriesId": "25-19naihwytenh",
             "title": "STEINS;GATE",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2934,9 +2936,10 @@
             "seriesId": "25-43zr98hyeb55",
             "title": "NEW GAME!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3462,9 +3465,10 @@
             "seriesId": "26-35",
             "title": "WORKING!!!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3494,10 +3498,9 @@
             "seriesId": "26-53",
             "title": "はたらく細胞",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3837,9 +3840,10 @@
             "seriesId": "54-60",
             "title": "月が導く異世界道中",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3934,11 +3938,10 @@
             "seriesId": "54-79",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。2",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
