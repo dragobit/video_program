@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023042810",
+    "pubAt": "2023042910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -62,10 +62,9 @@
             "seriesId": "11-45",
             "title": "プリマドール",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -207,13 +206,22 @@
             ]
         },
         {
+            "seriesId": "115-93",
+            "title": "みなみけ　夏やすみ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "115-96",
             "title": "おとなりに銀河",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -291,17 +299,6 @@
                 "newest": true
             },
             "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "117-6zrzjibaxzh",
-            "title": "ご注文はうさぎですか？",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -473,9 +470,10 @@
             "seriesId": "149-20",
             "title": "人間不信の冒険者たちが世界を救うようです",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -713,6 +711,17 @@
             ]
         },
         {
+            "seriesId": "171-4",
+            "title": "人類は衰退しました",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "171-5",
             "title": "東京喰種トーキョーグール√A",
             "label": {
@@ -842,10 +851,11 @@
             "seriesId": "174-18",
             "title": "魔女の旅々",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -919,10 +929,11 @@
             "seriesId": "174-5",
             "title": "落第騎士の英雄譚（キャバルリィ）",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1083,10 +1094,11 @@
             "seriesId": "189-51",
             "title": "カワイスギクライシス",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1240,9 +1252,10 @@
             "seriesId": "19-122",
             "title": "もやしもん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1316,9 +1329,11 @@
         {
             "seriesId": "19-140",
             "title": "暗殺教室",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2237,17 +2252,6 @@
             ]
         },
         {
-            "seriesId": "25-148",
-            "title": "Re:ゼロから始める異世界生活　2nd season",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-149",
             "title": "宇崎ちゃんは遊びたい！",
             "label": {
@@ -2700,9 +2704,10 @@
             "seriesId": "25-234",
             "title": "便利屋斎藤さん、異世界に行く",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3183,10 +3188,9 @@
             "seriesId": "26-130",
             "title": "はたらく細胞!!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3548,23 +3552,17 @@
         {
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
             "seriesId": "35-53",
             "title": "ドラえもん",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3780,10 +3778,11 @@
             "seriesId": "512-9",
             "title": "THE MARGINAL SERVICE",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
