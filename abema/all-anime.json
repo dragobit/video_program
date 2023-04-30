@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023042910",
+    "pubAt": "2023043010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -295,10 +295,22 @@
             "seriesId": "117-35",
             "title": "彼女が公爵邸に行った理由",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "117-6zrzjibaxzh",
+            "title": "ご注文はうさぎですか？",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1083,10 +1095,11 @@
             "seriesId": "189-50",
             "title": "TVアニメ「君は放課後インソムニア」",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1147,11 +1160,9 @@
         {
             "seriesId": "19-108",
             "title": "PSYCHO-PASS サイコパス 2",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1211,9 +1222,12 @@
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1664,10 +1678,9 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2023,10 +2036,9 @@
             "seriesId": "247-14",
             "title": "ゆるキャン△ SEASON２",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2252,6 +2264,17 @@
             ]
         },
         {
+            "seriesId": "25-148",
+            "title": "Re:ゼロから始める異世界生活　2nd season",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-149",
             "title": "宇崎ちゃんは遊びたい！",
             "label": {
@@ -2427,10 +2450,9 @@
             "seriesId": "25-200",
             "title": "盾の勇者の成り上がり Season 2",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2541,11 +2563,9 @@
         {
             "seriesId": "25-217",
             "title": "劇場版 艦これ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3401,10 +3421,11 @@
             "seriesId": "26-197",
             "title": "山田くんとLv999の恋をする",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3552,17 +3573,23 @@
         {
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
             "seriesId": "35-53",
             "title": "ドラえもん",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3655,9 +3682,12 @@
         {
             "seriesId": "420-57",
             "title": "ブルーロック",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3727,6 +3757,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "5-32",
+            "title": "ドラゴンボールＧＴ 悟空外伝！ 勇気の証しは四星球",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -4015,9 +4053,10 @@
             "seriesId": "593-1",
             "title": "阿波連さんははかれない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4091,41 +4130,8 @@
             ]
         },
         {
-            "seriesId": "87-1084",
-            "title": "ドラえもん",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "87-1652",
             "title": "王様戦隊キングオージャー",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "87-1653",
-            "title": "仮面ライダー",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "87-830",
-            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
