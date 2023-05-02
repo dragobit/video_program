@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023050110",
+    "pubAt": "2023050210",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -146,14 +146,6 @@
             ]
         },
         {
-            "seriesId": "115-72",
-            "title": "「鬼灯の冷徹」OAD",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "115-73",
             "title": "劇場版 生徒会役員共",
             "label": {},
@@ -237,10 +229,11 @@
             "seriesId": "115-97",
             "title": "デッドマウント・デスプレイ",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -567,21 +560,19 @@
             "seriesId": "168-45",
             "title": "サマーゴースト",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "168-5",
             "title": "異世界魔王と召喚少女の奴隷魔術",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -612,9 +603,11 @@
         {
             "seriesId": "169-132",
             "title": "神達に拾われた男２",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -631,11 +624,10 @@
             "seriesId": "169-134",
             "title": "異世界はスマートフォンとともに。2",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -825,8 +817,7 @@
             "seriesId": "174-13",
             "title": "超人高校生たちは異世界でも余裕で生き抜くようです！",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -970,6 +961,16 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "189-25",
+            "title": "五等分の花嫁スペシャルイベント",
+            "label": {
+                "newest": true
+            },
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -1205,31 +1206,26 @@
         {
             "seriesId": "19-113",
             "title": "ヲタクに恋は難しい",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "19-114",
             "title": "ヲタクに恋は難しい OAD",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1682,9 +1678,10 @@
             "seriesId": "194-17",
             "title": "炎炎ノ消防隊　弐ノ章",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2281,17 +2278,6 @@
             ]
         },
         {
-            "seriesId": "25-156",
-            "title": "魔法科高校の劣等生 来訪者編",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-157",
             "title": "映画 この素晴らしい世界に祝福を！紅伝説",
             "label": {},
@@ -2335,9 +2321,10 @@
             "seriesId": "25-170",
             "title": "賢者の孫",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2397,30 +2384,8 @@
             ]
         },
         {
-            "seriesId": "25-196",
-            "title": "RPG不動産",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-198",
             "title": "であいもん",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-199",
-            "title": "デート・ア・ライブⅣ",
             "label": {
                 "someFree": true
             },
@@ -3167,6 +3132,17 @@
             ]
         },
         {
+            "seriesId": "259-4",
+            "title": "うたわれるもの 二人の白皇",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "26-108",
             "title": "『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima",
             "label": {
@@ -3294,10 +3270,9 @@
             "seriesId": "26-175",
             "title": "ぼっち・ざ・ろっく！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3732,17 +3707,6 @@
             ]
         },
         {
-            "seriesId": "5-29",
-            "title": "ドラゴンボール改",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "5-30",
             "title": "ドラゴンボール超",
             "label": {
@@ -4058,15 +4022,24 @@
             "seriesId": "593-2",
             "title": "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
         {
             "seriesId": "605-1",
             "title": "にじさんじ Anniversary Festival 2021",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "605-2",
+            "title": "京と秋のにじさんじ",
             "label": {},
             "onDemandTypes": [
                 1
@@ -4126,6 +4099,28 @@
         {
             "seriesId": "87-1084",
             "title": "ドラえもん",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1652",
+            "title": "王様戦隊キングオージャー",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1653",
+            "title": "仮面ライダー",
             "label": {
                 "free": true,
                 "newest": true
