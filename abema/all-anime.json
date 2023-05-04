@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023050310",
+    "pubAt": "2023050410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -206,14 +206,6 @@
             ]
         },
         {
-            "seriesId": "115-93",
-            "title": "みなみけ　夏やすみ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "115-96",
             "title": "おとなりに銀河",
             "label": {
@@ -334,9 +326,11 @@
         {
             "seriesId": "13-154",
             "title": "銀魂 THE FINAL",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -444,9 +438,11 @@
         {
             "seriesId": "13-82",
             "title": "劇場版銀魂 完結篇 万事屋よ永遠なれ",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -853,8 +849,7 @@
             "seriesId": "174-18",
             "title": "魔女の旅々",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1017,14 +1012,13 @@
             ]
         },
         {
-            "seriesId": "189-34",
-            "title": "結城友奈は勇者である -大満開の章-",
+            "seriesId": "189-38",
+            "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
             "label": {
-                "someFree": true
+                "newest": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1128,11 +1122,9 @@
         {
             "seriesId": "19-102",
             "title": "Ｄｒ．ＳＴＯＮＥ　龍水",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1146,9 +1138,11 @@
         {
             "seriesId": "19-106",
             "title": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1231,10 +1225,9 @@
             "seriesId": "19-116",
             "title": "銀の匙 Silver Spoon（第2期）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1329,9 +1322,11 @@
         {
             "seriesId": "19-138",
             "title": "劇場版「暗殺教室」365日の時間",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1596,6 +1591,27 @@
             "seriesId": "19-64",
             "title": "Ｄｒ．ＳＴＯＮＥ　第２期",
             "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "19-66",
+            "title": "ウマ娘 プリティーダービー Season 2",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "19-71",
+            "title": "ウマ娘 プリティーダービー",
+            "label": {
                 "free": true
             },
             "onDemandTypes": [
@@ -1690,10 +1706,11 @@
             "seriesId": "194-20",
             "title": "俺だけ入れる隠しダンジョン",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2270,11 +2287,10 @@
             "seriesId": "25-151",
             "title": "くまクマ熊ベアー",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2305,6 +2321,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-161",
+            "title": "文豪ストレイドッグス わん！",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -2872,9 +2899,10 @@
             "seriesId": "25-37btyx385rbe",
             "title": "ストライクウィッチーズ2",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3115,16 +3143,6 @@
             "seriesId": "25-93",
             "title": "シュタインズ・ゲート ゼロ",
             "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "25-97",
-            "title": "オーバーロードⅢ",
-            "label": {
                 "someFree": true
             },
             "onDemandTypes": [
@@ -3133,8 +3151,8 @@
             ]
         },
         {
-            "seriesId": "259-4",
-            "title": "うたわれるもの 二人の白皇",
+            "seriesId": "25-97",
+            "title": "オーバーロードⅢ",
             "label": {
                 "someFree": true
             },
@@ -3426,10 +3444,9 @@
             "seriesId": "26-200",
             "title": "かぐや様は告らせたい-ファーストキッスは終わらない-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3581,9 +3598,10 @@
             "seriesId": "415-3",
             "title": "MIX",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3640,12 +3658,9 @@
         {
             "seriesId": "420-57",
             "title": "ブルーロック",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -4032,14 +4047,6 @@
         {
             "seriesId": "605-1",
             "title": "にじさんじ Anniversary Festival 2021",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "605-2",
-            "title": "京と秋のにじさんじ",
             "label": {},
             "onDemandTypes": [
                 1
