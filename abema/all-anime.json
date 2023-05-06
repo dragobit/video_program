@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023050510",
+    "pubAt": "2023050610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -83,10 +83,9 @@
             "seriesId": "11-47",
             "title": "悪役令嬢なのでラスボスを飼ってみました",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -148,17 +147,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "115-7yjdnebupe-",
-            "title": "「鬼灯の冷徹」第壱期",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -266,10 +254,11 @@
             "seriesId": "117-20",
             "title": "八男って、それはないでしょう！",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -293,6 +282,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "117-8ykbs-yxrau",
+            "title": "変態王子と笑わない猫。",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -948,20 +948,20 @@
             "seriesId": "189-25",
             "title": "五等分の花嫁スペシャルイベント",
             "label": {
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
             "seriesId": "189-27",
             "title": "五等分の花嫁∬",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1003,10 +1003,11 @@
             "seriesId": "189-38",
             "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
             "label": {
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1079,11 +1080,10 @@
             "seriesId": "189-50",
             "title": "TVアニメ「君は放課後インソムニア」",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1152,11 +1152,9 @@
         {
             "seriesId": "19-109",
             "title": "PSYCHO-PASS サイコパス 3",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1435,9 +1433,11 @@
         {
             "seriesId": "19-157",
             "title": "劇場版 PSYCHO-PASS サイコパス",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1503,9 +1503,11 @@
         {
             "seriesId": "19-166",
             "title": "PSYCHO-PASS サイコパス Sinners of the System",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1718,9 +1720,10 @@
             "seriesId": "194-27",
             "title": "パリピ孔明",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2012,8 +2015,7 @@
             "seriesId": "218-568",
             "title": "「THE MARGINAL SERVICE」ABEMA特番",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -2170,10 +2172,9 @@
             "seriesId": "25-135",
             "title": "メイドインアビス",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3037,10 +3038,9 @@
             "seriesId": "25-6",
             "title": "オーバーロード",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3188,9 +3188,10 @@
             "seriesId": "26-130",
             "title": "はたらく細胞!!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3421,11 +3422,10 @@
             "seriesId": "26-199",
             "title": "マッシュル-MASHLE-",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3498,9 +3498,10 @@
             "seriesId": "26-53",
             "title": "はたらく細胞",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3616,9 +3617,11 @@
         {
             "seriesId": "420-14",
             "title": "ワンパンマン",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3916,10 +3919,9 @@
             "seriesId": "54-75",
             "title": "異世界迷宮でハーレムを《TV放送ver.》",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3949,10 +3951,11 @@
             "seriesId": "54-79",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。2",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4003,11 +4006,10 @@
             "seriesId": "564-4",
             "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
