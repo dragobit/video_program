@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023050610",
+    "pubAt": "2023050710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -62,9 +62,10 @@
             "seriesId": "11-45",
             "title": "プリマドール",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -150,6 +151,16 @@
             ]
         },
         {
+            "seriesId": "115-7yjdnebupe-",
+            "title": "「鬼灯の冷徹」第壱期",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "115-88",
             "title": "トモダチゲーム",
             "label": {
@@ -209,6 +220,18 @@
         {
             "seriesId": "115-98",
             "title": "魔法少女マジカルデストロイヤーズ",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "115-99",
+            "title": "現実主義勇者の王国再建記",
             "label": {
                 "someFree": true,
                 "newest": true
@@ -299,17 +322,21 @@
         {
             "seriesId": "13-116",
             "title": "ＡＫＩＲＡ",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
             "seriesId": "13-149",
             "title": "劇場版シティーハンター <新宿プライベート･アイズ>",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -701,10 +728,11 @@
             "seriesId": "171-4",
             "title": "人類は衰退しました",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -969,8 +997,7 @@
             "seriesId": "189-29",
             "title": "『SSSS.DYNAZENON』",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1058,10 +1085,11 @@
             "seriesId": "189-48",
             "title": "贄姫と獣の王",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1201,9 +1229,10 @@
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1329,11 +1358,9 @@
         {
             "seriesId": "19-140",
             "title": "暗殺教室",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1514,11 +1541,10 @@
             "seriesId": "19-167",
             "title": "Dr.STONE 第3期",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1666,9 +1692,10 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3398,11 +3425,10 @@
             "seriesId": "26-197",
             "title": "山田くんとLv999の恋をする",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3520,10 +3546,9 @@
             "seriesId": "26-66",
             "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3841,8 +3866,7 @@
             "seriesId": "54-23",
             "title": "SSSS.GRIDMAN",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -4086,11 +4110,10 @@
             "seriesId": "632-1",
             "title": "女神のカフェテラス",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4103,17 +4126,6 @@
             },
             "onDemandTypes": [
                 1,
-                3
-            ]
-        },
-        {
-            "seriesId": "87-1084",
-            "title": "ドラえもん",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
                 3
             ]
         },
@@ -4131,17 +4143,6 @@
         {
             "seriesId": "87-1653",
             "title": "仮面ライダー",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "87-830",
-            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
