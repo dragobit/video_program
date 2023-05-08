@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023050710",
+    "pubAt": "2023050810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -531,10 +531,9 @@
             "seriesId": "168-2",
             "title": "ラーメン大好き小泉さん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -574,9 +573,7 @@
         {
             "seriesId": "168-45",
             "title": "サマーゴースト",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -1769,9 +1766,10 @@
             "seriesId": "194-29",
             "title": "彼女、お借りします 第2期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2051,9 +2049,7 @@
         {
             "seriesId": "218-570",
             "title": "声優とフィギュる 2023",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -2326,9 +2322,11 @@
         {
             "seriesId": "25-157",
             "title": "映画 この素晴らしい世界に祝福を！紅伝説",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2549,9 +2547,10 @@
             "seriesId": "25-20xetywbrdye",
             "title": "涼宮ハルヒの憂鬱(2009年放送版)",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2687,9 +2686,10 @@
             "seriesId": "25-227",
             "title": "「艦これ」いつかあの海で",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2796,11 +2796,10 @@
             "seriesId": "25-239",
             "title": "この素晴らしい世界に爆焔を！",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3535,10 +3534,9 @@
             "seriesId": "26-59",
             "title": "青春ブタ野郎はバニーガール先輩の夢を見ない",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3634,9 +3632,12 @@
         {
             "seriesId": "420-11",
             "title": "転生したらスライムだった件",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3686,9 +3687,12 @@
         {
             "seriesId": "420-57",
             "title": "ブルーロック",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -4130,8 +4134,8 @@
             ]
         },
         {
-            "seriesId": "87-1652",
-            "title": "王様戦隊キングオージャー",
+            "seriesId": "87-1084",
+            "title": "ドラえもん",
             "label": {
                 "free": true,
                 "newest": true
@@ -4141,8 +4145,8 @@
             ]
         },
         {
-            "seriesId": "87-1653",
-            "title": "仮面ライダー",
+            "seriesId": "87-830",
+            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
