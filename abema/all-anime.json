@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023050810",
+    "pubAt": "2023050910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -298,17 +298,6 @@
             ]
         },
         {
-            "seriesId": "117-6zrzjibaxzh",
-            "title": "ご注文はうさぎですか？",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "117-8ykbs-yxrau",
             "title": "変態王子と笑わない猫。",
             "label": {
@@ -582,9 +571,10 @@
             "seriesId": "168-5",
             "title": "異世界魔王と召喚少女の奴隷魔術",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -656,12 +646,9 @@
         {
             "seriesId": "169-47",
             "title": "異世界はスマートフォンとともに。",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -676,10 +663,9 @@
             "seriesId": "171-1",
             "title": "東京喰種トーキョーグール",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1005,10 +991,9 @@
             "seriesId": "189-30",
             "title": "東京リベンジャーズ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1225,12 +1210,9 @@
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1281,11 +1263,9 @@
         {
             "seriesId": "19-123",
             "title": "もやしもんリターンズ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1722,8 +1702,7 @@
             "seriesId": "194-20",
             "title": "俺だけ入れる隠しダンジョン",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1734,9 +1713,10 @@
             "seriesId": "194-25",
             "title": "異世界食堂２",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1939,17 +1919,6 @@
         {
             "seriesId": "203-11",
             "title": "血界戦線 & BEYOND",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "203-8",
-            "title": "新テニスの王子様 U-17 WORLD CUP",
             "label": {
                 "someFree": true
             },
@@ -2537,9 +2506,10 @@
             "seriesId": "25-209",
             "title": "異世界おじさん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3273,9 +3243,10 @@
             "seriesId": "26-171",
             "title": "リコリス・リコイル",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3573,7 +3544,8 @@
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3584,7 +3556,8 @@
             "seriesId": "35-53",
             "title": "ドラえもん",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3844,9 +3817,10 @@
             "seriesId": "536-3",
             "title": "チェンソーマン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4003,11 +3977,10 @@
             "seriesId": "54-81",
             "title": "アリス・ギア・アイギス Expansion",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4136,6 +4109,28 @@
         {
             "seriesId": "87-1084",
             "title": "ドラえもん",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1652",
+            "title": "王様戦隊キングオージャー",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1653",
+            "title": "仮面ライダー",
             "label": {
                 "free": true,
                 "newest": true
