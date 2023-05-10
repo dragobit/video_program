@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023050910",
+    "pubAt": "2023051010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -104,17 +104,6 @@
         {
             "seriesId": "115-25",
             "title": "みなみけ　おかえり",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "115-26",
-            "title": "みなみけ　ただいま",
             "label": {
                 "someFree": true
             },
@@ -454,10 +443,9 @@
             "seriesId": "149-11",
             "title": "無職転生 ～異世界行ったら本気だす～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -530,10 +518,9 @@
             "seriesId": "168-30",
             "title": "異世界魔王と召喚少女の奴隷魔術Ω",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -589,9 +576,11 @@
         {
             "seriesId": "169-120",
             "title": "継母の連れ子が元カノだった",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -605,11 +594,9 @@
         {
             "seriesId": "169-132",
             "title": "神達に拾われた男２",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -624,10 +611,11 @@
             "seriesId": "169-134",
             "title": "異世界はスマートフォンとともに。2",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -991,9 +979,10 @@
             "seriesId": "189-30",
             "title": "東京リベンジャーズ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1219,9 +1208,10 @@
             "seriesId": "19-116",
             "title": "銀の匙 Silver Spoon（第2期）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1448,10 +1438,9 @@
             "seriesId": "19-158",
             "title": "のだめカンタービレ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1566,9 +1555,12 @@
         {
             "seriesId": "19-48",
             "title": "ハイキュー!! OAD",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1790,11 +1782,10 @@
             "seriesId": "194-33",
             "title": "スキップとローファー",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1919,6 +1910,17 @@
         {
             "seriesId": "203-11",
             "title": "血界戦線 & BEYOND",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "203-8",
+            "title": "新テニスの王子様 U-17 WORLD CUP",
             "label": {
                 "someFree": true
             },
@@ -2324,8 +2326,7 @@
             "seriesId": "25-161",
             "title": "文豪ストレイドッグス わん！",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -2732,10 +2733,9 @@
             "seriesId": "25-236",
             "title": "転生王女と天才令嬢の魔法革命",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2865,9 +2865,10 @@
             "seriesId": "25-3069dr7nb-uc",
             "title": "はたらく魔王さま！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2875,10 +2876,9 @@
             "seriesId": "25-33",
             "title": "バカとテストと召喚獣",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3211,9 +3211,10 @@
             "seriesId": "26-156",
             "title": "その着せ替え人形は恋をする",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3287,9 +3288,10 @@
             "seriesId": "26-175",
             "title": "ぼっち・ざ・ろっく！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
