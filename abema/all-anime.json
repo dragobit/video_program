@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023052010",
+    "pubAt": "2023052110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -116,9 +116,10 @@
             "seriesId": "115-40",
             "title": "「鬼灯の冷徹」第弐期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1011,9 +1012,10 @@
             "seriesId": "189-39",
             "title": "まちカドまぞく 2丁目",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1090,11 +1092,10 @@
             "seriesId": "189-51",
             "title": "カワイスギクライシス",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1464,9 +1465,10 @@
             "seriesId": "19-160",
             "title": "のだめカンタービレ フィナーレ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1813,10 +1815,9 @@
             "seriesId": "2-3nmtrfgpjgf",
             "title": "メジャー 第2シリーズ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2229,6 +2230,17 @@
             ]
         },
         {
+            "seriesId": "25-14ctrgpbhdrg",
+            "title": "らき☆すた",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-151",
             "title": "くまクマ熊ベアー",
             "label": {
@@ -2243,6 +2255,17 @@
         {
             "seriesId": "25-154",
             "title": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-156",
+            "title": "魔法科高校の劣等生 来訪者編",
             "label": {
                 "someFree": true
             },
@@ -3115,10 +3138,9 @@
             "seriesId": "25-97",
             "title": "オーバーロードⅢ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3185,10 +3207,9 @@
             "seriesId": "26-162",
             "title": "かぐや様は告らせたい-ウルトラロマンティック-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3361,11 +3382,10 @@
             "seriesId": "26-197",
             "title": "山田くんとLv999の恋をする",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3408,10 +3428,9 @@
             "seriesId": "26-200",
             "title": "かぐや様は告らせたい-ファーストキッスは終わらない-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3589,11 +3608,9 @@
         {
             "seriesId": "420-15",
             "title": "『ワンパンマン』第2期",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -4077,17 +4094,6 @@
             ]
         },
         {
-            "seriesId": "87-1084",
-            "title": "ドラえもん",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "87-1652",
             "title": "王様戦隊キングオージャー",
             "label": {
@@ -4101,17 +4107,6 @@
         {
             "seriesId": "87-1653",
             "title": "仮面ライダー",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "87-830",
-            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
