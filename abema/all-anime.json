@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023052810",
+    "pubAt": "2023052910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -332,10 +332,11 @@
             "seriesId": "13-158",
             "title": "機動戦士ガンダム 水星の魔女",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -620,9 +621,12 @@
         {
             "seriesId": "169-47",
             "title": "異世界はスマートフォンとともに。",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -739,11 +743,10 @@
             "seriesId": "173-5",
             "title": "事情を知らない転校生がグイグイくる。",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1087,10 +1090,11 @@
             "seriesId": "189-51",
             "title": "カワイスギクライシス",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1317,9 +1321,12 @@
         {
             "seriesId": "19-140",
             "title": "暗殺教室",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1723,10 +1730,9 @@
             "seriesId": "194-25",
             "title": "異世界食堂２",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1846,9 +1852,10 @@
             "seriesId": "2-4actjwisxmc",
             "title": "メジャー 第3シリーズ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2004,9 +2011,7 @@
         {
             "seriesId": "218-570",
             "title": "声優とフィギュる 2023",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -2489,10 +2494,9 @@
             "seriesId": "25-209",
             "title": "異世界おじさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2541,10 +2545,9 @@
             "seriesId": "25-218",
             "title": "夫婦以上、恋人未満。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3206,9 +3209,10 @@
             "seriesId": "26-162",
             "title": "かぐや様は告らせたい-ウルトラロマンティック-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3381,10 +3385,11 @@
             "seriesId": "26-197",
             "title": "山田くんとLv999の恋をする",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3426,9 +3431,10 @@
             "seriesId": "26-200",
             "title": "かぐや様は告らせたい-ファーストキッスは終わらない-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3619,7 +3625,8 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -4094,8 +4101,8 @@
             ]
         },
         {
-            "seriesId": "87-1652",
-            "title": "王様戦隊キングオージャー",
+            "seriesId": "87-1084",
+            "title": "ドラえもん",
             "label": {
                 "free": true,
                 "newest": true
@@ -4105,8 +4112,8 @@
             ]
         },
         {
-            "seriesId": "87-1653",
-            "title": "仮面ライダー",
+            "seriesId": "87-830",
+            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
