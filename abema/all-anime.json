@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023053010",
+    "pubAt": "2023053110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -32,9 +32,10 @@
             "seriesId": "11-17",
             "title": "神のみぞ知るセカイII",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -142,6 +143,16 @@
             ]
         },
         {
+            "seriesId": "115-74",
+            "title": "生徒会役員共＊ 番外編",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "115-79",
             "title": "劇場版 生徒会役員共２",
             "label": {},
@@ -232,9 +243,12 @@
         {
             "seriesId": "115-99",
             "title": "現実主義勇者の王国再建記",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -309,6 +323,18 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "13-11iiskggehbc",
+            "title": "TIGER ＆ BUNNY",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
             ]
         },
         {
@@ -652,9 +678,10 @@
             "seriesId": "171-12",
             "title": "「東京喰種トーキョーグール:re」",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2781,9 +2808,10 @@
             "seriesId": "25-25pkjjpefjct",
             "title": "未来日記",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2791,10 +2819,9 @@
             "seriesId": "25-26d-6nt9ibcd",
             "title": "とある科学の超電磁砲",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3067,17 +3094,6 @@
             ]
         },
         {
-            "seriesId": "25-76",
-            "title": "艦隊これくしょん -艦これ-",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-88",
             "title": "オーバーロードⅡ",
             "label": {
@@ -3257,17 +3273,6 @@
         {
             "seriesId": "26-175",
             "title": "ぼっち・ざ・ろっく！",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "26-177",
-            "title": "TV放送版「羅小黒戦記　ぼくが選ぶ未来」",
             "label": {
                 "someFree": true
             },
@@ -3924,10 +3929,9 @@
             "seriesId": "54-77",
             "title": "農民関連のスキルばっか上げてたら何故か強くなった。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4003,10 +4007,11 @@
             "seriesId": "564-5",
             "title": "江戸前エルフ",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
