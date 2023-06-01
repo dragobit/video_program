@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023053110",
+    "pubAt": "2023060110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -102,8 +102,8 @@
             ]
         },
         {
-            "seriesId": "115-40",
-            "title": "「鬼灯の冷徹」第弐期",
+            "seriesId": "115-24",
+            "title": "みなみけ〜おかわり〜",
             "label": {
                 "someFree": true
             },
@@ -113,8 +113,8 @@
             ]
         },
         {
-            "seriesId": "115-69",
-            "title": "生徒会役員共　番外編",
+            "seriesId": "115-40",
+            "title": "「鬼灯の冷徹」第弐期",
             "label": {
                 "someFree": true
             },
@@ -132,32 +132,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "115-73",
-            "title": "劇場版 生徒会役員共",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "115-74",
-            "title": "生徒会役員共＊ 番外編",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "115-79",
-            "title": "劇場版 生徒会役員共２",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -300,6 +274,17 @@
             "label": {
                 "someFree": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "117-6zrzjibaxzh",
+            "title": "ご注文はうさぎですか？",
+            "label": {
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -528,17 +513,6 @@
             ]
         },
         {
-            "seriesId": "168-30",
-            "title": "異世界魔王と召喚少女の奴隷魔術Ω",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
             "label": {
@@ -566,17 +540,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "168-5",
-            "title": "異世界魔王と召喚少女の奴隷魔術",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -1019,6 +982,17 @@
             ]
         },
         {
+            "seriesId": "189-32",
+            "title": "結城友奈は勇者である -鷲尾須美の章-／-勇者の章-",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "189-38",
             "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
             "label": {},
@@ -1085,10 +1059,11 @@
             "seriesId": "189-49",
             "title": "勇者が死んだ！",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1495,11 +1470,21 @@
             ]
         },
         {
-            "seriesId": "19-164",
-            "title": "クズの本懐",
+            "seriesId": "19-163",
+            "title": "バッテリー",
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "19-164",
+            "title": "クズの本懐",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -1588,17 +1573,6 @@
         {
             "seriesId": "19-48",
             "title": "ハイキュー!! OAD",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "19-6",
-            "title": "灰と幻想のグリムガル",
             "label": {
                 "someFree": true
             },
@@ -2597,10 +2571,9 @@
             "seriesId": "25-221",
             "title": "陰の実力者になりたくて！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2978,9 +2951,10 @@
             "seriesId": "25-4pkxnjwwrpn",
             "title": "とある魔術の禁書目録",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3094,6 +3068,17 @@
             ]
         },
         {
+            "seriesId": "25-76",
+            "title": "艦隊これくしょん -艦これ-",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-88",
             "title": "オーバーロードⅡ",
             "label": {
@@ -3141,6 +3126,17 @@
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "259-4",
+            "title": "うたわれるもの 二人の白皇",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3273,6 +3269,17 @@
         {
             "seriesId": "26-175",
             "title": "ぼっち・ざ・ろっく！",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "26-177",
+            "title": "TV放送版「羅小黒戦記　ぼくが選ぶ未来」",
             "label": {
                 "someFree": true
             },
@@ -3493,8 +3500,8 @@
             ]
         },
         {
-            "seriesId": "26-66",
-            "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+            "seriesId": "26-96",
+            "title": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
             "label": {
                 "someFree": true
             },
@@ -3504,8 +3511,8 @@
             ]
         },
         {
-            "seriesId": "26-96",
-            "title": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+            "seriesId": "30-5",
+            "title": "進撃の巨人",
             "label": {
                 "someFree": true
             },
@@ -3526,7 +3533,8 @@
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3537,7 +3545,8 @@
             "seriesId": "35-53",
             "title": "ドラえもん",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3853,10 +3862,11 @@
             "seriesId": "54-62",
             "title": "まおゆう魔王勇者",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3883,24 +3893,12 @@
             ]
         },
         {
-            "seriesId": "54-71",
-            "title": "問題児たちが異世界から来るそうですよ?",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "54-73",
             "title": "組長娘と世話係",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3908,9 +3906,10 @@
             "seriesId": "54-74",
             "title": "黒の召喚士",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3985,9 +3984,10 @@
             "seriesId": "564-2",
             "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4048,6 +4048,14 @@
         {
             "seriesId": "605-3",
             "title": "にじさんじ “LIGHT UP TONES”",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "605-4",
+            "title": "にじさんじ JAPAN TOUR 2020 Shout in the Rainbow！",
             "label": {},
             "onDemandTypes": [
                 1
