@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023060310",
+    "pubAt": "2023060410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -903,9 +903,10 @@
             "seriesId": "174-28",
             "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1048,11 +1049,10 @@
             "seriesId": "189-48",
             "title": "贄姫と獣の王",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1105,11 +1105,9 @@
         {
             "seriesId": "19-1",
             "title": "劇場版総集編 前編 『ハイキュー!! 終わりと始まり』",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1189,17 +1187,21 @@
         {
             "seriesId": "19-113",
             "title": "ヲタクに恋は難しい",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
             "seriesId": "19-114",
             "title": "ヲタクに恋は難しい OAD",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1315,9 +1317,12 @@
         {
             "seriesId": "19-139",
             "title": "暗殺教室（第2期）",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1518,11 +1523,9 @@
         {
             "seriesId": "19-2",
             "title": "劇場版総集編 後編 『ハイキュー!! 勝者と敗者』",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1843,6 +1846,14 @@
         {
             "seriesId": "2-4actjwisxmc",
             "title": "メジャー 第3シリーズ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "2-5dywpejissp",
+            "title": "メジャー 第4シリーズ",
             "label": {
                 "someFree": true
             },
@@ -1852,21 +1863,14 @@
             ]
         },
         {
-            "seriesId": "2-5dywpejissp",
-            "title": "メジャー 第4シリーズ",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "2-6cttrbwmkim",
             "title": "メジャー 第5シリーズ",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -2239,6 +2243,17 @@
             ]
         },
         {
+            "seriesId": "25-14ctrgpbhdrg",
+            "title": "らき☆すた",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-151",
             "title": "くまクマ熊ベアー",
             "label": {
@@ -2337,10 +2352,9 @@
             "seriesId": "25-182",
             "title": "世界最高の暗殺者、異世界貴族に転生する",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2936,10 +2950,9 @@
             "seriesId": "25-45",
             "title": "この素晴らしい世界に祝福を！２",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3034,10 +3047,9 @@
             "seriesId": "25-63",
             "title": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3130,9 +3142,10 @@
             "seriesId": "25-97",
             "title": "オーバーロードⅢ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3620,9 +3633,11 @@
         {
             "seriesId": "420-14",
             "title": "ワンパンマン",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3639,6 +3654,14 @@
             "label": {
                 "someFree": true
             },
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "420-46",
+            "title": "転生したらスライムだった件 OAD",
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -4095,17 +4118,6 @@
             ]
         },
         {
-            "seriesId": "87-1084",
-            "title": "ドラえもん",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "87-1652",
             "title": "王様戦隊キングオージャー",
             "label": {
@@ -4119,17 +4131,6 @@
         {
             "seriesId": "87-1653",
             "title": "仮面ライダー",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "87-830",
-            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
