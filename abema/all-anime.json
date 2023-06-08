@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023060710",
+    "pubAt": "2023060810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -1463,10 +1463,9 @@
             "seriesId": "19-159",
             "title": "のだめカンタービレ 巴里編",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1534,8 +1533,7 @@
             "seriesId": "19-20",
             "title": "干物妹！うまるちゃん",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1736,10 +1734,9 @@
             "seriesId": "194-28",
             "title": "魔法使い黎明期",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2813,10 +2810,9 @@
             "seriesId": "25-27jhh4r7j72j",
             "title": "とある科学の超電磁砲S",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3005,9 +3001,10 @@
             "seriesId": "25-5at-idi-yic",
             "title": "とある魔術の禁書目録Ⅱ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3638,6 +3635,14 @@
             ]
         },
         {
+            "seriesId": "420-46",
+            "title": "転生したらスライムだった件 OAD",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "420-55",
             "title": "RWBY 氷雪帝国",
             "label": {},
@@ -3920,9 +3925,10 @@
             "seriesId": "54-77",
             "title": "農民関連のスキルばっか上げてたら何故か強くなった。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4038,14 +4044,6 @@
         {
             "seriesId": "605-3",
             "title": "にじさんじ “LIGHT UP TONES”",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "605-4",
-            "title": "にじさんじ JAPAN TOUR 2020 Shout in the Rainbow！",
             "label": {},
             "onDemandTypes": [
                 1
