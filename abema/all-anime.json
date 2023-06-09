@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023060810",
+    "pubAt": "2023060910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -263,17 +263,6 @@
             "label": {
                 "someFree": true,
                 "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "117-6zrzjibaxzh",
-            "title": "ご注文はうさぎですか？",
-            "label": {
-                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1172,9 +1161,11 @@
         {
             "seriesId": "19-110",
             "title": "甲鉄城のカバネリ",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1411,10 +1402,9 @@
             "seriesId": "19-151",
             "title": "英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1463,9 +1453,10 @@
             "seriesId": "19-159",
             "title": "のだめカンタービレ 巴里編",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1494,11 +1485,9 @@
         {
             "seriesId": "19-164",
             "title": "クズの本懐",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1544,10 +1533,10 @@
             "seriesId": "19-24",
             "title": "干物妹！うまるちゃんR",
             "label": {
-                "free": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1797,6 +1786,17 @@
             ]
         },
         {
+            "seriesId": "198-7",
+            "title": "百錬の覇王と聖約の戦乙女",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "199-35",
             "title": "トニカクカワイイ",
             "label": {
@@ -1818,11 +1818,10 @@
             "seriesId": "199-56",
             "title": "岸辺露伴は動かない",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2392,10 +2391,9 @@
             "seriesId": "25-19naihwytenh",
             "title": "STEINS;GATE",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2435,9 +2433,10 @@
             "seriesId": "25-203",
             "title": "カッコウの許嫁",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
