@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023061010",
+    "pubAt": "2023061110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -270,6 +270,17 @@
             ]
         },
         {
+            "seriesId": "117-6zrzjibaxzh",
+            "title": "ご注文はうさぎですか？",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "117-8ykbs-yxrau",
             "title": "変態王子と笑わない猫。",
             "label": {
@@ -368,6 +379,16 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "13-166",
+            "title": "「メジャーセカンド」第2シリーズ",
+            "label": {
+                "newest": true
+            },
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -630,12 +651,9 @@
         {
             "seriesId": "169-81",
             "title": "神達に拾われた男",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -893,9 +911,10 @@
             "seriesId": "174-27",
             "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -925,10 +944,9 @@
             "seriesId": "174-5",
             "title": "落第騎士の英雄譚（キャバルリィ）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -965,9 +983,10 @@
             "seriesId": "189-27",
             "title": "五等分の花嫁∬",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1038,9 +1057,10 @@
             "seriesId": "189-46",
             "title": "解雇された暗黒兵士(30代)のスローなセカンドライフ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1048,10 +1068,11 @@
             "seriesId": "189-48",
             "title": "贄姫と獣の王",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1206,9 +1227,12 @@
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1326,12 +1350,9 @@
         {
             "seriesId": "19-140",
             "title": "暗殺教室",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1855,18 +1876,22 @@
             "seriesId": "2-6cttrbwmkim",
             "title": "メジャー 第5シリーズ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
         {
             "seriesId": "2-7swizezassj",
             "title": "メジャー 第6シリーズ",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -2404,9 +2429,10 @@
             "seriesId": "25-201",
             "title": "乙女ゲー世界はモブに厳しい世界です",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3014,10 +3040,9 @@
             "seriesId": "25-60",
             "title": "ロクでなし魔術講師と禁忌教典",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3057,10 +3082,9 @@
             "seriesId": "25-73",
             "title": "ようこそ実力至上主義の教室へ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3434,10 +3458,11 @@
             "seriesId": "26-201",
             "title": "TVアニメ「ホリミヤ」",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3599,19 +3624,19 @@
         {
             "seriesId": "420-14",
             "title": "ワンパンマン",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "420-15",
             "title": "『ワンパンマン』第2期",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -4085,17 +4110,6 @@
             ]
         },
         {
-            "seriesId": "87-1084",
-            "title": "ドラえもん",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "87-1652",
             "title": "王様戦隊キングオージャー",
             "label": {
@@ -4109,17 +4123,6 @@
         {
             "seriesId": "87-1653",
             "title": "仮面ライダー",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "87-830",
-            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
