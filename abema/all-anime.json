@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023061110",
+    "pubAt": "2023061210",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -1207,21 +1207,17 @@
         {
             "seriesId": "19-113",
             "title": "ヲタクに恋は難しい",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "19-114",
             "title": "ヲタクに恋は難しい OAD",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1341,9 +1337,10 @@
             "seriesId": "19-139",
             "title": "暗殺教室（第2期）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2133,10 +2130,9 @@
             "seriesId": "25-12jpgzpcyjjb",
             "title": "狼と香辛料II",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2481,9 +2477,10 @@
             "seriesId": "25-208",
             "title": "オーバーロードⅣ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2542,9 +2539,10 @@
             "seriesId": "25-218",
             "title": "夫婦以上、恋人未満。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3114,10 +3112,9 @@
             "seriesId": "25-8cwxyxikzsj",
             "title": "アクセル・ワールド",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4110,8 +4107,8 @@
             ]
         },
         {
-            "seriesId": "87-1652",
-            "title": "王様戦隊キングオージャー",
+            "seriesId": "87-1084",
+            "title": "ドラえもん",
             "label": {
                 "free": true,
                 "newest": true
@@ -4121,8 +4118,8 @@
             ]
         },
         {
-            "seriesId": "87-1653",
-            "title": "仮面ライダー",
+            "seriesId": "87-830",
+            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
