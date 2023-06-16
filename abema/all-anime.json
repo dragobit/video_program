@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023061510",
+    "pubAt": "2023061610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -401,6 +401,18 @@
             ]
         },
         {
+            "seriesId": "13-24ditdrg-nze",
+            "title": "ラブライブ！サンシャイン!!",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "13-41",
             "title": "境界線上のホライゾン",
             "label": {
@@ -467,8 +479,7 @@
             "seriesId": "143-1",
             "title": "ポンコツクエスト～魔王と派遣の魔物たち～",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -931,10 +942,9 @@
             "seriesId": "174-28",
             "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -964,6 +974,17 @@
             "title": "ソード・オラトリア　ダンジョンに出会いを求めるのは間違っているだろうか外伝",
             "label": {
                 "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "189-14",
+            "title": "魔王様、リトライ！",
+            "label": {
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -1219,10 +1240,9 @@
             "seriesId": "19-116",
             "title": "銀の匙 Silver Spoon（第2期）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1508,11 +1528,10 @@
             "seriesId": "19-167",
             "title": "Dr.STONE 第3期",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1571,9 +1590,12 @@
         {
             "seriesId": "19-47",
             "title": "ハイキュー!! OVA",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1662,10 +1684,9 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1822,9 +1843,7 @@
         {
             "seriesId": "199-56",
             "title": "岸辺露伴は動かない",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -2258,10 +2277,9 @@
             "seriesId": "25-154",
             "title": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2575,9 +2593,10 @@
             "seriesId": "25-221",
             "title": "陰の実力者になりたくて！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2752,10 +2771,11 @@
             "seriesId": "25-240",
             "title": "【推しの子】",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3068,17 +3088,6 @@
             ]
         },
         {
-            "seriesId": "25-76",
-            "title": "艦隊これくしょん -艦これ-",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-88",
             "title": "オーバーロードⅡ",
             "label": {
@@ -3273,24 +3282,12 @@
             ]
         },
         {
-            "seriesId": "26-177",
-            "title": "TV放送版「羅小黒戦記　ぼくが選ぶ未来」",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "26-186",
             "title": "GTO",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
