@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023062610",
+    "pubAt": "2023062710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -114,17 +114,6 @@
             ]
         },
         {
-            "seriesId": "115-40",
-            "title": "「鬼灯の冷徹」第弐期",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "115-6iuxkuhubgj",
             "title": "みなみけ",
             "label": {
@@ -136,22 +125,13 @@
             ]
         },
         {
-            "seriesId": "115-7yjdnebupe-",
-            "title": "「鬼灯の冷徹」第壱期",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "115-88",
             "title": "トモダチゲーム",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -497,8 +477,7 @@
             "seriesId": "13-8gjhfxmjumf",
             "title": "ラブライブ！2期",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -1336,9 +1315,10 @@
             "seriesId": "19-125",
             "title": "ギルティクラウン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1737,10 +1717,9 @@
             "seriesId": "194-20",
             "title": "俺だけ入れる隠しダンジョン",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2050,8 +2029,8 @@
             ]
         },
         {
-            "seriesId": "218-582",
-            "title": "TVアニメ『異世界はスマートフォンとともに。2』～最終話直前ABEMA特別番組～",
+            "seriesId": "218-583",
+            "title": "TVアニメ「山田くんとLv999の恋をする」-レベルアップ・ジャパン- #3",
             "label": {
                 "free": true,
                 "newest": true
@@ -2191,9 +2170,10 @@
             "seriesId": "25-12jpgzpcyjjb",
             "title": "狼と香辛料II",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2285,10 +2265,9 @@
             "seriesId": "25-149",
             "title": "宇崎ちゃんは遊びたい！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2308,9 +2287,10 @@
             "seriesId": "25-154",
             "title": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2392,10 +2372,9 @@
             "seriesId": "25-182",
             "title": "世界最高の暗殺者、異世界貴族に転生する",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2935,17 +2914,6 @@
             ]
         },
         {
-            "seriesId": "25-42",
-            "title": "そらのおとしもの",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-43zr98hyeb55",
             "title": "NEW GAME!",
             "label": {
@@ -3068,9 +3036,10 @@
             "seriesId": "25-6jeernicbkx",
             "title": "とらドラ！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3534,6 +3503,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "283-16",
+            "title": "TVアニメ「BanG Dream!（バンドリ！）」",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -4038,11 +4018,9 @@
         {
             "seriesId": "605-3",
             "title": "にじさんじ “LIGHT UP TONES”",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -4091,6 +4069,28 @@
         {
             "seriesId": "87-1084",
             "title": "ドラえもん",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1652",
+            "title": "王様戦隊キングオージャー",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1653",
+            "title": "仮面ライダー",
             "label": {
                 "free": true,
                 "newest": true
