@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023062910",
+    "pubAt": "2023063010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -95,8 +95,7 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -477,8 +476,7 @@
             "seriesId": "13-57",
             "title": "ラブライブ！サンシャイン!!TVアニメ2期",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -549,6 +547,18 @@
             "title": "人間不信の冒険者たちが世界を救うようです",
             "label": {
                 "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "149-4",
+            "title": "ありふれた職業で世界最強",
+            "label": {
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -652,9 +662,11 @@
         {
             "seriesId": "169-120",
             "title": "継母の連れ子が元カノだった",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -736,10 +748,9 @@
             "seriesId": "171-1",
             "title": "東京喰種トーキョーグール",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -961,9 +972,10 @@
             "seriesId": "174-25",
             "title": "処刑少女の生きる道(バージンロード)",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1192,11 +1204,9 @@
         {
             "seriesId": "19-102",
             "title": "Ｄｒ．ＳＴＯＮＥ　龍水",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1335,12 +1345,9 @@
         {
             "seriesId": "19-123",
             "title": "もやしもんリターンズ",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1587,10 +1594,10 @@
             "seriesId": "19-167",
             "title": "Dr.STONE 第3期",
             "label": {
-                "free": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1794,9 +1801,10 @@
             "seriesId": "194-29",
             "title": "彼女、お借りします 第2期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2047,6 +2055,17 @@
             ]
         },
         {
+            "seriesId": "218-588",
+            "title": "『無職転生Ⅱ ～異世界行ったら本気だす～』先行上映イベント舞台挨拶 生配信",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "247-1",
             "title": "政宗くんのリベンジ",
             "label": {
@@ -2193,14 +2212,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "25-134",
-            "title": "Re:ゼロから始める異世界生活 Memory Snow",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -2505,9 +2516,10 @@
             "seriesId": "25-210",
             "title": "異世界薬局",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2524,9 +2536,11 @@
         {
             "seriesId": "25-217",
             "title": "劇場版 艦これ",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2543,17 +2557,6 @@
         {
             "seriesId": "25-219",
             "title": "恋愛フロップス",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-21mnmuhwpipb",
-            "title": "ストライクウィッチーズ",
             "label": {
                 "someFree": true
             },
@@ -3359,7 +3362,6 @@
             "seriesId": "26-198",
             "title": "テレビアニメ「鬼滅の刃」刀鍛冶の里編",
             "label": {
-                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
@@ -3860,9 +3862,10 @@
             "seriesId": "54-70",
             "title": "史上最強の大魔王、村人Aに転生する",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
