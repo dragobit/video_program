@@ -4,19 +4,8 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023070310",
+    "pubAt": "2023070410",
     "items": [
-        {
-            "seriesId": "106-1",
-            "title": "響け！ユーフォニアム2",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
         {
             "seriesId": "106-1zxpewrca-r",
             "title": "響け！ユーフォニアム",
@@ -215,14 +204,6 @@
             ]
         },
         {
-            "seriesId": "116-1",
-            "title": "星を追う子ども",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "116-18y2w6jt3zj",
             "title": "秒速5センチメートル",
             "label": {},
@@ -372,10 +353,11 @@
             "seriesId": "13-158",
             "title": "機動戦士ガンダム 水星の魔女",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -414,8 +396,7 @@
             "seriesId": "13-164",
             "title": "絆のアリル",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -749,9 +730,7 @@
         {
             "seriesId": "169-134",
             "title": "異世界はスマートフォンとともに。2",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -1117,17 +1096,6 @@
             ]
         },
         {
-            "seriesId": "189-29",
-            "title": "『SSSS.DYNAZENON』",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "189-30",
             "title": "東京リベンジャーズ",
             "label": {
@@ -1239,7 +1207,8 @@
             "seriesId": "189-53",
             "title": "夢見る男子は現実主義者",
             "label": {
-                "free": true
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -1440,9 +1409,11 @@
         {
             "seriesId": "19-135",
             "title": "東のエデン 劇場版I The King of Eden",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1507,11 +1478,9 @@
         {
             "seriesId": "19-148",
             "title": "僕だけがいない街",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1529,7 +1498,8 @@
             "seriesId": "19-150",
             "title": "もののがたり",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -2113,10 +2083,9 @@
             "seriesId": "247-1",
             "title": "政宗くんのリベンジ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2135,7 +2104,8 @@
             "seriesId": "247-18",
             "title": "政宗くんのリベンジR",
             "label": {
-                "free": true
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -2349,8 +2319,7 @@
             "seriesId": "25-151",
             "title": "くまクマ熊ベアー",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2478,9 +2447,10 @@
             "seriesId": "25-200",
             "title": "盾の勇者の成り上がり Season 2",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2488,10 +2458,9 @@
             "seriesId": "25-201",
             "title": "乙女ゲー世界はモブに厳しい世界です",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2618,10 +2587,9 @@
             "seriesId": "25-220",
             "title": "宇崎ちゃんは遊びたい！ω",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2794,10 +2762,11 @@
             "seriesId": "25-239",
             "title": "この素晴らしい世界に爆焔を！",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2960,17 +2929,6 @@
             ]
         },
         {
-            "seriesId": "25-42",
-            "title": "そらのおとしもの",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-43zr98hyeb55",
             "title": "NEW GAME!",
             "label": {
@@ -2985,9 +2943,10 @@
             "seriesId": "25-45",
             "title": "この素晴らしい世界に祝福を！２",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3461,6 +3420,28 @@
             ]
         },
         {
+            "seriesId": "26-205",
+            "title": "今からでも間に合う！『Fate/Grand Order 藤丸立香はわからない』スペシャルセレクション",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "26-206",
+            "title": "Fate/strange Fake -Whispers of Dawn-",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "26-2mzbynr-cph",
             "title": "化物語",
             "label": {
@@ -3576,10 +3557,11 @@
             "seriesId": "283-16",
             "title": "TVアニメ「BanG Dream!（バンドリ！）」",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3771,18 +3753,6 @@
             ]
         },
         {
-            "seriesId": "5-41",
-            "title": "逃走中 グレートミッション",
-            "label": {
-                "someFree": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "5-8",
             "title": "トリコ",
             "label": {
@@ -3881,9 +3851,10 @@
             "seriesId": "54-60",
             "title": "月が導く異世界道中",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4110,8 +4081,41 @@
             ]
         },
         {
+            "seriesId": "643-1",
+            "title": "夫婦交歓～戻れない夜～【オンエア版】",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "87-1084",
             "title": "ドラえもん",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1652",
+            "title": "王様戦隊キングオージャー",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "87-1653",
+            "title": "仮面ライダー",
             "label": {
                 "free": true,
                 "newest": true
