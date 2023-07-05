@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023070410",
+    "pubAt": "2023070510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -321,8 +321,7 @@
             "seriesId": "13-151",
             "title": "ラブライブ！スーパースター!!",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -628,10 +627,9 @@
             "seriesId": "15-30",
             "title": "BLEACH 千年血戦篇",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1056,17 +1054,6 @@
             ]
         },
         {
-            "seriesId": "174-7",
-            "title": "ソード・オラトリア　ダンジョンに出会いを求めるのは間違っているだろうか外伝",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "189-14",
             "title": "魔王様、リトライ！",
             "label": {
@@ -1089,9 +1076,10 @@
             "seriesId": "189-27",
             "title": "五等分の花嫁∬",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1401,9 +1389,11 @@
         {
             "seriesId": "19-134",
             "title": "東のエデン 劇場版II Paradise Lost",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1428,10 +1418,9 @@
             "seriesId": "19-139",
             "title": "暗殺教室（第2期）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1777,9 +1766,10 @@
             "seriesId": "194-20",
             "title": "俺だけ入れる隠しダンジョン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2043,7 +2033,9 @@
         {
             "seriesId": "218-534",
             "title": "あのアニ。〜あの日観たアニメをまだ知らない人がいるなんて〜",
-            "label": {},
+            "label": {
+                "newest": true
+            },
             "onDemandTypes": [
                 1
             ]
@@ -2403,10 +2395,9 @@
             "seriesId": "25-170",
             "title": "賢者の孫",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2738,8 +2729,7 @@
             "seriesId": "25-237",
             "title": "久保さんは僕を許さない",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3569,10 +3559,11 @@
             "seriesId": "283-5",
             "title": "アニメ「BanG Dream! 2nd Season」",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3599,6 +3590,16 @@
         {
             "seriesId": "35-51",
             "title": "映画あたしンち",
+            "label": {
+                "newest": true
+            },
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "35-52",
+            "title": "劇場版あたしンち「情熱のちょ～超能力♪ 母大暴走！」",
             "label": {
                 "newest": true
             },
@@ -3960,11 +3961,10 @@
             "seriesId": "54-80",
             "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
