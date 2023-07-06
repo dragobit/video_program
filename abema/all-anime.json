@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023070510",
+    "pubAt": "2023070610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -42,6 +42,17 @@
         {
             "seriesId": "11-18",
             "title": "神のみぞ知るセカイ 女神篇",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "11-3",
+            "title": "DRIFTERS",
             "label": {
                 "someFree": true
             },
@@ -115,17 +126,6 @@
         {
             "seriesId": "115-6iuxkuhubgj",
             "title": "みなみけ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "115-7yjdnebupe-",
-            "title": "「鬼灯の冷徹」第壱期",
             "label": {
                 "someFree": true
             },
@@ -231,9 +231,10 @@
             "seriesId": "117-20",
             "title": "八男って、それはないでしょう！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -366,17 +367,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "13-162",
-            "title": "浪川んちに集合な！",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -757,8 +747,7 @@
             "seriesId": "169-80",
             "title": "100万の命の上に俺は立っている",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1418,9 +1407,10 @@
             "seriesId": "19-139",
             "title": "暗殺教室（第2期）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1733,10 +1723,9 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1996,6 +1985,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "210-11",
+            "title": "好きな子がめがねを忘れた",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -2545,10 +2545,9 @@
             "seriesId": "25-218",
             "title": "夫婦以上、恋人未満。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2729,10 +2728,9 @@
             "seriesId": "25-237",
             "title": "久保さんは僕を許さない",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2752,8 +2750,7 @@
             "seriesId": "25-239",
             "title": "この素晴らしい世界に爆焔を！",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2873,9 +2870,10 @@
             "seriesId": "25-3069dr7nb-uc",
             "title": "はたらく魔王さま！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3410,6 +3408,17 @@
             ]
         },
         {
+            "seriesId": "26-202",
+            "title": "アニメ『ライザのアトリエ ～常闇の女王と秘密の隠れ家～』",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "26-205",
             "title": "今からでも間に合う！『Fate/Grand Order 藤丸立香はわからない』スペシャルセレクション",
             "label": {
@@ -3536,10 +3545,11 @@
             "seriesId": "283-10",
             "title": "アニメ「BanG Dream! 3rd Season」",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3685,12 +3695,10 @@
             "seriesId": "420-58",
             "title": "ワールドダイスター",
             "label": {
-                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3719,10 +3727,9 @@
             "seriesId": "5-24",
             "title": "ワールドトリガー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4009,17 +4016,6 @@
             "label": {
                 "someFree": true,
                 "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "593-1",
-            "title": "阿波連さんははかれない",
-            "label": {
-                "someFree": true
             },
             "onDemandTypes": [
                 1,
