@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023070610",
+    "pubAt": "2023070710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -106,7 +106,8 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "free": true
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -120,6 +121,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "115-102",
+            "title": "蒼穹のファフナー THE BEYOND (TV Edition)",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -727,12 +739,10 @@
             "seriesId": "169-135",
             "title": "私の百合はお仕事です！",
             "label": {
-                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -920,14 +930,6 @@
             ]
         },
         {
-            "seriesId": "174-14",
-            "title": "ダンジョンに出会いを求めるのは間違っているだろうかII OVA",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "174-15",
             "title": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか　―オリオンの矢―",
             "label": {},
@@ -1035,10 +1037,9 @@
             "seriesId": "174-5",
             "title": "落第騎士の英雄譚（キャバルリィ）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1266,11 +1267,9 @@
         {
             "seriesId": "19-112",
             "title": "いぬやしき",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1324,9 +1323,11 @@
         {
             "seriesId": "19-121",
             "title": "ペンギン・ハイウェイ",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1573,11 +1574,9 @@
         {
             "seriesId": "19-164",
             "title": "クズの本懐",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2254,17 +2253,6 @@
             ]
         },
         {
-            "seriesId": "25-13gragggaxej",
-            "title": "俺の妹がこんなに可愛いわけがない。",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-13tyr-wzynnz",
             "title": "狼と香辛料",
             "label": {
@@ -2502,10 +2490,9 @@
             "seriesId": "25-20xetywbrdye",
             "title": "涼宮ハルヒの憂鬱(2009年放送版)",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2554,17 +2541,6 @@
         {
             "seriesId": "25-219",
             "title": "恋愛フロップス",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-21mnmuhwpipb",
-            "title": "ストライクウィッチーズ",
             "label": {
                 "someFree": true
             },
@@ -2761,11 +2737,10 @@
             "seriesId": "25-240",
             "title": "【推しの子】",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2773,6 +2748,17 @@
             "title": "TVアニメ【推しの子】振り返り特番～【推しの子】は推せるときに推せ！～",
             "label": {
                 "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "25-244",
+            "title": "わたしの幸せな結婚",
+            "label": {
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -2881,9 +2867,10 @@
             "seriesId": "25-33",
             "title": "バカとテストと召喚獣",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3113,17 +3100,6 @@
         {
             "seriesId": "25-97",
             "title": "オーバーロードⅢ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "26-108",
-            "title": "『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima",
             "label": {
                 "someFree": true
             },
@@ -3668,6 +3644,14 @@
             ]
         },
         {
+            "seriesId": "420-11",
+            "title": "転生したらスライムだった件",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "420-14",
             "title": "ワンパンマン",
             "label": {},
@@ -3678,6 +3662,14 @@
         {
             "seriesId": "420-15",
             "title": "『ワンパンマン』第2期",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "420-39",
+            "title": "転生したらスライムだった件 第2期",
             "label": {},
             "onDemandTypes": [
                 1
@@ -3736,9 +3728,11 @@
         {
             "seriesId": "5-26",
             "title": "ワールドトリガー 2ndシーズン",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3798,11 +3792,10 @@
             "seriesId": "536-1",
             "title": "呪術廻戦",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
