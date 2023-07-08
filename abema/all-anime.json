@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023070710",
+    "pubAt": "2023070810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -196,8 +196,7 @@
             "seriesId": "115-98",
             "title": "魔法少女マジカルデストロイヤーズ",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -353,8 +352,7 @@
             "seriesId": "13-156",
             "title": "BIRDIE WING -Golf Girls' Story-",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -365,11 +363,10 @@
             "seriesId": "13-158",
             "title": "機動戦士ガンダム 水星の魔女",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -629,9 +626,10 @@
             "seriesId": "15-30",
             "title": "BLEACH 千年血戦篇",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -696,11 +694,9 @@
         {
             "seriesId": "169-120",
             "title": "継母の連れ子が元カノだった",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -748,14 +744,24 @@
         {
             "seriesId": "169-47",
             "title": "異世界はスマートフォンとともに。",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "169-80",
+            "title": "100万の命の上に俺は立っている",
             "label": {},
             "onDemandTypes": [
                 1
             ]
         },
         {
-            "seriesId": "169-80",
-            "title": "100万の命の上に俺は立っている",
+            "seriesId": "169-81",
+            "title": "神達に拾われた男",
             "label": {
                 "someFree": true
             },
@@ -765,20 +771,13 @@
             ]
         },
         {
-            "seriesId": "169-81",
-            "title": "神達に拾われた男",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "171-1",
             "title": "東京喰種トーキョーグール",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -835,10 +834,9 @@
             "seriesId": "171-5",
             "title": "東京喰種トーキョーグール√A",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1307,9 +1305,11 @@
         {
             "seriesId": "19-119",
             "title": "夜は短し歩けよ乙女",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1888,6 +1888,17 @@
             ]
         },
         {
+            "seriesId": "199-57",
+            "title": "七つの魔剣が支配する",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "2-2bxddsdhdiw",
             "title": "メジャー 第1シリーズ",
             "label": {},
@@ -1966,14 +1977,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "203-9",
-            "title": "新テニスの王子様 氷帝vs立海 Game of Future",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -2992,16 +2995,6 @@
             ]
         },
         {
-            "seriesId": "25-6",
-            "title": "オーバーロード",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "25-60",
             "title": "ロクでなし魔術講師と禁忌教典",
             "label": {
@@ -3343,10 +3336,11 @@
             "seriesId": "26-199",
             "title": "マッシュル-MASHLE-",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3812,9 +3806,7 @@
         {
             "seriesId": "536-4",
             "title": "劇場版 呪術廻戦 0",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -3830,11 +3822,9 @@
         {
             "seriesId": "539-2",
             "title": "グリザイア：ファントムトリガー THE ANIMATION スターゲイザー",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3939,10 +3929,9 @@
             "seriesId": "54-78",
             "title": "真・進化の実～知らないうちに勝ち組人生～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3995,8 +3984,7 @@
             "seriesId": "564-4",
             "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -4027,6 +4015,17 @@
             ]
         },
         {
+            "seriesId": "593-3",
+            "title": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "617-3",
             "title": "角巻わため生誕前夜祭",
             "label": {},
@@ -4049,8 +4048,7 @@
             "seriesId": "632-1",
             "title": "女神のカフェテラス",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -4061,8 +4059,7 @@
             "seriesId": "632-2",
             "title": "マイホームヒーロー",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
