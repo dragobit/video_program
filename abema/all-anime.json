@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023070910",
+    "pubAt": "2023071010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -114,6 +114,18 @@
             ]
         },
         {
+            "seriesId": "11-51",
+            "title": "六道の悪女たち",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "11-8",
             "title": "BLACK LAGOON",
             "label": {
@@ -121,6 +133,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "115-101",
+            "title": "AYAKA ‐あやか‐",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -223,6 +246,14 @@
             ]
         },
         {
+            "seriesId": "116-2iekpz623tj",
+            "title": "言の葉の庭",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "116-3",
             "title": "雲のむこう、約束の場所",
             "label": {},
@@ -286,17 +317,6 @@
         {
             "seriesId": "13-11iiskggehbc",
             "title": "TIGER ＆ BUNNY",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "13-123",
-            "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
             "label": {
                 "someFree": true
             },
@@ -425,10 +445,11 @@
             "seriesId": "13-168",
             "title": "幻日のヨハネ -SUNSHINE in the MIRROR-",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -436,11 +457,10 @@
             "seriesId": "13-169",
             "title": "ラブライブ! μ's First LoveLive!",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -619,7 +639,8 @@
             "seriesId": "15-30",
             "title": "BLEACH 千年血戦篇",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -630,9 +651,10 @@
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -866,8 +888,7 @@
             "seriesId": "173-5",
             "title": "事情を知らない転校生がグイグイくる。",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2053,17 +2074,6 @@
             ]
         },
         {
-            "seriesId": "218-588",
-            "title": "『無職転生Ⅱ ～異世界行ったら本気だす～』先行上映イベント舞台挨拶 生配信",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "247-1",
             "title": "政宗くんのリベンジ",
             "label": {
@@ -2077,10 +2087,11 @@
             "seriesId": "247-14",
             "title": "ゆるキャン△ SEASON２",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2676,10 +2687,9 @@
             "seriesId": "25-234",
             "title": "便利屋斎藤さん、異世界に行く",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2753,6 +2763,17 @@
             "title": "TVアニメ【推しの子】振り返り特番～【推しの子】は推せるときに推せ！～",
             "label": {
                 "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "25-243",
+            "title": "Lv1魔王とワンルーム勇者",
+            "label": {
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -2892,10 +2913,9 @@
             "seriesId": "25-40xx2hk3u5ai",
             "title": "この素晴らしい世界に祝福を！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3047,6 +3067,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-88",
+            "title": "オーバーロードⅡ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -3359,38 +3389,17 @@
             "seriesId": "26-201",
             "title": "TVアニメ「ホリミヤ」",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
         {
             "seriesId": "26-202",
             "title": "アニメ『ライザのアトリエ ～常闇の女王と秘密の隠れ家～』",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "26-205",
-            "title": "今からでも間に合う！『Fate/Grand Order 藤丸立香はわからない』スペシャルセレクション",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "26-206",
-            "title": "Fate/strange Fake -Whispers of Dawn-",
             "label": {
                 "free": true,
                 "newest": true
@@ -3516,8 +3525,7 @@
             "seriesId": "283-16",
             "title": "TVアニメ「BanG Dream!（バンドリ！）」",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3682,28 +3690,16 @@
             "seriesId": "481-10",
             "title": "ライアー・ライアー",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
         {
             "seriesId": "481-9",
             "title": "テクノロイド オーバーマインド",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "5-22",
-            "title": "北斗の拳2",
             "label": {
                 "someFree": true
             },
@@ -3926,10 +3922,9 @@
             "seriesId": "54-75",
             "title": "異世界迷宮でハーレムを《TV放送ver.》",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3968,8 +3963,7 @@
             "seriesId": "54-80",
             "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -4099,16 +4093,17 @@
             "seriesId": "643-1",
             "title": "夫婦交歓～戻れない夜～【オンエア版】",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
         {
-            "seriesId": "87-1652",
-            "title": "王様戦隊キングオージャー",
+            "seriesId": "87-1084",
+            "title": "ドラえもん",
             "label": {
                 "free": true,
                 "newest": true
@@ -4118,8 +4113,8 @@
             ]
         },
         {
-            "seriesId": "87-1653",
-            "title": "仮面ライダー",
+            "seriesId": "87-830",
+            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
