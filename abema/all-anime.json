@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023071110",
+    "pubAt": "2023071210",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -269,11 +269,10 @@
             "seriesId": "117-35",
             "title": "彼女が公爵邸に行った理由",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -424,17 +423,6 @@
             ]
         },
         {
-            "seriesId": "13-167",
-            "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会TVアニメ2期",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "13-168",
             "title": "幻日のヨハネ -SUNSHINE in the MIRROR-",
             "label": {
@@ -454,6 +442,17 @@
             },
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "13-170",
+            "title": "ラブライブ! μ's New Year LoveLive! 2013",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -681,6 +680,16 @@
             ]
         },
         {
+            "seriesId": "169-111",
+            "title": "弱キャラ友崎くん",
+            "label": {
+                "newest": true
+            },
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "169-116",
             "title": "精霊幻想記",
             "label": {},
@@ -707,9 +716,11 @@
         {
             "seriesId": "169-121",
             "title": "Do It Yourself!! -どぅー・いっと・ゆあせるふ-",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1076,17 +1087,6 @@
             ]
         },
         {
-            "seriesId": "189-30",
-            "title": "東京リベンジャーズ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "189-38",
             "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
             "label": {},
@@ -1143,8 +1143,7 @@
             "seriesId": "189-49",
             "title": "勇者が死んだ！",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1375,11 +1374,9 @@
         {
             "seriesId": "19-134",
             "title": "東のエデン 劇場版II Paradise Lost",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1736,10 +1733,9 @@
             "seriesId": "194-16",
             "title": "炎炎ノ消防隊",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1833,8 +1829,7 @@
             "seriesId": "194-33",
             "title": "スキップとローファー",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1866,9 +1861,7 @@
         {
             "seriesId": "199-35",
             "title": "トニカクカワイイ",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -2068,9 +2061,10 @@
             "seriesId": "247-1",
             "title": "政宗くんのリベンジ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2123,10 +2117,9 @@
             "seriesId": "248-12",
             "title": "氷属性男子とクールな同僚女子",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2294,9 +2287,10 @@
             "seriesId": "25-149",
             "title": "宇崎ちゃんは遊びたい！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2936,10 +2930,9 @@
             "seriesId": "25-46",
             "title": "幼女戦記",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3046,16 +3039,6 @@
             },
             "onDemandTypes": [
                 1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-88",
-            "title": "オーバーロードⅡ",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
                 3
             ]
         },
@@ -3377,6 +3360,16 @@
             ]
         },
         {
+            "seriesId": "26-203",
+            "title": "るろうに剣心 －明治剣客浪漫譚－",
+            "label": {
+                "newest": true
+            },
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "26-2mzbynr-cph",
             "title": "化物語",
             "label": {
@@ -3481,8 +3474,7 @@
             "seriesId": "283-10",
             "title": "アニメ「BanG Dream! 3rd Season」",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3505,6 +3497,18 @@
             "title": "アニメ「BanG Dream! 2nd Season」",
             "label": {
                 "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "35-17izxcbarfcn",
+            "title": "エリアの騎士",
+            "label": {
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3950,17 +3954,6 @@
             ]
         },
         {
-            "seriesId": "54-84",
-            "title": "幼女社長R",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "564-2",
             "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
             "label": {
@@ -3986,8 +3979,7 @@
             "seriesId": "564-5",
             "title": "江戸前エルフ",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
