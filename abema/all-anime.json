@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023071410",
+    "pubAt": "2023071510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -59,17 +59,6 @@
             ]
         },
         {
-            "seriesId": "11-45",
-            "title": "プリマドール",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "11-46",
             "title": "転生したら剣でした",
             "label": {
@@ -105,18 +94,6 @@
         {
             "seriesId": "11-51",
             "title": "六道の悪女たち",
-            "label": {
-                "someFree": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "11-52",
-            "title": "Opus.COLORs",
             "label": {
                 "someFree": true,
                 "newest": true
@@ -185,8 +162,7 @@
             "seriesId": "115-96",
             "title": "おとなりに銀河",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -428,9 +404,7 @@
         {
             "seriesId": "13-169",
             "title": "ラブライブ! μ's First LoveLive!",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -439,8 +413,7 @@
             "seriesId": "13-170",
             "title": "ラブライブ! μ's New Year LoveLive! 2013",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -637,6 +610,18 @@
             ]
         },
         {
+            "seriesId": "168-23",
+            "title": "かくしごと",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
             "label": {
@@ -659,10 +644,11 @@
             "seriesId": "168-46",
             "title": "実は俺、最強でした？",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -713,9 +699,11 @@
         {
             "seriesId": "169-132",
             "title": "神達に拾われた男２",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -729,9 +717,11 @@
         {
             "seriesId": "169-134",
             "title": "異世界はスマートフォンとともに。2",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -745,11 +735,9 @@
         {
             "seriesId": "169-47",
             "title": "異世界はスマートフォンとともに。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -805,17 +793,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "171-3",
-            "title": "School Days",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -1033,9 +1010,10 @@
             "seriesId": "174-5",
             "title": "落第騎士の英雄譚（キャバルリィ）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1148,8 +1126,7 @@
             "seriesId": "189-51",
             "title": "カワイスギクライシス",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1290,11 +1267,9 @@
         {
             "seriesId": "19-119",
             "title": "夜は短し歩けよ乙女",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1885,10 +1860,11 @@
             "seriesId": "199-57",
             "title": "七つの魔剣が支配する",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2017,6 +1993,17 @@
             ]
         },
         {
+            "seriesId": "218-421",
+            "title": "『呪術廻戦 ファンパレ』公式放送",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-513",
             "title": "鬼殺隊報-アニメ「鬼滅の刃」新章開幕SP-",
             "label": {
@@ -2071,8 +2058,7 @@
             "seriesId": "247-14",
             "title": "ゆるキャン△ SEASON２",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2643,7 +2629,8 @@
             "seriesId": "25-232",
             "title": "シュガーアップル・フェアリーテイル",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -2675,10 +2662,11 @@
             "seriesId": "25-235",
             "title": "スパイ教室",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3020,10 +3008,9 @@
             "seriesId": "25-70",
             "title": "NEW GAME!!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3302,8 +3289,7 @@
             "seriesId": "26-199",
             "title": "マッシュル-MASHLE-",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3435,8 +3421,7 @@
             "seriesId": "26-66",
             "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3491,8 +3476,7 @@
             "seriesId": "35-17izxcbarfcn",
             "title": "エリアの騎士",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3511,8 +3495,7 @@
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3522,9 +3505,7 @@
         {
             "seriesId": "35-51",
             "title": "映画あたしンち",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -3533,8 +3514,7 @@
             "seriesId": "35-53",
             "title": "ドラえもん",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3726,8 +3706,7 @@
             "seriesId": "512-9",
             "title": "THE MARGINAL SERVICE",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3925,6 +3904,17 @@
         {
             "seriesId": "54-83",
             "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "54-84",
+            "title": "幼女社長R",
             "label": {
                 "free": true,
                 "newest": true
