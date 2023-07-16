@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023071510",
+    "pubAt": "2023071610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -95,11 +95,10 @@
             "seriesId": "11-51",
             "title": "六道の悪女たち",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -234,8 +233,7 @@
             "seriesId": "117-35",
             "title": "彼女が公爵邸に行った理由",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -345,18 +343,6 @@
             "title": "サマータイムレンダ",
             "label": {
                 "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "13-163",
-            "title": "TVアニメ「アイドルマスター シンデレラガールズ U149」",
-            "label": {
-                "someFree": true,
-                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -752,9 +738,10 @@
             "seriesId": "169-81",
             "title": "神達に拾われた男",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -810,9 +797,10 @@
             "seriesId": "171-5",
             "title": "東京喰種トーキョーグール√A",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -839,8 +827,7 @@
             "seriesId": "172-54",
             "title": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1018,6 +1005,17 @@
             ]
         },
         {
+            "seriesId": "177-228",
+            "title": "TVアニメ『レベル1だけどユニークスキルで最強です』",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "189-14",
             "title": "魔王様、リトライ！",
             "label": {
@@ -1144,6 +1142,17 @@
         {
             "seriesId": "189-53",
             "title": "夢見る男子は現実主義者",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "189-54",
+            "title": "ダークギャザリング",
             "label": {
                 "free": true,
                 "newest": true
@@ -1582,17 +1591,6 @@
             ]
         },
         {
-            "seriesId": "19-32",
-            "title": "タッチ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "19-34",
             "title": "Ｄｒ．ＳＴＯＮＥ　第１期",
             "label": {
@@ -1792,10 +1790,11 @@
             "seriesId": "194-34",
             "title": "うちの会社の小さい先輩の話",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1835,7 +1834,9 @@
         {
             "seriesId": "199-35",
             "title": "トニカクカワイイ",
-            "label": {},
+            "label": {
+                "newest": true
+            },
             "onDemandTypes": [
                 1
             ]
@@ -1939,17 +1940,6 @@
             ]
         },
         {
-            "seriesId": "203-11",
-            "title": "血界戦線 & BEYOND",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "210-10",
             "title": "REVENGER",
             "label": {
@@ -2016,9 +2006,7 @@
         {
             "seriesId": "218-534",
             "title": "あのアニ。〜あの日観たアニメをまだ知らない人がいるなんて〜",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -2123,11 +2111,10 @@
             "seriesId": "248-14",
             "title": "異世界召喚は二度目です",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2430,9 +2417,10 @@
             "seriesId": "25-203",
             "title": "カッコウの許嫁",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2731,6 +2719,18 @@
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "25-242",
+            "title": "はたらく魔王さま！！",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3270,10 +3270,9 @@
             "seriesId": "26-197",
             "title": "山田くんとLv999の恋をする",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3582,19 +3581,19 @@
         {
             "seriesId": "420-14",
             "title": "ワンパンマン",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "420-15",
             "title": "『ワンパンマン』第2期",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3622,13 +3621,25 @@
             ]
         },
         {
-            "seriesId": "481-10",
-            "title": "ライアー・ライアー",
+            "seriesId": "420-59",
+            "title": "英雄教室",
             "label": {
                 "free": true,
                 "newest": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "481-10",
+            "title": "ライアー・ライアー",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3957,6 +3968,17 @@
             ]
         },
         {
+            "seriesId": "564-6",
+            "title": "AIの遺電子",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "593-2",
             "title": "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん",
             "label": {
@@ -4032,17 +4054,6 @@
             ]
         },
         {
-            "seriesId": "87-1084",
-            "title": "ドラえもん",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "87-1652",
             "title": "王様戦隊キングオージャー",
             "label": {
@@ -4056,17 +4067,6 @@
         {
             "seriesId": "87-1653",
             "title": "仮面ライダー",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "87-830",
-            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
