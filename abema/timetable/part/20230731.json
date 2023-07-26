@@ -1,6 +1,6 @@
 {
-    "pubAt": 1690243270,
-    "pubDate": "2023072509",
+    "pubAt": 1690329669,
+    "pubDate": "2023072609",
     "slots": {
         "abema-anime": [
             {
@@ -155,8 +155,10 @@
                 "tableStartAt": 1690736400,
                 "tableEndAt": 1690738200,
                 "highlight": "七つの魔剣が支配する #4・見逃し放送",
-                "displayProgramId": "175-1rthzhecdme_s0_p78",
-                "mark": {},
+                "displayProgramId": "199-57_s1_p4",
+                "mark": {
+                    "drm": true
+                },
                 "flags": {
                     "archiveComment": true
                 },
@@ -164,7 +166,7 @@
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-1rthzhecdme",
+                "displaySeriesId": "199-57",
                 "detailHighlight": "【地上波同時・無料最速】「七つの魔剣が支配する」毎週金曜日24時30分に最新話を放送！",
                 "content": "その剣が導くは、復讐か、相愛か――。\n舞台は名門キンバリー魔法学校。\nここでは卒業までに２割の生徒が、再起不能や行方知れず、または発狂した末に死に至る。\nいわゆる、“魔に呑まれる” という——。\n春、キンバリーにオリバー＝ホーンが入学する。穏やかで理性的だが、そこはかとなく影が見え隠れする。\nそんな彼を中心に、様々な出世や背景を持つ少年・少女たちが集い、魔法使いとなるべく切磋琢磨していく。\n希望に胸を躍らせ、学園の門をくぐる魔法使いの卵たち。\nしかし、魔境と呼ばれるキンバリーの脅威が彼らに牙をむく。\n仲間と出会い、魔境に立ち向かう彼を待ち受ける運命とは――。\nそして、“七つの魔剣”を巡る物語が、今、始まる。",
                 "liveEventLinearFeedLink": {}
@@ -452,6 +454,124 @@
                 },
                 "displaySeriesId": "13-47",
                 "content": "朧との死闘の際、身体の自由を奪われた銀時。定定によって、負傷した六転舞蔵を背負った新八たちも敵の攻撃により窮地に追い込まれるが、間一髪、真選組・見廻り組が助太刀に入る。いよいよ、銀時と朧との闘いは、最終局面へ…。",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "Bi7iDDUAamnbmR",
+                "channelId": "abema-anime-2",
+                "title": "ハイキュー!! TO THE TOP #1〜12【無料ビデオ1週間】",
+                "startAt": 1690752600,
+                "endAt": 1690771800,
+                "tableStartAt": 1690752600,
+                "tableEndAt": 1690771800,
+                "highlight": "ハイキュー!! TO THE TOP #1〜12",
+                "displayProgramId": "19-16_s4_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1693431000,
+                "timeshiftFreeEndAt": 1691376600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-16",
+                "content": "全国大会に向けて準備を進める烏野高校排球部に、影山の全日本ユース強化合宿招集の報せが舞い込んだ。さらに月島にも宮城県1年生選抜強化合宿への招集がかかる。\n合宿メンバーに選ばれなかった日向は、宮城県1年生選抜強化合宿に押しかけるも……！？",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "Bi7i9tUHgF1Ni3",
+                "groupId": "CLxzRMBnt5Wv3q",
+                "channelId": "abema-anime-2",
+                "title": "銀魂’延長戦 #260〜265",
+                "startAt": 1690771800,
+                "endAt": 1690781400,
+                "tableStartAt": 1690771800,
+                "tableEndAt": 1690781400,
+                "highlight": "銀魂’延長戦 #260〜265",
+                "displayProgramId": "13-47_s6_p8",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1690815600,
+                "timeshiftFreeEndAt": 1690815600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-47",
+                "content": "朧との死闘の際、身体の自由を奪われた銀時。定定によって、負傷した六転舞蔵を背負った新八たちも敵の攻撃により窮地に追い込まれるが、間一髪、真選組・見廻り組が助太刀に入る。いよいよ、銀時と朧との闘いは、最終局面へ…。",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "9jnd2MqCi2Y2aT",
+                "channelId": "abema-anime-2",
+                "title": "ハイキュー!! TO THE TOP #1〜12【無料ビデオ1週間】",
+                "startAt": 1690781400,
+                "endAt": 1690801200,
+                "tableStartAt": 1690781400,
+                "tableEndAt": 1690801200,
+                "highlight": "ハイキュー!! TO THE TOP #1〜12",
+                "displayProgramId": "19-16_s4_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1693459800,
+                "timeshiftFreeEndAt": 1691406000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-16",
+                "content": "全国大会に向けて準備を進める烏野高校排球部に、影山の全日本ユース強化合宿招集の報せが舞い込んだ。さらに月島にも宮城県1年生選抜強化合宿への招集がかかる。\n合宿メンバーに選ばれなかった日向は、宮城県1年生選抜強化合宿に押しかけるも……！？",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "AXTWmTcXcz4KxT",
+                "groupId": "ETSZfZN9PgYQ23",
+                "channelId": "abema-anime-2",
+                "title": "血界戦線 & BEYOND 全話一挙【無料ビデオ1週間】",
+                "startAt": 1690801200,
+                "endAt": 1690821000,
+                "tableStartAt": 1690801200,
+                "tableEndAt": 1690821000,
+                "highlight": "血界戦線 & BEYOND 全話一挙",
+                "displayProgramId": "203-11_s2_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1693479600,
+                "timeshiftFreeEndAt": 1691425800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "203-11",
+                "content": "待ちに待った新作ゲームを前に、テンションが上がるレオ。そんな彼のもとに、ザップから突然の連絡が入る。言われるがままに窓を開けたレオの前に転がり込んできた箱――そのなかには、異界と人間界の架け橋となるべく、米大統領から派遣された特使フランツ・アッカーマンの生きた生首が入っていた。事件の首謀者と思われるのは、数百の生首をコレクションしているという首無し公デューラー。しかも彼は、アッカーマンの生首に高額の懸賞金を賭けていた。お宝を狙ってレオのもとに殺到するいかがわしい連中。さらにはアッカーマンのそばにも内通者がいるらしい……。絶体絶命の状況のなか、レオは無事、ライブラのメンバーと合流できるのか？",
                 "liveEventLinearFeedLink": {}
             }
         ],
@@ -861,6 +981,91 @@
                 "liveEventLinearFeedLink": {}
             },
             {
+                "id": "8d9iXGqHJUH7iF",
+                "channelId": "anime-live",
+                "title": "銀魂'延長戦 #260～264",
+                "startAt": 1690799400,
+                "endAt": 1690807200,
+                "tableStartAt": 1690799400,
+                "tableEndAt": 1690807200,
+                "highlight": "銀魂'延長戦 #260～264",
+                "displayProgramId": "13-47_s6_p8",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1690815600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-47",
+                "content": "朧との死闘の際、身体の自由を奪われた銀時。定定によって、負傷した六転舞蔵を背負った新八たちも敵の攻撃により窮地に追い込まれるが、間一髪、真選組・見廻り組が助太刀に入る。いよいよ、銀時と朧との闘いは、最終局面へ…。",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "DQ4epuBHiot5gb",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 2023 ＜再＞【安元洋貴×白井悠介】 #9",
+                "startAt": 1690808400,
+                "endAt": 1690813800,
+                "tableStartAt": 1690808400,
+                "tableEndAt": 1690813800,
+                "highlight": "声優と夜あそび 安元洋貴 白井悠介",
+                "displayProgramId": "218-562_s12_p9",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1693486800,
+                "timeshiftFreeEndAt": 1691418600,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-562",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "DQ4epJDaKpuBcT",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 2023 ＜再＞松風雅也ゲスト！【森久保祥太郎】 #41",
+                "startAt": 1690813800,
+                "endAt": 1690815000,
+                "tableStartAt": 1690813800,
+                "tableEndAt": 1690815000,
+                "highlight": "声優と夜あそび 森久保祥太郎",
+                "displayProgramId": "218-562_s18_p41",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1693492200,
+                "timeshiftFreeEndAt": 1691419800,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-562",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！",
+                "liveEventLinearFeedLink": {}
+            },
+            {
                 "id": "DQ4etYbph1j1WX",
                 "channelId": "anime-live",
                 "title": "劇場版 艦これ【無料ビデオ2週間】",
@@ -889,6 +1094,35 @@
             }
         ],
         "anime-live2": [
+            {
+                "id": "CxFTHhbja7r79q",
+                "channelId": "anime-live2",
+                "title": "転生したらスライムだった件 #1～12【8月3日舞台開始記念/無料72時間】",
+                "startAt": 1690712700,
+                "endAt": 1690732500,
+                "tableStartAt": 1690712700,
+                "tableEndAt": 1690732500,
+                "highlight": "転生したらスライムだった件 #1～12",
+                "displayProgramId": "420-11_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1693391100,
+                "timeshiftFreeEndAt": 1690991700,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "420-11",
+                "content": "サラリーマン、三上悟は通り魔に刺されて死んだ。ところが意識が戻ると三上はなんとスライムへと転生していた！　しかも300年前に封じられた暴風竜ヴェルドラが話しかけてくる。スライム三上の運命は……！",
+                "liveEventLinearFeedLink": {}
+            },
             {
                 "id": "DLPJ4eYLbyF4BZ",
                 "channelId": "anime-live2",
