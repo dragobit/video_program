@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023072610",
+    "pubAt": "2023072710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -861,17 +861,6 @@
             ]
         },
         {
-            "seriesId": "174-12",
-            "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "174-13",
             "title": "超人高校生たちは異世界でも余裕で生き抜くようです！",
             "label": {
@@ -888,17 +877,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "174-16",
-            "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅢ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -924,9 +902,10 @@
             "seriesId": "174-19",
             "title": "たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -952,17 +931,6 @@
             ]
         },
         {
-            "seriesId": "174-27",
-            "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "174-28",
             "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
             "label": {
@@ -977,9 +945,10 @@
             "seriesId": "174-3",
             "title": "ダンジョンに出会いを求めるのは間違っているだろうか",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1223,17 +1192,21 @@
         {
             "seriesId": "19-113",
             "title": "ヲタクに恋は難しい",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
             "seriesId": "19-114",
             "title": "ヲタクに恋は難しい OAD",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1290,6 +1263,14 @@
         {
             "seriesId": "19-123",
             "title": "もやしもんリターンズ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "19-125",
+            "title": "ギルティクラウン",
             "label": {},
             "onDemandTypes": [
                 1
@@ -1381,9 +1362,12 @@
         {
             "seriesId": "19-147",
             "title": "四月は君の嘘",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1675,9 +1659,10 @@
             "seriesId": "194-17",
             "title": "炎炎ノ消防隊　弐ノ章",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1785,10 +1770,11 @@
             "seriesId": "194-35",
             "title": "デキる猫は今日も憂鬱",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1796,10 +1782,11 @@
             "seriesId": "194-36",
             "title": "彼女、お借りします 第3期",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1969,8 +1956,7 @@
             "seriesId": "218-421",
             "title": "『呪術廻戦 ファンパレ』公式放送",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -2004,6 +1990,16 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "218-598",
+            "title": "TVアニメ『夢見る男子は現実主義者』キャスト生出演　～夢見るキャストと現実特番～",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -2099,6 +2095,18 @@
             "title": "異世界召喚は二度目です",
             "label": {
                 "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "248-8",
+            "title": "小林さんちのメイドラゴンS",
+            "label": {
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -2237,6 +2245,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-146",
+            "title": "Re:ゼロから始める異世界生活 氷結の絆",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -2572,10 +2590,9 @@
             "seriesId": "25-227",
             "title": "「艦これ」いつかあの海で",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2672,8 +2689,7 @@
             "seriesId": "25-238",
             "title": "神無き世界のカミサマ活動",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -2902,9 +2918,10 @@
             "seriesId": "25-46",
             "title": "幼女戦記",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3225,7 +3242,8 @@
             "seriesId": "26-194",
             "title": "NieR:Automata Ver1.1a",
             "label": {
-                "free": true
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -3438,17 +3456,6 @@
             ]
         },
         {
-            "seriesId": "283-16",
-            "title": "TVアニメ「BanG Dream!（バンドリ！）」",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "30-11",
             "title": "劇場版「進撃の巨人」Season 2〜覚醒の咆哮〜",
             "label": {
@@ -3531,8 +3538,7 @@
             "seriesId": "397-19",
             "title": "TVアニメ「オリエント」 安芸旅立ち編",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -3837,10 +3843,9 @@
             "seriesId": "54-74",
             "title": "黒の召喚士",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3914,10 +3919,11 @@
             "seriesId": "54-83",
             "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3935,10 +3941,9 @@
             "seriesId": "564-4",
             "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4021,9 +4026,10 @@
             "seriesId": "632-2",
             "title": "マイホームヒーロー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
