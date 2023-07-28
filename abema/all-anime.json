@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023072710",
+    "pubAt": "2023072810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -84,11 +84,10 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -345,12 +344,9 @@
         {
             "seriesId": "13-160",
             "title": "サマータイムレンダ",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -612,8 +608,7 @@
             "seriesId": "168-23",
             "title": "かくしごと",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -910,17 +905,6 @@
             ]
         },
         {
-            "seriesId": "174-2",
-            "title": "這いよれ！ニャル子さんW",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "174-26",
             "title": "転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～",
             "label": {
@@ -997,9 +981,10 @@
             "seriesId": "189-27",
             "title": "五等分の花嫁∬",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1060,9 +1045,10 @@
             "seriesId": "189-49",
             "title": "勇者が死んだ！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1993,12 +1979,32 @@
             ]
         },
         {
+            "seriesId": "218-590",
+            "title": "絶対に負けられない戦いが始まる！TVアニメ『ライアー・ライアー』第１話放送直前特番",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "218-598",
             "title": "TVアニメ『夢見る男子は現実主義者』キャスト生出演　～夢見るキャストと現実特番～",
             "label": {
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "244-6",
+            "title": "BanG Dream! It's MyGO!!!!!",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2013,17 +2019,6 @@
             ]
         },
         {
-            "seriesId": "247-14",
-            "title": "ゆるキャン△ SEASON２",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "247-18",
             "title": "政宗くんのリベンジR",
             "label": {
@@ -2031,6 +2026,17 @@
                 "newest": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "247-5",
+            "title": "ゆるキャン△",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2284,10 +2290,9 @@
             "seriesId": "25-151",
             "title": "くまクマ熊ベアー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2326,9 +2331,10 @@
             "seriesId": "25-160",
             "title": "蜘蛛ですが、なにか？",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2667,10 +2673,9 @@
             "seriesId": "25-236",
             "title": "転生王女と天才令嬢の魔法革命",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2898,9 +2903,10 @@
             "seriesId": "25-43zr98hyeb55",
             "title": "NEW GAME!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3129,17 +3135,6 @@
             ]
         },
         {
-            "seriesId": "26-162",
-            "title": "かぐや様は告らせたい-ウルトラロマンティック-",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "26-169",
             "title": "Engage Kiss",
             "label": {
@@ -3294,10 +3289,9 @@
             "seriesId": "26-199",
             "title": "マッシュル-MASHLE-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3380,6 +3374,17 @@
             ]
         },
         {
+            "seriesId": "26-35",
+            "title": "WORKING!!!",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "26-3dmfnknmgdw",
             "title": "WORKING!!",
             "label": {
@@ -3425,17 +3430,6 @@
         {
             "seriesId": "26-66",
             "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "26-96",
-            "title": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
             "label": {
                 "someFree": true
             },
@@ -3538,9 +3532,10 @@
             "seriesId": "397-19",
             "title": "TVアニメ「オリエント」 安芸旅立ち編",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
