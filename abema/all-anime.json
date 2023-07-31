@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023073010",
+    "pubAt": "2023073110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -313,11 +313,9 @@
         {
             "seriesId": "13-154",
             "title": "銀魂 THE FINAL",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -416,11 +414,9 @@
         {
             "seriesId": "13-172",
             "title": "ラブライブ! μ's →NEXT LoveLive! 2014 ～ENDLESS PARADE～",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -468,11 +464,9 @@
         {
             "seriesId": "13-82",
             "title": "劇場版銀魂 完結篇 万事屋よ永遠なれ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -965,10 +959,9 @@
             "seriesId": "189-14",
             "title": "魔王様、リトライ！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1547,9 +1540,10 @@
             "seriesId": "19-34",
             "title": "Ｄｒ．ＳＴＯＮＥ　第１期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2259,11 +2253,9 @@
         {
             "seriesId": "25-146",
             "title": "Re:ゼロから始める異世界生活 氷結の絆",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2925,9 +2917,10 @@
             "seriesId": "25-45",
             "title": "この素晴らしい世界に祝福を！２",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3065,9 +3058,10 @@
             "seriesId": "25-8cwxyxikzsj",
             "title": "アクセル・ワールド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3545,7 +3539,8 @@
             "seriesId": "35-55",
             "title": "映画クレヨンしんちゃん",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3673,9 +3668,10 @@
             "seriesId": "481-9",
             "title": "テクノロイド オーバーマインド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3730,8 +3726,7 @@
             "seriesId": "512-10",
             "title": "ウマ娘 プリティーダービー ROAD TO THE TOP",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3953,9 +3948,10 @@
             "seriesId": "564-2",
             "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4069,8 +4065,8 @@
             ]
         },
         {
-            "seriesId": "87-1652",
-            "title": "王様戦隊キングオージャー",
+            "seriesId": "87-1084",
+            "title": "ドラえもん",
             "label": {
                 "free": true,
                 "newest": true
@@ -4080,8 +4076,8 @@
             ]
         },
         {
-            "seriesId": "87-1653",
-            "title": "仮面ライダー",
+            "seriesId": "87-830",
+            "title": "クレヨンしんちゃん",
             "label": {
                 "free": true,
                 "newest": true
