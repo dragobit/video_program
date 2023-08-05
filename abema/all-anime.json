@@ -4,16 +4,15 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023080410",
+    "pubAt": "2023080510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
             "title": "響け！ユーフォニアム",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -639,10 +638,12 @@
             "seriesId": "168-46",
             "title": "実は俺、最強でした？",
             "label": {
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -704,9 +705,11 @@
         {
             "seriesId": "169-133",
             "title": "最強陰陽師の異世界転生記",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1149,9 +1152,11 @@
         {
             "seriesId": "19-102",
             "title": "Ｄｒ．ＳＴＯＮＥ　龍水",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1581,10 +1586,9 @@
             "seriesId": "19-64",
             "title": "Ｄｒ．ＳＴＯＮＥ　第２期",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1827,10 +1831,9 @@
             "seriesId": "2-2bxddsdhdiw",
             "title": "メジャー 第1シリーズ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2316,9 +2319,10 @@
             "seriesId": "25-151",
             "title": "くまクマ熊ベアー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2635,10 +2639,9 @@
             "seriesId": "25-22sjnaygicfz",
             "title": "IS＜インフィニット・ストラトス＞",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2818,10 +2821,9 @@
             "seriesId": "25-25pkjjpefjct",
             "title": "未来日記",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3311,9 +3313,10 @@
             "seriesId": "26-199",
             "title": "マッシュル-MASHLE-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3929,10 +3932,9 @@
             "seriesId": "54-80",
             "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
