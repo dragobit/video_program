@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023080610",
+    "pubAt": "2023080710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -268,10 +268,9 @@
             "seriesId": "117-8ykbs-yxrau",
             "title": "変態王子と笑わない猫。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -414,11 +413,9 @@
         {
             "seriesId": "13-173",
             "title": "ラブライブ! μ's Go→Go! LoveLive! 2015 ～Dream Sensation!～",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -499,11 +496,10 @@
             "seriesId": "149-11",
             "title": "無職転生 ～異世界行ったら本気だす～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -597,10 +593,9 @@
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1840,9 +1835,12 @@
         {
             "seriesId": "2-3nmtrfgpjgf",
             "title": "メジャー 第2シリーズ",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1989,7 +1987,6 @@
             "seriesId": "218-570",
             "title": "声優とフィギュる 2023",
             "label": {
-                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
@@ -2064,8 +2061,7 @@
             "seriesId": "248-1",
             "title": "小林さんちのメイドラゴン",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2185,10 +2181,9 @@
             "seriesId": "25-129",
             "title": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2340,11 +2335,9 @@
         {
             "seriesId": "25-157",
             "title": "映画 この素晴らしい世界に祝福を！紅伝説",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2737,9 +2730,10 @@
             "seriesId": "25-239",
             "title": "この素晴らしい世界に爆焔を！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2767,9 +2761,10 @@
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
