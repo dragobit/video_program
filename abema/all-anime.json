@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023081209",
+    "pubAt": "2023081310",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -858,10 +858,9 @@
             "seriesId": "174-10",
             "title": "ゴブリンスレイヤー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1057,9 +1056,10 @@
             "seriesId": "189-46",
             "title": "解雇された暗黒兵士(30代)のスローなセカンドライフ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1150,11 +1150,9 @@
         {
             "seriesId": "19-102",
             "title": "Ｄｒ．ＳＴＯＮＥ　龍水",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1176,12 +1174,9 @@
         {
             "seriesId": "19-107",
             "title": "PSYCHO-PASS サイコパス",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1270,10 +1265,9 @@
             "seriesId": "19-122",
             "title": "もやしもん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1589,9 +1583,10 @@
             "seriesId": "19-64",
             "title": "Ｄｒ．ＳＴＯＮＥ　第２期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1831,12 +1826,9 @@
         {
             "seriesId": "2-2bxddsdhdiw",
             "title": "メジャー 第1シリーズ",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -2910,10 +2902,9 @@
             "seriesId": "25-40xx2hk3u5ai",
             "title": "この素晴らしい世界に祝福を！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3289,10 +3280,9 @@
             "seriesId": "26-197",
             "title": "山田くんとLv999の恋をする",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3525,11 +3515,9 @@
         {
             "seriesId": "35-51",
             "title": "映画あたしンち",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3596,9 +3584,12 @@
         {
             "seriesId": "420-11",
             "title": "転生したらスライムだった件",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {

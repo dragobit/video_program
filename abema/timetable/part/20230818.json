@@ -1,6 +1,6 @@
 {
-    "pubAt": 1691798468,
-    "pubDate": "2023081209",
+    "pubAt": 1691884871,
+    "pubDate": "2023081309",
     "slots": {
         "abema-anime": [
             {
@@ -2312,35 +2312,36 @@
                 "liveEventLinearFeedLink": {}
             }
         ],
-        "anime-live3": [
+        "abema-anime-3": [
             {
-                "id": "CP9ECb5C1u2iYF",
-                "channelId": "anime-live3",
-                "title": "hololive 3rd fes. Link Your Wish DAY2",
-                "startAt": 1692273600,
-                "endAt": 1692284400,
-                "tableStartAt": 1692273600,
-                "tableEndAt": 1692284400,
-                "highlight": "hololive 3rd fes. DAY2",
-                "displayProgramId": "175-1rthzhecdme_s0_p111",
+                "id": "8fxsbLfAtuFnK9",
+                "channelId": "abema-anime-3",
+                "title": "てっぺんっ!!!!!!!!!!!!!!! 全話一挙【アニメ放送1周年】",
+                "startAt": 1692363600,
+                "endAt": 1692383400,
+                "tableStartAt": 1692363600,
+                "tableEndAt": 1692383400,
+                "highlight": "てっぺんっ!!!!!!!!!!!!!!! 全話一挙",
+                "displayProgramId": "481-8_s1_p1",
                 "mark": {
-                    "newcomer": true,
-                    "recommendation": true
+                    "bingeWatching": true
                 },
                 "flags": {
+                    "share": true,
                     "timeshift": true,
+                    "sharingPolicy": 1,
                     "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
-                "timeshiftEndAt": 1694952000,
-                "timeshiftFreeEndAt": 1692889200,
+                "timeshiftEndAt": 1695042000,
+                "timeshiftFreeEndAt": 1692988200,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-1rthzhecdme",
-                "content": "【収録楽曲】\n1.キラメキライダー☆\n2.神のまにまに\n3.メイジ・オブ・ヴァイオレット\n4.宵の余 、良い！\n5.どうぶつ占い\n6.My song\n7.明日への境界線\n8.かぷっとNight☆Sky\n9.Q&Aリサイタル！\n10.Choco♡Melty\n11.もぐもぐYUMMY！\n12.ChocoLove\n13.シャルイース\n14.コトノハ\n15.Red\n16.HINOTORI\n17.Q&A=E\n18.ALiCE&u\n19.フォニイ\n20.地球最後の告白を\n21.Howling\n22.Lioness' Pride\n23.海想列車\n24.Step and Go!!\n25.劣等上等\n26.Prism Melody",
+                "displaySeriesId": "481-8",
+                "content": "女子高生漫才トリオ・ヤングワイワイの阪本やよい・高橋よもぎ・細野ゆずの3人は、お笑い選手権「てっぺんグランプリ」の地方予選を突破し、本選出場権を得た。本選前最後の試練として、お笑いの先代たちが過ごした由緒正しき学生寮・タカコ荘にて、他の地方予選を突破した4組のお笑いトリオとともに共同生活を送ることに。てっぺんグランプリ委員会から課される様々な試練を乗り越えることが、本選出場最後の条件となるのだが――!?",
                 "liveEventLinearFeedLink": {}
             }
         ],
@@ -2573,6 +2574,89 @@
                 },
                 "displaySeriesId": "143-1",
                 "content": "「指令」",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "9xvWa1Aazvikg7",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 2022 ＜再＞【金田朋子×石川界人】 #65",
+                "startAt": 1692362400,
+                "endAt": 1692363600,
+                "tableStartAt": 1692362400,
+                "tableEndAt": 1692363600,
+                "highlight": "声優と夜あそび 金田朋子 石川界人",
+                "displayProgramId": "218-434_s17_p65",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1695040800,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-434",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "8qkbdXKkGrYPSw",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 2021 ＜再＞【関智一×畠中祐】 #18 松本梨香ゲスト！",
+                "startAt": 1692363600,
+                "endAt": 1692369000,
+                "tableStartAt": 1692363600,
+                "tableEndAt": 1692369000,
+                "highlight": "声優と夜あそび 関智一 畠中祐",
+                "displayProgramId": "218-332_s16_p18",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1695042000,
+                "timeshiftFreeEndAt": 1692973800,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-332",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "DWBkuk3NBAv7bV",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 2023 ＜再＞林勇ゲスト！【森久保祥太郎】 #20",
+                "startAt": 1692369000,
+                "endAt": 1692370200,
+                "tableStartAt": 1692369000,
+                "tableEndAt": 1692370200,
+                "highlight": "声優と夜あそび 森久保祥太郎",
+                "displayProgramId": "218-562_s18_p20",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1695047400,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-562",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！",
                 "liveEventLinearFeedLink": {}
             },
             {
