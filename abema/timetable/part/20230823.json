@@ -1,6 +1,6 @@
 {
-    "pubAt": 1692144076,
-    "pubDate": "2023081609",
+    "pubAt": 1692230480,
+    "pubDate": "2023081709",
     "slots": {
         "abema-anime": [
             {
@@ -1124,20 +1124,21 @@
                 "liveEventLinearFeedLink": {}
             }
         ],
-        "00s-anime-1": [
+        "00s-anime-1": [],
+        "family-anime-1": [],
+        "family-anime-2": [
             {
-                "id": "9TrKFgPQZ2NgQw",
-                "channelId": "00s-anime-1",
-                "title": "頭文字[イニシャル]D Fourth Stage #1～4【無料ビデオ72時間】",
-                "startAt": 1692795600,
-                "endAt": 1692802740,
-                "tableStartAt": 1692795600,
-                "tableEndAt": 1692802740,
-                "highlight": "頭文字D Fourth Stage #1～4",
-                "displayProgramId": "175-1rthzhecdme_s0_p110",
+                "id": "CtMYba7WFV7fJX",
+                "channelId": "family-anime-2",
+                "title": "ワールドトリガー #56〜61【無料ビデオ1週間】",
+                "startAt": 1692715200,
+                "endAt": 1692725700,
+                "tableStartAt": 1692715200,
+                "tableEndAt": 1692725700,
+                "highlight": "ワールドトリガー #56〜61",
+                "displayProgramId": "5-24_s1_p56",
                 "mark": {
-                    "bingeWatching": true,
-                    "recommendation": true
+                    "bingeWatching": true
                 },
                 "flags": {
                     "timeshift": true,
@@ -1145,19 +1146,194 @@
                     "chasePlay": true,
                     "archiveComment": true
                 },
-                "timeshiftEndAt": 1695474000,
-                "timeshiftFreeEndAt": 1693061940,
+                "timeshiftEndAt": 1695393600,
+                "timeshiftFreeEndAt": 1693330500,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-1rthzhecdme",
-                "content": "藤原拓海は、高校卒業を機に高橋涼介率いる＜プロジェクトD＞への参加を決めた。次に対戦するのは、末次トオル率いる栃木エリアのセブンスターリーフだ。拓海のハチロクとダウンヒルバトルするのは、ハチロクに比べて一回りも小さいトオルのロードスター。そしてついに始まるダウンヒルバトル！",
+                "displaySeriesId": "5-24",
+                "content": "ギーヴとカロンによる四塚市爆破計画を切り抜けた遊真、修、千佳たちは、栞に連れられ、ゼノたちと共に四塚マリンワールドで束の間の休息をとる。だが、そんな平穏も束の間、ギーヴが強力なトリオン兵を放った。窮地に追い込まれていく修、そしてゼノ。絶対絶命の状況の中、リリスの身に異変が起きようとしていた。",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "CGQgpa6dUL68WT",
+                "channelId": "family-anime-2",
+                "title": "ポケットモンスター(1997) #91～100【無料ビデオ1週間】",
+                "startAt": 1692725700,
+                "endAt": 1692744120,
+                "tableStartAt": 1692725700,
+                "tableEndAt": 1692744120,
+                "highlight": "ポケットモンスター #91～100",
+                "displayProgramId": "2-14_s1_p91",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1695404100,
+                "timeshiftFreeEndAt": 1693348920,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "2-14",
+                "content": "二隻の船の後を追ってサトシ達が着いた島には、絶滅したと言われるポケモン「カブト」の謎が隠されているらしい。行く先々で一行を待っていたのは数々の危機。そして、その裏には怪しい人影が…。",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "D41tPEXQ6XErnb",
+                "channelId": "family-anime-2",
+                "title": "ワールドトリガー #62〜67【無料ビデオ1週間】",
+                "startAt": 1692744120,
+                "endAt": 1692754560,
+                "tableStartAt": 1692744120,
+                "tableEndAt": 1692754560,
+                "highlight": "ワールドトリガー #62〜67",
+                "displayProgramId": "5-24_s1_p62",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1695422520,
+                "timeshiftFreeEndAt": 1693359360,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "5-24",
+                "content": "ギーヴの隠された真実が、ついに明らかとなった。彼はリリスと同じく、ラミアによって生み出された人型トリオン兵だったのだ。その頃、カロンの暗躍により、四塚市は市民全員が人質となる最悪の事態に。太刀川慶や風間蒼也などのＡ級ボーダー隊員も四塚市に集結し、激闘の火蓋が切って落とされる！",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "91XasQvVvfAHFm",
+                "channelId": "family-anime-2",
+                "title": "ポケットモンスター(1997) #91～100【無料ビデオ1週間】",
+                "startAt": 1692754560,
+                "endAt": 1692772980,
+                "tableStartAt": 1692754560,
+                "tableEndAt": 1692772980,
+                "highlight": "ポケットモンスター #91～100",
+                "displayProgramId": "2-14_s1_p91",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1695432960,
+                "timeshiftFreeEndAt": 1693377780,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "2-14",
+                "content": "二隻の船の後を追ってサトシ達が着いた島には、絶滅したと言われるポケモン「カブト」の謎が隠されているらしい。行く先々で一行を待っていたのは数々の危機。そして、その裏には怪しい人影が…。",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "91Xas75DiygXod",
+                "channelId": "family-anime-2",
+                "title": "ワールドトリガー #62〜67【無料ビデオ1週間】",
+                "startAt": 1692772980,
+                "endAt": 1692783420,
+                "tableStartAt": 1692772980,
+                "tableEndAt": 1692783420,
+                "highlight": "ワールドトリガー #62〜67",
+                "displayProgramId": "5-24_s1_p62",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1695451380,
+                "timeshiftFreeEndAt": 1693388220,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "5-24",
+                "content": "ギーヴの隠された真実が、ついに明らかとなった。彼はリリスと同じく、ラミアによって生み出された人型トリオン兵だったのだ。その頃、カロンの暗躍により、四塚市は市民全員が人質となる最悪の事態に。太刀川慶や風間蒼也などのＡ級ボーダー隊員も四塚市に集結し、激闘の火蓋が切って落とされる！",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "91XarCEDF6XxTZ",
+                "channelId": "family-anime-2",
+                "title": "ポケットモンスター(1997) #101～110【無料ビデオ1週間】",
+                "startAt": 1692783420,
+                "endAt": 1692801540,
+                "tableStartAt": 1692783420,
+                "tableEndAt": 1692801540,
+                "highlight": "ポケットモンスター #101～110",
+                "displayProgramId": "2-14_s1_p101",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1695461820,
+                "timeshiftFreeEndAt": 1693406340,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "2-14",
+                "content": "マンダリン島にたどり着いたサトシたちは、四天王のカンナが来ていることを知る。早速バトルを申し込むサトシだったが、全く相手にされない。そんな中サトシのリザードンが暴れ出す。カンナが事態収拾に現れ…。",
+                "liveEventLinearFeedLink": {}
+            },
+            {
+                "id": "CtMYXL9FipjJgf",
+                "channelId": "family-anime-2",
+                "title": "ワールドトリガー #62〜67【無料ビデオ1週間】",
+                "startAt": 1692801540,
+                "endAt": 1692811980,
+                "tableStartAt": 1692801540,
+                "tableEndAt": 1692811980,
+                "highlight": "ワールドトリガー #62〜67",
+                "displayProgramId": "5-24_s1_p62",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1695479940,
+                "timeshiftFreeEndAt": 1693416780,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "5-24",
+                "content": "ギーヴの隠された真実が、ついに明らかとなった。彼はリリスと同じく、ラミアによって生み出された人型トリオン兵だったのだ。その頃、カロンの暗躍により、四塚市は市民全員が人質となる最悪の事態に。太刀川慶や風間蒼也などのＡ級ボーダー隊員も四塚市に集結し、激闘の火蓋が切って落とされる！",
                 "liveEventLinearFeedLink": {}
             }
         ],
-        "family-anime-1": [],
-        "family-anime-2": [],
         "anime-live": [
             {
                 "id": "AMijwj2287AXJ7",
