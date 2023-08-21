@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023082010",
+    "pubAt": "2023082110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -327,9 +327,10 @@
             "seriesId": "13-158",
             "title": "機動戦士ガンダム 水星の魔女",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -465,10 +466,9 @@
             "seriesId": "13-67",
             "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -497,11 +497,10 @@
             "seriesId": "149-11",
             "title": "無職転生 ～異世界行ったら本気だす～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -855,9 +854,10 @@
             "seriesId": "174-10",
             "title": "ゴブリンスレイヤー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1199,9 +1199,11 @@
         {
             "seriesId": "19-112",
             "title": "いぬやしき",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1376,10 +1378,9 @@
             "seriesId": "19-144",
             "title": "BANANA FISH",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1688,9 +1689,10 @@
             "seriesId": "194-27",
             "title": "パリピ孔明",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1864,10 +1866,9 @@
             "seriesId": "2-5dywpejissp",
             "title": "メジャー 第4シリーズ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1935,10 +1936,11 @@
             "seriesId": "210-11",
             "title": "好きな子がめがねを忘れた",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3277,9 +3279,10 @@
             "seriesId": "26-197",
             "title": "山田くんとLv999の恋をする",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3571,10 +3574,9 @@
             "seriesId": "415-3",
             "title": "MIX",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3592,7 +3594,10 @@
         {
             "seriesId": "420-57",
             "title": "ブルーロック",
-            "label": {},
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
             "onDemandTypes": [
                 1
             ]
