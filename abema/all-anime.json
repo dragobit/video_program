@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023082410",
+    "pubAt": "2023082510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -84,11 +84,10 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -236,6 +235,14 @@
             ]
         },
         {
+            "seriesId": "116-2iekpz623tj",
+            "title": "言の葉の庭",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "116-3",
             "title": "雲のむこう、約束の場所",
             "label": {},
@@ -293,6 +300,17 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "13-11iiskggehbc",
+            "title": "TIGER ＆ BUNNY",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
             ]
         },
         {
@@ -427,12 +445,10 @@
             "seriesId": "13-183",
             "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
             "label": {
-                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -500,10 +516,11 @@
             "seriesId": "149-11",
             "title": "無職転生 ～異世界行ったら本気だす～",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1011,8 +1028,8 @@
             ]
         },
         {
-            "seriesId": "189-27",
-            "title": "五等分の花嫁∬",
+            "seriesId": "189-30",
+            "title": "東京リベンジャーズ",
             "label": {
                 "someFree": true
             },
@@ -1740,9 +1757,10 @@
             "seriesId": "194-33",
             "title": "スキップとローファー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2163,17 +2181,6 @@
             ]
         },
         {
-            "seriesId": "25-12",
-            "title": "ゼロの使い魔　三美姫の輪舞",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-129",
             "title": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～",
             "label": {
@@ -2258,17 +2265,6 @@
         {
             "seriesId": "25-13tyr-wzynnz",
             "title": "狼と香辛料",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-14",
-            "title": "ゼロの使い魔F",
             "label": {
                 "someFree": true
             },
@@ -2777,10 +2773,11 @@
             "seriesId": "25-244",
             "title": "わたしの幸せな結婚",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2855,17 +2852,6 @@
                 "free": true
             },
             "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "25-3",
-            "title": "ゼロの使い魔　双月の騎士",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2986,10 +2972,9 @@
             "seriesId": "25-5at-idi-yic",
             "title": "とある魔術の禁書目録Ⅱ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3158,9 +3143,21 @@
             "seriesId": "26-171",
             "title": "リコリス・リコイル",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "26-172",
+            "title": "シャドーハウス 2nd Season",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3657,9 +3654,12 @@
         {
             "seriesId": "5-26",
             "title": "ワールドトリガー 2ndシーズン",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3750,9 +3750,10 @@
             "seriesId": "536-3",
             "title": "チェンソーマン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3784,9 +3785,10 @@
             "seriesId": "54-60",
             "title": "月が導く異世界道中",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3926,11 +3928,10 @@
             "seriesId": "54-83",
             "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
