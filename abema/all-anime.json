@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023082910",
+    "pubAt": "2023083010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -265,10 +265,9 @@
             "seriesId": "117-35",
             "title": "彼女が公爵邸に行った理由",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1101,9 +1100,10 @@
             "seriesId": "189-49",
             "title": "勇者が死んだ！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2024,7 +2024,8 @@
             "seriesId": "218-598",
             "title": "TVアニメ『夢見る男子は現実主義者』キャスト生出演　～夢見るキャストと現実特番～",
             "label": {
-                "free": true
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -2502,10 +2503,9 @@
             "seriesId": "25-211",
             "title": "ようこそ実力至上主義の教室へ 2nd Season",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2817,10 +2817,9 @@
             "seriesId": "25-26d-6nt9ibcd",
             "title": "とある科学の超電磁砲",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3512,9 +3511,11 @@
         {
             "seriesId": "35-51",
             "title": "映画あたしンち",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
