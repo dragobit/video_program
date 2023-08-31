@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023083010",
+    "pubAt": "2023083110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -154,6 +154,17 @@
             "label": {
                 "someFree": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "115-6iuxkuhubgj",
+            "title": "みなみけ",
+            "label": {
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -355,6 +366,18 @@
             "title": "サマータイムレンダ",
             "label": {
                 "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "13-162",
+            "title": "浪川んちに集合な！",
+            "label": {
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -1122,9 +1145,10 @@
             "seriesId": "189-51",
             "title": "カワイスギクライシス",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1244,9 +1268,12 @@
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1543,17 +1570,6 @@
             ]
         },
         {
-            "seriesId": "19-167",
-            "title": "Dr.STONE 第3期",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "19-169",
             "title": "アンデッドガール・マーダーファルス",
             "label": {
@@ -1585,27 +1601,15 @@
             "seriesId": "19-24",
             "title": "干物妹！うまるちゃんR",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
         {
             "seriesId": "19-34",
-            "title": "Ｄｒ．ＳＴＯＮＥ　第１期",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "19-64",
-            "title": "Ｄｒ．ＳＴＯＮＥ　第２期",
+            "title": "Ｄｒ．ＳＴＯＮＥ",
             "label": {
                 "someFree": true
             },
@@ -1648,10 +1652,9 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1896,10 +1899,9 @@
             "seriesId": "2-7swizezassj",
             "title": "メジャー 第6シリーズ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1998,6 +2000,14 @@
             },
             "onDemandTypes": [
                 3
+            ]
+        },
+        {
+            "seriesId": "218-534",
+            "title": "あのアニ。〜あの日観たアニメをまだ知らない人がいるなんて〜",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -2136,9 +2146,10 @@
             "seriesId": "248-14",
             "title": "異世界召喚は二度目です",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2427,17 +2438,6 @@
             ]
         },
         {
-            "seriesId": "25-200",
-            "title": "盾の勇者の成り上がり Season 2",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-201",
             "title": "乙女ゲー世界はモブに厳しい世界です",
             "label": {
@@ -2473,9 +2473,10 @@
             "seriesId": "25-209",
             "title": "異世界おじさん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2729,11 +2730,9 @@
         {
             "seriesId": "25-240",
             "title": "【推しの子】",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3594,8 +3593,7 @@
                 "newest": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3876,10 +3874,9 @@
             "seriesId": "54-77",
             "title": "農民関連のスキルばっか上げてたら何故か強くなった。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
