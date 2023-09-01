@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023083110",
+    "pubAt": "2023090110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -84,10 +84,11 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -467,11 +468,10 @@
             "seriesId": "13-183",
             "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -660,6 +660,17 @@
         {
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "168-40",
+            "title": "クールドジ男子",
             "label": {
                 "someFree": true
             },
@@ -940,10 +951,9 @@
             "seriesId": "174-18",
             "title": "魔女の旅々",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1192,87 +1202,12 @@
             ]
         },
         {
-            "seriesId": "19-102",
-            "title": "Ｄｒ．ＳＴＯＮＥ　龍水",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-105",
-            "title": "あの日見た花の名前を僕達はまだ知らない。",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-106",
-            "title": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-107",
-            "title": "PSYCHO-PASS サイコパス",
+            "seriesId": "19-115",
+            "title": "銀の匙 Silver Spoon（第1期）",
             "label": {
                 "free": true
             },
             "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "19-110",
-            "title": "甲鉄城のカバネリ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-111",
-            "title": "甲鉄城のカバネリ 海門決戦",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-112",
-            "title": "いぬやしき",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-113",
-            "title": "ヲタクに恋は難しい",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-114",
-            "title": "ヲタクに恋は難しい OAD",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-115",
-            "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1330,6 +1265,14 @@
         {
             "seriesId": "19-125",
             "title": "ギルティクラウン",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "19-126",
+            "title": "屍鬼",
             "label": {},
             "onDemandTypes": [
                 1
@@ -1449,10 +1392,9 @@
             "seriesId": "19-149",
             "title": "お兄ちゃんはおしまい！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1591,9 +1533,10 @@
             "seriesId": "19-20",
             "title": "干物妹！うまるちゃん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1608,8 +1551,30 @@
             ]
         },
         {
+            "seriesId": "19-32",
+            "title": "タッチ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "19-34",
             "title": "Ｄｒ．ＳＴＯＮＥ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "19-71",
+            "title": "ウマ娘 プリティーダービー",
             "label": {
                 "someFree": true
             },
@@ -1646,6 +1611,17 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "19-98",
+            "title": "邪神ちゃんドロップキックX",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
             ]
         },
         {
@@ -1936,6 +1912,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "203-9",
+            "title": "新テニスの王子様 氷帝vs立海 Game of Future",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -2618,6 +2602,16 @@
             ]
         },
         {
+            "seriesId": "25-229",
+            "title": "宇宙よりも遠い場所",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "25-22sjnaygicfz",
             "title": "IS＜インフィニット・ストラトス＞",
             "label": {
@@ -2749,10 +2743,9 @@
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2826,10 +2819,9 @@
             "seriesId": "25-27jhh4r7j72j",
             "title": "とある科学の超電磁砲S",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3237,6 +3229,17 @@
             ]
         },
         {
+            "seriesId": "26-192",
+            "title": "魔道祖師 完結編",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "26-194",
             "title": "NieR:Automata Ver1.1a",
             "label": {
@@ -3500,7 +3503,8 @@
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3521,7 +3525,8 @@
             "seriesId": "35-53",
             "title": "ドラえもん",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3640,8 +3645,8 @@
             ]
         },
         {
-            "seriesId": "5-24",
-            "title": "ワールドトリガー",
+            "seriesId": "5-22",
+            "title": "北斗の拳2",
             "label": {
                 "someFree": true
             },
@@ -3651,12 +3656,21 @@
             ]
         },
         {
+            "seriesId": "5-24",
+            "title": "ワールドトリガー",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "5-26",
             "title": "ワールドトリガー 2ndシーズン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3741,7 +3755,8 @@
             "seriesId": "536-1",
             "title": "呪術廻戦",
             "label": {
-                "free": true
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -3767,19 +3782,14 @@
             ]
         },
         {
-            "seriesId": "539-1",
-            "title": "グリザイア：ファントムトリガー THE ANIMATION",
-            "label": {},
+            "seriesId": "54-23",
+            "title": "SSSS.GRIDMAN",
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "539-2",
-            "title": "グリザイア：ファントムトリガー THE ANIMATION スターゲイザー",
-            "label": {},
-            "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3927,10 +3937,11 @@
             "seriesId": "54-83",
             "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3973,6 +3984,17 @@
             "label": {
                 "someFree": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "593-1",
+            "title": "阿波連さんははかれない",
+            "label": {
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
