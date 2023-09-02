@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023090110",
+    "pubAt": "2023090209",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -141,11 +141,10 @@
             "seriesId": "115-101",
             "title": "AYAKA ‐あやか‐",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -334,7 +333,7 @@
         },
         {
             "seriesId": "13-149",
-            "title": "劇場版シティーハンター <新宿プライベート･アイズ>",
+            "title": "劇場版シティーハンター <新宿プライベート・アイズ>",
             "label": {},
             "onDemandTypes": [
                 1
@@ -858,10 +857,9 @@
             "seriesId": "172-52",
             "title": "HIGH CARD",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1214,9 +1212,11 @@
         {
             "seriesId": "19-116",
             "title": "銀の匙 Silver Spoon（第2期）",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1332,9 +1332,12 @@
         {
             "seriesId": "19-140",
             "title": "暗殺教室",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1863,12 +1866,9 @@
         {
             "seriesId": "2-6cttrbwmkim",
             "title": "メジャー 第5シリーズ",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -2306,6 +2306,7 @@
                 "free": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3666,12 +3667,9 @@
         {
             "seriesId": "5-26",
             "title": "ワールドトリガー 2ndシーズン",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3818,10 +3816,9 @@
             "seriesId": "54-69",
             "title": "骸骨騎士様、只今異世界へお出掛け中",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
