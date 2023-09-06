@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023090510",
+    "pubAt": "2023090610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -736,11 +736,9 @@
         {
             "seriesId": "169-120",
             "title": "継母の連れ子が元カノだった",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1941,11 +1939,10 @@
             "seriesId": "210-11",
             "title": "好きな子がめがねを忘れた",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3677,12 +3674,9 @@
         {
             "seriesId": "5-27",
             "title": "ワールドトリガー 3rdシーズン",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3756,10 +3750,11 @@
             "seriesId": "536-1",
             "title": "呪術廻戦",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3808,10 +3803,9 @@
             "seriesId": "54-62",
             "title": "まおゆう魔王勇者",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3916,9 +3910,10 @@
             "seriesId": "54-80",
             "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
