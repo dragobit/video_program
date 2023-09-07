@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023090610",
+    "pubAt": "2023090710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -276,9 +276,10 @@
             "seriesId": "117-35",
             "title": "彼女が公爵邸に行った理由",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1205,9 +1206,10 @@
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1460,10 +1462,9 @@
             "seriesId": "19-158",
             "title": "のだめカンタービレ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1698,10 +1699,9 @@
             "seriesId": "194-29",
             "title": "彼女、お借りします 第2期",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1775,11 +1775,10 @@
             "seriesId": "194-36",
             "title": "彼女、お借りします 第3期",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1875,12 +1874,9 @@
         {
             "seriesId": "2-7swizezassj",
             "title": "メジャー 第6シリーズ",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -2031,10 +2027,11 @@
             "seriesId": "244-6",
             "title": "BanG Dream! It's MyGO!!!!!",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2353,9 +2350,10 @@
             "seriesId": "25-161",
             "title": "文豪ストレイドッグス わん！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2961,9 +2959,10 @@
             "seriesId": "25-5at-idi-yic",
             "title": "とある魔術の禁書目録Ⅱ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3025,9 +3024,10 @@
             "seriesId": "25-73",
             "title": "ようこそ実力至上主義の教室へ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3514,11 +3514,9 @@
         {
             "seriesId": "35-51",
             "title": "映画あたしンち",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3597,8 +3595,7 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
