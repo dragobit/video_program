@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023090710",
+    "pubAt": "2023090810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -84,11 +84,10 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1205,12 +1204,9 @@
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1421,10 +1417,9 @@
             "seriesId": "19-151",
             "title": "英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1550,9 +1545,10 @@
             "seriesId": "19-24",
             "title": "干物妹！うまるちゃんR",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1634,9 +1630,10 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1883,10 +1880,9 @@
             "seriesId": "203-1",
             "title": "血界戦線",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2515,10 +2511,9 @@
             "seriesId": "25-219",
             "title": "恋愛フロップス",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2701,9 +2696,10 @@
             "seriesId": "25-238",
             "title": "神無き世界のカミサマ活動",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3875,9 +3871,10 @@
             "seriesId": "54-77",
             "title": "農民関連のスキルばっか上げてたら何故か強くなった。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
