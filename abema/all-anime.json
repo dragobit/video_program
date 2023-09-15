@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023091410",
+    "pubAt": "2023091510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -82,10 +82,11 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -405,9 +406,12 @@
         {
             "seriesId": "13-166",
             "title": "「メジャーセカンド」第2シリーズ",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -466,12 +470,10 @@
             "seriesId": "13-183",
             "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
             "label": {
-                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -890,10 +892,9 @@
             "seriesId": "173-5",
             "title": "事情を知らない転校生がグイグイくる。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1467,9 +1468,10 @@
             "seriesId": "19-159",
             "title": "のだめカンタービレ 巴里編",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1694,9 +1696,10 @@
             "seriesId": "194-29",
             "title": "彼女、お借りします 第2期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1900,10 +1903,9 @@
             "seriesId": "203-11",
             "title": "血界戦線 & BEYOND",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2071,10 +2073,9 @@
             "seriesId": "248-1",
             "title": "小林さんちのメイドラゴン",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3051,10 +3052,9 @@
             "seriesId": "25-8cwxyxikzsj",
             "title": "アクセル・ワールド",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3506,8 +3506,7 @@
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3526,8 +3525,7 @@
             "seriesId": "35-53",
             "title": "ドラえもん",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -4045,10 +4043,9 @@
             "seriesId": "632-2",
             "title": "マイホームヒーロー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
