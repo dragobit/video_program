@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023092110",
+    "pubAt": "2023092210",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -20,6 +20,17 @@
         {
             "seriesId": "11-16",
             "title": "神のみぞ知るセカイ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "11-17",
+            "title": "神のみぞ知るセカイII",
             "label": {
                 "someFree": true
             },
@@ -84,11 +95,10 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -239,6 +249,14 @@
             ]
         },
         {
+            "seriesId": "116-1",
+            "title": "星を追う子ども",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "116-18y2w6jt3zj",
             "title": "秒速5センチメートル",
             "label": {},
@@ -386,6 +404,17 @@
             ]
         },
         {
+            "seriesId": "13-163",
+            "title": "TVアニメ「アイドルマスター シンデレラガールズ U149」",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "13-164",
             "title": "絆のアリル",
             "label": {
@@ -471,10 +500,12 @@
             "seriesId": "13-183",
             "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
             "label": {
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -605,17 +636,6 @@
         {
             "seriesId": "149-4",
             "title": "ありふれた職業で世界最強",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "15-28",
-            "title": "TVアニメ「キングダム」第4シリーズ",
             "label": {
                 "someFree": true
             },
@@ -892,9 +912,10 @@
             "seriesId": "173-5",
             "title": "事情を知らない転校生がグイグイくる。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1006,9 +1027,10 @@
             "seriesId": "174-28",
             "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1274,6 +1296,14 @@
         {
             "seriesId": "19-125",
             "title": "ギルティクラウン",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "19-126",
+            "title": "屍鬼",
             "label": {},
             "onDemandTypes": [
                 1
@@ -1572,8 +1602,18 @@
             "seriesId": "19-34",
             "title": "Ｄｒ．ＳＴＯＮＥ",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "19-48",
+            "title": "ハイキュー!! OAD",
+            "label": {
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1836,47 +1876,7 @@
         },
         {
             "seriesId": "2-2bxddsdhdiw",
-            "title": "メジャー 第1シリーズ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "2-3nmtrfgpjgf",
-            "title": "メジャー 第2シリーズ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "2-4actjwisxmc",
-            "title": "メジャー 第3シリーズ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "2-5dywpejissp",
-            "title": "メジャー 第4シリーズ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "2-6cttrbwmkim",
-            "title": "メジャー 第5シリーズ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "2-7swizezassj",
-            "title": "メジャー 第6シリーズ",
+            "title": "メジャー",
             "label": {},
             "onDemandTypes": [
                 1
@@ -2140,10 +2140,9 @@
             "seriesId": "248-8",
             "title": "小林さんちのメイドラゴンS",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2492,10 +2491,9 @@
             "seriesId": "25-211",
             "title": "ようこそ実力至上主義の教室へ 2nd Season",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2522,9 +2520,10 @@
             "seriesId": "25-219",
             "title": "恋愛フロップス",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2543,8 +2542,7 @@
             "seriesId": "25-221",
             "title": "陰の実力者になりたくて！",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3599,6 +3597,14 @@
             ]
         },
         {
+            "seriesId": "420-43",
+            "title": "転生したらスライムだった件 転スラ日記",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "420-57",
             "title": "ブルーロック",
             "label": {
@@ -3734,10 +3740,9 @@
             "seriesId": "512-7",
             "title": "アキバ冥途戦争",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4054,9 +4059,10 @@
             "seriesId": "632-2",
             "title": "マイホームヒーロー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
