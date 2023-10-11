@@ -1,13 +1,94 @@
 {
-    "pubAt": 1696896068,
-    "pubDate": "2023101009",
+    "pubAt": 1696982465,
+    "pubDate": "2023101109",
     "slots": {
         "abema-anime": [],
         "abema-anime-2": [],
         "80s-anime-1": [],
         "90s-anime-1": [],
         "family-anime-1": [],
-        "anime-live": [],
+        "anime-live": [
+            {
+                "id": "CiTuxBy2qJBeud",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 2023 ＜再＞【金田朋子×仲村宗悟】 #57",
+                "startAt": 1697546400,
+                "endAt": 1697547600,
+                "tableStartAt": 1697546400,
+                "tableEndAt": 1697547600,
+                "highlight": "声優と夜あそび 金田朋子 仲村宗悟",
+                "displayProgramId": "218-562_s17_p57",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1700224800,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-562",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！"
+            },
+            {
+                "id": "CiTuxCgNrXLHj5",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 2023 ＜再＞【谷山紀章×下野紘】 #15",
+                "startAt": 1697547600,
+                "endAt": 1697553000,
+                "tableStartAt": 1697547600,
+                "tableEndAt": 1697553000,
+                "highlight": "声優と夜あそび 谷山紀章 下野紘",
+                "displayProgramId": "218-562_s13_p15",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1700226000,
+                "timeshiftFreeEndAt": 1698157800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "218-562",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！"
+            },
+            {
+                "id": "CiTuz1sXzjWsWX",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 2023 ＜再＞三木眞一郎ゲスト！【森久保祥太郎】 #52",
+                "startAt": 1697553000,
+                "endAt": 1697554200,
+                "tableStartAt": 1697553000,
+                "tableEndAt": 1697554200,
+                "highlight": "声優と夜あそび 森久保祥太郎",
+                "displayProgramId": "218-562_s18_p52",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1700231400,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-562",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！"
+            }
+        ],
         "anime-live2": []
     }
 }
