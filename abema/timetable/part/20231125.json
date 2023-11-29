@@ -1,6 +1,6 @@
 {
-    "pubAt": 1701129663,
-    "pubDate": "2023112809",
+    "pubAt": 1701216064,
+    "pubDate": "2023112909",
     "slots": {
         "abema-anime": [
             {
@@ -449,8 +449,13 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1703571600,
+                "timeshiftFreeEndAt": 1701510000,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
