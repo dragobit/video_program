@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2023121810",
+    "pubAt": "2023121910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -435,6 +435,17 @@
             ]
         },
         {
+            "seriesId": "118-1",
+            "title": "ジャングルの王者ターちゃん",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "13-10xikapcfmnf",
             "title": "ラブライブ！",
             "label": {
@@ -457,21 +468,12 @@
             ]
         },
         {
-            "seriesId": "13-137",
-            "title": "ラブライブ！サンシャイン!!The School Idol Movie Over the Rainbow",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "13-13jjengjfhdx",
             "title": "コードギアス 反逆のルルーシュ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -557,6 +559,17 @@
             ]
         },
         {
+            "seriesId": "13-167",
+            "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会TVアニメ2期",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "13-168",
             "title": "幻日のヨハネ -SUNSHINE in the MIRROR-",
             "label": {
@@ -595,14 +608,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "13-185",
-            "title": "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -669,14 +674,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "13-54",
-            "title": "ラブライブ！The School Idol Movie",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -832,9 +829,10 @@
             "seriesId": "158-10",
             "title": "ヤマノススメ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -875,9 +873,10 @@
             "seriesId": "168-30",
             "title": "異世界魔王と召喚少女の奴隷魔術Ω",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1031,11 +1030,11 @@
             "seriesId": "169-111",
             "title": "弱キャラ友崎くん",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1082,22 +1081,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "169-123",
-            "title": "ピーター・グリルと賢者の時間 Super Extra",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "169-124",
-            "title": "ピーター・グリルと賢者の時間 Super Extra 大賢者ver.",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -1176,9 +1159,10 @@
             "seriesId": "169-80",
             "title": "100万の命の上に俺は立っている",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1199,14 +1183,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "171-22",
-            "title": "School Days OVAスペシャル ～マジカルハート☆こころちゃん～",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -1231,17 +1207,6 @@
         {
             "seriesId": "172-54",
             "title": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "172-55",
-            "title": "爆丸レジェンズ",
             "label": {
                 "someFree": true
             },
@@ -1444,17 +1409,6 @@
             ]
         },
         {
-            "seriesId": "189-29",
-            "title": "『SSSS.DYNAZENON』",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "189-30",
             "title": "東京リベンジャーズ",
             "label": {
@@ -1476,6 +1430,16 @@
             ]
         },
         {
+            "seriesId": "189-34",
+            "title": "結城友奈は勇者である -大満開の章-",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "189-35",
             "title": "大正オトメ御伽話",
             "label": {
@@ -1484,14 +1448,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "189-38",
-            "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -1530,6 +1486,17 @@
         {
             "seriesId": "189-49",
             "title": "勇者が死んだ！",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "189-50",
+            "title": "TVアニメ「君は放課後インソムニア」",
             "label": {
                 "someFree": true
             },
@@ -1638,9 +1605,10 @@
             "seriesId": "19-117",
             "title": "がんばれ！長州くん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1669,6 +1637,14 @@
         {
             "seriesId": "19-137",
             "title": "殺せんせーQ！",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "19-138",
+            "title": "劇場版「暗殺教室」365日の時間",
             "label": {},
             "onDemandTypes": [
                 1
@@ -1797,9 +1773,10 @@
             "seriesId": "19-159",
             "title": "のだめカンタービレ 巴里編",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1837,14 +1814,6 @@
         {
             "seriesId": "19-164",
             "title": "クズの本懐",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-166",
-            "title": "PSYCHO-PASS サイコパス Sinners of the System",
             "label": {},
             "onDemandTypes": [
                 1
@@ -2286,14 +2255,6 @@
             ]
         },
         {
-            "seriesId": "199-56",
-            "title": "岸辺露伴は動かない",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "199-57",
             "title": "七つの魔剣が支配する",
             "label": {},
@@ -2316,9 +2277,12 @@
         {
             "seriesId": "2-2bxddsdhdiw",
             "title": "メジャー",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -2561,9 +2525,13 @@
         {
             "seriesId": "218-570",
             "title": "声優とフィギュる 2023",
-            "label": {},
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -2639,6 +2607,17 @@
             ]
         },
         {
+            "seriesId": "247-1",
+            "title": "政宗くんのリベンジ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "247-18",
             "title": "政宗くんのリベンジR",
             "label": {
@@ -2671,6 +2650,17 @@
         {
             "seriesId": "248-1",
             "title": "小林さんちのメイドラゴン",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "248-12",
+            "title": "氷属性男子とクールな同僚女子",
             "label": {
                 "someFree": true
             },
@@ -2828,6 +2818,17 @@
             ]
         },
         {
+            "seriesId": "25-12jpgzpcyjjb",
+            "title": "狼と香辛料II",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-135",
             "title": "メイドインアビス",
             "label": {
@@ -2879,6 +2880,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "25-146",
+            "title": "Re:ゼロから始める異世界生活 氷結の絆",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -3027,6 +3036,17 @@
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "25-18",
+            "title": "ハロー！！きんいろモザイク",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3626,17 +3646,6 @@
             ]
         },
         {
-            "seriesId": "25-43zr98hyeb55",
-            "title": "NEW GAME!",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-46",
             "title": "幼女戦記",
             "label": {
@@ -3660,6 +3669,17 @@
         {
             "seriesId": "25-55",
             "title": "文豪ストレイドッグス",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-58",
+            "title": "ゼロから始める魔法の書",
             "label": {
                 "someFree": true
             },
@@ -3846,6 +3866,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "26-135",
+            "title": "中高一貫！！キメツ学園物語",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -4080,6 +4108,17 @@
             "label": {
                 "someFree": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "26-22mgkkcnnsxd",
+            "title": "天元突破グレンラガン",
+            "label": {
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -4479,9 +4518,11 @@
         {
             "seriesId": "420-43",
             "title": "転生したらスライムだった件 転スラ日記",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -4498,9 +4539,11 @@
         {
             "seriesId": "420-46",
             "title": "転生したらスライムだった件 OAD",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -4520,14 +4563,6 @@
             "label": {
                 "someFree": true
             },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "420-58",
-            "title": "ワールドダイスター",
-            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -4580,6 +4615,14 @@
             },
             "onDemandTypes": [
                 3
+            ]
+        },
+        {
+            "seriesId": "481-1",
+            "title": "RobiHachi",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -4648,9 +4691,12 @@
         {
             "seriesId": "5-24",
             "title": "ワールドトリガー",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -4789,17 +4835,6 @@
             ]
         },
         {
-            "seriesId": "527-638",
-            "title": "異次元フェス アイドルマスター ラブライブ！歌合戦",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "536-1",
             "title": "呪術廻戦",
             "label": {
@@ -4878,9 +4913,10 @@
             "seriesId": "54-67",
             "title": "TRIBE NINE（トライブナイン）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5029,10 +5065,9 @@
             "seriesId": "54-85",
             "title": "シルバニアファミリー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5145,14 +5180,6 @@
             },
             "onDemandTypes": [
                 3
-            ]
-        },
-        {
-            "seriesId": "622-2",
-            "title": "逆異世界転生エージェント エーコさん",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
