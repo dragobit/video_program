@@ -1,6 +1,6 @@
 {
-    "pubAt": 1705104094,
-    "pubDate": "2024011309",
+    "pubAt": 1705190486,
+    "pubDate": "2024011409",
     "slots": {
         "abema-anime": [
             {
@@ -2116,7 +2116,9 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "share": true,
                     "timeshift": true,
+                    "sharingPolicy": 1,
                     "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
@@ -2304,6 +2306,225 @@
         ],
         "anime-live": [
             {
+                "id": "8u3opnJH22i5yh",
+                "channelId": "anime-live",
+                "title": "ポンコツクエスト～魔王と派遣の魔物たち～ #20〜21",
+                "startAt": 1705675800,
+                "endAt": 1705676400,
+                "tableStartAt": 1705675800,
+                "tableEndAt": 1705676400,
+                "highlight": "ポンコツクエスト #20〜21",
+                "displayProgramId": "143-2byynwxwmy4_s0_p20",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1708354200,
+                "timeshiftFreeEndAt": 1706281200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "143-1",
+                "content": "「予想」"
+            },
+            {
+                "id": "9QQFC4exYz94hM",
+                "groupId": "D44qfv5ydHnSc7",
+                "channelId": "anime-live",
+                "title": "葬送のフリーレン #19【最新話】",
+                "startAt": 1705676400,
+                "endAt": 1705678200,
+                "tableStartAt": 1705676400,
+                "tableEndAt": 1705678200,
+                "highlight": "葬送のフリーレン #19",
+                "displayProgramId": "175-1rthzhecdme_s0_p45",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1708354800,
+                "timeshiftFreeEndAt": 1706281200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "勇者ヒンメルたちと共に、10 年に及ぶ冒険の末に魔王を打ち倒し、世界に平和を\nもたらした魔法使いフリーレン。千年以上生きるエルフである彼女は、ヒンメルたち\nと再会の約束をし、独り旅に出る。それから 50 年後、フリーレンはヒンメルのもと\nを訪ねるが、50 年前と変わらぬ彼女に対し、ヒンメルは老い、人生は残りわずかだ\nった。その後、死を迎えたヒンメルを目の当たりにし、これまで“人を知る”ことをし\nてこなかった自分を痛感し、それを悔いるフリーレンは、“人を知るため”の旅に出\nる。その旅路には、さまざまな人との出会い、さまざまな出来事が待っていた―。"
+            },
+            {
+                "id": "9QQF9x6Z5bgXjD",
+                "channelId": "anime-live",
+                "title": "『SSSS.DYNAZENON』【試し見#1 続きはABEMAビデオへ】",
+                "startAt": 1705678200,
+                "endAt": 1705680000,
+                "tableStartAt": 1705678200,
+                "tableEndAt": 1705680000,
+                "highlight": "『SSSS.DYNAZENON』 #1",
+                "displayProgramId": "189-29_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1708356600,
+                "timeshiftFreeEndAt": 1706284800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-29",
+                "content": "蓬はバイトの後にクラスメイトの南夢芽と会う約束をする。\nしかし、約束の時間になってそこに現れたのは前日に出会った怪獣使いを\n名乗る謎の男ガウマだった。"
+            },
+            {
+                "id": "8tqFwMVNyyMFrF",
+                "channelId": "anime-live",
+                "title": "鈴村健一のラジベースRX #54",
+                "startAt": 1705680000,
+                "endAt": 1705681800,
+                "tableStartAt": 1705680000,
+                "tableEndAt": 1705681800,
+                "highlight": "鈴村健一のラジベースRX #54",
+                "displayProgramId": "175-1rthzhecdme_s0_p5",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1708358400,
+                "timeshiftFreeEndAt": 1706286600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "文化放送「超！A&G＋」にて、毎週火曜日に放送中の声優・鈴村健一さんによる1人しゃべり生放送番組『鈴村健一のラジベース』の特別版としてお届けする、文化放送「超！A&G＋」と「ABEMA」のアニメチャンネルによる共同制作・コラボ番組『鈴村健一のラジベースRX』。イチオシのA&Gコンテンツをはじめ、「ABEMA」で配信されるアニメ作品や特集企画を紹介するほか、パーソナリティを務める鈴村さんとゲストによるトークなど、ここでしか見られないオリジナル番組をお届けします。"
+            },
+            {
+                "id": "9uYsTdquf9aWVm",
+                "channelId": "anime-live",
+                "title": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～ 全話一挙【無料ビデオ2週間】",
+                "startAt": 1705681800,
+                "endAt": 1705699500,
+                "tableStartAt": 1705681800,
+                "tableEndAt": 1705699500,
+                "highlight": "慎重勇者 全話一挙",
+                "displayProgramId": "25-129_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1708360200,
+                "timeshiftFreeEndAt": 1706909100,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-129",
+                "content": "駄女神リスタは超難度の異世界救済を任され、高スペックな勇者・竜宮院聖哉を召喚。\nだが聖哉は異常なほど慎重だった！\nリスタは用心深すぎる勇者に振り回されっぱなしで……"
+            },
+            {
+                "id": "9QQFC4SeAcMDCb",
+                "channelId": "anime-live",
+                "title": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～ 全話一挙【無料ビデオ2週間】",
+                "startAt": 1705699500,
+                "endAt": 1705717200,
+                "tableStartAt": 1705699500,
+                "tableEndAt": 1705717200,
+                "highlight": "慎重勇者 全話一挙",
+                "displayProgramId": "25-129_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1708377900,
+                "timeshiftFreeEndAt": 1706926800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-129",
+                "content": "駄女神リスタは超難度の異世界救済を任され、高スペックな勇者・竜宮院聖哉を召喚。\nだが聖哉は異常なほど慎重だった！\nリスタは用心深すぎる勇者に振り回されっぱなしで……"
+            },
+            {
+                "id": "9QQHEusVSZqXtT",
+                "channelId": "anime-live",
+                "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～ 全話一挙【無料ビデオ1週間】",
+                "startAt": 1705717200,
+                "endAt": 1705741200,
+                "tableStartAt": 1705717200,
+                "tableEndAt": 1705741200,
+                "highlight": "異世界居酒屋 全話一挙",
+                "displayProgramId": "13-67_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1708395600,
+                "timeshiftFreeEndAt": 1706346000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-67",
+                "content": "古都アイテ―リアで衛兵として働くハンスが、同僚のニコラウスに連れて行かれたのは、居酒屋「のぶ」という名の不思議な酒場だった。異国情緒あふれる店内、寡黙な料理人ノブ・タイショー（信之）、かわいい給仕のシノブちゃん。一体何が出てくるのだろうと、期待を膨らませるハンスの前に出されたのは、透き通る黄金の酒「トリアエズナマ」、そして見たこともない温かな料理「おでん」だった。"
+            },
+            {
+                "id": "9nzfX6JnGrq6tF",
+                "channelId": "anime-live",
+                "title": "ラプソディ 全話一挙【無料ビデオ1週間】",
+                "startAt": 1705741200,
+                "endAt": 1705748400,
+                "tableStartAt": 1705741200,
+                "tableEndAt": 1705748400,
+                "highlight": "ラプソディ 全話一挙",
+                "displayProgramId": "662-1_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "662-1",
+                "content": "難しい性格の天才ボーカリスト望野一真と、インディー落ちを経験した3人のミュージシャンによって結成されたPink Flag。それぞれの挫折を抱える4人のリベンジライブが始まる。"
+            },
+            {
                 "id": "CA4Hup5LXQKYDm",
                 "groupId": "CSFN9kkLHpcmUB",
                 "channelId": "anime-live",
@@ -2335,6 +2556,34 @@
                 "displaySeriesId": "218-557",
                 "detailHighlight": "【WEEKENDは石川界人】業界初＆唯一！毎週月曜から金曜まで人気声優がタッグを組んでMCを担当するABEMAオリジナルの帯番組！",
                 "content": "【WEEKENDは石川界人】\n月曜〜週末まで人気声優が豪華なゲストや作品と共にお届けするディープな\"\"夜あそび\"\"。\nこの番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。"
+            },
+            {
+                "id": "9nzfWBXmyocmBu",
+                "channelId": "anime-live",
+                "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～ 全話一挙【無料ビデオ1週間】",
+                "startAt": 1705752180,
+                "endAt": 1705776300,
+                "tableStartAt": 1705752600,
+                "tableEndAt": 1705776300,
+                "highlight": "異世界居酒屋 全話一挙",
+                "displayProgramId": "13-67_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1708430580,
+                "timeshiftFreeEndAt": 1706381100,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-67",
+                "content": "古都アイテ―リアで衛兵として働くハンスが、同僚のニコラウスに連れて行かれたのは、居酒屋「のぶ」という名の不思議な酒場だった。異国情緒あふれる店内、寡黙な料理人ノブ・タイショー（信之）、かわいい給仕のシノブちゃん。一体何が出てくるのだろうと、期待を膨らませるハンスの前に出されたのは、透き通る黄金の酒「トリアエズナマ」、そして見たこともない温かな料理「おでん」だった。"
             }
         ],
         "anime-live2": [
