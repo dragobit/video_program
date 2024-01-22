@@ -1,6 +1,6 @@
 {
-    "pubAt": 1705708889,
-    "pubDate": "2024012009",
+    "pubAt": 1705881684,
+    "pubDate": "2024012209",
     "slots": {
         "abema-anime": [
             {
@@ -458,13 +458,17 @@
                 "tableEndAt": 1705836600,
                 "highlight": "オーバーラップ文庫特番 第２回",
                 "displayProgramId": "218-635_s10000_p2",
-                "mark": {},
+                "mark": {
+                    "live": true
+                },
                 "flags": {
                     "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
                 "timeshiftEndAt": 1708509600,
+                "timeshiftFreeEndAt": 1708509600,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
@@ -1975,6 +1979,35 @@
                 "content": "２２世紀の福引きのはずれ券で、手に入れた小惑星。豊かな自然に恵まれたこの星に、ドラえもんたちは「生命のねじ」で命を吹き込んだおもちゃたちと、ねじ巻き都市を建設した。ところが、脱獄囚の熊虎鬼五郎がこの星に侵入して、「タマゴコピーミラー」で増殖してしまった。そのうえ、湖から黄金の怪物が出現。いったい、この星に隠されたひみつとは・・・！？"
             },
             {
+                "id": "985npZejP9KN9m",
+                "channelId": "family-anime-1",
+                "title": "ダイキン空気予報 1/21",
+                "startAt": 1705841520,
+                "endAt": 1705841700,
+                "tableStartAt": 1705841100,
+                "tableEndAt": 1705841700,
+                "highlight": "ダイキン空気予報 1/21",
+                "displayProgramId": "221-115_s4_p21",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1705927920,
+                "timeshiftFreeEndAt": 1705927920,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "221-115",
+                "detailHighlight": "”人々の生活をよりよくする”をテーマに、明日の天気と空気を毎日お伝えする予報番組",
+                "content": "\"人々の生活をよりよくする空気をお届けしたい。\nそんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！\n\n【提供】ダイキン工業\""
+            },
+            {
                 "id": "CiUeizJJX7Gp6B",
                 "channelId": "family-anime-1",
                 "title": "ドラえもん #841～845【週末一挙】",
@@ -2423,6 +2456,35 @@
                 },
                 "displaySeriesId": "25-210",
                 "content": "世界トップクラスの薬学研究者であった薬谷 完治は目を覚ますと、宮廷薬師の名家ド・メディシス家の次男ファルマ・ド・メディシスとして転生していた。転生後の能力【神術（しんじゅつ）】にも目覚め、家庭教師のエレンに力の使い方を教わるが、ファルマの神術は常人のものを遥かに超越したものであった―"
+            },
+            {
+                "id": "A5VTKmrCUPBmbD",
+                "channelId": "anime-live",
+                "title": "ダイキン空気予報 1/21",
+                "startAt": 1705841820,
+                "endAt": 1705842000,
+                "tableStartAt": 1705841400,
+                "tableEndAt": 1705842000,
+                "highlight": "ダイキン空気予報 1/21",
+                "displayProgramId": "221-115_s4_p21",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1705928220,
+                "timeshiftFreeEndAt": 1705928220,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "221-115",
+                "detailHighlight": "”人々の生活をよりよくする”をテーマに、明日の天気と空気を毎日お伝えする予報番組",
+                "content": "人々の生活をよりよくする空気をお届けしたい。\nそんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！\n\n【提供】ダイキン工業"
             },
             {
                 "id": "9QQFAFe1ABU62T",
