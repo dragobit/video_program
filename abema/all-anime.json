@@ -4,11 +4,22 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024020810",
+    "pubAt": "2024020910",
     "items": [
         {
             "seriesId": "11-16",
             "title": "神のみぞ知るセカイ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "11-17",
+            "title": "神のみぞ知るセカイII",
             "label": {
                 "someFree": true
             },
@@ -134,17 +145,6 @@
             ]
         },
         {
-            "seriesId": "11-55",
-            "title": "川越ボーイズ・シング",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "11-56",
             "title": "ゴールデンカムイ OAD",
             "label": {},
@@ -222,10 +222,9 @@
             "seriesId": "115-105",
             "title": "とあるおっさんのＶＲＭＭＯ活動記",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -332,10 +331,9 @@
             "seriesId": "115-96",
             "title": "おとなりに銀河",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -451,14 +449,6 @@
             ]
         },
         {
-            "seriesId": "13-137",
-            "title": "ラブライブ！サンシャイン!!The School Idol Movie Over the Rainbow",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "13-151",
             "title": "ラブライブ！スーパースター!!",
             "label": {
@@ -500,9 +490,10 @@
             "seriesId": "13-166",
             "title": "「メジャーセカンド」第2シリーズ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -539,30 +530,8 @@
             ]
         },
         {
-            "seriesId": "13-2zwmxabufds",
-            "title": "アイドルマスター",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "13-41",
             "title": "境界線上のホライゾン",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "13-42",
-            "title": "境界線上のホライゾンII",
             "label": {
                 "someFree": true
             },
@@ -691,6 +660,17 @@
         {
             "seriesId": "149-16",
             "title": "金装のヴェルメイユ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "149-2",
+            "title": "灼眼のシャナⅡ",
             "label": {
                 "someFree": true
             },
@@ -887,17 +867,6 @@
         {
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "168-39",
-            "title": "神クズ☆アイドル",
             "label": {
                 "someFree": true
             },
@@ -1320,9 +1289,10 @@
             "seriesId": "174-19",
             "title": "たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1434,6 +1404,14 @@
             ]
         },
         {
+            "seriesId": "189-25",
+            "title": "五等分の花嫁スペシャルイベント",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "189-29",
             "title": "『SSSS.DYNAZENON』",
             "label": {
@@ -1464,6 +1442,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "189-38",
+            "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -1696,11 +1682,9 @@
         {
             "seriesId": "19-147",
             "title": "四月は君の嘘",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1737,11 +1721,14 @@
             ]
         },
         {
-            "seriesId": "19-157",
-            "title": "劇場版 PSYCHO-PASS サイコパス",
-            "label": {},
+            "seriesId": "19-152",
+            "title": "TRIGUN STAMPEDE",
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1816,11 +1803,10 @@
             "seriesId": "19-171",
             "title": "葬送のフリーレン",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1852,6 +1838,14 @@
             },
             "onDemandTypes": [
                 3
+            ]
+        },
+        {
+            "seriesId": "19-175",
+            "title": "放課後少年花子くん",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -2077,9 +2071,10 @@
             "seriesId": "190-25",
             "title": "夏目友人帳 伍",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2347,17 +2342,6 @@
             ]
         },
         {
-            "seriesId": "203-12",
-            "title": "Ｂビーダマン爆外伝",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "203-2",
             "title": "こちら葛飾区亀有公園前派出所",
             "label": {
@@ -2537,14 +2521,6 @@
             ]
         },
         {
-            "seriesId": "218-58",
-            "title": "声優と夜あそび",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "218-591",
             "title": "声優と夜あそび28時間テレビ 大感謝祭 ~Challenge Again~",
             "label": {
@@ -2555,8 +2531,8 @@
             ]
         },
         {
-            "seriesId": "218-626",
-            "title": "挑戦の秋！？脱出の秋！？かぐや様はFEVERしたい",
+            "seriesId": "218-611",
+            "title": "にじさんじ甲子園観戦配信2023",
             "label": {
                 "free": true
             },
@@ -2700,7 +2676,7 @@
             "seriesId": "248-12",
             "title": "氷属性男子とクールな同僚女子",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2798,9 +2774,10 @@
             "seriesId": "25-103",
             "title": "となりの吸血鬼さん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2871,6 +2848,17 @@
             ]
         },
         {
+            "seriesId": "25-132",
+            "title": "旗揚！けものみち",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-134",
             "title": "Re:ゼロから始める異世界生活 Memory Snow",
             "label": {
@@ -2900,14 +2888,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "25-146",
-            "title": "Re:ゼロから始める異世界生活 氷結の絆",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -3146,9 +3126,10 @@
             "seriesId": "25-220",
             "title": "宇崎ちゃんは遊びたい！ω",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3167,10 +3148,9 @@
             "seriesId": "25-222",
             "title": "新米錬金術師の店舗経営",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3231,10 +3211,9 @@
             "seriesId": "25-235",
             "title": "スパイ教室",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3440,10 +3419,11 @@
             "seriesId": "25-253",
             "title": "ダンジョン飯",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3538,10 +3518,9 @@
             "seriesId": "25-39x56pxegcif",
             "title": "のんのんびより りぴーと",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3930,9 +3909,10 @@
             "seriesId": "26-209",
             "title": "新しい上司はど天然",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4101,6 +4081,14 @@
             ]
         },
         {
+            "seriesId": "35-33",
+            "title": "美味しんぼ TVスペシャル",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "35-34",
             "title": "あたしンち",
             "label": {
@@ -4164,6 +4152,16 @@
         {
             "seriesId": "35-51",
             "title": "映画あたしンち",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "35-52",
+            "title": "劇場版あたしンち「情熱のちょ～超能力♪ 母大暴走！」",
             "label": {
                 "free": true
             },
@@ -4452,6 +4450,18 @@
             "title": "クッキングパパ",
             "label": {
                 "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "482-39",
+            "title": "忍ばない！クリプトニンジャ咲耶",
+            "label": {
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -4891,17 +4901,6 @@
         {
             "seriesId": "54-85",
             "title": "シルバニアファミリー",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "54-86",
-            "title": "ヤンキーハムスター",
             "label": {
                 "someFree": true
             },
