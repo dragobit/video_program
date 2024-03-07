@@ -1,6 +1,6 @@
 {
-    "pubAt": 1709683291,
-    "pubDate": "2024030609",
+    "pubAt": 1709769685,
+    "pubDate": "2024030709",
     "slots": {
         "abema-anime": [
             {
@@ -495,7 +495,7 @@
                 "tableStartAt": 1709955000,
                 "tableEndAt": 1709972100,
                 "highlight": "ダンジョン飯 #1〜10",
-                "displayProgramId": "175-1rthzhecdme_s0_p4",
+                "displayProgramId": "25-253_s1_p1",
                 "mark": {
                     "bingeWatching": true
                 },
@@ -511,8 +511,8 @@
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-1rthzhecdme",
-                "content": "ダンジョン飯。　それは、\"食う\"か\"食われる\"か―――\n\nダンジョン深奥で、レッドドラゴンに妹が喰われた！\n命からがら地上へ生還した冒険者のライオス。\n再びダンジョンへ挑もうとするも、お金や食糧は迷宮の奥底……。\n妹が消化されてしまうかもしれない危機的な状況の中、ライオスは決意する。\n「食糧は、迷宮内で自給自足する！」\nスライム、バジリスク、ミミック、そしてドラゴン！\n襲い来る魔物たちを食べながらダンジョン踏破を目指せ、冒険者よ！"
+                "displaySeriesId": "25-253",
+                "content": "冒険者のライオスは迷宮の探索中に遭遇したレッドドラゴンに、妹ファリンを捕食されてしまう。脱出魔法で地上へ逃れたライオスたちはファリンを救出する為、再び迷宮を目指す。だが金も食料も迷宮に置いてきてしまっていた……。そこでライオスは、迷宮内で食糧を調達する“自給自足”の冒険を仲間たちに提案する。"
             },
             {
                 "id": "ErFXtJT4Bjy9xB",
@@ -523,7 +523,7 @@
                 "tableStartAt": 1709972100,
                 "tableEndAt": 1709989200,
                 "highlight": "ダンジョン飯 #1〜10",
-                "displayProgramId": "175-1rthzhecdme_s0_p4",
+                "displayProgramId": "25-253_s1_p1",
                 "mark": {
                     "bingeWatching": true
                 },
@@ -539,8 +539,8 @@
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-1rthzhecdme",
-                "content": "ダンジョン飯。　それは、\"食う\"か\"食われる\"か―――\n\nダンジョン深奥で、レッドドラゴンに妹が喰われた！\n命からがら地上へ生還した冒険者のライオス。\n再びダンジョンへ挑もうとするも、お金や食糧は迷宮の奥底……。\n妹が消化されてしまうかもしれない危機的な状況の中、ライオスは決意する。\n「食糧は、迷宮内で自給自足する！」\nスライム、バジリスク、ミミック、そしてドラゴン！\n襲い来る魔物たちを食べながらダンジョン踏破を目指せ、冒険者よ！"
+                "displaySeriesId": "25-253",
+                "content": "冒険者のライオスは迷宮の探索中に遭遇したレッドドラゴンに、妹ファリンを捕食されてしまう。脱出魔法で地上へ逃れたライオスたちはファリンを救出する為、再び迷宮を目指す。だが金も食料も迷宮に置いてきてしまっていた……。そこでライオスは、迷宮内で食糧を調達する“自給自足”の冒険を仲間たちに提案する。"
             },
             {
                 "id": "Ea1WRcZLjYzQT9",
@@ -3369,17 +3369,19 @@
                 "tableStartAt": 1709978400,
                 "tableEndAt": 1709991000,
                 "highlight": "GA FES 2024",
-                "displayProgramId": "218-686_s1_p1",
+                "displayProgramId": "218-686_s1000_p1",
                 "mark": {
                     "live": true
                 },
                 "flags": {
+                    "timeshift": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1711897200,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "218-686",
                 "content": "GAレーベルの人気作品と豪華キャストが集結する配信イベント！今年は総合MC に、「ガンガンGAちゃんねる」でお馴染みの本渡 楓さんと千本木彩花さんを迎え、『友達の妹が俺にだけウザい』『スライム倒して300年、知らないうちにレベルMAXになってました』『お隣の天使様にいつの間にか駄目人間にされていた件』『ダンジョンに出会いを求めるのは間違っているだろうか』の4作品の特別ステージや、GAレーベルの最新情報をお届けする『GA レーベル』ステージを実施。各作品より豪華声優陣総勢14名が出演し、今年の“GA FES”を盛り上げます。"
@@ -3398,11 +3400,16 @@
                     "recommendation": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1710601200,
+                "timeshiftFreeEndAt": 1710601200,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "218-687",
                 "content": "本番組には、花江夏樹さん（竈門炭治郎役）、下野 紘さん（我妻善逸役）、松岡禎丞さん（嘴平伊之助役）が出演。MCに本作プロデューサーのアニプレックス・高橋祐馬さんを迎え、世界各地で開催中の『ワールドツアー上映「鬼滅の刃」絆の奇跡、そして刀柱稽古へ』舞台挨拶の模様を振り返るほか、『テレビアニメ「鬼滅の刃」柱稽古編』の“最新情報”を発表いたします。"
