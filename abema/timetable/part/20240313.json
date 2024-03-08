@@ -1,6 +1,6 @@
 {
-    "pubAt": 1709769685,
-    "pubDate": "2024030709",
+    "pubAt": 1709856090,
+    "pubDate": "2024030809",
     "slots": {
         "abema-anime": [
             {
@@ -259,7 +259,6 @@
             },
             {
                 "id": "91SRAHDAMXT4T1",
-                "groupId": "CKpYQRnjddDJqV",
                 "channelId": "abema-anime",
                 "title": "俺だけレベルアップな件 第9話・見逃し放送",
                 "startAt": 1710266400,
@@ -372,7 +371,6 @@
             },
             {
                 "id": "AJJ9YMEUh28Czb",
-                "groupId": "CSukjK5xg54JN3",
                 "channelId": "abema-anime",
                 "title": "天官賜福 貳 #10・見逃し放送",
                 "startAt": 1710310500,
@@ -383,8 +381,11 @@
                 "displayProgramId": "175-1rthzhecdme_s0_p21",
                 "mark": {},
                 "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1712988900,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
@@ -394,7 +395,6 @@
             },
             {
                 "id": "BP8xYFWJZrethm",
-                "groupId": "8u3ospK5JcQewh",
                 "channelId": "abema-anime",
                 "title": "青の祓魔師 島根啓明結社篇 #10・見逃し放送",
                 "startAt": 1710312300,
@@ -478,7 +478,6 @@
             },
             {
                 "id": "BP8xagZW7i7SzK",
-                "groupId": "CKpYQRnjddDJqV",
                 "channelId": "abema-anime",
                 "title": "俺だけレベルアップな件 第9話・見逃し放送",
                 "startAt": 1710336600,
@@ -1626,6 +1625,196 @@
             }
         ],
         "anime-live": [
+            {
+                "id": "BP8xYrqooPffvP",
+                "channelId": "anime-live",
+                "title": "聖者無双 全話一挙【無料ビデオ1週間】",
+                "startAt": 1710255000,
+                "endAt": 1710275400,
+                "tableStartAt": 1710255000,
+                "tableEndAt": 1710275400,
+                "highlight": "聖者無双 全話一挙",
+                "displayProgramId": "11-50_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1712933400,
+                "timeshiftFreeEndAt": 1710880200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-50",
+                "content": "出世を目前に凶弾に倒れたサラリーマンは、気が付くと15歳・ジョブ「治癒士」のルシエルとして異世界に転生していた。「絶対に寿命で老衰する！」という決意を胸に、新たな人生をスタートさせたルシエル。前世で培った営業スキルを活かし女性聖騎士隊隊長・ルミナに治癒士ギルドへ案内をしてもらうが、まだ治癒魔法が使えないルシエルは10日間のスパルタ訓練を受けることに…。"
+            },
+            {
+                "id": "BNGksa91WPjE5u",
+                "channelId": "anime-live",
+                "title": "NEW GAME! #1〜5【無料ビデオ2週間】",
+                "startAt": 1710275400,
+                "endAt": 1710284400,
+                "tableStartAt": 1710275400,
+                "tableEndAt": 1710284400,
+                "highlight": "NEW GAME! #1〜5",
+                "displayProgramId": "25-43zr98hyeb55_s0_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1711897200,
+                "timeshiftFreeEndAt": 1711494000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-43zr98hyeb55",
+                "content": "高校を卒業後、幼い頃に夢中になって遊んでいたゲーム《フェアリーズストーリー》を制作したゲーム会社《イーグルジャンプ》に就職した涼風青葉。新入社員として社会人一日目を迎えた青葉は、朝の満員電車に揺られながら、《イーグルジャンプ》へと出社してくる。会社の前まで来たもののこのまま中に入ってしまっていいのだろうかと躊躇してしまい中々一歩が踏み出せない青葉。そのとき出社してきた先輩社員の一人である遠山りんに声をかけられ、青葉は無事に《イーグルジャンプ》の中へと案内されるのだが……。"
+            },
+            {
+                "id": "BNGkqkvPrzQwRq",
+                "channelId": "anime-live",
+                "title": "聖者無双 全話一挙【無料ビデオ1週間】",
+                "startAt": 1710284400,
+                "endAt": 1710304800,
+                "tableStartAt": 1710284400,
+                "tableEndAt": 1710304800,
+                "highlight": "聖者無双 全話一挙",
+                "displayProgramId": "11-50_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1712962800,
+                "timeshiftFreeEndAt": 1710909600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-50",
+                "content": "出世を目前に凶弾に倒れたサラリーマンは、気が付くと15歳・ジョブ「治癒士」のルシエルとして異世界に転生していた。「絶対に寿命で老衰する！」という決意を胸に、新たな人生をスタートさせたルシエル。前世で培った営業スキルを活かし女性聖騎士隊隊長・ルミナに治癒士ギルドへ案内をしてもらうが、まだ治癒魔法が使えないルシエルは10日間のスパルタ訓練を受けることに…。"
+            },
+            {
+                "id": "BNGkryAo19cBCb",
+                "channelId": "anime-live",
+                "title": "聖者無双 全話一挙【無料ビデオ1週間】",
+                "startAt": 1710304800,
+                "endAt": 1710325800,
+                "tableStartAt": 1710304800,
+                "tableEndAt": 1710325800,
+                "highlight": "聖者無双 全話一挙",
+                "displayProgramId": "11-50_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1712983200,
+                "timeshiftFreeEndAt": 1710930600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-50",
+                "content": "出世を目前に凶弾に倒れたサラリーマンは、気が付くと15歳・ジョブ「治癒士」のルシエルとして異世界に転生していた。「絶対に寿命で老衰する！」という決意を胸に、新たな人生をスタートさせたルシエル。前世で培った営業スキルを活かし女性聖騎士隊隊長・ルミナに治癒士ギルドへ案内をしてもらうが、まだ治癒魔法が使えないルシエルは10日間のスパルタ訓練を受けることに…。"
+            },
+            {
+                "id": "BNGkr43MyFZX9R",
+                "channelId": "anime-live",
+                "title": "この素晴らしい世界に祝福を！２ #8〜9【無料ビデオ2週間】",
+                "startAt": 1710325800,
+                "endAt": 1710329400,
+                "tableStartAt": 1710325800,
+                "tableEndAt": 1710329400,
+                "highlight": "この素晴らしい世界に祝福を！２ #8〜9",
+                "displayProgramId": "25-45_s0_p8",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1713004200,
+                "timeshiftFreeEndAt": 1711539000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-40xx2hk3u5ai",
+                "content": "「観光ですか？入信ですか？冒険ですか？洗礼ですか？」\nアルカンレティアへ向かうカズマたち。初めての旅路に気分が上がったのも束の間、早速トラブル発生。カズマたちの乗合馬車が、硬いもの目がけてチキンレースを行うモンスター・走り鷹鳶たちのターゲットになってしまったのだ！硬いダクネスのせいで……。 大ピンチの中、カズマは走り鷹鳶一掃作戦を思いつく。 「なんてことだ、私の体の上を次々と発情したオスたちが通り過ぎていく……！」 酷い扱いもまるでご褒美とばかりにもだえるダクネスの変態性にあきれつつ、何とか窮地を脱出するのだが、その夜、アクアのせいでまたしても……。そして、ようやくアルカンレティアが見えてきた！"
+            },
+            {
+                "id": "AJJ9Y4DLcC486T",
+                "channelId": "anime-live",
+                "title": "ポンコツクエスト～魔王と派遣の魔物たち～ #63〜64",
+                "startAt": 1710329400,
+                "endAt": 1710330180,
+                "tableStartAt": 1710329400,
+                "tableEndAt": 1710330000,
+                "highlight": "ポンコツクエスト #63〜64",
+                "displayProgramId": "143-1_s0_p63",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1713007800,
+                "timeshiftFreeEndAt": 1710934980,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "143-1",
+                "content": "「女子」"
+            },
+            {
+                "id": "BNGktVPaUxXJwZ",
+                "channelId": "anime-live",
+                "title": "銀魂 #105〜106【無料ビデオ1週間】",
+                "startAt": 1710330180,
+                "endAt": 1710333420,
+                "tableStartAt": 1710330180,
+                "tableEndAt": 1710333000,
+                "highlight": "銀魂 #105〜106",
+                "displayProgramId": "13-11_s0_p6",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1713008580,
+                "timeshiftFreeEndAt": 1710938220,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-47",
+                "content": "真選組の乗っ取りを画策した伊東、それによって大きく揺らぐ真選組――そして、今回の騒動をすべて裏から糸を引いていた人物が明らかに！ 自分は踊らされていただけという真実、そして土方や近藤の思いを知って、瀕死の重傷を負いながらもようやく自分を見つめ直す伊東。なおも襲い掛かる浪士たちと真選組隊士の激しい戦いが続く中、銀時と河上万斉の死闘も決着を迎えようとしていた！"
+            },
             {
                 "id": "DcbqrnBWTsVgLw",
                 "groupId": "CSFN8YGXhPVgST",
