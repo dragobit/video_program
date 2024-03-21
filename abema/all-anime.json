@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024032010",
+    "pubAt": "2024032110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -29,13 +29,23 @@
             ]
         },
         {
+            "seriesId": "106-4",
+            "title": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "11-16",
             "title": "神のみぞ知るセカイ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -65,11 +75,10 @@
             "seriesId": "11-35",
             "title": "終わりのセラフ",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -129,9 +138,10 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -494,6 +504,17 @@
             ]
         },
         {
+            "seriesId": "13-168",
+            "title": "幻日のヨハネ -SUNSHINE in the MIRROR-",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "13-183",
             "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
             "label": {},
@@ -629,6 +650,18 @@
             "title": "君に届け",
             "label": {
                 "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "143-46",
+            "title": "NANA－ナナ－",
+            "label": {
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -818,6 +851,17 @@
             ]
         },
         {
+            "seriesId": "158-10",
+            "title": "ヤマノススメ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
@@ -976,9 +1020,10 @@
             "seriesId": "168-54",
             "title": "アニメ「ビックリメン」",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1090,16 +1135,6 @@
             ]
         },
         {
-            "seriesId": "169-138",
-            "title": "火狩りの王　第2シーズン",
-            "label": {
-                "newest": true
-            },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "169-47",
             "title": "異世界はスマートフォンとともに。",
             "label": {},
@@ -1149,6 +1184,17 @@
         {
             "seriesId": "172-54",
             "title": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "172-55",
+            "title": "爆丸レジェンズ",
             "label": {
                 "someFree": true
             },
@@ -1275,10 +1321,9 @@
             "seriesId": "174-29",
             "title": "ひきこまり吸血姫の悶々",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1375,14 +1420,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "189-38",
-            "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -1611,10 +1648,9 @@
             "seriesId": "19-149",
             "title": "お兄ちゃんはおしまい！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2347,6 +2383,16 @@
             ]
         },
         {
+            "seriesId": "218-58",
+            "title": "声優と夜あそび",
+            "label": {
+                "newest": true
+            },
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "218-591",
             "title": "声優と夜あそび28時間テレビ 大感謝祭 ~Challenge Again~",
             "label": {
@@ -2354,6 +2400,16 @@
             },
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "218-607",
+            "title": "Fate/Grand Order Fes. 2023 夏祭り ～8th Anniversary～",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -2377,6 +2433,17 @@
             ]
         },
         {
+            "seriesId": "218-635",
+            "title": "創刊10周年メモリアルフェス!オーバーラップ文庫オールスター大集結SP",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "218-639",
             "title": "TVアニメ『呪術廻戦』「渋谷事変」記念特番",
             "label": {
@@ -2387,8 +2454,8 @@
             ]
         },
         {
-            "seriesId": "218-660",
-            "title": "弱キャラ友崎くん2nd STAGE 放送直前生配信！経験値上げちゃってステージ2もクリアだSP",
+            "seriesId": "218-669",
+            "title": "TVアニメ「君のことが大大大大大好きな100人の彼女」最終話放送直前特番～クリスマスイブだから今夜は私に付き合ってちょうだいっっ♡♡♡♡♡スペシャル～",
             "label": {
                 "free": true
             },
@@ -2399,16 +2466,6 @@
         {
             "seriesId": "218-678",
             "title": "TVアニメ「マッシュル-MASHLE-」第2期放送記念ビジュアルコメンタリー",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "218-679",
-            "title": "アニメ『SPY×FAMILY』キャスト大集合！2024大新年パーティー！",
             "label": {
                 "free": true
             },
@@ -2432,16 +2489,6 @@
             "label": {
                 "free": true,
                 "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "218-684",
-            "title": "「百千さん家のあやかし王子」スペシャル特番",
-            "label": {
-                "free": true
             },
             "onDemandTypes": [
                 3
@@ -2752,9 +2799,11 @@
         {
             "seriesId": "25-134",
             "title": "Re:ゼロから始める異世界生活 Memory Snow",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2785,6 +2834,16 @@
             "label": {
                 "free": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "25-146",
+            "title": "Re:ゼロから始める異世界生活 氷結の絆",
+            "label": {
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -2941,10 +3000,9 @@
             "seriesId": "25-202",
             "title": "リアデイルの大地にて",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3045,6 +3103,17 @@
             ]
         },
         {
+            "seriesId": "25-225",
+            "title": "ヤマノススメ Next Summit",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-22sjnaygicfz",
             "title": "IS＜インフィニット・ストラトス＞",
             "label": {
@@ -3113,9 +3182,10 @@
             "seriesId": "25-237",
             "title": "久保さんは僕を許さない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3175,17 +3245,6 @@
         {
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-243",
-            "title": "Lv1魔王とワンルーム勇者",
             "label": {
                 "someFree": true
             },
@@ -3665,10 +3724,9 @@
             "seriesId": "26-156",
             "title": "その着せ替え人形は恋をする",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3911,6 +3969,17 @@
             ]
         },
         {
+            "seriesId": "273-583",
+            "title": "すとぷりくえすとっ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "283-24",
             "title": "カードファイト!! ヴァンガード Divinez",
             "label": {
@@ -4046,14 +4115,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "35-51",
-            "title": "映画あたしンち",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -4363,6 +4424,18 @@
             "title": "クッキングパパ",
             "label": {
                 "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "482-39",
+            "title": "忍ばない！クリプトニンジャ咲耶",
+            "label": {
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
