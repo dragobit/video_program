@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024032310",
+    "pubAt": "2024032410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -219,6 +219,17 @@
             ]
         },
         {
+            "seriesId": "115-101",
+            "title": "AYAKA ‐あやか‐",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "115-103",
             "title": "ティアムーン帝国物語〜断頭台から始まる、姫の転生逆転ストーリー〜",
             "label": {
@@ -290,9 +301,10 @@
             "seriesId": "115-91",
             "title": "イジらないで、長瀞さん 2nd Attack",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -400,9 +412,10 @@
             "seriesId": "117-8",
             "title": "山田くんと7人の魔女",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -579,6 +592,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "13-54",
+            "title": "ラブライブ！The School Idol Movie",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -850,17 +871,6 @@
             ]
         },
         {
-            "seriesId": "158-10",
-            "title": "ヤマノススメ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
@@ -925,17 +935,6 @@
             ]
         },
         {
-            "seriesId": "168-39",
-            "title": "神クズ☆アイドル",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "168-40",
             "title": "クールドジ男子",
             "label": {
@@ -990,17 +989,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "168-51",
-            "title": "トータル・イクリプス",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -1133,16 +1121,6 @@
             ]
         },
         {
-            "seriesId": "169-138",
-            "title": "火狩りの王　第2シーズン",
-            "label": {
-                "newest": true
-            },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "169-47",
             "title": "異世界はスマートフォンとともに。",
             "label": {},
@@ -1226,9 +1204,10 @@
             "seriesId": "174-1",
             "title": "這いよれ！ニャル子さん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1358,17 +1337,6 @@
             ]
         },
         {
-            "seriesId": "174-9",
-            "title": "りゅうおうのおしごと！",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "177-228",
             "title": "TVアニメ『レベル1だけどユニークスキルで最強です』",
             "label": {
@@ -1400,8 +1368,16 @@
             ]
         },
         {
-            "seriesId": "189-30",
-            "title": "東京リベンジャーズ",
+            "seriesId": "189-25",
+            "title": "五等分の花嫁スペシャルイベント",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "189-29",
+            "title": "『SSSS.DYNAZENON』",
             "label": {
                 "someFree": true
             },
@@ -1411,11 +1387,14 @@
             ]
         },
         {
-            "seriesId": "189-38",
-            "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
-            "label": {},
+            "seriesId": "189-30",
+            "title": "東京リベンジャーズ",
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1751,11 +1730,9 @@
         {
             "seriesId": "19-177",
             "title": "よふかしのうた",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1806,6 +1783,17 @@
         {
             "seriesId": "19-183",
             "title": "けいおん!",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "19-185",
+            "title": "人形アニメ「ハイキュー!!」",
             "label": {
                 "someFree": true
             },
@@ -2406,16 +2394,6 @@
             ]
         },
         {
-            "seriesId": "218-611",
-            "title": "にじさんじ甲子園観戦配信2023",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-639",
             "title": "TVアニメ『呪術廻戦』「渋谷事変」記念特番",
             "label": {
@@ -2511,8 +2489,7 @@
             "seriesId": "218-687",
             "title": "鬼滅テレビ-柱稽古編 新情報発表SP-",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -2584,10 +2561,9 @@
             "seriesId": "247-5",
             "title": "ゆるキャン△",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2885,9 +2861,11 @@
         {
             "seriesId": "25-157",
             "title": "映画 この素晴らしい世界に祝福を！紅伝説",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3107,17 +3085,6 @@
         {
             "seriesId": "25-222",
             "title": "新米錬金術師の店舗経営",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-225",
-            "title": "ヤマノススメ Next Summit",
             "label": {
                 "someFree": true
             },
@@ -3696,8 +3663,17 @@
             "seriesId": "26-12",
             "title": "黒執事",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "26-127",
+            "title": "Fate/Grand Order -First Order-",
+            "label": {
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -3707,8 +3683,7 @@
             "seriesId": "26-13",
             "title": "黒執事Ⅱ",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3806,10 +3781,11 @@
             "seriesId": "26-199",
             "title": "マッシュル-MASHLE-",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3916,6 +3892,16 @@
             ]
         },
         {
+            "seriesId": "26-213",
+            "title": "Fate/Grand Order -MOONLIGHT/LOSTROOM-",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "26-215",
             "title": "俺だけレベルアップな件",
             "label": {
@@ -3972,17 +3958,6 @@
             ]
         },
         {
-            "seriesId": "273-583",
-            "title": "すとぷりくえすとっ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "283-16",
             "title": "TVアニメ「BanG Dream!（バンドリ！）」",
             "label": {
@@ -3999,6 +3974,17 @@
             "label": {
                 "someFree": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "283-5",
+            "title": "アニメ「BanG Dream! 2nd Season」",
+            "label": {
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -4660,6 +4646,16 @@
             ]
         },
         {
+            "seriesId": "527-602",
+            "title": "ウマ娘 5th EVENT GO BEYOND",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "527-610",
             "title": "ABEMA×ヒプステ",
             "label": {},
@@ -5085,19 +5081,10 @@
         {
             "seriesId": "617-5",
             "title": "ホロのぐらふぃてぃ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "618-1",
-            "title": "齢5000年の草食ドラゴン、いわれなき邪竜認定",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5151,10 +5138,11 @@
             "seriesId": "632-4",
             "title": "七つの大罪 黙示録の四騎士",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5205,13 +5193,11 @@
             ]
         },
         {
-            "seriesId": "662-1",
-            "title": "ラプソディ",
-            "label": {
-                "free": true
-            },
+            "seriesId": "669-1",
+            "title": "Walking Meat",
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
