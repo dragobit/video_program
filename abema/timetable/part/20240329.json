@@ -1,6 +1,6 @@
 {
-    "pubAt": 1711584088,
-    "pubDate": "2024032809",
+    "pubAt": 1711670488,
+    "pubDate": "2024032909",
     "slots": {
         "abema-anime": [
             {
@@ -2721,14 +2721,20 @@
                 "tableEndAt": 1711690200,
                 "highlight": "TVアニメ「WIND BREKAER」？？決起集会",
                 "displayProgramId": "218-701_s10000_p1",
-                "mark": {},
+                "mark": {
+                    "live": true
+                },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1714366800,
+                "timeshiftFreeEndAt": 1712295000,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "218-701",
                 "content": "TVアニメ「WIND BREAKER」はにいさとる原作の人気ヤンキー漫画で、週刊少年マガジン公式アプリ「マガジンポケット」では人気ランキング首位常連、単行本は発売即重版連発の超話題作。\n本番組には、内田雄馬さん(桜遥 役)、千葉翔也さん(楡井秋彦 役)らメインキャスト2名が出演。アニメ放送を記念した決起集会を開催します。"
@@ -2936,7 +2942,7 @@
                 "startAt": 1711710900,
                 "endAt": 1711715820,
                 "tableStartAt": 1711710900,
-                "tableEndAt": 1711715820,
+                "tableEndAt": 1711715400,
                 "highlight": "銀魂 #174〜176",
                 "displayProgramId": "13-12_s0_p24",
                 "mark": {},
