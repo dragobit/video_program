@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024040410",
+    "pubAt": "2024040510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -177,6 +177,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "11-59",
+            "title": "ささやくように恋を唄う",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -423,6 +434,17 @@
             ]
         },
         {
+            "seriesId": "13-11iiskggehbc",
+            "title": "TIGER ＆ BUNNY",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "13-123",
             "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
             "label": {
@@ -542,33 +564,38 @@
             ]
         },
         {
-            "seriesId": "13-186",
-            "title": "メジャー ワールドシリーズ編 夢の瞬間へ",
+            "seriesId": "13-184",
+            "title": "アイドルマスター ミリオンライブ！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
+            ]
+        },
+        {
+            "seriesId": "13-186",
+            "title": "メジャー ワールドシリーズ編 夢の瞬間へ",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
             "seriesId": "13-187",
             "title": "メジャー メッセージ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "13-188",
             "title": "劇場版MAJOR／メジャー 友情の一球（ウィニングショット）",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -859,18 +886,6 @@
             ]
         },
         {
-            "seriesId": "15-31",
-            "title": "貼りまわれ！こいぬ",
-            "label": {
-                "someFree": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
@@ -936,17 +951,6 @@
             ]
         },
         {
-            "seriesId": "168-39",
-            "title": "神クズ☆アイドル",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "168-46",
             "title": "実は俺、最強でした？",
             "label": {},
@@ -990,6 +994,17 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "168-51",
+            "title": "トータル・イクリプス",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
             ]
         },
         {
@@ -1376,13 +1391,23 @@
             ]
         },
         {
-            "seriesId": "189-51",
-            "title": "カワイスギクライシス",
+            "seriesId": "189-50",
+            "title": "TVアニメ「君は放課後インソムニア」",
             "label": {
                 "someFree": true
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "189-51",
+            "title": "カワイスギクライシス",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -1442,10 +1467,9 @@
             "seriesId": "189-57",
             "title": "ポーション頼みで生き延びます！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1464,8 +1488,7 @@
             "seriesId": "189-59",
             "title": "魔都精兵のスレイブ",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1633,6 +1656,18 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "19-168",
+            "title": "ちびゴジラの逆襲",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
             ]
         },
         {
@@ -1970,12 +2005,25 @@
             ]
         },
         {
+            "seriesId": "194-39",
+            "title": "花野井くんと恋の病",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "194-40",
             "title": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？",
             "label": {
-                "free": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2070,6 +2118,17 @@
             ]
         },
         {
+            "seriesId": "203-12",
+            "title": "Ｂビーダマン爆外伝",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "203-2",
             "title": "こちら葛飾区亀有公園前派出所",
             "label": {
@@ -2089,16 +2148,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "203-7",
-            "title": "遊☆戯☆王ゴーラッシュ！！",
-            "label": {
-                "newest": true
-            },
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -2327,16 +2376,6 @@
             ]
         },
         {
-            "seriesId": "218-673",
-            "title": "日本アニメトレンド大賞2023",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-680",
             "title": "声優50サミット 3時間でもだいじょうブイ！今だからこそ語らせてちょんまげ",
             "label": {},
@@ -2463,7 +2502,8 @@
             "seriesId": "247-5",
             "title": "ゆるキャン△",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -2604,10 +2644,9 @@
             "seriesId": "25-119",
             "title": "異世界チート魔術師",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2659,21 +2698,18 @@
             "seriesId": "25-132",
             "title": "旗揚！けものみち",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
         {
             "seriesId": "25-134",
             "title": "Re:ゼロから始める異世界生活 Memory Snow",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2712,11 +2748,9 @@
         {
             "seriesId": "25-146",
             "title": "Re:ゼロから始める異世界生活 氷結の絆",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2948,10 +2982,9 @@
             "seriesId": "25-220",
             "title": "宇崎ちゃんは遊びたい！ω",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3283,10 +3316,9 @@
             "seriesId": "25-27jhh4r7j72j",
             "title": "とある科学の超電磁砲S",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3662,17 +3694,6 @@
             ]
         },
         {
-            "seriesId": "26-208",
-            "title": "16bitセンセーション ANOTHER LAYER",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "26-209",
             "title": "新しい上司はど天然",
             "label": {
@@ -3778,7 +3799,8 @@
             "seriesId": "26-75",
             "title": "テレビアニメ「鬼滅の刃」",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -3862,14 +3884,6 @@
             ]
         },
         {
-            "seriesId": "30-12",
-            "title": "劇場版「進撃の巨人」~クロニクル~",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "30-5",
             "title": "進撃の巨人",
             "label": {
@@ -3907,10 +3921,9 @@
             "seriesId": "35-3",
             "title": "新あたしンち",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4003,9 +4016,11 @@
         {
             "seriesId": "35-51",
             "title": "映画あたしンち",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -4163,9 +4178,7 @@
         {
             "seriesId": "415-7",
             "title": "まじっく快斗",
-            "label": {
-                "newest": true
-            },
+            "label": {},
             "onDemandTypes": [
                 1
             ]
@@ -4358,18 +4371,6 @@
             ]
         },
         {
-            "seriesId": "482-39",
-            "title": "忍ばない！クリプトニンジャ咲耶",
-            "label": {
-                "someFree": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "5-11",
             "title": "金田一少年の事件簿",
             "label": {
@@ -4486,6 +4487,14 @@
             ]
         },
         {
+            "seriesId": "5-43",
+            "title": "キボウノチカラ～オトナプリキュア’２３～",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "5-7",
             "title": "北斗の拳",
             "label": {
@@ -4533,10 +4542,11 @@
             "seriesId": "512-11",
             "title": "勇気爆発バーンブレイバーン",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4827,17 +4837,6 @@
             ]
         },
         {
-            "seriesId": "54-84",
-            "title": "幼女社長R",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "54-85",
             "title": "シルバニアファミリー",
             "label": {
@@ -5016,8 +5015,7 @@
             "seriesId": "593-4",
             "title": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -5162,16 +5160,6 @@
             },
             "onDemandTypes": [
                 1,
-                3
-            ]
-        },
-        {
-            "seriesId": "662-1",
-            "title": "ラプソディ",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
                 3
             ]
         },
