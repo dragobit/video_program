@@ -1,6 +1,6 @@
 {
-    "pubAt": 1712620884,
-    "pubDate": "2024040909",
+    "pubAt": 1712707279,
+    "pubDate": "2024041009",
     "slots": {
         "abema-anime": [],
         "abema-anime-2": [
@@ -167,10 +167,14 @@
                 },
                 "flags": {
                     "share": true,
+                    "timeshift": true,
                     "sharingPolicy": 1,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1715869800,
+                "timeshiftFreeEndAt": 1713798000,
                 "broadcastRegionPolicies": {
                     "linear": 0,
                     "timeshift": 0
@@ -193,10 +197,14 @@
                 },
                 "flags": {
                     "share": true,
+                    "timeshift": true,
                     "sharingPolicy": 1,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1715956200,
+                "timeshiftFreeEndAt": 1713884400,
                 "broadcastRegionPolicies": {
                     "linear": 0,
                     "timeshift": 0
