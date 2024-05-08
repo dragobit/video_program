@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024050710",
+    "pubAt": "2024050809",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -148,10 +148,9 @@
             "seriesId": "11-51",
             "title": "六道の悪女たち",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -346,9 +345,10 @@
             "seriesId": "115-5",
             "title": "懺・さよなら絶望先生",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -513,6 +513,17 @@
             ]
         },
         {
+            "seriesId": "13-11iiskggehbc",
+            "title": "TIGER ＆ BUNNY",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "13-151",
             "title": "ラブライブ！スーパースター!!",
             "label": {
@@ -527,9 +538,10 @@
             "seriesId": "13-156",
             "title": "BIRDIE WING -Golf Girls' Story-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -737,9 +749,10 @@
             "seriesId": "143-47",
             "title": "エルフェンリート",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -866,17 +879,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "158-12",
-            "title": "てーきゅう",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -1282,18 +1284,11 @@
             "seriesId": "189-30",
             "title": "東京リベンジャーズ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
-            ]
-        },
-        {
-            "seriesId": "189-38",
-            "title": "五等分の花嫁∬ SPECIAL EVENT 2021 in 中野サンプラザ",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -1571,10 +1566,11 @@
             "seriesId": "19-168",
             "title": "ちびゴジラの逆襲",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1659,6 +1655,18 @@
             },
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "19-181",
+            "title": "ちいかわ",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
             ]
         },
         {
@@ -1763,10 +1771,11 @@
             "seriesId": "19-195",
             "title": "CLANNAD",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1796,9 +1805,10 @@
             "seriesId": "19-20",
             "title": "干物妹！うまるちゃん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2120,18 +2130,6 @@
             ]
         },
         {
-            "seriesId": "204-8",
-            "title": "TVアニメ「シャドウバースＦ」",
-            "label": {
-                "someFree": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "210-11",
             "title": "好きな子がめがねを忘れた",
             "label": {
@@ -2196,6 +2194,14 @@
             ]
         },
         {
+            "seriesId": "216-8",
+            "title": "おとなの防具屋さん",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "218-101",
             "title": "声優と夜あそび 2nd season",
             "label": {},
@@ -2228,6 +2234,16 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "218-421",
+            "title": "『呪術廻戦 ファンパレ』公式放送",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -2304,17 +2320,6 @@
             ]
         },
         {
-            "seriesId": "218-635",
-            "title": "創刊10周年メモリアルフェス!オーバーラップ文庫オールスター大集結SP",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "218-639",
             "title": "TVアニメ『呪術廻戦』「渋谷事変」記念特番",
             "label": {
@@ -2373,6 +2378,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "218-700",
+            "title": "「ワンルーム、日当たり普通、天使つき。」第1話最速配信記念ABEMA特番",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -2529,10 +2544,9 @@
             "seriesId": "248-12",
             "title": "氷属性男子とクールな同僚女子",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2852,10 +2866,9 @@
             "seriesId": "25-17mhiuakxewg",
             "title": "きんいろモザイク",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2980,9 +2993,10 @@
             "seriesId": "25-219",
             "title": "恋愛フロップス",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3097,10 +3111,9 @@
             "seriesId": "25-23aagrwux-zi",
             "title": "のんのんびより",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3791,9 +3804,10 @@
             "seriesId": "26-208",
             "title": "16bitセンセーション ANOTHER LAYER",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3827,6 +3841,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "26-213",
+            "title": "Fate/Grand Order -MOONLIGHT/LOSTROOM-",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -3931,25 +3953,6 @@
             ]
         },
         {
-            "seriesId": "273-583",
-            "title": "すとぷりくえすとっ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "30-12",
-            "title": "劇場版「進撃の巨人」~クロニクル~",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "30-5",
             "title": "進撃の巨人",
             "label": {
@@ -4018,12 +4021,9 @@
         {
             "seriesId": "35-35",
             "title": "笑ゥせぇるすまん（89～93年）【ﾃﾞｼﾞﾀﾙﾘﾏｽﾀｰ版】",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -4066,6 +4066,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "35-52",
+            "title": "劇場版あたしンち「情熱のちょ～超能力♪ 母大暴走！」",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -4235,7 +4243,8 @@
                 "newest": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -4311,11 +4320,9 @@
         {
             "seriesId": "420-63",
             "title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -4381,17 +4388,6 @@
                 "free": true
             },
             "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "481-7",
-            "title": "プラオレ！～PRIDE OF ORANGE～",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4731,10 +4727,9 @@
             "seriesId": "54-63",
             "title": "見える子ちゃん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4860,6 +4855,17 @@
         {
             "seriesId": "54-83",
             "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "54-85",
+            "title": "シルバニアファミリー",
             "label": {
                 "someFree": true
             },
@@ -5015,10 +5021,9 @@
             "seriesId": "564-9",
             "title": "休日のわるものさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5047,10 +5052,9 @@
             "seriesId": "593-4",
             "title": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5115,17 +5119,6 @@
             ]
         },
         {
-            "seriesId": "632-2",
-            "title": "マイホームヒーロー",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "632-3",
             "title": "シャングリラ・フロンティア",
             "label": {
@@ -5159,17 +5152,6 @@
             ]
         },
         {
-            "seriesId": "643-4",
-            "title": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "643-5",
             "title": "当て馬キャラのくせして、スパダリ王子に寵愛されています。【オンエア版】",
             "label": {
@@ -5184,6 +5166,16 @@
         {
             "seriesId": "662-1",
             "title": "ラプソディ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "669-1",
+            "title": "Walking Meat",
             "label": {
                 "free": true
             },
