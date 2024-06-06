@@ -1,6 +1,6 @@
 {
-    "pubAt": 1717459293,
-    "pubDate": "2024060409",
+    "pubAt": 1717632105,
+    "pubDate": "2024060609",
     "slots": {
         "abema-anime": [
             {
@@ -443,10 +443,12 @@
                 },
                 "flags": {
                     "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
                 "timeshiftEndAt": 1720602000,
+                "timeshiftFreeEndAt": 1718542800,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
@@ -2123,6 +2125,34 @@
                 },
                 "displaySeriesId": "168-54",
                 "content": "世にもビックリな、ビックリマンシール三億枚事件から一年。\n久しぶりのビックリマンチョコ発売をひかえて世間が盛り上がる中、ビックリマン工場の照光子は警戒を強める。\n一方、ヤマトは宅配バイト中に黒猫のクロと遭遇して……。"
+            },
+            {
+                "id": "AofKhxr8qvEP6o",
+                "channelId": "anime-live",
+                "title": "ラプソディ全話一挙【ロックの日】",
+                "startAt": 1717923600,
+                "endAt": 1717930800,
+                "tableStartAt": 1717923600,
+                "tableEndAt": 1717930800,
+                "highlight": "ラプソディ 全話一挙",
+                "displayProgramId": "662-1_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1720602000,
+                "timeshiftFreeEndAt": 1718535600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "662-1",
+                "content": "難しい性格の天才ボーカリスト望野一真と、インディー落ちを経験した3人のミュージシャンによって結成されたPink Flag。それぞれの挫折を抱える4人のリベンジライブが始まる。"
             },
             {
                 "id": "CwYrCr9obDNBDR",
