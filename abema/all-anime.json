@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024061910",
+    "pubAt": "2024062010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -91,20 +91,19 @@
             "seriesId": "11-38",
             "title": "カノジョも彼女",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
         {
             "seriesId": "11-44",
             "title": "可愛いだけじゃない式守さん",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -170,14 +169,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "11-56",
-            "title": "ゴールデンカムイ OAD",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -385,9 +376,10 @@
             "seriesId": "115-5",
             "title": "懺・さよなら絶望先生",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -775,6 +767,18 @@
             ]
         },
         {
+            "seriesId": "143-48",
+            "title": "GJ部",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "144-1smeznwkexx",
             "title": "侵略!イカ娘",
             "label": {
@@ -988,6 +992,17 @@
         {
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "168-39",
+            "title": "神クズ☆アイドル",
             "label": {
                 "someFree": true
             },
@@ -1333,10 +1348,9 @@
             "seriesId": "189-39",
             "title": "まちカドまぞく 2丁目",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1416,10 +1430,9 @@
             "seriesId": "189-56",
             "title": "婚約破棄された令嬢を拾った俺が、イケナイことを教え込む",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1563,12 +1576,9 @@
         {
             "seriesId": "19-140",
             "title": "暗殺教室",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -2054,10 +2064,9 @@
             "seriesId": "194-37",
             "title": "道産子ギャルはなまらめんこい",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2177,6 +2186,17 @@
         {
             "seriesId": "2-2bxddsdhdiw",
             "title": "メジャー",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "203-12",
+            "title": "Ｂビーダマン爆外伝",
             "label": {
                 "someFree": true
             },
@@ -2437,6 +2457,16 @@
             ]
         },
         {
+            "seriesId": "218-701",
+            "title": "TVアニメ「WIND BREAKER」“防風鈴(オレたち)が、渋谷を守る” 渋谷決起集会",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-706",
             "title": "SHIBUYA ANIME BASE",
             "label": {
@@ -2516,10 +2546,9 @@
             "seriesId": "247-1",
             "title": "政宗くんのリベンジ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2608,6 +2637,17 @@
             ]
         },
         {
+            "seriesId": "248-16",
+            "title": "戦国妖狐",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "248-17",
             "title": "最弱テイマーはゴミ拾いの旅を始めました。",
             "label": {
@@ -2646,14 +2686,6 @@
             },
             "onDemandTypes": [
                 3
-            ]
-        },
-        {
-            "seriesId": "25-106",
-            "title": "ノーゲーム・ノーライフ ゼロ",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -3070,9 +3102,10 @@
             "seriesId": "25-235",
             "title": "スパイ教室",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3187,17 +3220,6 @@
         {
             "seriesId": "25-246",
             "title": "攻略うぉんてっど！～異世界救います！？～",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-247",
-            "title": "オーバーテイク！",
             "label": {
                 "someFree": true
             },
@@ -3935,28 +3957,6 @@
             ]
         },
         {
-            "seriesId": "283-10",
-            "title": "アニメ「BanG Dream! 3rd Season」",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "283-16",
-            "title": "TVアニメ「BanG Dream!（バンドリ！）」",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "283-5",
             "title": "アニメ「BanG Dream! 2nd Season」",
             "label": {
@@ -4094,14 +4094,6 @@
             ]
         },
         {
-            "seriesId": "35-52",
-            "title": "劇場版あたしンち「情熱のちょ～超能力♪ 母大暴走！」",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "35-53",
             "title": "ドラえもん",
             "label": {
@@ -4127,8 +4119,7 @@
             "seriesId": "35-57",
             "title": "あたしンちNEXT",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -4173,6 +4164,17 @@
             "label": {
                 "someFree": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "397-19",
+            "title": "TVアニメ「オリエント」 安芸旅立ち編",
+            "label": {
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -4368,10 +4370,11 @@
             "seriesId": "420-65",
             "title": "転生貴族、鑑定スキルで成り上がる",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4846,9 +4849,10 @@
             "seriesId": "54-81",
             "title": "アリス・ギア・アイギス Expansion",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
