@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024062410",
+    "pubAt": "2024062510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -155,10 +155,9 @@
             "seriesId": "11-53",
             "title": "冒険者になりたいと都に出て行った娘がSランクになってた",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -221,6 +220,17 @@
         {
             "seriesId": "115-100",
             "title": "てんぷる",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "115-101",
+            "title": "AYAKA ‐あやか‐",
             "label": {
                 "someFree": true
             },
@@ -419,6 +429,17 @@
             ]
         },
         {
+            "seriesId": "115-96",
+            "title": "おとなりに銀河",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "115-97",
             "title": "デッドマウント・デスプレイ",
             "label": {
@@ -455,10 +476,9 @@
             "seriesId": "117-15",
             "title": "おねがいマイメロディ くるくるシャッフル！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -466,9 +486,10 @@
             "seriesId": "117-35",
             "title": "彼女が公爵邸に行った理由",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -508,9 +529,10 @@
             "seriesId": "117-8",
             "title": "山田くんと7人の魔女",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -612,8 +634,8 @@
             ]
         },
         {
-            "seriesId": "13-24ditdrg-nze",
-            "title": "ラブライブ！サンシャイン!!",
+            "seriesId": "13-1dzwgjitxyh",
+            "title": "アイドルマスター シンデレラガールズ",
             "label": {
                 "someFree": true
             },
@@ -745,9 +767,10 @@
             "seriesId": "144-1smeznwkexx",
             "title": "侵略!イカ娘",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -755,9 +778,10 @@
             "seriesId": "144-2bhztumsijw",
             "title": "侵略!?イカ娘",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -787,6 +811,17 @@
         {
             "seriesId": "149-14",
             "title": "吸血鬼すぐ死ぬ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "149-20",
+            "title": "人間不信の冒険者たちが世界を救うようです",
             "label": {
                 "someFree": true
             },
@@ -1026,17 +1061,6 @@
             ]
         },
         {
-            "seriesId": "168-52",
-            "title": "Paradox Live THE ANIMATION",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "168-53",
             "title": "TVアニメ『MFゴースト』",
             "label": {
@@ -1071,17 +1095,6 @@
             ]
         },
         {
-            "seriesId": "168-7",
-            "title": "ゾンビランドサガ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "169-111",
             "title": "弱キャラ友崎くん",
             "label": {},
@@ -1092,14 +1105,6 @@
         {
             "seriesId": "169-115",
             "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "169-116",
-            "title": "精霊幻想記",
             "label": {},
             "onDemandTypes": [
                 1
@@ -1189,9 +1194,10 @@
             "seriesId": "172-54",
             "title": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1212,17 +1218,6 @@
             "label": {
                 "someFree": true,
                 "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "173-5",
-            "title": "事情を知らない転校生がグイグイくる。",
-            "label": {
-                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1275,9 +1270,11 @@
         {
             "seriesId": "174-6",
             "title": "俺の彼女と幼なじみが修羅場すぎる",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1439,10 +1436,9 @@
             "seriesId": "189-59",
             "title": "魔都精兵のスレイブ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1491,9 +1487,10 @@
             "seriesId": "19-107",
             "title": "PSYCHO-PASS サイコパス",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1516,14 +1513,6 @@
         {
             "seriesId": "19-113",
             "title": "ヲタクに恋は難しい",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-114",
-            "title": "ヲタクに恋は難しい OAD",
             "label": {},
             "onDemandTypes": [
                 1
@@ -1648,9 +1637,10 @@
             "seriesId": "19-170",
             "title": "大雪海のカイナ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1915,8 +1905,31 @@
             ]
         },
         {
+            "seriesId": "19-77",
+            "title": "やはり俺の青春ラブコメはまちがっている｡",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "19-86",
             "title": "SPY×FAMILY",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "19-90",
+            "title": "スーパーウィングス",
             "label": {
                 "someFree": true
             },
@@ -1988,24 +2001,12 @@
             ]
         },
         {
-            "seriesId": "194-27",
-            "title": "パリピ孔明",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "194-28",
             "title": "魔法使い黎明期",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2024,9 +2025,10 @@
             "seriesId": "194-34",
             "title": "うちの会社の小さい先輩の話",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2287,17 +2289,6 @@
             ]
         },
         {
-            "seriesId": "216-20",
-            "title": "明治撃剣-1874-",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "218-101",
             "title": "声優と夜あそび 2nd season",
             "label": {},
@@ -2416,14 +2407,6 @@
             ]
         },
         {
-            "seriesId": "218-680",
-            "title": "声優50サミット 3時間でもだいじょうブイ！今だからこそ語らせてちょんまげ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "218-683",
             "title": "声優と夜あそび ANIMATION「いくだもも！そびー」",
             "label": {
@@ -2507,6 +2490,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "218-712",
+            "title": "「転生したら第七王子だったので、気ままに魔術を極めます」振り返り生放送特番！～第7話から暗殺者ギルド編が始まるので、気ままに第6話までを振り返ります～",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -2688,19 +2681,10 @@
             ]
         },
         {
-            "seriesId": "25-106",
-            "title": "ノーゲーム・ノーライフ ゼロ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "25-108",
             "title": "私に天使が舞い降りた！",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -2901,10 +2885,9 @@
             "seriesId": "25-163",
             "title": "８６―エイティシックス―",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3051,9 +3034,10 @@
             "seriesId": "25-220",
             "title": "宇崎ちゃんは遊びたい！ω",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3191,10 +3175,9 @@
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3604,21 +3587,12 @@
             ]
         },
         {
-            "seriesId": "26-104",
-            "title": "青の祓魔師 京都不浄王篇",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "26-108",
             "title": "『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3645,10 +3619,9 @@
             "seriesId": "26-12wggi-emdez",
             "title": "Angel Beats!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3975,6 +3948,17 @@
             ]
         },
         {
+            "seriesId": "27-1",
+            "title": "オシリスの天秤",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "273-528",
             "title": "すとぷりのHere!We!GO!!",
             "label": {
@@ -4005,6 +3989,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "30-12",
+            "title": "劇場版「進撃の巨人」~クロニクル~",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -4219,17 +4211,6 @@
             ]
         },
         {
-            "seriesId": "397-19",
-            "title": "TVアニメ「オリエント」 安芸旅立ち編",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "397-28",
             "title": "キャプテン翼シーズン２ ジュニアユース編",
             "label": {
@@ -4435,10 +4416,9 @@
             "seriesId": "481-6",
             "title": "ゾンビランドサガ リベンジ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4632,6 +4612,17 @@
             "seriesId": "512-11",
             "title": "勇気爆発バーンブレイバーン",
             "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "512-7",
+            "title": "アキバ冥途戦争",
+            "label": {
                 "free": true
             },
             "onDemandTypes": [
@@ -4639,8 +4630,8 @@
             ]
         },
         {
-            "seriesId": "512-7",
-            "title": "アキバ冥途戦争",
+            "seriesId": "512-9",
+            "title": "THE MARGINAL SERVICE",
             "label": {
                 "free": true
             },
@@ -4789,10 +4780,9 @@
             "seriesId": "54-70",
             "title": "史上最強の大魔王、村人Aに転生する",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4890,6 +4880,17 @@
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "54-86",
+            "title": "ヤンキーハムスター",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5150,6 +5151,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "656-1",
+            "title": "僕らの雨いろプロトコル",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
