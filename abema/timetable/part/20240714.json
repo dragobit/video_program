@@ -1,6 +1,6 @@
 {
-    "pubAt": 1720483283,
-    "pubDate": "2024070909",
+    "pubAt": 1720569679,
+    "pubDate": "2024071009",
     "slots": {
         "abema-anime": [
             {
@@ -2765,12 +2765,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1723546800,
+                "timeshiftFreeEndAt": 1721494800,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "171-19",
                 "content": "美術の専門クラスを有する、彩井高等学校。これは芸術科アートデザインクラスに通う、美術が大好きな女の子達のアーティスティックな日常を描いたおはなしです。\n普段の授業に留まらず、古いポスカラなども彼女達にかかれば、たちまち作品に早変わり。課題そっちのけに創作意欲を燃やしちゃいます。他にも自分だけのピクトグラム作りに、CGを使った授業と、独自な授業に興味津々。はてさて、どんな作品が出来るかな。"
@@ -2817,12 +2821,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1723590000,
+                "timeshiftFreeEndAt": 1721538000,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "171-19",
                 "content": "美術の専門クラスを有する、彩井高等学校。これは芸術科アートデザインクラスに通う、美術が大好きな女の子達のアーティスティックな日常を描いたおはなしです。\n普段の授業に留まらず、古いポスカラなども彼女達にかかれば、たちまち作品に早変わり。課題そっちのけに創作意欲を燃やしちゃいます。他にも自分だけのピクトグラム作りに、CGを使った授業と、独自な授業に興味津々。はてさて、どんな作品が出来るかな。"
@@ -2889,9 +2897,9 @@
                 "id": "A34SsS8FaHDgXy",
                 "channelId": "late-night-anime",
                 "title": "亜人 #1〜13【無料ビデオ1週間】",
-                "startAt": 1720868400,
+                "startAt": 1720869000,
                 "endAt": 1720890000,
-                "tableStartAt": 1720868400,
+                "tableStartAt": 1720869000,
                 "tableEndAt": 1720890000,
                 "highlight": "亜人 #1〜13",
                 "displayProgramId": "115-108_s1_p1",
@@ -2904,7 +2912,7 @@
                     "chasePlay": true,
                     "archiveComment": true
                 },
-                "timeshiftEndAt": 1723546800,
+                "timeshiftEndAt": 1723547400,
                 "timeshiftFreeEndAt": 1721494800,
                 "broadcastRegionPolicies": {
                     "linear": 1,
