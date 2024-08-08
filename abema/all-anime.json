@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024080710",
+    "pubAt": "2024080810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -108,10 +108,9 @@
             "seriesId": "11-47",
             "title": "悪役令嬢なのでラスボスを飼ってみました",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -119,10 +118,9 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -217,9 +215,10 @@
             "seriesId": "115-104",
             "title": "でこぼこ魔女の親子事情",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -457,17 +456,6 @@
             ]
         },
         {
-            "seriesId": "117-8",
-            "title": "山田くんと7人の魔女",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "12-25",
             "title": "小市民シリーズ",
             "label": {
@@ -491,11 +479,13 @@
             ]
         },
         {
-            "seriesId": "13-183",
-            "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
-            "label": {},
+            "seriesId": "13-168",
+            "title": "幻日のヨハネ -SUNSHINE in the MIRROR-",
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -536,17 +526,6 @@
         {
             "seriesId": "13-67",
             "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "13-8gjhfxmjumf",
-            "title": "ラブライブ！2期",
             "label": {
                 "someFree": true
             },
@@ -648,10 +627,9 @@
             "seriesId": "149-13",
             "title": "ひげを剃る。そして女子高生を拾う。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -674,6 +652,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "149-22",
+            "title": "結婚指輪物語",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -726,6 +714,18 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "15-31",
+            "title": "貼りまわれ！こいぬ",
+            "label": {
+                "someFree": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
             ]
         },
         {
@@ -1010,6 +1010,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "171-19",
+            "title": "GA 芸術科アートデザインクラス",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -1315,6 +1325,17 @@
             ]
         },
         {
+            "seriesId": "173-5",
+            "title": "事情を知らない転校生がグイグイくる。",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "174-1",
             "title": "這いよれ！ニャル子さん",
             "label": {
@@ -1456,10 +1477,9 @@
             "seriesId": "189-54",
             "title": "ダークギャザリング",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1681,14 +1701,6 @@
         {
             "seriesId": "19-140",
             "title": "暗殺教室",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-141",
-            "title": "冴えない彼女の育てかた Fine",
             "label": {},
             "onDemandTypes": [
                 1
@@ -2350,9 +2362,10 @@
             "seriesId": "210-11",
             "title": "好きな子がめがねを忘れた",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2610,10 +2623,9 @@
             "seriesId": "244-6",
             "title": "BanG Dream! It's MyGO!!!!!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2643,19 +2655,10 @@
             "seriesId": "247-18",
             "title": "政宗くんのリベンジR",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
-            ]
-        },
-        {
-            "seriesId": "247-19",
-            "title": "映画『ゆるキャン△』",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -2683,9 +2686,10 @@
             "seriesId": "248-15",
             "title": "最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2704,6 +2708,17 @@
         {
             "seriesId": "248-17",
             "title": "最弱テイマーはゴミ拾いの旅を始めました。",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "248-18",
+            "title": "となりの妖怪さん",
             "label": {
                 "someFree": true
             },
@@ -2795,14 +2810,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "25-134",
-            "title": "Re:ゼロから始める異世界生活 Memory Snow",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -2918,9 +2925,10 @@
             "seriesId": "25-17mhiuakxewg",
             "title": "きんいろモザイク",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3200,17 +3208,6 @@
             ]
         },
         {
-            "seriesId": "25-247",
-            "title": "オーバーテイク！",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "25-248",
             "title": "鴨乃橋ロンの禁断推理",
             "label": {
@@ -3338,9 +3335,10 @@
             "seriesId": "25-260",
             "title": "終末トレインどこへいく？",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3847,6 +3845,17 @@
             ]
         },
         {
+            "seriesId": "26-216",
+            "title": "青の祓魔師 島根啓明結社篇",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "26-218",
             "title": "黒執事 Book of Circus",
             "label": {
@@ -4089,10 +4098,9 @@
             "seriesId": "35-30",
             "title": "笑ゥせぇるすまん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4105,14 +4113,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "35-35",
-            "title": "笑ゥせぇるすまん（89～93年）【ﾃﾞｼﾞﾀﾙﾘﾏｽﾀｰ版】",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -4326,14 +4326,6 @@
             ]
         },
         {
-            "seriesId": "415-7",
-            "title": "まじっく快斗",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "415-8",
             "title": "劇場版 名探偵コナン",
             "label": {},
@@ -4401,12 +4393,9 @@
         {
             "seriesId": "420-57",
             "title": "ブルーロック",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -4670,6 +4659,17 @@
             ]
         },
         {
+            "seriesId": "512-7",
+            "title": "アキバ冥途戦争",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "536-1",
             "title": "呪術廻戦",
             "label": {
@@ -4684,10 +4684,9 @@
             "seriesId": "536-3",
             "title": "チェンソーマン",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4778,10 +4777,9 @@
             "seriesId": "54-69",
             "title": "骸骨騎士様、只今異世界へお出掛け中",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4940,10 +4938,9 @@
             "seriesId": "54-89",
             "title": "ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5083,6 +5080,17 @@
             ]
         },
         {
+            "seriesId": "593-2",
+            "title": "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "593-3",
             "title": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。",
             "label": {
@@ -5210,10 +5218,9 @@
             "seriesId": "675-1",
             "title": "オーイ！とんぼ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
