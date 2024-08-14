@@ -1,6 +1,6 @@
 {
-    "pubAt": 1723507286,
-    "pubDate": "2024081309",
+    "pubAt": 1723593700,
+    "pubDate": "2024081409",
     "slots": {
         "abema-anime": [],
         "abema-anime-2": [],
@@ -11,7 +11,60 @@
         "family-anime-1": [],
         "family-anime-2": [],
         "anime-special-2": [],
-        "anime-live": [],
+        "anime-live": [
+            {
+                "id": "9y9oHrssHuWFbD",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 繋 ＜再＞【金田朋子×畠中祐】 #42",
+                "startAt": 1724157600,
+                "endAt": 1724158800,
+                "tableStartAt": 1724157600,
+                "tableEndAt": 1724158800,
+                "highlight": "声優と夜あそび 金田朋子 畠中祐",
+                "displayProgramId": "218-694_s18_p42",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1726836000,
+                "timeshiftFreeEndAt": 1724763600,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-694",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！"
+            },
+            {
+                "id": "ErcCke1QgVPWjR",
+                "channelId": "anime-live",
+                "title": "声優と夜あそび 火 ＜再＞【上坂すみれ×芹澤優】 #3",
+                "startAt": 1724158800,
+                "endAt": 1724164200,
+                "tableStartAt": 1724158800,
+                "tableEndAt": 1724164200,
+                "highlight": "声優と夜あそび 上坂すみれ 芹澤優",
+                "displayProgramId": "218-694_s13_p3",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1726837200,
+                "timeshiftFreeEndAt": 1724769000,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-694",
+                "content": "過去の「声優と夜あそび」放送回から、厳選回をピックアップ再放送！"
+            }
+        ],
         "anime-live2": [],
         "isekai-anime": [],
         "isekai-anime-2": [],
