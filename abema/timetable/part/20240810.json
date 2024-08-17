@@ -1,32 +1,8 @@
 {
-    "pubAt": 1723768291,
-    "pubDate": "2024081609",
+    "pubAt": 1723854717,
+    "pubDate": "2024081709",
     "slots": {
         "abema-anime": [
-            {
-                "id": "CYdyU47rQmVEwq",
-                "channelId": "abema-anime",
-                "title": "俺は全てを【パリイ】する #6・見逃し放送",
-                "startAt": 1723213800,
-                "endAt": 1723215600,
-                "tableStartAt": 1723213800,
-                "tableEndAt": 1723215600,
-                "highlight": "俺は全てを【パリイ】する #6",
-                "displayProgramId": "593-9_s1_p6",
-                "mark": {},
-                "flags": {
-                    "timeshift": true,
-                    "chasePlay": true,
-                    "archiveComment": true
-                },
-                "timeshiftEndAt": 1725892200,
-                "broadcastRegionPolicies": {
-                    "linear": 1,
-                    "timeshift": 1
-                },
-                "displaySeriesId": "593-9",
-                "content": "ノールが助けた少年・ロロは、生まれつき魔物を操る力を持つ「魔族」だった。その力を恐れられ、ロロは幼い頃から酷い扱いを受けてきた。だがノールは偏見を持たず、ロロの才能を純粋に認め、励ましの言葉をかける。そんな中、ノールたちの前に立ちはだかったのは、十字の剣を背負い、短剣を携えた異様な男。不敵な笑みを浮かべ、ロロの命を狙っているようで......。"
-            },
             {
                 "id": "9J3rK7xqYyRSLF",
                 "groupId": "B5zWxcnk4q2o6X",
@@ -924,6 +900,30 @@
                 },
                 "displaySeriesId": "169-142",
                 "content": "若者たちで賑わうEランク昇級試験会場に、30歳を過ぎてギルド事務員から冒険者に転職したリック・グラディアートルの姿があった。試験官や受験者たちから年齢や魔力量の少なさを馬鹿にされながらも、大陸最強のパーティ「オリハルコン・フィスト」による訓練を乗り越えてきたリックは次々と試験をクリアしていくが、同じ試験を受けていた「神童」フリードに逆恨みされ、その姉アンジェリカから決闘を申し込まれてしまう……。"
+            },
+            {
+                "id": "9k7pKJZV1UkRQ3",
+                "channelId": "abema-anime-2",
+                "title": "モブから始まる探索英雄譚【試し見#1 続きはABEMAビデオへ】",
+                "startAt": 1723296600,
+                "endAt": 1723298400,
+                "tableStartAt": 1723296600,
+                "tableEndAt": 1723298400,
+                "highlight": "モブから始まる探索英雄譚 #1",
+                "displayProgramId": "218-709_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1725975000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "218-709",
+                "content": "毎日スライムを狩るモブ探索者・高木海斗はある日見たこともない黄金のスライムに遭遇する。倒したスライムがドロップしたのは、激レアアイテムのサーバントカードだった！"
             },
             {
                 "id": "ELuqHCYXXQ9B1h",
@@ -2827,37 +2827,6 @@
         ],
         "anime-live": [
             {
-                "id": "ETRpouuUwXzcfq",
-                "groupId": "CKcjHUxZ81Wx4o",
-                "channelId": "anime-live",
-                "title": "ホロごえっ！【鷹嶺ルイ×楠木ともり】 #8 (再放送)",
-                "startAt": 1723213800,
-                "endAt": 1723215600,
-                "tableStartAt": 1723213800,
-                "tableEndAt": 1723215600,
-                "highlight": "ホロごえっ！ 鷹嶺ルイ 楠木ともり",
-                "displayProgramId": "218-690_s6_p8",
-                "mark": {
-                    "recommendation": true
-                },
-                "flags": {
-                    "share": true,
-                    "timeshift": true,
-                    "sharingPolicy": 1,
-                    "timeshiftFree": true,
-                    "chasePlay": true,
-                    "archiveComment": true
-                },
-                "timeshiftEndAt": 1725892200,
-                "timeshiftFreeEndAt": 1723820400,
-                "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
-                },
-                "displaySeriesId": "218-690",
-                "content": "【金曜日は鷹嶺ルイ×楠木ともり】\n\n隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！"
-            },
-            {
                 "id": "9k7pLCzbUaKaWB",
                 "channelId": "anime-live",
                 "title": "鈴村健一のラジベースDUO #18",
@@ -3416,6 +3385,33 @@
                 },
                 "displaySeriesId": "420-67",
                 "content": "アソビング社長のデバッグストーンを奪うため、様々な障害を突破するハガたち。いよいよ目的である社長の部屋にたどり着けるというその直前、巨大な剣を携えた寡黙な黒い鎧の騎士が現れる。"
+            },
+            {
+                "id": "CSKo4HMyehwXWf",
+                "groupId": "CVdk2dUDT8vTbm",
+                "channelId": "isekai-anime",
+                "title": "モブから始まる探索英雄譚 #7【地上波先行・独占見放題】",
+                "startAt": 1723296600,
+                "endAt": 1723298400,
+                "tableStartAt": 1723296600,
+                "tableEndAt": 1723298400,
+                "highlight": "モブから始まる探索英雄譚 #7",
+                "displayProgramId": "218-709_s1_p7",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true
+                },
+                "timeshiftEndAt": 1725975000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "218-709",
+                "content": "春香と王華学院のオープンキャンパスに行くことになった海斗。「ダンジョンのことは忘れて」そう告げられた海斗だったが、口を滑らせダンジョン攻略の事がバレてしまった！"
             },
             {
                 "id": "C6a1UBsJdZY5DZ",
