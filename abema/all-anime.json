@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024082210",
+    "pubAt": "2024082310",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -419,6 +419,14 @@
             ]
         },
         {
+            "seriesId": "13-186",
+            "title": "メジャー ワールドシリーズ編 夢の瞬間へ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "13-47",
             "title": "銀魂",
             "label": {
@@ -441,10 +449,21 @@
             ]
         },
         {
+            "seriesId": "142-6",
+            "title": "烏は主を選ばない",
+            "label": {
+                "newest": true
+            },
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "143-1",
             "title": "ポンコツクエスト～魔王と派遣の魔物たち～",
             "label": {
-                "someFree": true
+                "someFree": true,
+                "newest": true
             },
             "onDemandTypes": [
                 1,
@@ -672,9 +691,10 @@
             "seriesId": "168-23",
             "title": "かくしごと",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -792,17 +812,6 @@
         {
             "seriesId": "168-56",
             "title": "柚木さんちの四兄弟。",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "168-62",
-            "title": "ヴァンパイア男子寮",
             "label": {
                 "someFree": true
             },
@@ -1024,11 +1033,9 @@
         {
             "seriesId": "172-22",
             "title": "ルパン三世TVSP #16　盗まれたルパン～コピーキャットは真夏の蝶～",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1100,31 +1107,25 @@
         {
             "seriesId": "172-38",
             "title": "ルパン三世TVSP #17　天使の策略～夢のカケラは殺しの香り～",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "172-39",
             "title": "ルパン三世TVSP #18　セブンデイズ・ラプソディ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "172-40",
             "title": "ルパン三世TVSP #19　霧のエリューシヴ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1203,6 +1204,16 @@
         {
             "seriesId": "172-58",
             "title": "ルパン三世TVSP #25 ルパン三世 イタリアン・ゲーム",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "173-5",
+            "title": "事情を知らない転校生がグイグイくる。",
             "label": {
                 "free": true
             },
@@ -1339,46 +1350,6 @@
             ]
         },
         {
-            "seriesId": "184-155",
-            "title": "劇場版 ドラゴンボール 神龍の伝説",
-            "label": {
-                "newest": true
-            },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "184-156",
-            "title": "劇場版 ドラゴンボール 摩訶不思議大冒険",
-            "label": {
-                "newest": true
-            },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "184-157",
-            "title": "劇場版 ドラゴンボール 魔神城のねむり姫",
-            "label": {
-                "newest": true
-            },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "184-158",
-            "title": "劇場版 ドラゴンボールZ",
-            "label": {
-                "newest": true
-            },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "184-159",
             "title": "劇場版 ドラゴンボールZ この世で一番強いヤツ",
             "label": {
@@ -1413,33 +1384,30 @@
             "seriesId": "184-162",
             "title": "劇場版 ドラゴンボールZ 極限バトル!!三大超サイヤ人",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "184-163",
             "title": "劇場版 ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "184-164",
             "title": "劇場版 ドラゴンボールZ 激突!!100億パワーの戦士たち",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1477,11 +1445,10 @@
             "seriesId": "184-168",
             "title": "劇場版 ドラゴンボールZ 燃えつきろ!!熱戦・烈戦・超激戦",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1627,9 +1594,10 @@
             "seriesId": "189-63",
             "title": "Re:Monster",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1659,10 +1627,11 @@
             "seriesId": "189-68",
             "title": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1733,11 +1702,9 @@
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1824,14 +1791,6 @@
             ]
         },
         {
-            "seriesId": "19-164",
-            "title": "クズの本懐",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "19-171",
             "title": "葬送のフリーレン",
             "label": {},
@@ -1851,8 +1810,16 @@
             ]
         },
         {
-            "seriesId": "19-179",
-            "title": "To LOVEる -とらぶる-",
+            "seriesId": "19-177",
+            "title": "よふかしのうた",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "19-178",
+            "title": "アマガミSS",
             "label": {
                 "someFree": true
             },
@@ -1862,11 +1829,14 @@
             ]
         },
         {
-            "seriesId": "19-180",
-            "title": "うる星やつら",
-            "label": {},
+            "seriesId": "19-179",
+            "title": "To LOVEる -とらぶる-",
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1905,9 +1875,10 @@
             "seriesId": "19-189",
             "title": "中二病でも恋がしたい！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1929,6 +1900,17 @@
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "19-192",
+            "title": "バーテンダー 神のグラス",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1956,9 +1938,10 @@
             "seriesId": "19-195",
             "title": "CLANNAD",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2010,11 +1993,10 @@
             "seriesId": "19-201",
             "title": "千年女優",
             "label": {
-                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2491,16 +2473,6 @@
             ]
         },
         {
-            "seriesId": "218-683",
-            "title": "声優と夜あそび ANIMATION「いくだもも！そびー」",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-690",
             "title": "ホロごえっ！",
             "label": {
@@ -2570,17 +2542,6 @@
             ]
         },
         {
-            "seriesId": "218-739",
-            "title": "もう7話ってマジカ(鹿)！？シカ部緊急テコ入れ集会",
-            "label": {
-                "free": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-740",
             "title": "「狼と香辛料」第四章放送直前特番",
             "label": {
@@ -2603,13 +2564,22 @@
             ]
         },
         {
+            "seriesId": "241-243",
+            "title": "東京ゴッドファーザーズ",
+            "label": {
+                "newest": true
+            },
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "247-13",
             "title": "魔王城でおやすみ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2673,9 +2643,10 @@
             "seriesId": "248-18",
             "title": "となりの妖怪さん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2725,10 +2696,9 @@
             "seriesId": "25-118",
             "title": "女子高生の無駄づかい",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2779,9 +2749,10 @@
             "seriesId": "25-13tyr-wzynnz",
             "title": "狼と香辛料",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2930,6 +2901,14 @@
             ]
         },
         {
+            "seriesId": "25-216",
+            "title": "劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "25-218",
             "title": "夫婦以上、恋人未満。",
             "label": {
@@ -2937,6 +2916,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-220",
+            "title": "宇崎ちゃんは遊びたい！ω",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -2985,9 +2974,21 @@
             "seriesId": "25-235",
             "title": "スパイ教室",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-236",
+            "title": "転生王女と天才令嬢の魔法革命",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3037,17 +3038,6 @@
         {
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "25-243",
-            "title": "Lv1魔王とワンルーム勇者",
             "label": {
                 "someFree": true
             },
@@ -3136,14 +3126,6 @@
             },
             "onDemandTypes": [
                 3
-            ]
-        },
-        {
-            "seriesId": "25-254",
-            "title": "佐々木とピーちゃん",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -3417,17 +3399,6 @@
             ]
         },
         {
-            "seriesId": "26-108",
-            "title": "『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "26-11",
             "title": "傷物語",
             "label": {},
@@ -3471,6 +3442,17 @@
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "26-13",
+            "title": "黒執事Ⅱ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3564,8 +3546,27 @@
             ]
         },
         {
+            "seriesId": "26-203",
+            "title": "るろうに剣心 －明治剣客浪漫譚－",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "26-207",
             "title": "帰還者の魔法は特別です",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "26-209",
+            "title": "新しい上司はど天然",
             "label": {
                 "someFree": true
             },
@@ -3596,17 +3597,6 @@
             ]
         },
         {
-            "seriesId": "26-218",
-            "title": "黒執事 Book of Circus",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "26-219",
             "title": "WIND BREAKER",
             "label": {
@@ -3620,17 +3610,6 @@
         {
             "seriesId": "26-220",
             "title": "黒執事 -寄宿学校編-",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "26-221",
-            "title": "龍族 -The Blazing Dawn-（日本語吹替版）",
             "label": {
                 "someFree": true
             },
@@ -3743,17 +3722,6 @@
         {
             "seriesId": "26-75",
             "title": "テレビアニメ「鬼滅の刃」",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "283-5",
-            "title": "アニメ「BanG Dream! 2nd Season」",
             "label": {
                 "someFree": true
             },
@@ -4642,6 +4610,16 @@
             ]
         },
         {
+            "seriesId": "512-11",
+            "title": "勇気爆発バーンブレイバーン",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "527-610",
             "title": "ABEMA×ヒプステ",
             "label": {
@@ -5009,6 +4987,17 @@
             ]
         },
         {
+            "seriesId": "564-7",
+            "title": "ミギとダリ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "564-8",
             "title": "はめつのおうこく",
             "label": {
@@ -5122,10 +5111,11 @@
             "seriesId": "632-1",
             "title": "女神のカフェテラス",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
