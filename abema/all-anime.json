@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024090710",
+    "pubAt": "2024090810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -131,10 +131,9 @@
             "seriesId": "11-53",
             "title": "冒険者になりたいと都に出て行った娘がSランクになってた",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -216,17 +215,6 @@
             ]
         },
         {
-            "seriesId": "115-104",
-            "title": "でこぼこ魔女の親子事情",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "115-105",
             "title": "とあるおっさんのＶＲＭＭＯ活動記",
             "label": {
@@ -285,28 +273,6 @@
         {
             "seriesId": "115-44",
             "title": "kiss×sis",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "115-4cp-hkkdddk",
-            "title": "さよなら絶望先生",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "115-5",
-            "title": "懺・さよなら絶望先生",
             "label": {
                 "someFree": true
             },
@@ -640,9 +606,10 @@
             "seriesId": "144-2bhztumsijw",
             "title": "侵略!?イカ娘",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -757,18 +724,6 @@
             ]
         },
         {
-            "seriesId": "15-31",
-            "title": "貼りまわれ！こいぬ",
-            "label": {
-                "someFree": true,
-                "newest": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "150-8",
             "title": "ぼくらの",
             "label": {
@@ -872,8 +827,8 @@
             ]
         },
         {
-            "seriesId": "168-52",
-            "title": "Paradox Live THE ANIMATION",
+            "seriesId": "168-53",
+            "title": "TVアニメ『MFゴースト』",
             "label": {
                 "someFree": true
             },
@@ -883,8 +838,8 @@
             ]
         },
         {
-            "seriesId": "168-53",
-            "title": "TVアニメ『MFゴースト』",
+            "seriesId": "168-56",
+            "title": "柚木さんちの四兄弟。",
             "label": {
                 "someFree": true
             },
@@ -1113,6 +1068,14 @@
             ]
         },
         {
+            "seriesId": "172-32",
+            "title": "ルパン三世TVSP #02　 ヘミングウェイ・ペーパーの謎",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "172-33",
             "title": "ルパン三世TVSP #03　ナポレオンの辞書を奪え",
             "label": {},
@@ -1121,16 +1084,16 @@
             ]
         },
         {
-            "seriesId": "172-34",
-            "title": "ルパン三世TVSP #04　ロシアより愛をこめて",
+            "seriesId": "172-35",
+            "title": "ルパン三世TVSP #06　燃えよ斬鉄剣",
             "label": {},
             "onDemandTypes": [
                 1
             ]
         },
         {
-            "seriesId": "172-35",
-            "title": "ルパン三世TVSP #06　燃えよ斬鉄剣",
+            "seriesId": "172-36",
+            "title": "ルパン三世TVSP #08　トワイライト☆ジェミニの秘密",
             "label": {},
             "onDemandTypes": [
                 1
@@ -1289,10 +1252,9 @@
             "seriesId": "177-228",
             "title": "TVアニメ『レベル1だけどユニークスキルで最強です』",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1566,11 +1528,10 @@
             "seriesId": "189-65",
             "title": "疑似ハーレム",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1749,8 +1710,8 @@
             ]
         },
         {
-            "seriesId": "19-16",
-            "title": "ハイキュー!!",
+            "seriesId": "19-150",
+            "title": "もののがたり",
             "label": {
                 "someFree": true
             },
@@ -1760,11 +1721,10 @@
             ]
         },
         {
-            "seriesId": "19-168",
-            "title": "ちびゴジラの逆襲",
+            "seriesId": "19-16",
+            "title": "ハイキュー!!",
             "label": {
-                "someFree": true,
-                "newest": true
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -1788,14 +1748,6 @@
             "onDemandTypes": [
                 1,
                 3
-            ]
-        },
-        {
-            "seriesId": "19-177",
-            "title": "よふかしのうた",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -1886,16 +1838,6 @@
             ]
         },
         {
-            "seriesId": "19-193",
-            "title": "喧嘩独学",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "19-195",
             "title": "CLANNAD",
             "label": {
@@ -1943,17 +1885,6 @@
         {
             "seriesId": "19-34",
             "title": "Ｄｒ．ＳＴＯＮＥ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "19-3wxgpd-fitp",
-            "title": "未確認で進行形",
             "label": {
                 "someFree": true
             },
@@ -2050,10 +1981,9 @@
             "seriesId": "194-18",
             "title": "ドメスティックな彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2151,6 +2081,25 @@
             },
             "onDemandTypes": [
                 3
+            ]
+        },
+        {
+            "seriesId": "199-30",
+            "title": "とある科学の超電磁砲T",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "199-53",
+            "title": "聖剣伝説 Legend of Mana - The Teardrop Crystal -",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -2405,6 +2354,16 @@
             ]
         },
         {
+            "seriesId": "218-683",
+            "title": "声優と夜あそび ANIMATION「いくだもも！そびー」",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-690",
             "title": "ホロごえっ！",
             "label": {
@@ -2467,6 +2426,17 @@
             "title": "にじさんじ甲子園観戦配信2024",
             "label": {
                 "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "218-745",
+            "title": "TVアニメ「異世界スーサイド・スクワッド」♡ABEMAでISEKAIパーティーⅡ♡",
+            "label": {
+                "free": true,
+                "newest": true
             },
             "onDemandTypes": [
                 3
@@ -2582,9 +2552,10 @@
             "seriesId": "25-108",
             "title": "私に天使が舞い降りた！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2760,9 +2731,10 @@
             "seriesId": "25-199",
             "title": "デート・ア・ライブⅤ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2791,9 +2763,10 @@
             "seriesId": "25-202",
             "title": "リアデイルの大地にて",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2830,9 +2803,10 @@
             "seriesId": "25-218",
             "title": "夫婦以上、恋人未満。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3008,9 +2982,10 @@
             "seriesId": "25-245",
             "title": "豚のレバーは加熱しろ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3023,20 +2998,13 @@
             ]
         },
         {
-            "seriesId": "25-249",
-            "title": "劇場版 異世界かるてっと～あなざーわーるど～",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "25-24bkfwbcunxt",
             "title": "さくら荘のペットな彼女",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3044,10 +3012,9 @@
             "seriesId": "25-250",
             "title": "悪役令嬢レベル99～私は裏ボスですが魔王ではありません～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3254,6 +3221,17 @@
             ]
         },
         {
+            "seriesId": "25-3069dr7nb-uc",
+            "title": "はたらく魔王さま！",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-40xx2hk3u5ai",
             "title": "この素晴らしい世界に祝福を！",
             "label": {
@@ -3384,6 +3362,17 @@
             "label": {
                 "someFree": true,
                 "newest": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-94",
+            "title": "ヒナまつり",
+            "label": {
+                "someFree": true
             },
             "onDemandTypes": [
                 1,
@@ -3601,10 +3590,9 @@
             "seriesId": "26-218",
             "title": "黒執事 Book of Circus",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3656,10 +3644,11 @@
             "seriesId": "26-224",
             "title": "負けヒロインが多すぎる！",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3899,12 +3888,10 @@
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
             "label": {
-                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3956,6 +3943,17 @@
         {
             "seriesId": "35-6p-ykmmdmgj",
             "title": "怪物くん",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "35-7fbsihxzgdw",
+            "title": "忍者ハットリくん",
             "label": {
                 "someFree": true
             },
@@ -4164,10 +4162,11 @@
             "seriesId": "420-68",
             "title": "杖と剣のウィストリア",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4386,9 +4385,10 @@
             "seriesId": "5-52",
             "title": "スイートプリキュア♪",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4635,10 +4635,9 @@
             "seriesId": "536-3",
             "title": "チェンソーマン",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4763,10 +4762,9 @@
             "seriesId": "54-75",
             "title": "異世界迷宮でハーレムを《TV放送ver.》",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4939,10 +4937,11 @@
             "seriesId": "564-11",
             "title": "僕の妻は感情がない",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4950,10 +4949,11 @@
             "seriesId": "564-12",
             "title": "ダンジョンの中のひと",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
