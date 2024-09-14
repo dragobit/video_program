@@ -1,41 +1,8 @@
 {
-    "pubAt": 1725926491,
-    "pubDate": "2024091009",
+    "pubAt": 1726272096,
+    "pubDate": "2024091409",
     "slots": {
         "abema-anime": [
-            {
-                "id": "FF3mGvvb39hNvB",
-                "groupId": "A34Sq1S87Hz9gb",
-                "channelId": "abema-anime",
-                "title": "SHY 第2期 #21【最新話】",
-                "startAt": 1725633000,
-                "endAt": 1725634800,
-                "tableStartAt": 1725633000,
-                "tableEndAt": 1725634800,
-                "highlight": "SHY 第2期 #21",
-                "displayProgramId": "420-61_s2_p21",
-                "mark": {
-                    "newcomer": true,
-                    "recommendation": true
-                },
-                "flags": {
-                    "timeshift": true,
-                    "timeshiftFree": true,
-                    "chasePlay": true,
-                    "archiveComment": true
-                },
-                "timeshiftEndAt": 1728311400,
-                "timeshiftFreeEndAt": 1726239600,
-                "broadcastRegionPolicies": {
-                    "linear": 1,
-                    "timeshift": 1
-                },
-                "displaySeriesId": "420-61",
-                "content": "ようやくウツロの前にたどり着いたシャイと曖だったが、曖がウツロに取り込まれて一つになってしまう。変化したウツロの強力な一撃を食らい、失意のまま気を失ってしまうシャイ。薄れゆく意識の中でシャイが出会ったのは心刀・無垢の心だった。無垢を手に新たな力に目覚めたシャイは再び立ち上がる。",
-                "chasePlayFeatureAuthorityIds": [
-                    "d42dccf7-267d-4d75-88e1-587d851202c9"
-                ]
-            },
             {
                 "id": "EQYEoDFujG3HFM",
                 "groupId": "B5zWxcnk4q2o6X",
@@ -2799,41 +2766,8 @@
                 ]
             }
         ],
+        "anime-special-2": [],
         "anime-live": [
-            {
-                "id": "98Gs5qxeTj3Pgb",
-                "groupId": "CKcjHUxZ81Wx4o",
-                "channelId": "anime-live",
-                "title": "ホロごえっ！【鷹嶺ルイ×楠木ともり】 (再放送) #10",
-                "startAt": 1725633000,
-                "endAt": 1725634800,
-                "tableStartAt": 1725633000,
-                "tableEndAt": 1725634800,
-                "highlight": "ホロごえっ！ 鷹嶺ルイ 楠木ともり",
-                "displayProgramId": "218-690_s6_p10",
-                "mark": {
-                    "recommendation": true
-                },
-                "flags": {
-                    "share": true,
-                    "timeshift": true,
-                    "sharingPolicy": 1,
-                    "timeshiftFree": true,
-                    "chasePlay": true,
-                    "archiveComment": true
-                },
-                "timeshiftEndAt": 1728311400,
-                "timeshiftFreeEndAt": 1726239600,
-                "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
-                },
-                "displaySeriesId": "218-690",
-                "content": "【金曜日は鷹嶺ルイ×楠木ともり】\n\n隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！",
-                "chasePlayFeatureAuthorityIds": [
-                    "d42dccf7-267d-4d75-88e1-587d851202c9"
-                ]
-            },
             {
                 "id": "Ek6DGN2Zq2nkZV",
                 "channelId": "anime-live",
@@ -3345,8 +3279,7 @@
                 },
                 "flags": {
                     "timeshift": true,
-                    "chasePlay": true,
-                    "archiveComment": true
+                    "chasePlay": true
                 },
                 "timeshiftEndAt": 1728394200,
                 "broadcastRegionPolicies": {
