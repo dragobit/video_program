@@ -1,6 +1,6 @@
 {
-    "pubAt": 1726358503,
-    "pubDate": "2024091509",
+    "pubAt": 1726444899,
+    "pubDate": "2024091609",
     "slots": {
         "abema-anime": [
             {
@@ -520,7 +520,9 @@
                     "recommendation": true
                 },
                 "flags": {
+                    "share": true,
                     "timeshift": true,
+                    "sharingPolicy": 1,
                     "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
@@ -2472,6 +2474,38 @@
                 },
                 "displaySeriesId": "54-86",
                 "content": "♪大都会の～江古田で～今日もオレたち元気！元気！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AsHjDMZcAA6PrP",
+                "channelId": "family-anime-1",
+                "title": "ダイキン空気予報 9/15",
+                "startAt": 1726405020,
+                "endAt": 1726405200,
+                "tableStartAt": 1726405020,
+                "tableEndAt": 1726405620,
+                "highlight": "ダイキン空気予報 9/15",
+                "displayProgramId": "221-115_s4_p259",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1726491420,
+                "timeshiftFreeEndAt": 1726491420,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "221-115",
+                "detailHighlight": "”人々の生活をよりよくする”をテーマに、明日の天気と空気を毎日お伝えする予報番組",
+                "content": "人々の生活をよりよくする空気をお届けしたい。\n そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！\n \n 【提供】ダイキン工業",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
