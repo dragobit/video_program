@@ -1,8 +1,34 @@
 {
-    "pubAt": 1728000078,
-    "pubDate": "2024100409",
+    "pubAt": 1728086801,
+    "pubDate": "2024100509",
     "slots": {
         "abema-anime": [
+            {
+                "id": "F2PC2xcvYhK6ym",
+                "channelId": "abema-anime",
+                "title": "青の祓魔師 雪ノ果篇 #1・見逃し放送",
+                "startAt": 1728570600,
+                "endAt": 1728572400,
+                "tableStartAt": 1728570600,
+                "tableEndAt": 1728572400,
+                "highlight": "青の祓魔師 雪ノ果篇 #1",
+                "displayProgramId": "26-230_s1_p1",
+                "mark": {},
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "26-230",
+                "content": "突然姿を消したシュラを捜索するため、燐と雪男は兄弟ふたりで青森・永久蛇湖へ向かう。\nここは、シュラの出身地――かつて獅郎が彼女を保護した場所だった。\n捜索を進める中、燐と雪男は、シュラに待ち受ける定めを知る。\n\n一方、正十字騎士團日本支部にやってきた四大騎士（アークナイト）のひとり・ライトニングは、イルミナティについての調査を開始する。\n全ては「青い夜」から始まった――そう推測するライトニングは、徐々に騎士團の暗部へ足を踏み入れることとなる……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
             {
                 "id": "CGiQUmvgPik2CP",
                 "groupId": "9grpbpC6yLpAR5",
@@ -429,7 +455,10 @@
                 "tableEndAt": 1728655200,
                 "highlight": "2.5次元の誘惑 #15",
                 "displayProgramId": "175-1rthzhecdme_s0_p55",
-                "mark": {},
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
                 "flags": {
                     "timeshift": true,
                     "timeshiftFree": true,
@@ -1678,7 +1707,478 @@
                 ]
             }
         ],
-        "family-anime-1": [],
+        "family-anime-1": [
+            {
+                "id": "9y9oKP3XFSvKZZ",
+                "channelId": "family-anime-1",
+                "title": "あたしンち #27〜39【無料ビデオ1週間】",
+                "startAt": 1728572160,
+                "endAt": 1728579600,
+                "tableStartAt": 1728572160,
+                "tableEndAt": 1728579600,
+                "highlight": "あたしンち #27〜39",
+                "displayProgramId": "35-34_s1_p27",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731250560,
+                "timeshiftFreeEndAt": 1729184400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-34",
+                "content": "フランス料理のランチにでかけた母。慣れない雰囲気に緊張した母がとった行動とは!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9y9oKgEWDoC7nX",
+                "channelId": "family-anime-1",
+                "title": "あたしンち #648〜662【無料ビデオ1週間】",
+                "startAt": 1728579600,
+                "endAt": 1728586800,
+                "tableStartAt": 1728579600,
+                "tableEndAt": 1728586800,
+                "highlight": "あたしンち #648〜662",
+                "displayProgramId": "35-34_s1_p648",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731258000,
+                "timeshiftFreeEndAt": 1729191600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-34",
+                "content": "幼いみかんの悩みはヒゲが生えていることだった？産毛であると先生に言われたものの、気になって仕方がない様子。高校生になったみかんは、母の産毛も気になり剃ることを勧めるが？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoHyMnGKtciK",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん 伝説を呼ぶ 踊れ！アミーゴ！",
+                "startAt": 1728586800,
+                "endAt": 1728592680,
+                "tableStartAt": 1728586800,
+                "tableEndAt": 1728592680,
+                "highlight": "伝説を呼ぶ 踊れ！アミーゴ！",
+                "displayProgramId": "35-55_s0_p14",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731265200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "ニセモノォ？本物そっくりなんだけど、でも本物じゃないんだ。「ただいま」ってウチに帰るのはそっくりさんの方らしい…カスカベ都市伝説…本物はどこへ？そんな噂がしんのすけたちの間でも広がっていた。そしてある日、買い物をしている野原一家。しんのすけはお菓子売り場を物色していたが案の定、迷子に。そこにみさえがしんのすけに近づいてくる。妙に優しく、いつもなら絶対に買ってくれないお菓子を買ってくれるみさえにしんのすけは大はしゃぎ。しかし、そのみさえこそ、恐怖の“そっくり人間”だったのだ…。しんのすけに危機迫る！が、そこにフィーニー特捜官が現れ、間一髪の所で救う！颯爽と現れたラテン美女にしんのすけはすっかり夢中！フィーニーと共にカスカベを脱出しようとするホンモノの野原一家。しかし、追っ手の執拗な追跡にとうとう敵の基地に拉致されてしまう。\nはたして“そっくり人間“の謎と陰謀とは？ しんのすけは“ホンモノの家族”とカスカベを守るため、おケツに渾身の力を込め、今、情熱のダンス・バトルが始まる！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoGm4Q4DJ64P",
+                "channelId": "family-anime-1",
+                "title": "ヤンキーハムスター シーズン3 #21〜26【無料ビデオ1週間】",
+                "startAt": 1728592680,
+                "endAt": 1728594000,
+                "tableStartAt": 1728592680,
+                "tableEndAt": 1728594000,
+                "highlight": "ヤンキーハムスター シーズン3 #21〜26",
+                "displayProgramId": "54-86_s3_p21",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1730386800,
+                "timeshiftFreeEndAt": 1729198800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-86",
+                "content": "子どもたちにもヤンキーについて知ってほしいから、この紙芝居を作りました。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoFs4wbEQ6oy",
+                "channelId": "family-anime-1",
+                "title": "映画ドラえもん のび太の宇宙小戦争2021",
+                "startAt": 1728594000,
+                "endAt": 1728600960,
+                "tableStartAt": 1728594000,
+                "tableEndAt": 1728600960,
+                "highlight": "のび太の宇宙小戦争2021",
+                "displayProgramId": "35-46_s0_p41",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731272400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-46",
+                "content": "夏休みのある日。のび太が拾った小さなロケットの中から、手のひらサイズの宇宙人・パピがあらわれる！彼は、宇宙のかなたにある小さな星・ピリカ星の大統領で、反乱軍から逃れるために地球にやってきたという。最初はパピのあまりの小ささに戸惑うドラえもんたちだったが、ひみつ道具‟スモールライト“で自分たちも小さくなって一緒に遊ぶうち、次第に仲良くなっていく。ところが、パピを追って地球にやってきたクジラ型の宇宙戦艦が、パピをとらえるためにドラえもんやのび太たちを攻撃。みんなを巻き込んでしまったことに責任を感じたパピは、ひとり反乱軍に立ち向かおうとするが......。\n大切な友だちと、その故郷を守るため、ドラえもんたちはピリカ星へと出発する！！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoGANrf98Ba7",
+                "channelId": "family-anime-1",
+                "title": "あたしンち #27〜39【無料ビデオ1週間】",
+                "startAt": 1728600960,
+                "endAt": 1728608400,
+                "tableStartAt": 1728600960,
+                "tableEndAt": 1728608400,
+                "highlight": "あたしンち #27〜39",
+                "displayProgramId": "35-34_s1_p27",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731279360,
+                "timeshiftFreeEndAt": 1729213200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-34",
+                "content": "フランス料理のランチにでかけた母。慣れない雰囲気に緊張した母がとった行動とは!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoGkxgp694Qo",
+                "channelId": "family-anime-1",
+                "title": "あたしンち #648〜662【無料ビデオ1週間】",
+                "startAt": 1728608400,
+                "endAt": 1728615600,
+                "tableStartAt": 1728608400,
+                "tableEndAt": 1728615600,
+                "highlight": "あたしンち #648〜662",
+                "displayProgramId": "35-34_s1_p648",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731286800,
+                "timeshiftFreeEndAt": 1729220400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-34",
+                "content": "幼いみかんの悩みはヒゲが生えていることだった？産毛であると先生に言われたものの、気になって仕方がない様子。高校生になったみかんは、母の産毛も気になり剃ることを勧めるが？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoHyDawxwcrT",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん 伝説を呼ぶ 踊れ！アミーゴ！",
+                "startAt": 1728615600,
+                "endAt": 1728621480,
+                "tableStartAt": 1728615600,
+                "tableEndAt": 1728621480,
+                "highlight": "伝説を呼ぶ 踊れ！アミーゴ！",
+                "displayProgramId": "35-55_s0_p14",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731294000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "ニセモノォ？本物そっくりなんだけど、でも本物じゃないんだ。「ただいま」ってウチに帰るのはそっくりさんの方らしい…カスカベ都市伝説…本物はどこへ？そんな噂がしんのすけたちの間でも広がっていた。そしてある日、買い物をしている野原一家。しんのすけはお菓子売り場を物色していたが案の定、迷子に。そこにみさえがしんのすけに近づいてくる。妙に優しく、いつもなら絶対に買ってくれないお菓子を買ってくれるみさえにしんのすけは大はしゃぎ。しかし、そのみさえこそ、恐怖の“そっくり人間”だったのだ…。しんのすけに危機迫る！が、そこにフィーニー特捜官が現れ、間一髪の所で救う！颯爽と現れたラテン美女にしんのすけはすっかり夢中！フィーニーと共にカスカベを脱出しようとするホンモノの野原一家。しかし、追っ手の執拗な追跡にとうとう敵の基地に拉致されてしまう。\nはたして“そっくり人間“の謎と陰謀とは？ しんのすけは“ホンモノの家族”とカスカベを守るため、おケツに渾身の力を込め、今、情熱のダンス・バトルが始まる！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoHga2A4muAw",
+                "channelId": "family-anime-1",
+                "title": "ヤンキーハムスター シーズン3 #21〜26【無料ビデオ1週間】",
+                "startAt": 1728621480,
+                "endAt": 1728622800,
+                "tableStartAt": 1728621480,
+                "tableEndAt": 1728622800,
+                "highlight": "ヤンキーハムスター シーズン3 #21〜26",
+                "displayProgramId": "54-86_s3_p21",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1730386800,
+                "timeshiftFreeEndAt": 1729227600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-86",
+                "content": "子どもたちにもヤンキーについて知ってほしいから、この紙芝居を作りました。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoHN3QNCi8A3",
+                "channelId": "family-anime-1",
+                "title": "映画ドラえもん のび太の宇宙小戦争2021",
+                "startAt": 1728622800,
+                "endAt": 1728629760,
+                "tableStartAt": 1728622800,
+                "tableEndAt": 1728629760,
+                "highlight": "のび太の宇宙小戦争2021",
+                "displayProgramId": "35-46_s0_p41",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731301200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-46",
+                "content": "夏休みのある日。のび太が拾った小さなロケットの中から、手のひらサイズの宇宙人・パピがあらわれる！彼は、宇宙のかなたにある小さな星・ピリカ星の大統領で、反乱軍から逃れるために地球にやってきたという。最初はパピのあまりの小ささに戸惑うドラえもんたちだったが、ひみつ道具‟スモールライト“で自分たちも小さくなって一緒に遊ぶうち、次第に仲良くなっていく。ところが、パピを追って地球にやってきたクジラ型の宇宙戦艦が、パピをとらえるためにドラえもんやのび太たちを攻撃。みんなを巻き込んでしまったことに責任を感じたパピは、ひとり反乱軍に立ち向かおうとするが......。\n大切な友だちと、その故郷を守るため、ドラえもんたちはピリカ星へと出発する！！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoJbJZWKWa5m",
+                "channelId": "family-anime-1",
+                "title": "あたしンち #27〜39【無料ビデオ1週間】",
+                "startAt": 1728629760,
+                "endAt": 1728637200,
+                "tableStartAt": 1728629760,
+                "tableEndAt": 1728637200,
+                "highlight": "あたしンち #27〜39",
+                "displayProgramId": "35-34_s1_p27",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731308160,
+                "timeshiftFreeEndAt": 1729242000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-34",
+                "content": "フランス料理のランチにでかけた母。慣れない雰囲気に緊張した母がとった行動とは!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoHNgFt9WBWX",
+                "channelId": "family-anime-1",
+                "title": "あたしンち #40〜52【無料ビデオ1週間】",
+                "startAt": 1728637200,
+                "endAt": 1728644400,
+                "tableStartAt": 1728637200,
+                "tableEndAt": 1728644400,
+                "highlight": "あたしンち #40〜52",
+                "displayProgramId": "35-34_s1_p40",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731315600,
+                "timeshiftFreeEndAt": 1729249200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-34",
+                "content": "カラスをよけるため、奇妙なジグザグ歩きで母とダッシュする姿を同級生に目撃されてしまったみかん。\n翌日、その話を聞いた友達が母に会いに家にやってくることになり…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9rdorKA4nTqcxX",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん 暗黒タマタマ大追跡",
+                "startAt": 1728644400,
+                "endAt": 1728650760,
+                "tableStartAt": 1728644400,
+                "tableEndAt": 1728650400,
+                "highlight": "暗黒タマタマ大追跡",
+                "displayProgramId": "35-55_s0_p5",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731322800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "かつて暗黒魔人ジャークを封じ込めた埴輪と、ジャーク復活のカギとなる2つの“タマ”――。\n　――今、その“タマ”をめぐって、世界征服を企むホステス軍団と、それを阻止しようとするオカマ3兄弟の対決が始まった！ “タマ”の1つをひまわりが飲み込んでしまったため、争いに巻き込まれたしんちゃん一家が東日本をまたにかけ、所狭しと駆けめぐる!!\n　銀座のクラブのママ玉王が率いるセクシーなホステス軍団に、世界一強～い男ヘクソンが加わって今度の敵もパワフル＆パワフル！でも、絶対負けられないゾ！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoGkzD3Dp9zX",
+                "channelId": "family-anime-1",
+                "title": "ヤンキーハムスター シーズン3 #27〜29【無料ビデオ1週間】",
+                "startAt": 1728650760,
+                "endAt": 1728651420,
+                "tableStartAt": 1728650400,
+                "tableEndAt": 1728651000,
+                "highlight": "ヤンキーハムスター シーズン3 #27〜29",
+                "displayProgramId": "54-86_s3_p27",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1730386800,
+                "timeshiftFreeEndAt": 1729256220,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-86",
+                "content": "イサミくんとトシゾーくんって、普段は何して遊んでるんすか？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoGmDAt65ars",
+                "channelId": "family-anime-1",
+                "title": "映画ドラえもん のび太の宇宙小戦争2021",
+                "startAt": 1728651600,
+                "endAt": 1728658560,
+                "tableStartAt": 1728651600,
+                "tableEndAt": 1728658560,
+                "highlight": "のび太の宇宙小戦争2021",
+                "displayProgramId": "35-46_s0_p41",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731330000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-46",
+                "content": "夏休みのある日。のび太が拾った小さなロケットの中から、手のひらサイズの宇宙人・パピがあらわれる！彼は、宇宙のかなたにある小さな星・ピリカ星の大統領で、反乱軍から逃れるために地球にやってきたという。最初はパピのあまりの小ささに戸惑うドラえもんたちだったが、ひみつ道具‟スモールライト“で自分たちも小さくなって一緒に遊ぶうち、次第に仲良くなっていく。ところが、パピを追って地球にやってきたクジラ型の宇宙戦艦が、パピをとらえるためにドラえもんやのび太たちを攻撃。みんなを巻き込んでしまったことに責任を感じたパピは、ひとり反乱軍に立ち向かおうとするが......。\n大切な友だちと、その故郷を守るため、ドラえもんたちはピリカ星へと出発する！！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoGktFU2fiwZ",
+                "channelId": "family-anime-1",
+                "title": "あたしンち #79〜91【無料ビデオ1週間】",
+                "startAt": 1728658560,
+                "endAt": 1728666000,
+                "tableStartAt": 1728658560,
+                "tableEndAt": 1728666000,
+                "highlight": "あたしンち #79〜91",
+                "displayProgramId": "35-34_s1_p79",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731336960,
+                "timeshiftFreeEndAt": 1729270800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-34",
+                "content": "父が久しぶりに会社の人と飲んで帰るという。\n帰宅は、遅くなりそうだ。\nテディベアの洋服作りをしていたみかんも、眠くなり、片付けないで部屋に行ってしまった。\nすっかり寝静まったタチバナ家に酔っ払ってある者？に変身した父の姿が!!",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "anime-live": [
             {
                 "id": "8gCu86z3TwAEU7",
@@ -1979,7 +2479,7 @@
                 "tableStartAt": 1728657000,
                 "tableEndAt": 1728658800,
                 "highlight": "ホロごえっ！ 鷹嶺ルイ 楠木ともり",
-                "displayProgramId": "175-21_s0_p28",
+                "displayProgramId": "218-690_s6_p13",
                 "mark": {
                     "recommendation": true
                 },
@@ -1994,18 +2494,330 @@
                 "timeshiftEndAt": 1731335400,
                 "timeshiftFreeEndAt": 1729263600,
                 "broadcastRegionPolicies": {
-                    "linear": 1,
-                    "timeshift": 1
+                    "linear": 0,
+                    "timeshift": 0
                 },
-                "displaySeriesId": "175-21",
+                "displaySeriesId": "218-690",
                 "content": "【金曜日は鷹嶺ルイ×楠木ともり】\n\n隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
             }
         ],
-        "isekai-anime": [],
-        "isekai-anime-2": [],
+        "isekai-anime": [
+            {
+                "id": "E1jGb4QSsBf5Dh",
+                "channelId": "isekai-anime",
+                "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ 全話+OVA一挙",
+                "startAt": 1728558000,
+                "endAt": 1728579600,
+                "tableStartAt": 1728558000,
+                "tableEndAt": 1728579600,
+                "highlight": "ダンまちⅡ全話+OVA一挙",
+                "displayProgramId": "174-12_s2_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731236400,
+                "timeshiftFreeEndAt": 1729184400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "174-3",
+                "content": "１８階層にて黒い階層主（ゴライアス）を撃破し、無事に生還した【ヘスティア・ファミリア】所属のベル・クラネル。ダンジョン探索の合間に開かれたささやかな酒宴。その席でベルは、他の冒険者から、あからさまな挑発を受け、乱闘騒ぎを起こしてしまう。乱闘騒ぎの相手は【アポロン・ファミリア】。その団長であるＬｖ．３の冒険者、ヒュアキントスを相手に、ベルは完膚なきまでに叩きのめされる。\n　そして後日、ベルとヘスティアのもとに一通の書状が。それは、アポロンが主催する神の宴への招待状だった――",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EnyoKoQAojcq3u",
+                "channelId": "isekai-anime",
+                "title": "私、能力は平均値でって言ったよね！ 全話一挙【無料ビデオ1週間】",
+                "startAt": 1728579600,
+                "endAt": 1728601200,
+                "tableStartAt": 1728579600,
+                "tableEndAt": 1728601200,
+                "highlight": "私、能力は平均値でって言ったよね！",
+                "displayProgramId": "168-32_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1730386800,
+                "timeshiftFreeEndAt": 1729206000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "168-32",
+                "content": "マイルは、ごく普通の１２歳の女の子！　と見せかけて……実は日本の女子高生・栗原海里という前世の記憶を持つ、この頃流行りの異世界転生者！　なんやかんやあってハンターになるためティルス王国を訪れたマイルは、王都で子供たちの行方不明事件が起きていることを知る。お人好しのマイルは事件を追うのだが——",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9y9oGxiLsLeVCT",
+                "channelId": "isekai-anime",
+                "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅢ 全話一挙+OVA",
+                "startAt": 1728601200,
+                "endAt": 1728622800,
+                "tableStartAt": 1728601200,
+                "tableEndAt": 1728622800,
+                "highlight": "ダンまちⅢ 全話一挙 + OVA",
+                "displayProgramId": "174-16_s3_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731279600,
+                "timeshiftFreeEndAt": 1729227600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "174-3",
+                "content": "団長であるベル・クラネルの急速な成長、【戦争遊戯】での勝利、\nそして団員の拡張などで迷宮都市においても存在感を増し続けてい\nる【ヘスティア・ファミリア】。ダンジョンの進攻階層も順調に伸\nばし、彼らは１９階層・大樹の迷宮へと至っていた。\n　そんなさなか、単独行動を余儀なくされたベルは、モンスターに\n襲われていた少女を救出する……しかし、涙を流し、怯える彼女は\n『モンスター』だった――",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "F2PC2xWwjYoXe7",
+                "channelId": "isekai-anime",
+                "title": "回復術士のやり直し 全話一挙【無料ビデオ2週間】",
+                "startAt": 1728622800,
+                "endAt": 1728644400,
+                "tableStartAt": 1728622800,
+                "tableEndAt": 1728644400,
+                "highlight": "回復術士のやり直し 全話一挙",
+                "displayProgramId": "25-257_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731301200,
+                "timeshiftFreeEndAt": 1729854000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-257",
+                "content": "幼少の頃から勇者に憧れていたアルバン村の少年・ケヤル。穏やかな日々を過ごしていたが、ある日、どこからともなく森の奥へいざなう声が聞こえてくる。湖にたどり着くと目の前に現れた星の精霊から森羅万象を見通す「翡翠眼」を譲り受けたケヤルは、かつて【癒】の勇者として生き、この世界を《回復》した記憶を取り戻すのだった。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "E1jGdVGzVWHTHh",
+                "channelId": "isekai-anime",
+                "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅢ 全話一挙+OVA",
+                "startAt": 1728644400,
+                "endAt": 1728666000,
+                "tableStartAt": 1728644400,
+                "tableEndAt": 1728666000,
+                "highlight": "ダンまちⅢ 全話一挙 + OVA",
+                "displayProgramId": "174-16_s3_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731322800,
+                "timeshiftFreeEndAt": 1729270800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "174-3",
+                "content": "団長であるベル・クラネルの急速な成長、【戦争遊戯】での勝利、\nそして団員の拡張などで迷宮都市においても存在感を増し続けてい\nる【ヘスティア・ファミリア】。ダンジョンの進攻階層も順調に伸\nばし、彼らは１９階層・大樹の迷宮へと至っていた。\n　そんなさなか、単独行動を余儀なくされたベルは、モンスターに\n襲われていた少女を救出する……しかし、涙を流し、怯える彼女は\n『モンスター』だった――",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "isekai-anime-2": [
+            {
+                "id": "EB8r4r8Bbuaxoq",
+                "channelId": "isekai-anime-2",
+                "title": "ハズレ枠の【状態異常スキル】で最強になった俺 #1〜12【無料ビデオ1週間】",
+                "startAt": 1728558000,
+                "endAt": 1728579600,
+                "tableStartAt": 1728558000,
+                "tableEndAt": 1728579600,
+                "highlight": "ハズレ枠 #1〜12",
+                "displayProgramId": "189-68_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731236400,
+                "timeshiftFreeEndAt": 1729184400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-68",
+                "content": "修学旅行の移動中。２年C組のバスは突然白い光に包まれる。C組の教師と生徒は女神ヴィシスによって異世界に召喚されてしまったのだ。\n女神の目的は、彼らを勇者として育て、大魔帝を倒すこと。女神の持つ水晶で次々に能力を鑑定され選別されて、歓迎されるクラスメイトたち。\nだが、三森灯河だけは最低ランクのE級判定……いわゆるハズレ勇者の烙印を押されてしまう。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "E1jGZr1xjGBFGb",
+                "channelId": "isekai-anime-2",
+                "title": "魔王学院の不適合者 全話一挙【無料ビデオ2週間】",
+                "startAt": 1728579600,
+                "endAt": 1728601200,
+                "tableStartAt": 1728579600,
+                "tableEndAt": 1728601200,
+                "highlight": "魔王学院の不適合者 全話一挙",
+                "displayProgramId": "25-147_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731258000,
+                "timeshiftFreeEndAt": 1729810800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-147",
+                "content": "「——よく聞け。愛しき子孫どもよ。お前達の始祖は帰ってきた」\n\n二千年前、暴虐の限りを尽くした史上最強の魔王アノス。そんな彼の血を引く後継者、《魔皇（まおう）》を育成するべく、現代の魔王学院では入学試験が行われていた。試験内容は生徒同士で決闘を行う「実技試験」。そこに現れたのは、二千年前に荒んだ世界に飽き、転生した暴虐の魔王アノスの姿だった。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EB8r5kUrPPYbLs",
+                "channelId": "isekai-anime-2",
+                "title": "ハズレ枠の【状態異常スキル】で最強になった俺 #1〜12【無料ビデオ1週間】",
+                "startAt": 1728601200,
+                "endAt": 1728622800,
+                "tableStartAt": 1728601200,
+                "tableEndAt": 1728622800,
+                "highlight": "ハズレ枠 #1〜12",
+                "displayProgramId": "189-68_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731279600,
+                "timeshiftFreeEndAt": 1729227600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-68",
+                "content": "修学旅行の移動中。２年C組のバスは突然白い光に包まれる。C組の教師と生徒は女神ヴィシスによって異世界に召喚されてしまったのだ。\n女神の目的は、彼らを勇者として育て、大魔帝を倒すこと。女神の持つ水晶で次々に能力を鑑定され選別されて、歓迎されるクラスメイトたち。\nだが、三森灯河だけは最低ランクのE級判定……いわゆるハズレ勇者の烙印を押されてしまう。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9y9oJAbikUjKvP",
+                "channelId": "isekai-anime-2",
+                "title": "魔王学院の不適合者 Ⅱ #1〜12【無料ビデオ2週間】",
+                "startAt": 1728622800,
+                "endAt": 1728644400,
+                "tableStartAt": 1728622800,
+                "tableEndAt": 1728644400,
+                "highlight": "魔王学院の不適合者 Ⅱ #1〜12",
+                "displayProgramId": "25-233_s2_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731301200,
+                "timeshiftFreeEndAt": 1729854000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-147",
+                "content": "「この平和な世でわざわざ俺に挑んだのだ。相応の覚悟はしていような」\n\n人と魔族の戦争を阻止したアノスの前に、四邪王族が一人、\nエールドメード・ディティジョンが魔王学院の教師として現れた。\nしかもエールドメードは自らを天父神てんぷしんノウスガリアと名乗り、暴虐の魔王を滅ぼす新たな“神の子”が魔王学院にいるという。\nあらゆる理不尽をものともしない《不適合者》は新たな戦いへ！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "E1jGdBRJwSfozX",
+                "channelId": "isekai-anime-2",
+                "title": "魔王軍最強の魔術師は人間だった 全話一挙【無料ビデオ1週間】",
+                "startAt": 1728644400,
+                "endAt": 1728666000,
+                "tableStartAt": 1728644400,
+                "tableEndAt": 1728666000,
+                "highlight": "魔王軍最強の魔術師は人間だった 全話",
+                "displayProgramId": "169-143_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1731322800,
+                "timeshiftFreeEndAt": 1729270800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "169-143",
+                "content": "人間と戦いを続ける魔王軍。その不死旅団の団長・アイクは、難攻不落といわれた交易都市を1週間で陥落させるほどの実力者だ。偉大な大魔術師ロンベルクの孫として多くの魔族から一目置かれるアイクだが、その正体は人間。バレたら大変と、正体を隠し通そうとするが……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "lovecomedy-anime": [
             {
                 "id": "8jTttvXd3FJc2K",
@@ -2021,12 +2833,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1731236400,
+                "timeshiftFreeEndAt": 1729789200,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "25-244",
                 "content": "斎森家の長女・美世は、異母妹・香耶が、父・真一と継母・香乃子に愛情深く育てられる一方で、ないがしろにされ、使用人同然の生活を送っている。やすらぎをくれるのは、心優しい辰石家の次男・幸次だけだった。\n\nだが、父は香耶の夫として幸次を婿養子に迎える。そして美世には、冷酷無慈悲と噂される軍人の久堂清霞のもとへ嫁ぐよう命じて……。",
@@ -2048,12 +2864,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1731258000,
+                "timeshiftFreeEndAt": 1729810800,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "25-244",
                 "content": "斎森家の長女・美世は、異母妹・香耶が、父・真一と継母・香乃子に愛情深く育てられる一方で、ないがしろにされ、使用人同然の生活を送っている。やすらぎをくれるのは、心優しい辰石家の次男・幸次だけだった。\n\nだが、父は香耶の夫として幸次を婿養子に迎える。そして美世には、冷酷無慈悲と噂される軍人の久堂清霞のもとへ嫁ぐよう命じて……。",
@@ -2075,12 +2895,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1731279600,
+                "timeshiftFreeEndAt": 1729832400,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "25-244",
                 "content": "斎森家の長女・美世は、異母妹・香耶が、父・真一と継母・香乃子に愛情深く育てられる一方で、ないがしろにされ、使用人同然の生活を送っている。やすらぎをくれるのは、心優しい辰石家の次男・幸次だけだった。\n\nだが、父は香耶の夫として幸次を婿養子に迎える。そして美世には、冷酷無慈悲と噂される軍人の久堂清霞のもとへ嫁ぐよう命じて……。",
@@ -2102,12 +2926,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1731301200,
+                "timeshiftFreeEndAt": 1729249200,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "194-15",
                 "content": "ダメダメ大学生・木ノ下和也は、生まれて初めてできた彼女にたった１ヶ月でフラれてしまう。ショッ\nクで枕を濡らす和也だったが、やけっぱちになり、スマホで偶然見つけた“ある方法”を使って女の\n子とデートをすることに。「和也くん、だよね？」──\n翌日、待ち合わせ場所に現れたのは、清楚可憐な美少女・水原千鶴だった。",
@@ -2319,12 +3147,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1731236400,
+                "timeshiftFreeEndAt": 1729789200,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "25-73",
                 "content": "無人島での試験を終え、綾小路清隆たち1年Dクラスのメンバーは豪華客船で夏休みを堪能していた。\nところが休息も束の間、新たな特別試験が。\n軽井沢恵らと同じ部屋に呼び出され説明を受ける綾小路。\n今度の試験はクラスの枠を超えたものだった。",
@@ -2377,12 +3209,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1731279600,
+                "timeshiftFreeEndAt": 1729832400,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "25-73",
                 "content": "無人島での試験を終え、綾小路清隆たち1年Dクラスのメンバーは豪華客船で夏休みを堪能していた。\nところが休息も束の間、新たな特別試験が。\n軽井沢恵らと同じ部屋に呼び出され説明を受ける綾小路。\n今度の試験はクラスの枠を超えたものだった。",
