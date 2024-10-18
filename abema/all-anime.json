@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024101710",
+    "pubAt": "2024101810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -119,9 +119,10 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -150,9 +151,10 @@
             "seriesId": "11-59",
             "title": "ささやくように恋を唄う",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -306,17 +308,6 @@
             ]
         },
         {
-            "seriesId": "115-4cp-hkkdddk",
-            "title": "さよなら絶望先生",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "115-63",
             "title": "下ネタという概念が存在しない退屈な世界",
             "label": {
@@ -383,6 +374,17 @@
             ]
         },
         {
+            "seriesId": "117-15",
+            "title": "おねがいマイメロディ くるくるシャッフル！",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "117-36",
             "title": "治癒魔法の間違った使い方",
             "label": {
@@ -396,9 +398,10 @@
             "seriesId": "117-37",
             "title": "魔導具師ダリヤはうつむかない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -480,14 +483,6 @@
             ]
         },
         {
-            "seriesId": "13-186",
-            "title": "メジャー ワールドシリーズ編 夢の瞬間へ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "13-189",
             "title": "アイドルマスター シャイニーカラーズ",
             "label": {
@@ -535,9 +530,10 @@
             "seriesId": "13-2zwmxabufds",
             "title": "アイドルマスター",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -556,10 +552,9 @@
             "seriesId": "13-67",
             "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -607,17 +602,6 @@
         {
             "seriesId": "143-46",
             "title": "NANA－ナナ－",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "143-47",
-            "title": "エルフェンリート",
             "label": {
                 "someFree": true
             },
@@ -759,17 +743,6 @@
             ]
         },
         {
-            "seriesId": "158-12",
-            "title": "てーきゅう",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
@@ -817,9 +790,10 @@
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1216,6 +1190,14 @@
             ]
         },
         {
+            "seriesId": "184-160",
+            "title": "劇場版 ドラゴンボールZ とびっきりの最強対最強",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "184-164",
             "title": "劇場版 ドラゴンボールZ 激突!!100億パワーの戦士たち",
             "label": {},
@@ -1457,8 +1439,7 @@
             "seriesId": "189-68",
             "title": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで",
             "label": {
-                "free": true,
-                "newest": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -1491,10 +1472,11 @@
             "seriesId": "189-72",
             "title": "メカウデ",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1513,10 +1495,11 @@
             "seriesId": "189-74",
             "title": "結婚するって、本当ですか",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1863,8 +1846,8 @@
             ]
         },
         {
-            "seriesId": "19-196",
-            "title": "僕らはみんな河合荘",
+            "seriesId": "19-197",
+            "title": "キルミーベイベー",
             "label": {
                 "someFree": true
             },
@@ -2018,11 +2001,9 @@
         {
             "seriesId": "194-10",
             "title": "荒ぶる季節の乙女どもよ。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2081,9 +2062,10 @@
             "seriesId": "194-34",
             "title": "うちの会社の小さい先輩の話",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2101,17 +2083,6 @@
         {
             "seriesId": "194-37",
             "title": "道産子ギャルはなまらめんこい",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
-            "seriesId": "194-39",
-            "title": "花野井くんと恋の病",
             "label": {
                 "someFree": true
             },
@@ -2158,11 +2129,10 @@
             "seriesId": "194-43",
             "title": "星降る王国のニナ",
             "label": {
-                "someFree": true,
+                "free": true,
                 "newest": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2322,6 +2292,17 @@
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "210-9",
+            "title": "アークナイツ",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2609,9 +2590,10 @@
             "seriesId": "25-109",
             "title": "盾の勇者の成り上がり",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2944,18 +2926,16 @@
                 "newest": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3045,11 +3025,9 @@
         {
             "seriesId": "25-254",
             "title": "佐々木とピーちゃん",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3127,10 +3105,9 @@
             "seriesId": "25-263",
             "title": "神は遊戯に飢えている。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3147,11 +3124,9 @@
         {
             "seriesId": "25-267",
             "title": "異世界失格",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3168,10 +3143,9 @@
             "seriesId": "25-269",
             "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3210,10 +3184,11 @@
             "seriesId": "25-273",
             "title": "ネガポジアングラー",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3380,6 +3355,14 @@
             ]
         },
         {
+            "seriesId": "25-90",
+            "title": "劇場版 ソードアート・オンライン –オーディナル・スケール-",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "25-92",
             "title": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
             "label": {
@@ -3468,6 +3451,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "26-159",
+            "title": "時光代理人 -LINK CLICK- Ⅱ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -3957,6 +3950,17 @@
             ]
         },
         {
+            "seriesId": "35-7fbsihxzgdw",
+            "title": "忍者ハットリくん",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "377-2",
             "title": "ウルトラマンアーク",
             "label": {
@@ -4180,16 +4184,6 @@
             ]
         },
         {
-            "seriesId": "481-9",
-            "title": "テクノロイド オーバーマインド",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "482-3",
             "title": "クッキングパパ",
             "label": {
@@ -4227,9 +4221,10 @@
             "seriesId": "5-13xzfeczjjsc",
             "title": "ふたりはプリキュア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4335,12 +4330,9 @@
         {
             "seriesId": "5-43",
             "title": "キボウノチカラ～オトナプリキュア’２３～",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -4351,6 +4343,17 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "5-48",
+            "title": "ふたりはプリキュアSplash☆Star",
+            "label": {
+                "free": true,
+                "newest": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -4401,6 +4404,17 @@
         {
             "seriesId": "5-54",
             "title": "ドキドキ！プリキュア",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "5-55",
+            "title": "ハピネスチャージプリキュア！",
             "label": {
                 "someFree": true
             },
@@ -4584,8 +4598,8 @@
             ]
         },
         {
-            "seriesId": "512-7",
-            "title": "アキバ冥途戦争",
+            "seriesId": "512-11",
+            "title": "勇気爆発バーンブレイバーン",
             "label": {
                 "someFree": true
             },
@@ -4600,17 +4614,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "527-663",
-            "title": "ヒプマイ DIVISION CROSS TALK",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
             ]
         },
         {
@@ -4806,9 +4809,10 @@
             "seriesId": "54-87",
             "title": "経験済みなキミと、経験ゼロなオレが、お付き合いする話。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4987,17 +4991,6 @@
             ]
         },
         {
-            "seriesId": "564-7",
-            "title": "ミギとダリ",
-            "label": {
-                "someFree": true
-            },
-            "onDemandTypes": [
-                1,
-                3
-            ]
-        },
-        {
             "seriesId": "568-32",
             "title": "チ。 ―地球の運動について―",
             "label": {
@@ -5013,10 +5006,11 @@
             "seriesId": "593-10",
             "title": "ダンダダン",
             "label": {
-                "free": true,
+                "someFree": true,
                 "newest": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
