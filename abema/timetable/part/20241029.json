@@ -1,6 +1,6 @@
 {
-    "pubAt": 1729555272,
-    "pubDate": "2024102209",
+    "pubAt": 1729641693,
+    "pubDate": "2024102309",
     "slots": {
         "abema-anime": [],
         "abema-anime-2": [
@@ -15,6 +15,7 @@
                 "highlight": "青の祓魔師 島根啓明結社篇 #1〜12",
                 "displayProgramId": "26-216_s3_p1",
                 "mark": {
+                    "bingeWatching": true,
                     "recommendation": true
                 },
                 "flags": {
@@ -42,7 +43,39 @@
         "family-anime-1": [],
         "anime-live": [],
         "isekai-anime": [],
-        "isekai-anime-2": [],
+        "isekai-anime-2": [
+            {
+                "id": "AvYiyFNZCEZnx7",
+                "channelId": "isekai-anime-2",
+                "title": "杖と剣のウィストリア #1〜12【無料ビデオ72時間】",
+                "startAt": 1730199600,
+                "endAt": 1730221200,
+                "tableStartAt": 1730199600,
+                "tableEndAt": 1730221200,
+                "highlight": "杖と剣のウィストリア #1〜12",
+                "displayProgramId": "420-68_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1732878000,
+                "timeshiftFreeEndAt": 1730480400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "420-68",
+                "content": "魔法学院の生徒でありながら初歩的な魔法すら使えないウィル。皆に落ちこぼれと見下されていた彼は、ある日、自分を蔑む同級生がモンスターに襲われている姿を目撃する。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "lovecomedy-anime": [],
         "dailylife-anime": [],
         "late-night-anime": []
