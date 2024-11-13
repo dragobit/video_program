@@ -1,8 +1,42 @@
 {
-    "pubAt": 1731369671,
-    "pubDate": "2024111209",
+    "pubAt": 1731456101,
+    "pubDate": "2024111309",
     "slots": {
-        "abema-anime": [],
+        "abema-anime": [
+            {
+                "id": "C3K1hP3az9RRRH",
+                "groupId": "E4crbA3eS8qkvb",
+                "channelId": "abema-anime",
+                "title": "ドラゴンボールDAIMA #6【最新話】",
+                "startAt": 1731943800,
+                "endAt": 1731945600,
+                "tableStartAt": 1731943800,
+                "tableEndAt": 1731945600,
+                "highlight": "ドラゴンボールDAIMA #6",
+                "displayProgramId": "175-1rthzhecdme_s0_p24",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1734622200,
+                "timeshiftFreeEndAt": 1732550400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "平和な日常を送っていた悟空たちは、突如、ある陰謀によって小さな姿に！\nその理由が「大魔界」と呼ばれる世界にあるらしきことを突き止めた一行のもとに、ミステリアスな少年魔人、グロリオがあらわれる！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "abema-anime-2": [
             {
                 "id": "9oNp3PMJoBSS5D",
