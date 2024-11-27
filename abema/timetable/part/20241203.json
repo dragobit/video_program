@@ -1,8 +1,42 @@
 {
-    "pubAt": 1732579289,
-    "pubDate": "2024112609",
+    "pubAt": 1732665695,
+    "pubDate": "2024112709",
     "slots": {
-        "abema-anime": [],
+        "abema-anime": [
+            {
+                "id": "9k7pKJCZ2Lgb91",
+                "groupId": "E4crbA3eS8qkvb",
+                "channelId": "abema-anime",
+                "title": "ドラゴンボールDAIMA #8【最新話】",
+                "startAt": 1733153400,
+                "endAt": 1733155200,
+                "tableStartAt": 1733153400,
+                "tableEndAt": 1733155200,
+                "highlight": "ドラゴンボールDAIMA #8",
+                "displayProgramId": "175-1rthzhecdme_s0_p24",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1735831800,
+                "timeshiftFreeEndAt": 1733760000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "-",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "abema-anime-2": [],
         "80s-anime-1": [],
         "90s-anime-1": [],
