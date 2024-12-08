@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024120710",
+    "pubAt": "2024120810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -315,9 +315,10 @@
             "seriesId": "115-105",
             "title": "とあるおっさんのＶＲＭＭＯ活動記",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -747,9 +748,11 @@
         {
             "seriesId": "13-183",
             "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1030,9 +1033,10 @@
             "seriesId": "149-25",
             "title": "望まぬ不死の冒険者",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1059,9 +1063,10 @@
             "seriesId": "149-4",
             "title": "ありふれた職業で世界最強",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1520,11 +1525,9 @@
         {
             "seriesId": "169-111",
             "title": "弱キャラ友崎くん",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2377,9 +2380,10 @@
             "seriesId": "189-75",
             "title": "殿と犬",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2470,17 +2474,21 @@
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
             "seriesId": "19-116",
             "title": "銀の匙 Silver Spoon（第2期）",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3178,10 +3186,9 @@
             "seriesId": "194-37",
             "title": "道産子ギャルはなまらめんこい",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3209,9 +3216,10 @@
             "seriesId": "194-40",
             "title": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3287,7 +3295,6 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3908,8 +3915,8 @@
             ]
         },
         {
-            "seriesId": "218-760",
-            "title": "アニメ「その治癒師」今日も元気にナルセーナTV 〜ABEMAも見てくだセーナ！〜",
+            "seriesId": "218-761",
+            "title": "話術士特番中",
             "label": {
                 "free": true
             },
@@ -3918,8 +3925,8 @@
             ]
         },
         {
-            "seriesId": "218-761",
-            "title": "話術士特番中",
+            "seriesId": "218-764",
+            "title": "TVアニメ「ダンダダン」ABEMAで振り返るじゃんよ",
             "label": {
                 "free": true
             },
@@ -3976,6 +3983,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "247-19",
+            "title": "映画『ゆるキャン△』",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -4047,9 +4062,10 @@
             "seriesId": "248-18",
             "title": "となりの妖怪さん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4125,10 +4141,9 @@
             "seriesId": "25-10wkyfrkuytx",
             "title": "ノーゲーム・ノーライフ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4200,9 +4215,11 @@
         {
             "seriesId": "25-134",
             "title": "Re:ゼロから始める異世界生活 Memory Snow",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -4355,9 +4372,10 @@
             "seriesId": "25-201",
             "title": "乙女ゲー世界はモブに厳しい世界です",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4509,10 +4527,9 @@
             "seriesId": "25-245",
             "title": "豚のレバーは加熱しろ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4938,10 +4955,9 @@
             "seriesId": "25-68",
             "title": "ロウきゅーぶ！SS",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4981,9 +4997,10 @@
             "seriesId": "25-7krpy-sgurg",
             "title": "氷菓",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5620,9 +5637,10 @@
             "seriesId": "345-5",
             "title": "ラーメン赤猫",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6002,10 +6020,10 @@
             "seriesId": "420-60",
             "title": "君のことが大大大大大好きな100人の彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -6535,10 +6553,9 @@
             "seriesId": "5-62",
             "title": "トロピカル～ジュ！プリキュア",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6897,10 +6914,9 @@
             "seriesId": "54-74",
             "title": "黒の召喚士",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6930,9 +6946,10 @@
             "seriesId": "54-80",
             "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7266,9 +7283,10 @@
             "seriesId": "568-32",
             "title": "チ。 ―地球の運動について―",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7441,9 +7459,10 @@
             "seriesId": "632-3",
             "title": "シャングリラ・フロンティア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
