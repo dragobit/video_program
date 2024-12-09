@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024120810",
+    "pubAt": "2024120910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -28,9 +28,11 @@
         {
             "seriesId": "106-4",
             "title": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -198,10 +200,9 @@
             "seriesId": "11-55",
             "title": "川越ボーイズ・シング",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -642,9 +643,10 @@
             "seriesId": "117-6zrzjibaxzh",
             "title": "ご注文はうさぎですか？",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -956,6 +958,17 @@
             ]
         },
         {
+            "seriesId": "143-51",
+            "title": "DEATH NOTE -デスノート-",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "144-1smeznwkexx",
             "title": "侵略!イカ娘",
             "label": {
@@ -1244,9 +1257,10 @@
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1581,9 +1595,11 @@
         {
             "seriesId": "169-137",
             "title": "私の推しは悪役令嬢。",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1623,11 +1639,9 @@
         {
             "seriesId": "169-145",
             "title": "なぜ僕の世界を誰も覚えていないのか？",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1852,21 +1866,18 @@
             "seriesId": "177-234",
             "title": "リトル・パイレーツ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "177-235",
             "title": "雪の女王 ゲルダの伝説",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -2369,10 +2380,9 @@
             "seriesId": "189-74",
             "title": "結婚するって、本当ですか",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3112,10 +3122,9 @@
             "seriesId": "194-18",
             "title": "ドメスティックな彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3206,9 +3215,10 @@
             "seriesId": "194-39",
             "title": "花野井くんと恋の病",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3227,10 +3237,9 @@
             "seriesId": "194-41",
             "title": "菜なれ花なれ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3292,7 +3301,7 @@
             "seriesId": "198-11",
             "title": "黄昏アウトフォーカス",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
                 3
@@ -4329,9 +4338,10 @@
             "seriesId": "25-167",
             "title": "聖女の魔力は万能です",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4830,10 +4840,9 @@
             "seriesId": "25-275",
             "title": "歴史に残る悪女になるぞ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5412,10 +5421,9 @@
             "seriesId": "26-224",
             "title": "負けヒロインが多すぎる！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5670,10 +5678,9 @@
             "seriesId": "35-3",
             "title": "新あたしンち",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6313,19 +6320,20 @@
             "seriesId": "5-31",
             "title": "ドラゴンボールGT",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
         {
             "seriesId": "5-32",
             "title": "ドラゴンボールＧＴ 悟空外伝！ 勇気の証しは四星球",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -7022,10 +7030,9 @@
             "seriesId": "54-89",
             "title": "ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7055,10 +7062,9 @@
             "seriesId": "54-92",
             "title": "真夜中ぱんチ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
