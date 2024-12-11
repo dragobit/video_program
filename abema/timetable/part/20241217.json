@@ -1,8 +1,40 @@
 {
-    "pubAt": 1733788896,
-    "pubDate": "2024121009",
+    "pubAt": 1733875294,
+    "pubDate": "2024121109",
     "slots": {
-        "abema-anime": [],
+        "abema-anime": [
+            {
+                "id": "8nitf8SR2MxBWF",
+                "channelId": "abema-anime",
+                "title": "TVアニメ「不遇職【鑑定士】が実は最強だった」スペシャル特番",
+                "startAt": 1734435000,
+                "endAt": 1734438600,
+                "tableStartAt": 1734435000,
+                "tableEndAt": 1734438600,
+                "highlight": "不遇職【鑑定士】が実は最強だった特番",
+                "displayProgramId": "175-1rthzhecdme_s0_p31",
+                "mark": {
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1737113400,
+                "timeshiftFreeEndAt": 1735043400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "-",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "abema-anime-2": [],
         "80s-anime-1": [],
         "90s-anime-1": [],
