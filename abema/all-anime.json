@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024121110",
+    "pubAt": "2024121210",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -82,9 +82,10 @@
             "seriesId": "11-2dbduwwhkum",
             "title": "がっこうぐらし！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -745,9 +746,10 @@
             "seriesId": "13-168",
             "title": "幻日のヨハネ -SUNSHINE in the MIRROR-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1077,6 +1079,16 @@
             ]
         },
         {
+            "seriesId": "149-27",
+            "title": "Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "149-28i9ircg5g9",
             "title": "ゆるゆり",
             "label": {},
@@ -1269,10 +1281,9 @@
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1352,19 +1363,21 @@
         {
             "seriesId": "168-50",
             "title": "頭文字[イニシャル]D OVA",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
             "seriesId": "168-52",
             "title": "Paradox Live THE ANIMATION",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1844,10 +1857,9 @@
             "seriesId": "174-6",
             "title": "俺の彼女と幼なじみが修羅場すぎる",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1855,9 +1867,10 @@
             "seriesId": "174-7",
             "title": "ソード・オラトリア　ダンジョンに出会いを求めるのは間違っているだろうか外伝",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2188,9 +2201,10 @@
             "seriesId": "189-54",
             "title": "ダークギャザリング",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2282,10 +2296,9 @@
             "seriesId": "189-63",
             "title": "Re:Monster",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3045,10 +3058,9 @@
             "seriesId": "19-6",
             "title": "灰と幻想のグリムガル",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3824,9 +3836,10 @@
             "seriesId": "218-709",
             "title": "モブから始まる探索英雄譚",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3949,6 +3962,16 @@
             ]
         },
         {
+            "seriesId": "218-763",
+            "title": "Fate/Grand Order カルデア･サテライトステーション 2024-2025",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-764",
             "title": "TVアニメ「ダンダダン」ABEMAで振り返るじゃんよ",
             "label": {
@@ -4011,10 +4034,9 @@
             "seriesId": "247-18",
             "title": "政宗くんのリベンジR",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4518,9 +4540,10 @@
             "seriesId": "25-23aagrwux-zi",
             "title": "のんのんびより",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4754,10 +4777,9 @@
             "seriesId": "25-264",
             "title": "声優ラジオのウラオモテ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4765,10 +4787,9 @@
             "seriesId": "25-265",
             "title": "恋は双子で割り切れない",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5092,9 +5113,10 @@
             "seriesId": "26-108",
             "title": "『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima +",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5645,9 +5667,12 @@
         {
             "seriesId": "30-5",
             "title": "進撃の巨人",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -5783,9 +5808,12 @@
         {
             "seriesId": "35-53",
             "title": "ドラえもん",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -5836,10 +5864,9 @@
             "seriesId": "35-7fbsihxzgdw",
             "title": "忍者ハットリくん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6595,9 +6622,10 @@
             "seriesId": "5-63",
             "title": "デリシャスパーティ♡プリキュア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7138,9 +7166,10 @@
             "seriesId": "54-96",
             "title": "やり直し令嬢は竜帝陛下を攻略中",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
