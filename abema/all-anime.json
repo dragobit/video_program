@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024121310",
+    "pubAt": "2024121410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -39,10 +39,9 @@
             "seriesId": "11-13",
             "title": "ゲーマーズ！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -50,9 +49,10 @@
             "seriesId": "11-15",
             "title": "ヨルムンガンド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -82,10 +82,9 @@
             "seriesId": "11-2dbduwwhkum",
             "title": "がっこうぐらし！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -286,10 +285,9 @@
             "seriesId": "11-63",
             "title": "合コンに行ったら女がいなかった話",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -692,9 +690,10 @@
             "seriesId": "12-26",
             "title": "君は冥土様。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1191,9 +1190,10 @@
             "seriesId": "158-12",
             "title": "てーきゅう",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1201,9 +1201,10 @@
             "seriesId": "158-8ukb2pnc72h",
             "title": "高宮なすのです！～てーきゅうスピンオフ～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1274,10 +1275,9 @@
             "seriesId": "168-3",
             "title": "デスマーチからはじまる異世界狂想曲",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1722,6 +1722,198 @@
             ]
         },
         {
+            "seriesId": "172-14",
+            "title": "ルパン三世TVSP #05　ルパン暗殺指令",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-15",
+            "title": "ルパン三世TVSP #07　ハリマオの財宝を追え！！",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-16",
+            "title": "ルパン三世TVSP #09　ワルサーＰ３８",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-17",
+            "title": "ルパン三世TVSP #10　炎の記憶 ～Tokyo Crisis～",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-18",
+            "title": "ルパン三世TVSP #11　愛のダ・カーポ ～ＦＵＪＩＫＯ's Ｕnlucky Ｄays～",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-19",
+            "title": "ルパン三世TVSP #12　１＄マネーウォーズ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-20",
+            "title": "ルパン三世TVSP #13　アルカトラズ コネクション",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-21",
+            "title": "ルパン三世TVSP #14　EPISODE：0 ファーストコンタクト",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-22",
+            "title": "ルパン三世TVSP #16　盗まれたルパン～コピーキャットは真夏の蝶～",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-23",
+            "title": "ルパン三世TVSP #20　sweet lost night 〜魔法のランプは悪夢の予感〜",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-31",
+            "title": "ルパン三世TVSP #01　バイバイ・リバティ―・危機一発！",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-32",
+            "title": "ルパン三世TVSP #02　 ヘミングウェイ・ペーパーの謎",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-33",
+            "title": "ルパン三世TVSP #03　ナポレオンの辞書を奪え",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-34",
+            "title": "ルパン三世TVSP #04　ロシアより愛をこめて",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-35",
+            "title": "ルパン三世TVSP #06　燃えよ斬鉄剣",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-36",
+            "title": "ルパン三世TVSP #08　トワイライト☆ジェミニの秘密",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-37",
+            "title": "ルパン三世TVSP #15　お宝返却大作戦!!",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-38",
+            "title": "ルパン三世TVSP #17　天使の策略～夢のカケラは殺しの香り～",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-39",
+            "title": "ルパン三世TVSP #18　セブンデイズ・ラプソディ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-40",
+            "title": "ルパン三世TVSP #19　霧のエリューシヴ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-41",
+            "title": "ルパン三世TVSP #21 the Last Job",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-42",
+            "title": "ルパン三世TVSP #22　血の刻印 永遠のmermaid",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-43",
+            "title": "ルパン三世TVSP #23　ルパン三世 東方見聞録 ～アナザーページ～",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "172-44",
+            "title": "ルパン三世TVSP #24　ルパン三世 princess of the breeze ～隠された空中都市～",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "172-52",
             "title": "HIGH CARD",
             "label": {
@@ -1762,6 +1954,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "172-58",
+            "title": "ルパン三世TVSP #25 ルパン三世 イタリアン・ゲーム",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -2122,10 +2322,9 @@
             "seriesId": "189-12",
             "title": "まちカドまぞく",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2292,9 +2491,10 @@
             "seriesId": "189-62",
             "title": "異世界のんびり農家",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2323,9 +2523,10 @@
             "seriesId": "189-65",
             "title": "疑似ハーレム",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2392,10 +2593,9 @@
             "seriesId": "189-72",
             "title": "メカウデ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2592,9 +2792,10 @@
             "seriesId": "19-143",
             "title": "冴えない彼女の育てかた",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2723,10 +2924,9 @@
             "seriesId": "19-174",
             "title": "薬屋のひとりごと",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2734,10 +2934,10 @@
             "seriesId": "19-175",
             "title": "放課後少年花子くん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2811,9 +3011,10 @@
             "seriesId": "19-185",
             "title": "人形アニメ「ハイキュー!!」",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2847,9 +3048,10 @@
             "seriesId": "19-190",
             "title": "怪獣８号",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3049,12 +3251,9 @@
         {
             "seriesId": "19-48",
             "title": "ハイキュー!! OAD",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3193,9 +3392,10 @@
             "seriesId": "194-28",
             "title": "魔法使い黎明期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3563,6 +3763,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "210-15",
+            "title": "もめんたりー・リリィ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -4820,10 +5030,9 @@
             "seriesId": "25-269",
             "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4977,9 +5186,10 @@
             "seriesId": "25-59",
             "title": "エロマンガ先生",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5706,10 +5916,9 @@
             "seriesId": "35-21jawjxfkwuj",
             "title": "ジャングルはいつもハレのちグゥ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5931,10 +6140,9 @@
             "seriesId": "413-10",
             "title": "B-PROJECT ～熱烈＊ラブコール～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6443,9 +6651,12 @@
         {
             "seriesId": "5-43",
             "title": "キボウノチカラ～オトナプリキュア’２３～",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -6638,10 +6849,9 @@
             "seriesId": "5-64",
             "title": "ひろがるスカイ！プリキュア",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7657,6 +7867,16 @@
             ]
         },
         {
+            "seriesId": "643-8",
+            "title": "「1分間だけ触れてもいいよ…」シェアハウスの秘密ルール｡【オンエア版】",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "656-1",
             "title": "僕らの雨いろプロトコル",
             "label": {
@@ -7764,10 +7984,9 @@
             "seriesId": "705-1",
             "title": "Spicy Candy",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
