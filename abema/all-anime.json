@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024122410",
+    "pubAt": "2024122510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -156,9 +156,10 @@
             "seriesId": "11-47",
             "title": "悪役令嬢なのでラスボスを飼ってみました",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -216,10 +217,9 @@
             "seriesId": "11-57",
             "title": "魔女と野獣",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -292,9 +292,10 @@
             "seriesId": "11-64",
             "title": "ゆゆ式",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -647,9 +648,10 @@
             "seriesId": "117-37",
             "title": "魔導具師ダリヤはうつむかない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -863,6 +865,16 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "13-195",
+            "title": "Duel Masters LOST ～月下の死神～",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -1822,9 +1834,11 @@
         {
             "seriesId": "171-22",
             "title": "School Days OVAスペシャル ～マジカルハート☆こころちゃん～",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1859,10 +1873,9 @@
             "seriesId": "171-3",
             "title": "School Days",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1879,9 +1892,11 @@
         {
             "seriesId": "172-15",
             "title": "ルパン三世TVSP #07　ハリマオの財宝を追え！！",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2001,9 +2016,11 @@
         {
             "seriesId": "172-36",
             "title": "ルパン三世TVSP #08　トワイライト☆ジェミニの秘密",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2583,10 +2600,9 @@
             "seriesId": "189-11",
             "title": "五等分の花嫁",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2608,6 +2624,17 @@
                 "free": true
             },
             "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "189-17",
+            "title": "地縛少年花子くん",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2837,10 +2864,9 @@
             "seriesId": "189-70",
             "title": "ひとりぼっちの異世界攻略",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2895,6 +2921,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "189-77",
+            "title": "『キン肉マン』完璧超人始祖編",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -3225,9 +3259,12 @@
         {
             "seriesId": "19-178",
             "title": "アマガミSS",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3862,9 +3899,10 @@
             "seriesId": "198-14",
             "title": "美男高校地球防衛部LOVE !",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4315,7 +4353,6 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4490,16 +4527,6 @@
             ]
         },
         {
-            "seriesId": "218-767",
-            "title": "TVアニメ「不遇職【鑑定士】が実は最強だった」スペシャル特番",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-768",
             "title": "「Fate/Grand Order」Spotlight Lostbelt No.7",
             "label": {
@@ -4540,9 +4567,11 @@
         {
             "seriesId": "241-243",
             "title": "東京ゴッドファーザーズ",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5004,9 +5033,11 @@
         {
             "seriesId": "25-216",
             "title": "劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5034,9 +5065,10 @@
             "seriesId": "25-235",
             "title": "スパイ教室",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5213,9 +5245,10 @@
             "seriesId": "25-252",
             "title": "愚かな天使は悪魔と踊る",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5233,9 +5266,11 @@
         {
             "seriesId": "25-254",
             "title": "佐々木とピーちゃん",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5251,9 +5286,11 @@
         {
             "seriesId": "25-256",
             "title": "劇場版 ソードアート・オンライン-プログレッシブ- 冥き夕闇のスケルツォ",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5876,10 +5913,9 @@
             "seriesId": "26-191",
             "title": "UniteUp!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6043,10 +6079,9 @@
             "seriesId": "26-219",
             "title": "WIND BREAKER",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6084,10 +6119,9 @@
             "seriesId": "26-223",
             "title": "ATRI -My Dear Moments-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6231,9 +6265,10 @@
             "seriesId": "26-89",
             "title": "マギアレコード 魔法少女まどか☆マギカ外伝",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7974,9 +8009,10 @@
             "seriesId": "564-3",
             "title": "VAZZROCK THE ANIMATION",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
