@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2024122810",
+    "pubAt": "2024122910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -20,9 +20,11 @@
         {
             "seriesId": "106-3",
             "title": "リズと青い鳥",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -240,10 +242,9 @@
             "seriesId": "11-59",
             "title": "ささやくように恋を唄う",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -272,10 +273,9 @@
             "seriesId": "11-62",
             "title": "パーティーから追放されたその治癒師、実は最強につき",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -358,10 +358,9 @@
             "seriesId": "115-105",
             "title": "とあるおっさんのＶＲＭＭＯ活動記",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -652,9 +651,10 @@
             "seriesId": "117-36",
             "title": "治癒魔法の間違った使い方",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -925,9 +925,11 @@
         {
             "seriesId": "13-62",
             "title": "機動戦士Ζガンダム",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1190,10 +1192,10 @@
             "seriesId": "149-27",
             "title": "Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎⼠（ペット）として暮らしてます",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1876,11 +1878,9 @@
         {
             "seriesId": "171-24",
             "title": "やはり俺の青春ラブコメはまちがっている。完",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1986,9 +1986,11 @@
         {
             "seriesId": "172-22",
             "title": "ルパン三世TVSP #16　盗まれたルパン～コピーキャットは真夏の蝶～",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2002,21 +2004,17 @@
         {
             "seriesId": "172-31",
             "title": "ルパン三世TVSP #01　バイバイ・リバティ―・危機一発！",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "172-32",
             "title": "ルパン三世TVSP #02　 ヘミングウェイ・ペーパーの謎",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2062,17 +2060,21 @@
         {
             "seriesId": "172-37",
             "title": "ルパン三世TVSP #15　お宝返却大作戦!!",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
             "seriesId": "172-38",
             "title": "ルパン三世TVSP #17　天使の策略～夢のカケラは殺しの香り～",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2802,9 +2804,10 @@
             "seriesId": "189-60",
             "title": "異世界でもふもふなでなでするためにがんばってます。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2941,9 +2944,10 @@
             "seriesId": "189-74",
             "title": "結婚するって、本当ですか",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3826,9 +3830,10 @@
             "seriesId": "194-40",
             "title": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3931,10 +3936,9 @@
             "seriesId": "198-12",
             "title": "魔法使いになれなかった女の子の話",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4118,8 +4122,7 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -4573,6 +4576,16 @@
             ]
         },
         {
+            "seriesId": "218-762",
+            "title": "ジャンプフェスタ2025 ジャンプスーパーステージRED",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-766",
             "title": "TVアニメ「沖縄で好きになった子が方言すぎてツラすぎる」放送直前特番",
             "label": {
@@ -4595,6 +4608,26 @@
         {
             "seriesId": "218-769",
             "title": "神崎エルザ starring ReoNa 2nd Mini Album「ELZA2」発売記念 ReoNa×日笠陽子スペシャル対談",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "218-773",
+            "title": "「Sランクモンスターの《ベヒーモス》だけど、 猫と間違われてエルフ娘の騎士(ペット) として暮らしてます」放送直前特番",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "218-775",
+            "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ キャスト集合年忘れ大忘年会 完全版",
             "label": {
                 "free": true
             },
@@ -4998,9 +5031,11 @@
         {
             "seriesId": "25-157",
             "title": "映画 この素晴らしい世界に祝福を！紅伝説",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5153,9 +5188,10 @@
             "seriesId": "25-237",
             "title": "久保さんは僕を許さない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5539,9 +5575,10 @@
             "seriesId": "25-274",
             "title": "魔王2099",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5801,17 +5838,21 @@
         {
             "seriesId": "26-103",
             "title": "青の祓魔師 劇場版",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
             "seriesId": "26-104",
             "title": "青の祓魔師 京都不浄王篇",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5855,11 +5896,9 @@
         {
             "seriesId": "26-125",
             "title": "聖☆おにいさん",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5957,10 +5996,9 @@
             "seriesId": "26-175",
             "title": "ぼっち・ざ・ろっく！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6131,10 +6169,9 @@
             "seriesId": "26-216",
             "title": "青の祓魔師 島根啓明結社篇",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6236,9 +6273,10 @@
             "seriesId": "26-227",
             "title": "逃げ上手の若君",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6306,6 +6344,16 @@
         {
             "seriesId": "26-234",
             "title": "グリザイア：ファントムトリガー",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "26-236",
+            "title": "青の祓魔師 終夜篇",
             "label": {
                 "free": true
             },
@@ -6562,12 +6610,9 @@
         {
             "seriesId": "35-50",
             "title": "クレヨンしんちゃん",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -6809,9 +6854,11 @@
         {
             "seriesId": "420-14",
             "title": "ワンパンマン",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -6856,10 +6903,10 @@
             "seriesId": "420-60",
             "title": "君のことが大大大大大好きな100人の彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -6907,9 +6954,11 @@
         {
             "seriesId": "420-66",
             "title": "転生したら第七王子だったので、気ままに魔術を極めます",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -7255,9 +7304,10 @@
             "seriesId": "5-49",
             "title": "Ｙｅｓ！プリキュア５",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7471,9 +7521,10 @@
             "seriesId": "5-69",
             "title": "ドラゴンボールDAIMA",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7898,9 +7949,10 @@
             "seriesId": "54-87",
             "title": "経験済みなキミと、経験ゼロなオレが、お付き合いする話。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7950,9 +8002,10 @@
             "seriesId": "54-92",
             "title": "真夜中ぱんチ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8184,10 +8237,9 @@
             "seriesId": "568-32",
             "title": "チ。 ―地球の運動について―",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8444,10 +8496,9 @@
             "seriesId": "643-4",
             "title": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
