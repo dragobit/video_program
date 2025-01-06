@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025010510",
+    "pubAt": "2025010610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -20,11 +20,9 @@
         {
             "seriesId": "106-3",
             "title": "リズと青い鳥",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -83,10 +81,9 @@
             "seriesId": "11-2dbduwwhkum",
             "title": "がっこうぐらし！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -524,10 +521,9 @@
             "seriesId": "115-91",
             "title": "イジらないで、長瀞さん 2nd Attack",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -705,6 +701,14 @@
             ]
         },
         {
+            "seriesId": "13-120",
+            "title": "機動武闘伝Ｇガンダム",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "13-151",
             "title": "ラブライブ！スーパースター!!",
             "label": {},
@@ -824,9 +828,10 @@
             "seriesId": "13-62",
             "title": "機動戦士Ζガンダム",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1382,10 +1387,9 @@
             "seriesId": "168-53",
             "title": "TVアニメ『MFゴースト』",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1565,9 +1569,11 @@
         {
             "seriesId": "169-120",
             "title": "継母の連れ子が元カノだった",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1650,10 +1656,10 @@
             "seriesId": "169-147",
             "title": "沖縄で好きになった子が方言すぎてツラすぎる",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1817,11 +1823,9 @@
         {
             "seriesId": "172-23",
             "title": "ルパン三世TVSP #20　sweet lost night 〜魔法のランプは悪夢の予感〜",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1891,21 +1895,17 @@
         {
             "seriesId": "172-39",
             "title": "ルパン三世TVSP #18　セブンデイズ・ラプソディ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "172-40",
             "title": "ルパン三世TVSP #19　霧のエリューシヴ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2160,10 +2160,9 @@
             "seriesId": "177-228",
             "title": "TVアニメ『レベル1だけどユニークスキルで最強です』",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2210,10 +2209,9 @@
             "seriesId": "177-481",
             "title": "あんた売れないわよ!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2847,9 +2845,11 @@
         {
             "seriesId": "189-77",
             "title": "『キン肉マン』完璧超人始祖編",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3795,9 +3795,10 @@
             "seriesId": "198-12",
             "title": "魔法使いになれなかった女の子の話",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4808,9 +4809,10 @@
             "seriesId": "25-15nn-yaysxby",
             "title": "日常",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5738,9 +5740,11 @@
         {
             "seriesId": "26-19",
             "title": "劇場版 魔法少女まどか☆マギカ ［後編］永遠の物語",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5788,9 +5792,11 @@
         {
             "seriesId": "26-20",
             "title": "劇場版 魔法少女まどか☆マギカ ［新編］叛逆の物語",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5827,9 +5833,11 @@
         {
             "seriesId": "26-21",
             "title": "劇場版 魔法少女まどか☆マギカ［前編］始まりの物語",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5846,9 +5854,10 @@
             "seriesId": "26-216",
             "title": "青の祓魔師 島根啓明結社篇",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5971,19 +5980,19 @@
         {
             "seriesId": "26-229",
             "title": "空の青さを知る人よ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "26-230",
-            "title": "青の祓魔師 雪ノ果篇",
             "label": {
                 "free": true
             },
             "onDemandTypes": [
                 3
+            ]
+        },
+        {
+            "seriesId": "26-230",
+            "title": "青の祓魔師 雪ノ果篇",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -6588,12 +6597,9 @@
         {
             "seriesId": "420-57",
             "title": "ブルーロック",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -6686,9 +6692,10 @@
             "seriesId": "420-69",
             "title": "神之塔 -Tower of God-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6916,10 +6923,9 @@
             "seriesId": "5-31",
             "title": "ドラゴンボールGT",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7375,8 +7381,8 @@
             ]
         },
         {
-            "seriesId": "536-1",
-            "title": "呪術廻戦",
+            "seriesId": "527-705",
+            "title": "【大千秋楽】舞台「WIND BREAKER」",
             "label": {
                 "free": true
             },
@@ -7385,13 +7391,23 @@
             ]
         },
         {
-            "seriesId": "536-3",
-            "title": "チェンソーマン",
+            "seriesId": "536-1",
+            "title": "呪術廻戦",
             "label": {
                 "someFree": true
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "536-3",
+            "title": "チェンソーマン",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -8003,9 +8019,12 @@
         {
             "seriesId": "622-4",
             "title": "0歳児スタートダッシュ物語",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
