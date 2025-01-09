@@ -1,6 +1,6 @@
 {
-    "pubAt": 1736294494,
-    "pubDate": "2025010809",
+    "pubAt": 1736380891,
+    "pubDate": "2025010909",
     "slots": {
         "abema-anime": [
             {
@@ -172,11 +172,11 @@
                 "channelId": "abema-anime",
                 "title": "ホロごえっ！厳選回一挙【再放送】",
                 "startAt": 1736614800,
-                "endAt": 1736620200,
+                "endAt": 1736619300,
                 "tableStartAt": 1736614800,
-                "tableEndAt": 1736620200,
+                "tableEndAt": 1736619300,
                 "highlight": "ホロごえっ！厳選回一挙",
-                "displayProgramId": "175-21_s0_p28",
+                "displayProgramId": "218-690_s4_p18",
                 "mark": {},
                 "flags": {
                     "timeshift": true,
@@ -185,13 +185,42 @@
                     "archiveComment": true
                 },
                 "timeshiftEndAt": 1739293200,
+                "timeshiftFreeEndAt": 1737224100,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-690",
+                "content": "隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ap2jVZuwxtmkcP",
+                "channelId": "abema-anime",
+                "title": "いくだもも！そびー #1〜3【無料ビデオ1週間】",
+                "startAt": 1736619300,
+                "endAt": 1736620200,
+                "tableStartAt": 1736619300,
+                "tableEndAt": 1736620200,
+                "highlight": "いくだもも！そびー #1〜3",
+                "displayProgramId": "218-683_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739297700,
                 "timeshiftFreeEndAt": 1737225000,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-21",
-                "content": "隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！",
+                "displaySeriesId": "218-683",
+                "content": "カフェインコからお店の宣伝を手伝って欲しいってお願いされたんだもも！たけしとゆるげんも一緒に考えたんだけど、みんな自由すぎてまとまらないだもも〜",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
@@ -721,6 +750,70 @@
             }
         ],
         "abema-anime-2": [
+            {
+                "id": "F5Gmz2jCmTePAw",
+                "channelId": "abema-anime-2",
+                "title": "薬屋のひとりごと #1〜24【無料ビデオ1週間】",
+                "startAt": 1736589600,
+                "endAt": 1736629200,
+                "tableStartAt": 1736589600,
+                "tableEndAt": 1736629200,
+                "highlight": "薬屋のひとりごと #1〜24",
+                "displayProgramId": "19-174_s1_p1",
+                "mark": {
+                    "bingeWatching": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739268000,
+                "timeshiftFreeEndAt": 1737234000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-174",
+                "content": "花街で薬屋を営む猫猫は、人さらいにかどわかされて後宮に売られ、下女として働くことになった。ある日、“帝の御子の連続死は「呪い」のせい”という噂を聞く。呪いの正体を推理した猫猫が妃たちが暮らす宮へ行くと、上級妃の二人が言い争う声が聞こえてきた。好奇心と知識欲が旺盛で「薬」「毒」と聞くと気持ちが昂る猫猫は、動き始める。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "F8XmnMRoPAyu1Z",
+                "channelId": "abema-anime-2",
+                "title": "薬屋のひとりごと #1〜24【無料ビデオ1週間】",
+                "startAt": 1736629200,
+                "endAt": 1736668800,
+                "tableStartAt": 1736629200,
+                "tableEndAt": 1736668800,
+                "highlight": "薬屋のひとりごと #1〜24",
+                "displayProgramId": "19-174_s1_p1",
+                "mark": {
+                    "bingeWatching": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739307600,
+                "timeshiftFreeEndAt": 1737234000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-174",
+                "content": "花街で薬屋を営む猫猫は、人さらいにかどわかされて後宮に売られ、下女として働くことになった。ある日、“帝の御子の連続死は「呪い」のせい”という噂を聞く。呪いの正体を推理した猫猫が妃たちが暮らす宮へ行くと、上級妃の二人が言い争う声が聞こえてきた。好奇心と知識欲が旺盛で「薬」「毒」と聞くと気持ちが昂る猫猫は、動き始める。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
             {
                 "id": "CKbzT4FQ6gkaiB",
                 "channelId": "abema-anime-2",
@@ -1395,7 +1488,7 @@
                     "timeshift": 1
                 },
                 "displaySeriesId": "420-71",
-                "content": "「平田の世界」\nマンガの世界の住人、平田平男が紡ぐ物語とは!?\n「うさみちゃんVS怪盗」\n怪盗バアズアイとうさみちゃん、世紀の対決。",
+                "content": "「平田の世界」\nマンガの世界の住人、平田平男が紡ぐ物語とは!?\n「名探偵と言えば！うさみちゃん」\n怪盗バアズアイとうさみちゃん、世紀の対決。",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]

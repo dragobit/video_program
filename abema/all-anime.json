@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025010810",
+    "pubAt": "2025010910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -1013,10 +1013,9 @@
             "seriesId": "149-13",
             "title": "ひげを剃る。そして女子高生を拾う。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1614,11 +1613,9 @@
         {
             "seriesId": "169-142",
             "title": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2121,16 +2118,6 @@
             ]
         },
         {
-            "seriesId": "174-9",
-            "title": "りゅうおうのおしごと！",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "177-228",
             "title": "TVアニメ『レベル1だけどユニークスキルで最強です』",
             "label": {
@@ -2386,11 +2373,9 @@
         {
             "seriesId": "184-175",
             "title": "ワンピース THE MOVIE デッドエンドの冒険",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2474,11 +2459,9 @@
         {
             "seriesId": "184-184",
             "title": "ONE PIECE STAMPEDE",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2654,9 +2637,11 @@
         {
             "seriesId": "189-61",
             "title": "スナックバス江",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3146,10 +3131,9 @@
             "seriesId": "19-179",
             "title": "To LOVEる -とらぶる-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3283,12 +3267,9 @@
         {
             "seriesId": "19-195",
             "title": "CLANNAD",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3403,9 +3384,10 @@
             "seriesId": "19-208",
             "title": "タイムボカンシリーズ ヤッターマン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3562,10 +3544,9 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3681,10 +3662,9 @@
             "seriesId": "194-42",
             "title": "さようなら竜生、こんにちは人生",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4402,6 +4382,16 @@
             ]
         },
         {
+            "seriesId": "218-778",
+            "title": "「チ。 ―地球の運動について―」後半クール記念特番",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "221-276",
             "title": "青の祓魔師 特別授業 -オルタナヴェルト大解剖-",
             "label": {
@@ -4558,10 +4548,9 @@
             "seriesId": "248-21",
             "title": "妖怪学校の先生はじめました！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4629,9 +4618,10 @@
             "seriesId": "25-115",
             "title": "異世界かるてっと",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4732,10 +4722,9 @@
             "seriesId": "25-147",
             "title": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5184,10 +5173,9 @@
             "seriesId": "25-264",
             "title": "声優ラジオのウラオモテ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5195,9 +5183,10 @@
             "seriesId": "25-265",
             "title": "恋は双子で割り切れない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5234,9 +5223,10 @@
             "seriesId": "25-270",
             "title": "VTuberなんだが配信切り忘れたら伝説になってた",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5307,10 +5297,10 @@
             "seriesId": "25-277",
             "title": "マジック・メイカー　～異世界魔法の作り方～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5633,9 +5623,10 @@
             "seriesId": "26-156",
             "title": "その着せ替え人形は恋をする",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6349,9 +6340,10 @@
             "seriesId": "35-7fbsihxzgdw",
             "title": "忍者ハットリくん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6430,10 +6422,9 @@
             "seriesId": "413-2",
             "title": "本好きの下剋上 司書になるためには手段を選んでいられません",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6996,10 +6987,9 @@
             "seriesId": "5-52",
             "title": "スイートプリキュア♪",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7377,9 +7367,10 @@
             "seriesId": "536-6",
             "title": "とんでもスキルで異世界放浪メシ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7434,7 +7425,8 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -7604,9 +7596,10 @@
             "seriesId": "54-90",
             "title": "Lv2からチートだった元勇者候補のまったり異世界ライフ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8205,10 +8198,10 @@
             "seriesId": "675-4",
             "title": "誰ソ彼ホテル",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
