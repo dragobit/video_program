@@ -1,6 +1,6 @@
 {
-    "pubAt": 1736467289,
-    "pubDate": "2025011009",
+    "pubAt": 1736553697,
+    "pubDate": "2025011109",
     "slots": {
         "abema-anime": [
             {
@@ -43,19 +43,20 @@
                 "tableStartAt": 1737039600,
                 "tableEndAt": 1737041400,
                 "highlight": "青の祓魔師 終夜篇 #2",
-                "displayProgramId": "175-1rthzhecdme_s0_p42",
+                "displayProgramId": "26-236_s1_p2",
                 "mark": {},
                 "flags": {
                     "timeshift": true,
                     "chasePlay": true,
-                    "archiveComment": true
+                    "archiveComment": true,
+                    "disableTrim": true
                 },
                 "timeshiftEndAt": 1739718000,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-1rthzhecdme",
+                "displaySeriesId": "26-236",
                 "content": "雪男は燐に決別を告げ、イルミナティへと向かってしまった。\n強さを求め、真実を求める雪男と向き合うためには、自分たちの出生の秘密を知る必要があると決意した燐は、メフィストの手引きで過去へと旅立つ。\n\n燐は、育ての父である藤本獅郎と実の母であるユリ・エギンの足跡を辿っていくが、二人が生きた道筋は、想像を超える過酷なものだった――\n\nなぜ、悪魔の神であるサタンと人との間に仔が生まれたのか。\n〝青い夜〟とは何だったのか。\nすべてを知ったとき、燐が出す答えとは……。\n物語はいよいよ「青の祓魔師」の核心を暴き出す――",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
@@ -258,7 +259,7 @@
                 "tableStartAt": 1737052200,
                 "tableEndAt": 1737054000,
                 "highlight": "べヒ猫 #3",
-                "displayProgramId": "175-1rthzhecdme_s0_p23",
+                "displayProgramId": "149-27_s1_p3",
                 "mark": {},
                 "flags": {
                     "timeshift": true,
@@ -270,7 +271,7 @@
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-1rthzhecdme",
+                "displaySeriesId": "149-27",
                 "content": "迷宮都市・リューイン。\nモンスターはびこる迷宮があるこの町には、数多くの冒険者たちが集まっていた。\n命を落とし転生した主人公は、迷宮の中で目を覚ます。\nその外見は、どう見ても仔猫！？\nしかし正体は――災害級のSランクモンスター《ベヒーモス》の幼体だった！\n彼が出会ったのは、駆け出しのDランク冒険者・アリア。\n仔猫と勘違いしたアリアは、重傷を負っていた彼を連れ帰って手当てし、「タマ」と名付けてペットにする。\nその優しさに心を打たれたタマは、アリアを守る騎士となることを誓うのだった。\nSランクの力を活かし、アリアと共に迷宮を冒険するタマ。\n個性豊かな仲間たちと出会い、時に溺愛されながら、騎士（ペット）としての日々が始まる！",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
@@ -345,9 +346,9 @@
                 "channelId": "abema-anime",
                 "title": "最凶の支援職【話術士】#1〜12【無料ビデオ1週間】",
                 "startAt": 1737094200,
-                "endAt": 1737115200,
+                "endAt": 1737115020,
                 "tableStartAt": 1737094200,
-                "tableEndAt": 1737115200,
+                "tableEndAt": 1737114600,
                 "highlight": "最凶の支援職【話術士】 #1〜12",
                 "displayProgramId": "54-95_s1_p1",
                 "mark": {
@@ -360,7 +361,7 @@
                     "archiveComment": true
                 },
                 "timeshiftEndAt": 1739772600,
-                "timeshiftFreeEndAt": 1737720000,
+                "timeshiftFreeEndAt": 1737719820,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
@@ -385,7 +386,9 @@
                     "live": true
                 },
                 "flags": {
+                    "share": true,
                     "timeshift": true,
+                    "sharingPolicy": 1,
                     "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
@@ -502,7 +505,7 @@
                 "id": "EdaDpoVJgWxbYj",
                 "groupId": "CKbzRr6YwZUZFV",
                 "channelId": "abema-anime",
-                "title": "『FARMAGIA』 #2【地上波同時・WEB最速】",
+                "title": "『FARMAGIA』 #2【最新話】",
                 "startAt": 1737124200,
                 "endAt": 1737126000,
                 "tableStartAt": 1737124200,
@@ -531,6 +534,99 @@
             }
         ],
         "abema-anime-2": [
+            {
+                "id": "AsHjHbNVURcYQP",
+                "channelId": "abema-anime-2",
+                "title": "【推しの子】#1〜11【無料ビデオ2週間】",
+                "startAt": 1737021600,
+                "endAt": 1737043200,
+                "tableStartAt": 1737021600,
+                "tableEndAt": 1737043200,
+                "highlight": "推しの子 #1〜11",
+                "displayProgramId": "25-240_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739700000,
+                "timeshiftFreeEndAt": 1738252800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-240",
+                "content": "産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AsHjFBDBtYSnsZ",
+                "channelId": "abema-anime-2",
+                "title": "【推しの子】#1〜11【無料ビデオ2週間】",
+                "startAt": 1737043200,
+                "endAt": 1737064800,
+                "tableStartAt": 1737043200,
+                "tableEndAt": 1737064800,
+                "highlight": "推しの子 #1〜11",
+                "displayProgramId": "25-240_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739721600,
+                "timeshiftFreeEndAt": 1738274400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-240",
+                "content": "産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "FFRB1D62Rd3JZD",
+                "channelId": "abema-anime-2",
+                "title": "【推しの子】#1〜11【無料ビデオ2週間】",
+                "startAt": 1737064800,
+                "endAt": 1737086400,
+                "tableStartAt": 1737064800,
+                "tableEndAt": 1737086400,
+                "highlight": "推しの子 #1〜11",
+                "displayProgramId": "25-240_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739743200,
+                "timeshiftFreeEndAt": 1738296000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-240",
+                "content": "産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
             {
                 "id": "AvYj154x4eJnt7",
                 "channelId": "abema-anime-2",
@@ -2190,9 +2286,473 @@
                 ]
             }
         ],
-        "isekai-anime": [],
-        "isekai-anime-2": [],
-        "isekai-anime-3": [],
+        "isekai-anime": [
+            {
+                "id": "AvYizA4dxRJ9DZ",
+                "channelId": "isekai-anime",
+                "title": "ひとりぼっちの異世界攻略 #1〜12【無料ビデオ1週間】",
+                "startAt": 1737024900,
+                "endAt": 1737046500,
+                "tableStartAt": 1737024900,
+                "tableEndAt": 1737046500,
+                "highlight": "ひとりぼっちの異世界攻略 #1〜12",
+                "displayProgramId": "189-70_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739703300,
+                "timeshiftFreeEndAt": 1737651300,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-70",
+                "content": "「俺は今、異世界を……ひとりぼっちで攻略している」\nクラスメイトたちが仲の良いグループで思い思いに過ごす高校の教室に、突如魔法陣の光が輝き、クラス丸ごと異世界召喚されてしまう。敢えて”ぼっち”な時間を満喫していた高校生の遥も例外ではなく……しかも、逃げのびようと悪あがきをしてしまったために、神様からのスキル選択に出遅れ――!?　\nチートスキルは早い者勝ちで、すでに取りつくされており、残りは役に立たないバッドスキルばかり。神様に異議を申し立てていたら、残りのバッドスキルを全て押し付けられてしまう。そして、スキル『ぼっち』のせいでパーティーが組めず一人で冒険を強いられるが、遥は快適なぼっちライフを送るべく準備に取り掛かるのだった。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AyoimGWko6Z1S7",
+                "channelId": "isekai-anime",
+                "title": "最果てのパラディン 全話一挙【無料ビデオ1週間】",
+                "startAt": 1737046500,
+                "endAt": 1737068100,
+                "tableStartAt": 1737046500,
+                "tableEndAt": 1737068100,
+                "highlight": "最果てのパラディン 全話一挙",
+                "displayProgramId": "54-64_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739724900,
+                "timeshiftFreeEndAt": 1737672900,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-64",
+                "content": "死者の街と呼ばれる辺境の地で、少年ウィルは三人の不死者（アンデッド）に育てられていた。愛情を一身に受け健やかに育つウィルだが、自分以外にこの地に住んでいる人間はいない。なぜ自分はここにいるのか、そして三人がひた隠しにする秘密とは何なのか。そんな疑問を抱くようになるが、彼自身にも秘密があり…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "F21nHkgo3ngyuq",
+                "channelId": "isekai-anime",
+                "title": "最果てのパラディン 全話一挙【無料ビデオ1週間】",
+                "startAt": 1737068100,
+                "endAt": 1737089700,
+                "tableStartAt": 1737068100,
+                "tableEndAt": 1737089700,
+                "highlight": "最果てのパラディン 全話一挙",
+                "displayProgramId": "54-64_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739746500,
+                "timeshiftFreeEndAt": 1737694500,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-64",
+                "content": "死者の街と呼ばれる辺境の地で、少年ウィルは三人の不死者（アンデッド）に育てられていた。愛情を一身に受け健やかに育つウィルだが、自分以外にこの地に住んでいる人間はいない。なぜ自分はここにいるのか、そして三人がひた隠しにする秘密とは何なのか。そんな疑問を抱くようになるが、彼自身にも秘密があり…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "F21nF2octSCJHM",
+                "channelId": "isekai-anime",
+                "title": "最弱テイマーはゴミ拾いの旅を始めました。 全話一挙【無料ビデオ1週間】",
+                "startAt": 1737089700,
+                "endAt": 1737109800,
+                "tableStartAt": 1737089700,
+                "tableEndAt": 1737109800,
+                "highlight": "最弱テイマー 全話一挙",
+                "displayProgramId": "248-17_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739768100,
+                "timeshiftFreeEndAt": 1737714600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "248-17",
+                "content": "森で暮らす８歳の少女フェミシア。村長はフェミシアを不吉な子供だと言って捕まえようとする。村を捨てて冒険の旅に出たフェミシアは、『捨て場』でまだ使えるゴミを拾って、旅の道具にする。しかし、フェミシアを追跡する冒険者が現れる。冒険者から逃げるフェミシアだが、スライムの大群と遭遇して――",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AJhmpfCzLNfpoR",
+                "channelId": "isekai-anime",
+                "title": "異世界のんびり農家 #1〜9【無料ビデオ1週間】",
+                "startAt": 1737109800,
+                "endAt": 1737126000,
+                "tableStartAt": 1737109800,
+                "tableEndAt": 1737126000,
+                "highlight": "異世界のんびり農家 #1〜9",
+                "displayProgramId": "189-62_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739788200,
+                "timeshiftFreeEndAt": 1737730800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-62",
+                "content": "「農業をしながらのんびり暮らしたい」\n　病で命を落とした青年・街尾火楽（ヒラク）は、神様に望みをかなえてもらい、\n異世界へと転生するが……目覚めたのは深い森のど真ん中。\n水も食料もなければ寝床もない、頼れるのは\n神様からもらった「健康な身体」と「万能農具」の力だけ。\nそれでもなんとか自給自足の生活を始めるべく、\n火楽は見渡す限り広がる森の中を右往左往しながら奮闘する。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "isekai-anime-2": [
+            {
+                "id": "8xVsraLtgv8XyH",
+                "channelId": "isekai-anime-2",
+                "title": "魔王様、リトライ！R #1～12【無料ビデオ1週間】",
+                "startAt": 1737024900,
+                "endAt": 1737046200,
+                "tableStartAt": 1737024900,
+                "tableEndAt": 1737046200,
+                "highlight": "魔王様、リトライ！R #1～12",
+                "displayProgramId": "656-2_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739703300,
+                "timeshiftFreeEndAt": 1737651000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "656-2",
+                "content": "オンラインゲーム「INFINITY GAME」の開発者・大野晶は、ゲームのサービス終了とともに、ゲーム内のラスボスである魔王・九内伯斗として異世界に転移してしまった！さらに目の前では、謎の化け物に少年が襲われそうになっていた！怖がる少年をよそに、九内の圧倒的な力で敵をあっという間に倒してしまう。助けた少年は、実は村から生贄として差し出されたアクという名の「少女」であった。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "8xVsqMtZ3rGUPH",
+                "channelId": "isekai-anime-2",
+                "title": "佐々木とピーちゃん #1〜12【無料ビデオ2週間】",
+                "startAt": 1737046200,
+                "endAt": 1737067800,
+                "tableStartAt": 1737046200,
+                "tableEndAt": 1737067800,
+                "highlight": "佐々木とピーちゃん #1〜12",
+                "displayProgramId": "25-254_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739724600,
+                "timeshiftFreeEndAt": 1738277400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-254",
+                "content": "ブラック企業に勤める会社員「佐々木」がペットショップで購入した文鳥「ピーちゃん」は、異世界から転生した賢者様だった。ピーちゃんから魔法の力と異世界に渡る機会を与えられた佐々木は、異世界に現代日本の品々を持ち込んで商売を始める。会社から帰ったあとは異世界で夢のスローライフを満喫！……できるかと思いきや、会社からの帰り道で異能力者に出くわし……!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "8xVst68BXf36NT",
+                "channelId": "isekai-anime-2",
+                "title": "神達に拾われた男２ #1〜12【無料ビデオ1週間】",
+                "startAt": 1737067800,
+                "endAt": 1737089700,
+                "tableStartAt": 1737067800,
+                "tableEndAt": 1737089700,
+                "highlight": "神達に拾われた男２ #1〜12",
+                "displayProgramId": "169-132_s2_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739746200,
+                "timeshiftFreeEndAt": 1737694500,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "169-132",
+                "content": "以前と変わらずスライム研究に没頭しながらリョウマが営むクリーニング店「バンブーフォレスト」は今日も朝から大盛況。開店準備を終えたリョウマとカルラが執務室で今後の経営方針について話をしていると、店内から何やら大きな声が…。急いで2人が駆けつけると街のゴロツキたちが洗濯物にあらぬクレームをつけていたようで、暴れだした彼らをすでに用心棒のリーリンが取り押さえていた。これを機に店の防犯対策を見直そうと、リョウマはスライムの力を借りてまずは防犯ガラスを作ることに。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "8xVsuJRaBwkwbV",
+                "channelId": "isekai-anime-2",
+                "title": "佐々木とピーちゃん #1〜12【無料ビデオ2週間】",
+                "startAt": 1737089700,
+                "endAt": 1737111600,
+                "tableStartAt": 1737089700,
+                "tableEndAt": 1737111600,
+                "highlight": "佐々木とピーちゃん #1〜12",
+                "displayProgramId": "25-254_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739768100,
+                "timeshiftFreeEndAt": 1738321200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-254",
+                "content": "ブラック企業に勤める会社員「佐々木」がペットショップで購入した文鳥「ピーちゃん」は、異世界から転生した賢者様だった。ピーちゃんから魔法の力と異世界に渡る機会を与えられた佐々木は、異世界に現代日本の品々を持ち込んで商売を始める。会社から帰ったあとは異世界で夢のスローライフを満喫！……できるかと思いきや、会社からの帰り道で異能力者に出くわし……!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "8xVssncNLFocns",
+                "channelId": "isekai-anime-2",
+                "title": "転生貴族、鑑定スキルで成り上がる 第2期 #13～24【無料ビデオ72時間】",
+                "startAt": 1737111600,
+                "endAt": 1737132300,
+                "tableStartAt": 1737111600,
+                "tableEndAt": 1737132300,
+                "highlight": "鑑定スキル 第2期 #13～24",
+                "displayProgramId": "420-65_s2_p13",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739790000,
+                "timeshiftFreeEndAt": 1737391500,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "420-65",
+                "content": "ミーシアン州の次期総督の座をめぐるクランとバサマークの争いは更に激化していた。\nそんな中、アルスたちはクラン陣営の軍議に参加するため、貿易都市センプラーへと向かう。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "isekai-anime-3": [
+            {
+                "id": "8xVsso1KhBUcpP",
+                "channelId": "isekai-anime-3",
+                "title": "魔法科高校の劣等生 #14〜26【無料ビデオ2週間】",
+                "startAt": 1737024900,
+                "endAt": 1737046500,
+                "tableStartAt": 1737024900,
+                "tableEndAt": 1737046500,
+                "highlight": "魔法科高校の劣等生 #14〜26",
+                "displayProgramId": "25-2xrwzkrsieb_s0_p14",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739703300,
+                "timeshiftFreeEndAt": 1738256100,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-2xrwzkrsieb",
+                "content": "吉祥寺と一条が、達也に戦線布告をしてきた。彼らは新人戦のモノリス・コードに出場すると宣言して達也を挑発するが、そっけない態度で一蹴されてしまう。そんな幕間劇を挟みながら競技は進み、一高は首位を独走。新人戦ピラーズ・ブレイク決勝戦は、深雪対雫という一高生同士の戦いとなる。試合開始直後、深雪の放った“氷炎地獄”の熱波が雫のエリアを支配する。それでも雫は冷静に、達也から授けられた作戦を開始する。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EJ2FJvYbGFaudZ",
+                "channelId": "isekai-anime-3",
+                "title": "本好きの下剋上 司書になるためには手段を選んでいられません #13〜24",
+                "startAt": 1737046500,
+                "endAt": 1737068100,
+                "tableStartAt": 1737046500,
+                "tableEndAt": 1737068100,
+                "highlight": "本好きの下剋上 #13〜24",
+                "displayProgramId": "413-2_s1_p13",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1738335600,
+                "timeshiftFreeEndAt": 1737672900,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "413-2",
+                "content": "神殿の巫女見習いになりたいと言うマインに、激怒するギュンター。神官や巫女見習いは孤児がなるもの。しかも神殿に住み込みで、きつい仕事をしなければならないらしい。マインは、巫女見習いになるのを諦めることにする。そして再び神殿へやって来たマインは、神殿長と神官長のフェルディナンドに、巫女見習いの話を断ろうとするが……。そこで思わぬことが起こってしまう。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "8xVtYbhNvTT3tT",
+                "channelId": "isekai-anime-3",
+                "title": "ポーション頼みで生き延びます！ #1〜12【無料ビデオ1週間】",
+                "startAt": 1737068100,
+                "endAt": 1737089700,
+                "tableStartAt": 1737068100,
+                "tableEndAt": 1737089700,
+                "highlight": "ポーション頼みで生き延びます！",
+                "displayProgramId": "189-57_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739746500,
+                "timeshiftFreeEndAt": 1737694500,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-57",
+                "content": "ABEMAは新作アニメ独占見放題本数No.1！10月クールは、異世界・ファンタジーアニメを5作品独占見放題配信！\n\n地球の管理者のミスで命を落とした長瀬香は、少女カオルとして異世界ヴェルニーに転生。ヴェルニーの管理者であるセレスティーヌから「この世界のあらゆる言語の会話と読み書きの能力」「考えたとおりの薬品を、考えたとおりの容器に入れて出す能力」「容量無限、内部の時間経過がなく出し入れ自由、かつ他人には使用できないアイテムボックス」を授かり、さらにはセレスティーヌにお友達になってもらう。カオルは最初に訪れたルニエ男爵領でさっそく治癒のポーションを売り出すが、なぜか売れなくて……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "8xVsqMeAMU3Kvw",
+                "channelId": "isekai-anime-3",
+                "title": "ポーション頼みで生き延びます！ #1〜12【無料ビデオ1週間】",
+                "startAt": 1737089700,
+                "endAt": 1737111600,
+                "tableStartAt": 1737089700,
+                "tableEndAt": 1737111600,
+                "highlight": "ポーション頼みで生き延びます！",
+                "displayProgramId": "189-57_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739768100,
+                "timeshiftFreeEndAt": 1737716400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-57",
+                "content": "ABEMAは新作アニメ独占見放題本数No.1！10月クールは、異世界・ファンタジーアニメを5作品独占見放題配信！\n\n地球の管理者のミスで命を落とした長瀬香は、少女カオルとして異世界ヴェルニーに転生。ヴェルニーの管理者であるセレスティーヌから「この世界のあらゆる言語の会話と読み書きの能力」「考えたとおりの薬品を、考えたとおりの容器に入れて出す能力」「容量無限、内部の時間経過がなく出し入れ自由、かつ他人には使用できないアイテムボックス」を授かり、さらにはセレスティーヌにお友達になってもらう。カオルは最初に訪れたルニエ男爵領でさっそく治癒のポーションを売り出すが、なぜか売れなくて……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "8xVutD5VP1Pv2b",
+                "channelId": "isekai-anime-3",
+                "title": "魔法科高校の劣等生 来訪者編 #1〜13【無料ビデオ2週間】",
+                "startAt": 1737111600,
+                "endAt": 1737133200,
+                "tableStartAt": 1737111600,
+                "tableEndAt": 1737133200,
+                "highlight": "魔法科高校の劣等生 来訪者編 #1〜13",
+                "displayProgramId": "25-156_s2_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739790000,
+                "timeshiftFreeEndAt": 1738342800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-2xrwzkrsieb",
+                "content": "≪灼熱のハロウィン≫から２か月。達也たちは交換留学でアメリカに行くことになった雫の送別会を楽しんでいた。そして新学期になって雫と交換でアメリカから留学生がやって来た。彼女の名はアンジェリーナ＝クドウ＝シールズ。深雪に匹敵するほど強い魔法力を持った彼女の正体とは……？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "lovecomedy-anime": [
             {
                 "id": "8xVsucaqGPmHf5",
@@ -2319,7 +2879,163 @@
                 ]
             }
         ],
-        "dailylife-anime": [],
+        "dailylife-anime": [
+            {
+                "id": "8xVsthDr6eAjTV",
+                "channelId": "dailylife-anime",
+                "title": "ふらいんぐうぃっち #1〜12【無料ビデオ1週間】",
+                "startAt": 1737024900,
+                "endAt": 1737046500,
+                "tableStartAt": 1737024900,
+                "tableEndAt": 1737046500,
+                "highlight": "ふらいんぐうぃっち #1〜12",
+                "displayProgramId": "143-50_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739703300,
+                "timeshiftFreeEndAt": 1737651300,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "143-50",
+                "content": "高校入学に合わせて親元を離れることになった新米魔女、木幡真琴。彼女は使い魔のチトと一緒に青森にある親戚の倉本家に居候し、又いとこの倉本千夏、倉本圭と生活を送りながら魔女としての修行を積むことに。引っ越して早々、真琴は、猫であるチトと話している会話を千夏に聞かれ、警戒心を持たれてしまう。新しく始まった高校生活では、圭の紹介でクラスメイトの石渡なおと知り合いになるのだが…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EJ2FyQs6u2nzvb",
+                "channelId": "dailylife-anime",
+                "title": "ジャヒー様はくじけない！ #11〜20【無料ビデオ1週間】",
+                "startAt": 1737046500,
+                "endAt": 1737066600,
+                "tableStartAt": 1737046500,
+                "tableEndAt": 1737066600,
+                "highlight": "ジャヒー様はくじけない！ #11〜20",
+                "displayProgramId": "194-24_s1_p11",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739724900,
+                "timeshiftFreeEndAt": 1737671400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "194-24",
+                "content": "相変わらず、ドゥルジには調子のいいことしか言えないジャヒー様。いい顔したいばかりに、魔法少女を見つけ、さらに倒したことになってしまう。\nおまけに、大家が姉の店長とケンカして、ジャヒー様の部屋に上がり込んできた。大迷惑だがそう強い態度にも出られない。\nかわりに家事にこき使ってやろうとするが、大家は思った以上のポンコツだった！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EJ2FLSANdhEB91",
+                "channelId": "dailylife-anime",
+                "title": "ジャヒー様はくじけない！ #11〜20【無料ビデオ1週間】",
+                "startAt": 1737068400,
+                "endAt": 1737088200,
+                "tableStartAt": 1737068400,
+                "tableEndAt": 1737088200,
+                "highlight": "ジャヒー様はくじけない！ #11〜20",
+                "displayProgramId": "194-24_s1_p11",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739746800,
+                "timeshiftFreeEndAt": 1737693000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "194-24",
+                "content": "相変わらず、ドゥルジには調子のいいことしか言えないジャヒー様。いい顔したいばかりに、魔法少女を見つけ、さらに倒したことになってしまう。\nおまけに、大家が姉の店長とケンカして、ジャヒー様の部屋に上がり込んできた。大迷惑だがそう強い態度にも出られない。\nかわりに家事にこき使ってやろうとするが、大家は思った以上のポンコツだった！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EJ2FKDQc7Yeu5H",
+                "channelId": "dailylife-anime",
+                "title": "ジャヒー様はくじけない！ #11〜20【無料ビデオ1週間】",
+                "startAt": 1737090000,
+                "endAt": 1737109800,
+                "tableStartAt": 1737090000,
+                "tableEndAt": 1737109800,
+                "highlight": "ジャヒー様はくじけない！ #11〜20",
+                "displayProgramId": "194-24_s1_p11",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739768400,
+                "timeshiftFreeEndAt": 1737714600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "194-24",
+                "content": "相変わらず、ドゥルジには調子のいいことしか言えないジャヒー様。いい顔したいばかりに、魔法少女を見つけ、さらに倒したことになってしまう。\nおまけに、大家が姉の店長とケンカして、ジャヒー様の部屋に上がり込んできた。大迷惑だがそう強い態度にも出られない。\nかわりに家事にこき使ってやろうとするが、大家は思った以上のポンコツだった！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "8xVsraCUafoGR5",
+                "channelId": "dailylife-anime",
+                "title": "けいおん! #1〜14【無料ビデオ1週間】",
+                "startAt": 1737111600,
+                "endAt": 1737136800,
+                "tableStartAt": 1737111600,
+                "tableEndAt": 1737136800,
+                "highlight": "けいおん! #1〜14",
+                "displayProgramId": "19-183_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1739790000,
+                "timeshiftFreeEndAt": 1737741600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-183",
+                "content": "春､新入生がクラブを決める頃｡田井中律は幼馴染みの秋山澪を連れて､軽音部の見学へ行く｡しかし部員全員が卒業してしまった軽音部は､あらたに4人の部員が集まらないと廃部になってしまうという｡琴吹紬という仲間を加えて､最後の1人を探している頃､｢軽音部｣を軽い音楽(口笛など)と勘違いしていた楽器初心者･平沢唯が入部してくる｡",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "late-night-anime": [
             {
                 "id": "DSmuLWd7Fuzx4o",

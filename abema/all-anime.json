@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025011010",
+    "pubAt": "2025011110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -970,9 +970,10 @@
             "seriesId": "143-51",
             "title": "DEATH NOTE -デスノート-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1279,10 +1280,9 @@
             "seriesId": "168-26",
             "title": "フルーツバスケット 1st season",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1383,9 +1383,12 @@
         {
             "seriesId": "168-50",
             "title": "頭文字[イニシャル]D OVA",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1733,10 +1736,10 @@
             "seriesId": "171-25",
             "title": "『FARMAGIA』",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2064,16 +2067,6 @@
             "label": {},
             "onDemandTypes": [
                 1
-            ]
-        },
-        {
-            "seriesId": "174-18",
-            "title": "魔女の旅々",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
             ]
         },
         {
@@ -2440,21 +2433,17 @@
         {
             "seriesId": "184-182",
             "title": "ONE PIECE FILM Z",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "184-183",
             "title": "ONE PIECE FILM GOLD",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2499,9 +2488,10 @@
             "seriesId": "189-14",
             "title": "魔王様、リトライ！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2841,11 +2831,9 @@
         {
             "seriesId": "19-106",
             "title": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2958,19 +2946,20 @@
         {
             "seriesId": "19-141",
             "title": "冴えない彼女の育てかた Fine",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
             "seriesId": "19-143",
             "title": "冴えない彼女の育てかた",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3002,9 +2991,10 @@
             "seriesId": "19-149",
             "title": "お兄ちゃんはおしまい！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3071,11 +3061,9 @@
         {
             "seriesId": "19-171",
             "title": "葬送のフリーレン",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3330,9 +3318,11 @@
         {
             "seriesId": "19-202",
             "title": "妻、小学生になる。",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3394,9 +3384,10 @@
             "seriesId": "19-209",
             "title": "科学忍者隊ガッチャマン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3521,12 +3512,9 @@
         {
             "seriesId": "190-28",
             "title": "女神降臨",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3649,10 +3637,9 @@
             "seriesId": "194-41",
             "title": "菜なれ花なれ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4228,9 +4215,12 @@
         {
             "seriesId": "218-707",
             "title": "鈴村健一のラジベース DUO",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -4730,11 +4720,9 @@
         {
             "seriesId": "25-146",
             "title": "Re:ゼロから始める異世界生活 氷結の絆",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5027,11 +5015,9 @@
         {
             "seriesId": "25-249",
             "title": "劇場版 異世界かるてっと～あなざーわーるど～",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5576,11 +5562,9 @@
         {
             "seriesId": "26-116",
             "title": "心が叫びたがってるんだ。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5734,9 +5718,10 @@
             "seriesId": "26-197",
             "title": "山田くんとLv999の恋をする",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6133,6 +6118,16 @@
             ]
         },
         {
+            "seriesId": "283-27",
+            "title": "カードファイト!! ヴァンガード Divinez デラックス編",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "283-5",
             "title": "アニメ「BanG Dream! 2nd Season」",
             "label": {
@@ -6212,9 +6207,10 @@
             "seriesId": "35-3",
             "title": "新あたしンち",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6498,12 +6494,9 @@
         {
             "seriesId": "420-11",
             "title": "転生したらスライムだった件",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -7059,10 +7052,9 @@
             "seriesId": "5-57",
             "title": "魔法つかいプリキュア！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7408,10 +7400,9 @@
             "seriesId": "536-8",
             "title": "らんま1/2",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7916,9 +7907,10 @@
             "seriesId": "593-9",
             "title": "俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8081,9 +8073,10 @@
             "seriesId": "643-4",
             "title": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8195,9 +8188,10 @@
             "seriesId": "675-2",
             "title": "しかのこのこのここしたんたん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8216,9 +8210,10 @@
             "seriesId": "675-4",
             "title": "誰ソ彼ホテル",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8306,11 +8301,9 @@
         {
             "seriesId": "90-2017",
             "title": "STPRのカラフル☆ゲームタイム",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         }
     ]
