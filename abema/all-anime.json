@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025011110",
+    "pubAt": "2025011210",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -595,9 +595,10 @@
             "seriesId": "117-37",
             "title": "魔導具師ダリヤはうつむかない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -702,9 +703,11 @@
         {
             "seriesId": "13-120",
             "title": "機動武闘伝Ｇガンダム",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1530,9 +1533,10 @@
             "seriesId": "168-70",
             "title": "賭ケグルイ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1542,6 +1546,16 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "168-72",
+            "title": "【アニコミ】聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました～力を解放したので国が平和になってきましたが元の国まで加護は届きませんよ～",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -1662,9 +1676,10 @@
             "seriesId": "169-147",
             "title": "沖縄で好きになった子が方言すぎてツラすぎる",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1736,10 +1751,10 @@
             "seriesId": "171-25",
             "title": "『FARMAGIA』",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2359,11 +2374,9 @@
         {
             "seriesId": "184-174",
             "title": "ワンピース 珍獣島のチョッパー王国",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2377,21 +2390,17 @@
         {
             "seriesId": "184-176",
             "title": "ワンピース 呪われた聖剣",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "184-177",
             "title": "ワンピース THE MOVIE オマツリ男爵と秘密の島",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2637,9 +2646,10 @@
             "seriesId": "189-62",
             "title": "異世界のんびり農家",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3053,9 +3063,11 @@
         {
             "seriesId": "19-170",
             "title": "大雪海のカイナ",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3129,9 +3141,12 @@
         {
             "seriesId": "19-180",
             "title": "うる星やつら",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3552,9 +3567,10 @@
             "seriesId": "194-24",
             "title": "ジャヒー様はくじけない！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3573,10 +3589,9 @@
             "seriesId": "194-28",
             "title": "魔法使い黎明期",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3584,9 +3599,10 @@
             "seriesId": "194-35",
             "title": "デキる猫は今日も憂鬱",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3946,10 +3962,9 @@
             "seriesId": "210-12",
             "title": "ブルーアーカイブ The Animation",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3961,6 +3976,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "210-14",
+            "title": "TVアニメ『魔法使いの約束』",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -4341,16 +4366,6 @@
             ]
         },
         {
-            "seriesId": "218-770",
-            "title": "GA FES 2025",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-771",
             "title": "日本アニメトレンド大賞2024",
             "label": {
@@ -4383,6 +4398,16 @@
         {
             "seriesId": "218-776",
             "title": "『妖怪学校の先生はじめました！』新学期＆第2クールスタート特番！",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "218-777",
+            "title": "「悪役令嬢転生おじさん」放送直前特番",
             "label": {
                 "free": true
             },
@@ -4567,10 +4592,9 @@
             "seriesId": "248-22",
             "title": "マーダーミステリー・オブ・ザ・デッド",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4606,10 +4630,9 @@
             "seriesId": "25-109",
             "title": "盾の勇者の成り上がり",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4801,16 +4824,6 @@
             ]
         },
         {
-            "seriesId": "25-182",
-            "title": "世界最高の暗殺者、異世界貴族に転生する",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "25-189",
             "title": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました",
             "label": {
@@ -4973,10 +4986,9 @@
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5761,9 +5773,10 @@
             "seriesId": "26-201",
             "title": "TVアニメ「ホリミヤ」",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6218,10 +6231,9 @@
             "seriesId": "35-30",
             "title": "笑ゥせぇるすまん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6239,9 +6251,12 @@
         {
             "seriesId": "35-35",
             "title": "笑ゥせぇるすまん（89～93年）【ﾃﾞｼﾞﾀﾙﾘﾏｽﾀｰ版】",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -6320,9 +6335,10 @@
             "seriesId": "35-57",
             "title": "あたしンちNEXT",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6470,9 +6486,12 @@
         {
             "seriesId": "415-6",
             "title": "まじっく快斗1412",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -6673,10 +6692,10 @@
             "seriesId": "420-72",
             "title": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -7215,9 +7234,10 @@
             "seriesId": "5-72",
             "title": "おジャ魔女どれみナ・イ・ショ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7225,10 +7245,10 @@
             "seriesId": "5-73",
             "title": "魔法つかいプリキュア！！～MIRAI DAYS～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -7299,10 +7319,9 @@
             "seriesId": "512-11",
             "title": "勇気爆発バーンブレイバーン",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7476,9 +7495,10 @@
             "seriesId": "54-69",
             "title": "骸骨騎士様、只今異世界へお出掛け中",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7701,9 +7721,10 @@
             "seriesId": "54-99",
             "title": "時空の隙",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7820,9 +7841,10 @@
             "seriesId": "568-32",
             "title": "チ。 ―地球の運動について―",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8003,6 +8025,7 @@
                 "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8138,9 +8161,10 @@
             "seriesId": "656-2",
             "title": "魔王様、リトライ！R",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8166,10 +8190,9 @@
             "seriesId": "673-5",
             "title": "妄想代理人",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8235,16 +8258,6 @@
             },
             "onDemandTypes": [
                 1,
-                3
-            ]
-        },
-        {
-            "seriesId": "709-1",
-            "title": "真救世主伝説　北斗の拳 ラオウ伝 殉愛の章",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
                 3
             ]
         },
