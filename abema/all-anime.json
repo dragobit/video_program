@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025011310",
+    "pubAt": "2025011410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -81,9 +81,10 @@
             "seriesId": "11-2dbduwwhkum",
             "title": "がっこうぐらし！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -91,9 +92,10 @@
             "seriesId": "11-35",
             "title": "終わりのセラフ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -520,9 +522,10 @@
             "seriesId": "115-91",
             "title": "イジらないで、長瀞さん 2nd Attack",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -694,12 +697,9 @@
         {
             "seriesId": "13-115",
             "title": "機動戦士ガンダムΖΖ",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -841,14 +841,6 @@
         {
             "seriesId": "13-53",
             "title": "機動戦士ガンダム",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "13-62",
-            "title": "機動戦士Ζガンダム",
             "label": {},
             "onDemandTypes": [
                 1
@@ -1322,10 +1314,9 @@
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1405,21 +1396,19 @@
         {
             "seriesId": "168-50",
             "title": "頭文字[イニシャル]D OVA",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
             "seriesId": "168-53",
             "title": "TVアニメ『MFゴースト』",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1610,11 +1599,9 @@
         {
             "seriesId": "169-120",
             "title": "継母の連れ子が元カノだった",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2201,9 +2188,10 @@
             "seriesId": "177-481",
             "title": "あんた売れないわよ!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2545,10 +2533,9 @@
             "seriesId": "189-39",
             "title": "まちカドまぞく 2丁目",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3147,9 +3134,10 @@
             "seriesId": "19-179",
             "title": "To LOVEる -とらぶる-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3385,9 +3373,12 @@
         {
             "seriesId": "19-206",
             "title": "ねこに転生したおじさん",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3572,10 +3563,9 @@
             "seriesId": "194-18",
             "title": "ドメスティックな彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3688,10 +3678,9 @@
             "seriesId": "194-43",
             "title": "星降る王国のニナ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4362,6 +4351,16 @@
             ]
         },
         {
+            "seriesId": "218-763",
+            "title": "Fate/Grand Order カルデア･サテライトステーション 2024-2025",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-766",
             "title": "TVアニメ「沖縄で好きになった子が方言すぎてツラすぎる」放送直前特番",
             "label": {},
@@ -4541,10 +4540,9 @@
             "seriesId": "247-5",
             "title": "ゆるキャン△",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5090,9 +5088,10 @@
             "seriesId": "25-253",
             "title": "ダンジョン飯",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5356,10 +5355,10 @@
             "seriesId": "25-280",
             "title": "戦隊レッド 異世界で冒険者になる",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5710,11 +5709,9 @@
         {
             "seriesId": "26-19",
             "title": "劇場版 魔法少女まどか☆マギカ ［後編］永遠の物語",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5764,11 +5761,9 @@
         {
             "seriesId": "26-20",
             "title": "劇場版 魔法少女まどか☆マギカ ［新編］叛逆の物語",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5807,11 +5802,9 @@
         {
             "seriesId": "26-21",
             "title": "劇場版 魔法少女まどか☆マギカ［前編］始まりの物語",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -6369,9 +6362,10 @@
             "seriesId": "35-6p-ykmmdmgj",
             "title": "怪物くん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6595,7 +6589,8 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -7210,9 +7205,12 @@
         {
             "seriesId": "5-69",
             "title": "ドラゴンボールDAIMA",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -7378,9 +7376,10 @@
             "seriesId": "536-3",
             "title": "チェンソーマン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7407,10 +7406,9 @@
             "seriesId": "536-6",
             "title": "とんでもスキルで異世界放浪メシ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7494,10 +7492,9 @@
             "seriesId": "54-66",
             "title": "進化の実〜知らないうちに勝ち組人生〜",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7699,9 +7696,10 @@
             "seriesId": "54-96",
             "title": "やり直し令嬢は竜帝陛下を攻略中",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
