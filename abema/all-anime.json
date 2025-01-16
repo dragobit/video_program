@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025011510",
+    "pubAt": "2025011610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -37,10 +37,9 @@
             "seriesId": "11-13",
             "title": "ゲーマーズ！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -180,10 +179,9 @@
             "seriesId": "11-54",
             "title": "聖剣学院の魔剣使い",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -263,10 +261,9 @@
             "seriesId": "11-63",
             "title": "合コンに行ったら女がいなかった話",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -274,9 +271,10 @@
             "seriesId": "11-64",
             "title": "ゆゆ式",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -971,10 +969,9 @@
             "seriesId": "143-50",
             "title": "ふらいんぐうぃっち",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1394,9 +1391,12 @@
         {
             "seriesId": "168-50",
             "title": "頭文字[イニシャル]D OVA",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1722,9 +1722,10 @@
             "seriesId": "171-19",
             "title": "GA 芸術科アートデザインクラス",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2063,10 +2064,9 @@
             "seriesId": "174-1",
             "title": "這いよれ！ニャル子さん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2605,10 +2605,9 @@
             "seriesId": "189-59",
             "title": "魔都精兵のスレイブ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4018,9 +4017,10 @@
             "seriesId": "216-20",
             "title": "明治撃剣-1874-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4394,16 +4394,6 @@
             ]
         },
         {
-            "seriesId": "218-777",
-            "title": "「悪役令嬢転生おじさん」放送直前特番",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-778",
             "title": "「チ。 ―地球の運動について―」後半クール記念特番",
             "label": {
@@ -4505,9 +4495,10 @@
             "seriesId": "247-20",
             "title": "きのこいぬ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4988,10 +4979,9 @@
             "seriesId": "25-245",
             "title": "豚のレバーは加熱しろ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5296,9 +5286,10 @@
             "seriesId": "25-277",
             "title": "マジック・メイカー　～異世界魔法の作り方～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5689,7 +5680,7 @@
         },
         {
             "seriesId": "26-191",
-            "title": "UniteUp!",
+            "title": "UniteUp! -Uni:Birth-",
             "label": {
                 "someFree": true
             },
@@ -5972,9 +5963,10 @@
             "seriesId": "26-234",
             "title": "グリザイア：ファントムトリガー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7019,9 +7011,10 @@
             "seriesId": "5-54",
             "title": "ドキドキ！プリキュア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7244,6 +7237,16 @@
             ]
         },
         {
+            "seriesId": "5-75",
+            "title": "キミとアイドルプリキュア♪",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "5-7btbct-fwwa",
             "title": "おジャ魔女どれみ",
             "label": {
@@ -7455,10 +7458,9 @@
             "seriesId": "54-64",
             "title": "最果てのパラディン",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7563,9 +7565,10 @@
             "seriesId": "54-85",
             "title": "シルバニアファミリー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8124,9 +8127,10 @@
             "seriesId": "643-8",
             "title": "「1分間だけ触れてもいいよ…」シェアハウスの秘密ルール｡【オンエア版】",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8145,10 +8149,9 @@
             "seriesId": "656-2",
             "title": "魔王様、リトライ！R",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8195,10 +8198,9 @@
             "seriesId": "675-2",
             "title": "しかのこのこのここしたんたん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8217,10 +8219,9 @@
             "seriesId": "675-4",
             "title": "誰ソ彼ホテル",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
