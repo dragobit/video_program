@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025011610",
+    "pubAt": "2025011710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -1033,9 +1033,10 @@
             "seriesId": "149-13",
             "title": "ひげを剃る。そして女子高生を拾う。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1613,9 +1614,11 @@
         {
             "seriesId": "169-132",
             "title": "神達に拾われた男2",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2625,11 +2628,9 @@
         {
             "seriesId": "189-61",
             "title": "スナックバス江",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2746,11 +2747,9 @@
         {
             "seriesId": "189-73",
             "title": "来世は他人がいい",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3554,10 +3553,9 @@
             "seriesId": "194-24",
             "title": "ジャヒー様はくじけない！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3649,9 +3647,10 @@
             "seriesId": "194-42",
             "title": "さようなら竜生、こんにちは人生",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3691,9 +3690,10 @@
             "seriesId": "194-46",
             "title": "想星のアクエリオン Myth of Emotions",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3733,10 +3733,9 @@
             "seriesId": "198-12",
             "title": "魔法使いになれなかった女の子の話",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3747,7 +3746,8 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -4354,16 +4354,6 @@
             ]
         },
         {
-            "seriesId": "218-767",
-            "title": "TVアニメ「不遇職【鑑定士】が実は最強だった」スペシャル特番",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-771",
             "title": "日本アニメトレンド大賞2024",
             "label": {
@@ -4386,6 +4376,16 @@
         {
             "seriesId": "218-774",
             "title": "アベマでにじさんじ！新春SP(2025)",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "218-777",
+            "title": "「悪役令嬢転生おじさん」放送直前特番",
             "label": {
                 "free": true
             },
@@ -4939,9 +4939,10 @@
             "seriesId": "25-23aagrwux-zi",
             "title": "のんのんびより",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4952,7 +4953,8 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -5008,10 +5010,9 @@
             "seriesId": "25-24bkfwbcunxt",
             "title": "さくら荘のペットな彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5276,9 +5277,10 @@
             "seriesId": "25-276",
             "title": "トリリオンゲーム",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5286,10 +5288,9 @@
             "seriesId": "25-277",
             "title": "マジック・メイカー　～異世界魔法の作り方～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5931,10 +5932,9 @@
             "seriesId": "26-231",
             "title": "魔法少女リリカルなのは 20周年記念セレクション",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6095,9 +6095,10 @@
             "seriesId": "283-26",
             "title": "BanG Dream! Ave Mujica",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6422,9 +6423,10 @@
             "seriesId": "413-2",
             "title": "本好きの下剋上 司書になるためには手段を選んでいられません",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7500,9 +7502,10 @@
             "seriesId": "54-74",
             "title": "黒の召喚士",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7849,9 +7852,10 @@
             "seriesId": "593-11",
             "title": "悪役令嬢転生おじさん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
