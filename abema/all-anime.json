@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025012210",
+    "pubAt": "2025012310",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -182,9 +182,10 @@
             "seriesId": "11-54",
             "title": "聖剣学院の魔剣使い",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -965,9 +966,10 @@
             "seriesId": "143-49",
             "title": "多数欠",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1369,11 +1371,9 @@
         {
             "seriesId": "168-48",
             "title": "新劇場版 頭文字[イニシャル]D",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2012,10 +2012,9 @@
             "seriesId": "172-57",
             "title": "ReLIFE",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2072,9 +2071,10 @@
             "seriesId": "174-1",
             "title": "這いよれ！ニャル子さん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2612,9 +2612,10 @@
             "seriesId": "189-59",
             "title": "魔都精兵のスレイブ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2698,19 +2699,20 @@
             "seriesId": "189-68",
             "title": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
         {
             "seriesId": "189-69",
             "title": "グレンダイザーU",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -4465,10 +4467,9 @@
             "seriesId": "247-18",
             "title": "政宗くんのリベンジR",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4619,10 +4620,9 @@
             "seriesId": "25-115",
             "title": "異世界かるてっと",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4852,10 +4852,9 @@
             "seriesId": "25-204",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4915,9 +4914,10 @@
             "seriesId": "25-237",
             "title": "久保さんは僕を許さない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4979,9 +4979,10 @@
             "seriesId": "25-245",
             "title": "豚のレバーは加熱しろ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5121,10 +5122,9 @@
             "seriesId": "25-260",
             "title": "終末トレインどこへいく？",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5286,9 +5286,10 @@
             "seriesId": "25-277",
             "title": "マジック・メイカー　～異世界魔法の作り方～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5504,10 +5505,9 @@
             "seriesId": "25-94",
             "title": "ヒナまつり",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5776,10 +5776,9 @@
             "seriesId": "26-215",
             "title": "俺だけレベルアップな件",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8200,9 +8199,10 @@
             "seriesId": "675-2",
             "title": "しかのこのこのここしたんたん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
