@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025012510",
+    "pubAt": "2025012610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -212,10 +212,9 @@
             "seriesId": "11-58",
             "title": "serial experiments lain",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -797,9 +796,11 @@
         {
             "seriesId": "13-193",
             "title": "機動新世紀ガンダムX",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1076,10 +1077,9 @@
             "seriesId": "149-22",
             "title": "結婚指輪物語",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2488,10 +2488,9 @@
             "seriesId": "189-11",
             "title": "五等分の花嫁",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2644,9 +2643,10 @@
             "seriesId": "189-62",
             "title": "異世界のんびり農家",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2676,9 +2676,10 @@
             "seriesId": "189-65",
             "title": "疑似ハーレム",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2887,11 +2888,9 @@
         {
             "seriesId": "19-115",
             "title": "銀の匙 Silver Spoon（第1期）",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2974,9 +2973,11 @@
         {
             "seriesId": "19-147",
             "title": "四月は君の嘘",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3163,9 +3164,10 @@
             "seriesId": "19-183",
             "title": "けいおん!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3448,9 +3450,10 @@
             "seriesId": "19-3wxgpd-fitp",
             "title": "未確認で進行形",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3474,9 +3477,10 @@
             "seriesId": "19-6",
             "title": "灰と幻想のグリムガル",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3669,10 +3673,9 @@
             "seriesId": "194-42",
             "title": "さようなら竜生、こんにちは人生",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3724,9 +3727,10 @@
             "seriesId": "194-47",
             "title": "黒岩メダカに私の可愛いが通じない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3948,6 +3952,16 @@
             ]
         },
         {
+            "seriesId": "204-13",
+            "title": "ミニミニminini",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "204-8",
             "title": "TVアニメ「シャドウバースＦ」",
             "label": {
@@ -3995,9 +4009,10 @@
             "seriesId": "210-14",
             "title": "TVアニメ『魔法使いの約束』",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4865,10 +4880,9 @@
             "seriesId": "25-202",
             "title": "リアデイルの大地にて",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5227,10 +5241,9 @@
             "seriesId": "25-269",
             "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5425,9 +5438,10 @@
             "seriesId": "25-59",
             "title": "エロマンガ先生",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6001,10 +6015,9 @@
             "seriesId": "26-236",
             "title": "青の祓魔師 終夜篇",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6199,9 +6212,10 @@
             "seriesId": "35-21jawjxfkwuj",
             "title": "ジャングルはいつもハレのちグゥ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6693,9 +6707,10 @@
             "seriesId": "420-72",
             "title": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7159,10 +7174,9 @@
             "seriesId": "5-65",
             "title": "わんだふるぷりきゅあ！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7249,9 +7263,10 @@
             "seriesId": "5-73",
             "title": "魔法つかいプリキュア！！～MIRAI DAYS～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7848,10 +7863,9 @@
             "seriesId": "564-9",
             "title": "休日のわるものさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
