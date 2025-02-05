@@ -1,8 +1,71 @@
 {
-    "pubAt": 1738627289,
-    "pubDate": "2025020409",
+    "pubAt": 1738713689,
+    "pubDate": "2025020509",
     "slots": {
-        "abema-anime": [],
+        "abema-anime": [
+            {
+                "id": "CYn6QquZvksU3Z",
+                "channelId": "abema-anime",
+                "title": "外れスキル《木の実マスター》 #1〜6",
+                "startAt": 1739262600,
+                "endAt": 1739273400,
+                "tableStartAt": 1739262600,
+                "tableEndAt": 1739273400,
+                "highlight": "外れスキル《木の実マスター》 #1〜6",
+                "displayProgramId": "194-45_s1_p1",
+                "mark": {
+                    "bingeWatching": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1741941000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "194-45",
+                "content": "冒険者を夢見るライトは、特別な能力を授かるためスキルの実を食べる。しかし、得たのは戦闘に向かない外れスキル《木の実マスター》だった。スキルの実は2つ目を食べると死んでしまう。やり直せないライトは仕方なく木の実農家に。一方、幼なじみのレーナは《剣聖》のスキルを授かり、冒険者デビューを飾る。ある夜、ライトは誤って2つ目のスキルの実を食べてしまい…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "CmppFey4ZUsVDR",
+                "channelId": "abema-anime",
+                "title": "外れスキル《木の実マスター》特番",
+                "startAt": 1739273400,
+                "endAt": 1739277000,
+                "tableStartAt": 1739273400,
+                "tableEndAt": 1739277000,
+                "highlight": "外れスキル《木の実マスター》特番",
+                "displayProgramId": "175-1rthzhecdme_s0_p38",
+                "mark": {
+                    "live": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1741951800,
+                "timeshiftFreeEndAt": 1739881800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "-",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "abema-anime-2": [],
         "80s-anime-1": [],
         "90s-anime-1": [],
@@ -84,7 +147,7 @@
                 "id": "Dtzj97FQP5at55",
                 "groupId": "CKcjJ6ohHvCdDq",
                 "channelId": "anime-live",
-                "title": "声優と夜あそび 火【上坂すみれ×芹澤優】#34",
+                "title": "声優と夜あそび 火【芹澤優×徳井青空】#34",
                 "startAt": 1739278800,
                 "endAt": 1739284200,
                 "tableStartAt": 1739278800,
@@ -156,6 +219,39 @@
         "isekai-anime-3": [],
         "lovecomedy-anime": [],
         "dailylife-anime": [],
-        "late-night-anime": []
+        "late-night-anime": [
+            {
+                "id": "Cmp5RDP9E8snnT",
+                "channelId": "late-night-anime",
+                "title": "Thunderbolt Fantasy 1期 全話一挙【無料ビデオ1週間】",
+                "startAt": 1739271600,
+                "endAt": 1739293200,
+                "tableStartAt": 1739271600,
+                "tableEndAt": 1739293200,
+                "highlight": "Thunderbolt Fantasy 1期 全話一挙",
+                "displayProgramId": "13-27uzkrexuzx2_s0_p2",
+                "mark": {
+                    "bingeWatching": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1741950000,
+                "timeshiftFreeEndAt": 1739898000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-27uzkrexuzx2",
+                "content": "無双の力を発揮する武器、神誨魔械。護印師である丹衡、丹翡兄妹によって守られてきた神誨魔械の一つである天刑劍が、今まさに蔑天骸率いる悪の手に落ちようとしていた。丹翡は偶然にも凜雪鴉、殤不患の両名と出会い、その助けを得ることとなる。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ]
     }
 }
