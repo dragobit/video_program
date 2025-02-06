@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025020510",
+    "pubAt": "2025020610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -339,9 +339,10 @@
             "seriesId": "115-108",
             "title": "亜人",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -694,6 +695,14 @@
             ]
         },
         {
+            "seriesId": "13-115",
+            "title": "機動戦士ガンダムΖΖ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "13-130",
             "title": "新機動戦記ガンダムW　Endless Waltz",
             "label": {},
@@ -837,6 +846,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "13-62",
+            "title": "機動戦士Ζガンダム",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -1238,9 +1255,10 @@
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1317,9 +1335,11 @@
         {
             "seriesId": "168-40",
             "title": "クールドジ男子",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2048,9 +2068,10 @@
             "seriesId": "174-29",
             "title": "ひきこまり吸血姫の悶々",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2485,10 +2506,9 @@
             "seriesId": "189-39",
             "title": "まちカドまぞく 2丁目",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2526,9 +2546,10 @@
             "seriesId": "189-55",
             "title": "それでも歩は寄せてくる",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2666,10 +2687,9 @@
             "seriesId": "189-70",
             "title": "ひとりぼっちの異世界攻略",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2707,10 +2727,9 @@
             "seriesId": "189-74",
             "title": "結婚するって、本当ですか",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3515,10 +3534,9 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4448,9 +4466,10 @@
             "seriesId": "247-13",
             "title": "魔王城でおやすみ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4499,9 +4518,10 @@
             "seriesId": "248-15",
             "title": "最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4654,10 +4674,9 @@
             "seriesId": "25-12jpgzpcyjjb",
             "title": "狼と香辛料II",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4683,9 +4702,10 @@
             "seriesId": "25-139",
             "title": "Re:ゼロから始める異世界生活",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4772,10 +4792,9 @@
             "seriesId": "25-167",
             "title": "聖女の魔力は万能です",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5087,6 +5106,7 @@
                 "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5241,9 +5261,10 @@
             "seriesId": "25-274",
             "title": "魔王2099",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5347,10 +5368,9 @@
             "seriesId": "25-40xx2hk3u5ai",
             "title": "この素晴らしい世界に祝福を！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5887,10 +5907,9 @@
             "seriesId": "26-228",
             "title": "NINJA KAMUI",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7637,10 +7656,9 @@
             "seriesId": "54-95",
             "title": "最凶の支援職【話術士】である俺は世界最強クランを従える",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7832,10 +7850,9 @@
             "seriesId": "593-3",
             "title": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
