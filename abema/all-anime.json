@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025020910",
+    "pubAt": "2025021010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -636,10 +636,9 @@
             "seriesId": "117-5",
             "title": "ヨスガノソラ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -793,14 +792,6 @@
             ]
         },
         {
-            "seriesId": "13-193",
-            "title": "機動新世紀ガンダムX",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "13-194",
             "title": "魔神創造伝ワタル",
             "label": {
@@ -844,12 +835,9 @@
         {
             "seriesId": "13-53",
             "title": "機動戦士ガンダム",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1569,9 +1557,12 @@
         {
             "seriesId": "169-116",
             "title": "精霊幻想記",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1633,11 +1624,9 @@
         {
             "seriesId": "169-143",
             "title": "魔王軍最強の魔術師は人間だった",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2603,9 +2592,11 @@
         {
             "seriesId": "189-61",
             "title": "スナックバス江",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2634,10 +2625,9 @@
             "seriesId": "189-64",
             "title": "お嬢と番犬くん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2741,10 +2731,9 @@
             "seriesId": "189-75",
             "title": "殿と犬",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2868,9 +2857,10 @@
             "seriesId": "19-122",
             "title": "もやしもん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3023,12 +3013,9 @@
         {
             "seriesId": "19-171",
             "title": "葬送のフリーレン",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3143,9 +3130,10 @@
             "seriesId": "19-189",
             "title": "中二病でも恋がしたい！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4268,9 +4256,10 @@
             "seriesId": "218-709",
             "title": "モブから始まる探索英雄譚",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5129,10 +5118,9 @@
             "seriesId": "25-259",
             "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5190,9 +5178,10 @@
             "seriesId": "25-265",
             "title": "恋は双子で割り切れない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5221,9 +5210,10 @@
             "seriesId": "25-269",
             "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5318,9 +5308,10 @@
             "seriesId": "25-278",
             "title": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5338,9 +5329,10 @@
             "seriesId": "25-280",
             "title": "戦隊レッド 異世界で冒険者になる",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5440,10 +5432,9 @@
             "seriesId": "25-67",
             "title": "ロウきゅーぶ!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5472,9 +5463,10 @@
             "seriesId": "25-7",
             "title": "Panty&Stocking with Gerterbelt",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5603,10 +5595,9 @@
             "seriesId": "26-13",
             "title": "黒執事Ⅱ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5748,10 +5739,9 @@
             "seriesId": "26-200",
             "title": "かぐや様は告らせたい-ファーストキッスは終わらない-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6009,10 +5999,9 @@
             "seriesId": "26-66",
             "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6108,9 +6097,10 @@
             "seriesId": "283-26",
             "title": "BanG Dream! Ave Mujica",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7084,9 +7074,10 @@
             "seriesId": "5-60",
             "title": "スター☆トゥインクルプリキュア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7094,9 +7085,10 @@
             "seriesId": "5-61",
             "title": "ヒーリングっど・プリキュア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7605,10 +7597,9 @@
             "seriesId": "54-90",
             "title": "Lv2からチートだった元勇者候補のまったり異世界ライフ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7767,10 +7758,9 @@
             "seriesId": "564-12",
             "title": "ダンジョンの中のひと",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8077,9 +8067,10 @@
             "seriesId": "643-4",
             "title": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8142,10 +8133,9 @@
             "seriesId": "656-2",
             "title": "魔王様、リトライ！R",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
