@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025021310",
+    "pubAt": "2025021410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -101,10 +101,9 @@
             "seriesId": "11-36",
             "title": "ゴールデンカムイ（第三期）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -439,10 +438,9 @@
             "seriesId": "115-117",
             "title": "花は咲く、修羅の如く",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -615,10 +613,9 @@
             "seriesId": "117-39",
             "title": "G-onらいだーす",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1336,11 +1333,9 @@
         {
             "seriesId": "168-40",
             "title": "クールドジ男子",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1753,198 +1748,6 @@
             ]
         },
         {
-            "seriesId": "172-14",
-            "title": "ルパン三世TVSP #05　ルパン暗殺指令",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-15",
-            "title": "ルパン三世TVSP #07　ハリマオの財宝を追え！！",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-16",
-            "title": "ルパン三世TVSP #09　ワルサーＰ３８",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-17",
-            "title": "ルパン三世TVSP #10　炎の記憶 ～Tokyo Crisis～",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-18",
-            "title": "ルパン三世TVSP #11　愛のダ・カーポ ～ＦＵＪＩＫＯ's Ｕnlucky Ｄays～",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-19",
-            "title": "ルパン三世TVSP #12　１＄マネーウォーズ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-20",
-            "title": "ルパン三世TVSP #13　アルカトラズ コネクション",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-21",
-            "title": "ルパン三世TVSP #14　EPISODE：0 ファーストコンタクト",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-22",
-            "title": "ルパン三世TVSP #16　盗まれたルパン～コピーキャットは真夏の蝶～",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-23",
-            "title": "ルパン三世TVSP #20　sweet lost night 〜魔法のランプは悪夢の予感〜",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-31",
-            "title": "ルパン三世TVSP #01　バイバイ・リバティ―・危機一発！",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-32",
-            "title": "ルパン三世TVSP #02　 ヘミングウェイ・ペーパーの謎",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-33",
-            "title": "ルパン三世TVSP #03　ナポレオンの辞書を奪え",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-34",
-            "title": "ルパン三世TVSP #04　ロシアより愛をこめて",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-35",
-            "title": "ルパン三世TVSP #06　燃えよ斬鉄剣",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-36",
-            "title": "ルパン三世TVSP #08　トワイライト☆ジェミニの秘密",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-37",
-            "title": "ルパン三世TVSP #15　お宝返却大作戦!!",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-38",
-            "title": "ルパン三世TVSP #17　天使の策略～夢のカケラは殺しの香り～",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-39",
-            "title": "ルパン三世TVSP #18　セブンデイズ・ラプソディ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-40",
-            "title": "ルパン三世TVSP #19　霧のエリューシヴ",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-41",
-            "title": "ルパン三世TVSP #21 the Last Job",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-42",
-            "title": "ルパン三世TVSP #22　血の刻印 永遠のmermaid",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-43",
-            "title": "ルパン三世TVSP #23　ルパン三世 東方見聞録 ～アナザーページ～",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "172-44",
-            "title": "ルパン三世TVSP #24　ルパン三世 princess of the breeze ～隠された空中都市～",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "172-52",
             "title": "HIGH CARD",
             "label": {
@@ -1988,14 +1791,6 @@
             ]
         },
         {
-            "seriesId": "172-58",
-            "title": "ルパン三世TVSP #25 ルパン三世 イタリアン・ゲーム",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "172-59",
             "title": "アオのハコ",
             "label": {
@@ -2029,9 +1824,10 @@
             "seriesId": "173-5",
             "title": "事情を知らない転校生がグイグイくる。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2506,9 +2302,10 @@
             "seriesId": "189-39",
             "title": "まちカドまぞく 2丁目",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2685,9 +2482,10 @@
             "seriesId": "189-70",
             "title": "ひとりぼっちの異世界攻略",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2725,9 +2523,10 @@
             "seriesId": "189-74",
             "title": "結婚するって、本当ですか",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3095,9 +2894,12 @@
         {
             "seriesId": "19-183",
             "title": "けいおん!",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3249,9 +3051,11 @@
         {
             "seriesId": "19-202",
             "title": "妻、小学生になる。",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -4359,6 +4163,16 @@
             ]
         },
         {
+            "seriesId": "218-767",
+            "title": "TVアニメ「不遇職【鑑定士】が実は最強だった」スペシャル特番",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-771",
             "title": "日本アニメトレンド大賞2024",
             "label": {
@@ -4707,10 +4521,9 @@
             "seriesId": "25-138",
             "title": "異世界かるてっと２",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4718,10 +4531,9 @@
             "seriesId": "25-139",
             "title": "Re:ゼロから始める異世界生活",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4758,9 +4570,10 @@
             "seriesId": "25-151",
             "title": "くまクマ熊ベアー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5122,7 +4935,6 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5232,10 +5044,9 @@
             "seriesId": "25-270",
             "title": "VTuberなんだが配信切り忘れたら伝説になってた",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5309,10 +5120,9 @@
             "seriesId": "25-277",
             "title": "マジック・メイカー　～異世界魔法の作り方～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5759,10 +5569,9 @@
             "seriesId": "26-201",
             "title": "TVアニメ「ホリミヤ」",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5917,9 +5726,10 @@
             "seriesId": "26-228",
             "title": "NINJA KAMUI",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6213,9 +6023,10 @@
             "seriesId": "35-30",
             "title": "笑ゥせぇるすまん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6356,12 +6167,9 @@
         {
             "seriesId": "377-2",
             "title": "ウルトラマンアーク",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -6500,9 +6308,12 @@
         {
             "seriesId": "420-14",
             "title": "ワンパンマン",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -7107,10 +6918,9 @@
             "seriesId": "5-62",
             "title": "トロピカル～ジュ！プリキュア",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7865,10 +7675,9 @@
             "seriesId": "593-4",
             "title": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8206,9 +8015,10 @@
             "seriesId": "675-3",
             "title": "2.5次元の誘惑",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
