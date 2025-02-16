@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025021510",
+    "pubAt": "2025021610",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -734,10 +734,9 @@
             "seriesId": "13-168",
             "title": "幻日のヨハネ -SUNSHINE in the MIRROR-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -793,10 +792,9 @@
             "seriesId": "13-194",
             "title": "魔神創造伝ワタル",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -841,12 +839,9 @@
         {
             "seriesId": "13-62",
             "title": "機動戦士Ζガンダム",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1727,10 +1722,9 @@
             "seriesId": "171-25",
             "title": "『FARMAGIA』",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2495,10 +2489,9 @@
             "seriesId": "189-71",
             "title": "凍牌～裏レート麻雀闘牌録～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2564,9 +2557,10 @@
             "seriesId": "189-79",
             "title": "空色ユーティリティ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3686,9 +3680,12 @@
         {
             "seriesId": "203-2",
             "title": "こちら葛飾区亀有公園前派出所",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3848,10 +3845,9 @@
             "seriesId": "216-20",
             "title": "明治撃剣-1874-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4247,16 +4243,6 @@
         {
             "seriesId": "218-780",
             "title": "アポカリプスホテル",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "218-781",
-            "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇 派閥大戦クライマックス突入記念特番",
             "label": {
                 "free": true
             },
@@ -4768,10 +4754,9 @@
             "seriesId": "25-237",
             "title": "久保さんは僕を許さない",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4811,10 +4796,9 @@
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4894,9 +4878,10 @@
             "seriesId": "25-252",
             "title": "愚かな天使は悪魔と踊る",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4904,10 +4889,9 @@
             "seriesId": "25-253",
             "title": "ダンジョン飯",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5010,10 +4994,9 @@
             "seriesId": "25-264",
             "title": "声優ラジオのウラオモテ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5364,9 +5347,10 @@
             "seriesId": "25-96",
             "title": "私がモテないのはどう考えてもお前らが悪い！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5406,9 +5390,10 @@
             "seriesId": "26-12",
             "title": "黒執事",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5637,10 +5622,9 @@
             "seriesId": "26-218",
             "title": "黒執事 Book of Circus",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5823,9 +5807,11 @@
         {
             "seriesId": "26-238",
             "title": "黒執事 Book of Murder",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5941,10 +5927,9 @@
             "seriesId": "283-26",
             "title": "BanG Dream! Ave Mujica",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6770,10 +6755,9 @@
             "seriesId": "5-43",
             "title": "キボウノチカラ～オトナプリキュア’２３～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6945,9 +6929,10 @@
             "seriesId": "5-62",
             "title": "トロピカル～ジュ！プリキュア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6955,9 +6940,10 @@
             "seriesId": "5-63",
             "title": "デリシャスパーティ♡プリキュア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7066,9 +7052,10 @@
             "seriesId": "5-73",
             "title": "魔法つかいプリキュア！！～MIRAI DAYS～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7150,9 +7137,10 @@
             "seriesId": "512-11",
             "title": "勇気爆発バーンブレイバーン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7304,9 +7292,10 @@
             "seriesId": "54-66",
             "title": "進化の実〜知らないうちに勝ち組人生〜",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7499,9 +7488,10 @@
             "seriesId": "54-95",
             "title": "最凶の支援職【話術士】である俺は世界最強クランを従える",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7627,10 +7617,9 @@
             "seriesId": "564-4",
             "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7781,10 +7770,9 @@
             "seriesId": "618-1",
             "title": "齢5000年の草食ドラゴン、いわれなき邪竜認定",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
