@@ -1,14 +1,15 @@
 {
-    "pubAt": 1739836884,
-    "pubDate": "2025021809",
+    "pubAt": 1739923289,
+    "pubDate": "2025021909",
     "slots": {
         "abema-anime": [],
         "abema-anime-2": [],
-        "80s-anime-1": [],
-        "90s-anime-1": [],
-        "00s-anime-1": [],
-        "family-anime-1": [],
-        "family-anime-2": [],
+        "isekai-anime": [],
+        "isekai-anime-2": [],
+        "isekai-anime-3": [],
+        "lovecomedy-anime": [],
+        "dailylife-anime": [],
+        "late-night-anime": [],
         "anime-live": [
             {
                 "id": "FFBtHfEFnsKhUs",
@@ -96,10 +97,14 @@
                 },
                 "flags": {
                     "share": true,
+                    "timeshift": true,
                     "sharingPolicy": 1,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1743166800,
+                "timeshiftFreeEndAt": 1741098600,
                 "broadcastRegionPolicies": {
                     "linear": 0,
                     "timeshift": 0
@@ -146,11 +151,10 @@
                 ]
             }
         ],
-        "isekai-anime": [],
-        "isekai-anime-2": [],
-        "isekai-anime-3": [],
-        "lovecomedy-anime": [],
-        "dailylife-anime": [],
-        "late-night-anime": []
+        "family-anime-1": [],
+        "family-anime-2": [],
+        "80s-anime-1": [],
+        "90s-anime-1": [],
+        "00s-anime-1": []
     }
 }
