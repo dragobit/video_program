@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025030110",
+    "pubAt": "2025030210",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -268,10 +268,9 @@
             "seriesId": "11-64",
             "title": "ゆゆ式",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -345,10 +344,9 @@
             "seriesId": "115-109",
             "title": "HIGHSPEED Étoile",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -444,9 +442,10 @@
             "seriesId": "115-118",
             "title": "ニートくノ一となぜか同棲はじめました",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -586,9 +585,10 @@
             "seriesId": "117-36",
             "title": "治癒魔法の間違った使い方",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -836,9 +836,11 @@
         {
             "seriesId": "13-66",
             "title": "機動戦士ガンダムユニコーン RE:0096",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1552,9 +1554,11 @@
         {
             "seriesId": "169-120",
             "title": "継母の連れ子が元カノだった",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1568,9 +1572,11 @@
         {
             "seriesId": "169-132",
             "title": "神達に拾われた男2",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1768,10 +1774,9 @@
             "seriesId": "172-57",
             "title": "ReLIFE",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2350,9 +2355,10 @@
             "seriesId": "189-56",
             "title": "婚約破棄された令嬢を拾った俺が、イケナイことを教え込む",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2370,9 +2376,10 @@
             "seriesId": "189-59",
             "title": "魔都精兵のスレイブ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2589,10 +2596,9 @@
             "seriesId": "19-107",
             "title": "PSYCHO-PASS サイコパス",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2869,6 +2875,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "19-185",
+            "title": "人形アニメ「ハイキュー!!」",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -3353,6 +3369,17 @@
             ]
         },
         {
+            "seriesId": "19-90",
+            "title": "スーパーウィングス",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "190-28",
             "title": "女神降臨",
             "label": {},
@@ -3418,9 +3445,10 @@
             "seriesId": "194-28",
             "title": "魔法使い黎明期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3681,11 +3709,42 @@
             ]
         },
         {
+            "seriesId": "2-19",
+            "title": "ポケットモンスター ベストウイッシュ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "2-21",
+            "title": "ポケットモンスター（1997）",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "2-2bxddsdhdiw",
             "title": "メジャー",
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "2-8",
+            "title": "劇場版ポケットモンスター",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
             ]
         },
         {
@@ -4452,6 +4511,16 @@
             ]
         },
         {
+            "seriesId": "248-23",
+            "title": "俺は星間国家の悪徳領主！",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "25-101",
             "title": "劇場版 魔法科高校の劣等生 星を呼ぶ少女",
             "label": {},
@@ -4514,6 +4583,17 @@
         {
             "seriesId": "25-118",
             "title": "女子高生の無駄づかい",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "25-11ijxdyytjnx",
+            "title": "月刊少女野崎くん",
             "label": {
                 "someFree": true
             },
@@ -4628,10 +4708,9 @@
             "seriesId": "25-147",
             "title": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4741,6 +4820,17 @@
             ]
         },
         {
+            "seriesId": "25-202",
+            "title": "リアデイルの大地にて",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
             "seriesId": "25-204",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
             "label": {
@@ -4845,9 +4935,10 @@
             "seriesId": "25-242",
             "title": "はたらく魔王さま！！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5178,10 +5269,9 @@
             "seriesId": "25-278",
             "title": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5261,10 +5351,9 @@
             "seriesId": "25-43zr98hyeb55",
             "title": "NEW GAME!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5707,10 +5796,9 @@
             "seriesId": "26-220",
             "title": "黒執事 -寄宿学校編-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5862,9 +5950,10 @@
             "seriesId": "26-236",
             "title": "青の祓魔師 終夜篇",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6099,9 +6188,10 @@
             "seriesId": "345-5",
             "title": "ラーメン赤猫",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6379,9 +6469,12 @@
         {
             "seriesId": "415-9",
             "title": "犬夜叉",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -6557,9 +6650,10 @@
             "seriesId": "420-71",
             "title": "ギャグマンガ日和",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7111,9 +7205,10 @@
             "seriesId": "54-69",
             "title": "骸骨騎士様、只今異世界へお出掛け中",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
