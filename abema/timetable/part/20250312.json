@@ -1,6 +1,6 @@
 {
-    "pubAt": 1741132883,
-    "pubDate": "2025030509",
+    "pubAt": 1741219295,
+    "pubDate": "2025030609",
     "slots": {
         "abema-anime": [
             {
@@ -35,7 +35,39 @@
         ],
         "abema-anime-2": [],
         "anime-special-2": [],
-        "isekai-anime": [],
+        "isekai-anime": [
+            {
+                "id": "EdLw639w5m8DGK",
+                "channelId": "isekai-anime",
+                "title": "いずれ最強の錬金術師？特番",
+                "startAt": 1741773600,
+                "endAt": 1741777200,
+                "tableStartAt": 1741773600,
+                "tableEndAt": 1741777200,
+                "highlight": "いずれ最強の錬金術師？特番",
+                "displayProgramId": "175-1rthzhecdme_s0_p100",
+                "mark": {
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744452000,
+                "timeshiftFreeEndAt": 1742382000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "-",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "isekai-anime-2": [],
         "isekai-anime-3": [],
         "lovecomedy-anime": [
@@ -59,7 +91,7 @@
                     "archiveComment": true
                 },
                 "timeshiftEndAt": 1744359600,
-                "timeshiftFreeEndAt": 1742311800,
+                "timeshiftFreeEndAt": 1742916600,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
