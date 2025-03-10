@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025030910",
+    "pubAt": "2025031010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -48,9 +48,10 @@
             "seriesId": "11-15",
             "title": "ヨルムンガンド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -109,10 +110,9 @@
             "seriesId": "11-38",
             "title": "カノジョも彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -270,9 +270,10 @@
             "seriesId": "11-64",
             "title": "ゆゆ式",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -345,9 +346,10 @@
             "seriesId": "115-109",
             "title": "HIGHSPEED Étoile",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -680,14 +682,6 @@
             ]
         },
         {
-            "seriesId": "13-120",
-            "title": "機動武闘伝Ｇガンダム",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
             "seriesId": "13-130",
             "title": "新機動戦記ガンダムW　Endless Waltz",
             "label": {},
@@ -825,11 +819,9 @@
         {
             "seriesId": "13-66",
             "title": "機動戦士ガンダムユニコーン RE:0096",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1554,11 +1546,9 @@
         {
             "seriesId": "169-120",
             "title": "継母の連れ子が元カノだった",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1572,11 +1562,9 @@
         {
             "seriesId": "169-132",
             "title": "神達に拾われた男2",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1773,9 +1761,10 @@
             "seriesId": "172-57",
             "title": "ReLIFE",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3042,9 +3031,11 @@
         {
             "seriesId": "19-202",
             "title": "妻、小学生になる。",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3339,10 +3330,9 @@
             "seriesId": "19-6",
             "title": "灰と幻想のグリムガル",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5283,9 +5273,10 @@
             "seriesId": "25-274",
             "title": "魔王2099",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5325,9 +5316,10 @@
             "seriesId": "25-278",
             "title": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5543,9 +5535,10 @@
             "seriesId": "25-96",
             "title": "私がモテないのはどう考えてもお前らが悪い！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7298,10 +7291,9 @@
             "seriesId": "54-79",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。2",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7469,10 +7461,9 @@
             "seriesId": "54-98",
             "title": "モブ皇帝～平凡をむさぼる僕が多元宇宙の支配者に選ばれたので、世界を救ってみた～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7621,10 +7612,9 @@
             "seriesId": "593-10",
             "title": "ダンダダン",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7632,10 +7622,9 @@
             "seriesId": "593-11",
             "title": "悪役令嬢転生おじさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
