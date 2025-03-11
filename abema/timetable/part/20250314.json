@@ -1,6 +1,6 @@
 {
-    "pubAt": 1741392097,
-    "pubDate": "2025030809",
+    "pubAt": 1741651292,
+    "pubDate": "2025031109",
     "slots": {
         "abema-anime": [
             {
@@ -44,19 +44,20 @@
                 "tableStartAt": 1741878000,
                 "tableEndAt": 1741879800,
                 "highlight": "青の祓魔師 終夜篇 #10",
-                "displayProgramId": "175-1rthzhecdme_s0_p42",
+                "displayProgramId": "26-236_s1_p10",
                 "mark": {},
                 "flags": {
                     "timeshift": true,
                     "chasePlay": true,
-                    "archiveComment": true
+                    "archiveComment": true,
+                    "disableTrim": true
                 },
                 "timeshiftEndAt": 1744556400,
                 "broadcastRegionPolicies": {
                     "linear": 1,
                     "timeshift": 1
                 },
-                "displaySeriesId": "175-1rthzhecdme",
+                "displaySeriesId": "26-236",
                 "content": "雪男は燐に決別を告げ、イルミナティへと向かってしまった。\n強さを求め、真実を求める雪男と向き合うためには、自分たちの出生の秘密を知る必要があると決意した燐は、メフィストの手引きで過去へと旅立つ。\n\n燐は、育ての父である藤本獅郎と実の母であるユリ・エギンの足跡を辿っていくが、二人が生きた道筋は、想像を超える過酷なものだった――\n\nなぜ、悪魔の神であるサタンと人との間に仔が生まれたのか。\n〝青い夜〟とは何だったのか。\nすべてを知ったとき、燐が出す答えとは……。\n物語はいよいよ「青の祓魔師」の核心を暴き出す――",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
@@ -274,7 +275,7 @@
                     "timeshift": 1
                 },
                 "displaySeriesId": "149-27",
-                "content": "迷宮都市・リューイン。\nモンスターはびこる迷宮があるこの町には、数多くの冒険者たちが集まっていた。\n命を落とし転生した主人公は、迷宮の中で目を覚ます。\nその外見は、どう見ても仔猫！？\nしかし正体は――災害級のSランクモンスター《ベヒーモス》の幼体だった！\n彼が出会ったのは、駆け出しのDランク冒険者・アリア。\n仔猫と勘違いしたアリアは、重傷を負っていた彼を連れ帰って手当てし、「タマ」と名付けてペットにする。\nその優しさに心を打たれたタマは、アリアを守る騎士となることを誓うのだった。\nSランクの力を活かし、アリアと共に迷宮を冒険するタマ。\n個性豊かな仲間たちと出会い、時に溺愛されながら、騎士（ペット）としての日々が始まる！",
+                "content": "魔界へ姿を消したヴァサーゴの次なる狙いは、アリアの故郷・ルミルス。そして、そこにある「賢者ノ石」であった。今度は自分が皆を守るため、故郷に帰還するアリア。タマ、ヴァルカン、ステラ、リリ、フェリだけでなく、アナやセドリック隊の騎士たち、ジュリウスやアリーシャもルミルスに集結する。ルミルスの人々も部隊を結成し、戦いの準備を進めていた。その中にはなんと、アリアの母親であるレオナの姿があった……！",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
@@ -882,12 +883,16 @@
                     "bingeWatching": true
                 },
                 "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
                 },
+                "timeshiftEndAt": 1744532400,
+                "timeshiftFreeEndAt": 1742497200,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "19-222",
                 "content": "古い倉庫の取り壊しを始めて以来、行方不明者が出るなど奇妙な事件が起こっているオシャカ学園。そんな中、オチャカ校長は三蔵法子たち三人を呼んでオシャカ様の宝、オシャカパズルの収集を命じる。それを聞いたヤンヤンら万年浪人生三人組も、自分達が先に手に入れようと動き出す。",
@@ -2065,9 +2070,7 @@
                 "tableEndAt": 1741881600,
                 "highlight": "ホロごえっ！ 白上フブキ 悠木碧",
                 "displayProgramId": "218-690_s2_p22",
-                "mark": {
-                    "recommendation": true
-                },
+                "mark": {},
                 "flags": {
                     "share": true,
                     "timeshift": true,
@@ -2380,7 +2383,510 @@
                 ]
             }
         ],
-        "family-anime-1": [],
+        "family-anime-1": [
+            {
+                "id": "DZS1tFVTtdJ7kb",
+                "channelId": "family-anime-1",
+                "title": "犬夜叉 #47〜50【無料ビデオ1週間】",
+                "startAt": 1741877040,
+                "endAt": 1741884900,
+                "tableStartAt": 1741877040,
+                "tableEndAt": 1741884900,
+                "highlight": "犬夜叉 #47〜50",
+                "displayProgramId": "415-9_s2_p47",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744555440,
+                "timeshiftFreeEndAt": 1742489700,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-9",
+                "content": "奈落は桔梗を慕う鬼蜘蛛の心を消し去るため、桔梗を始末しようと巨大死魂虫を差し向けた。桔梗は辛くも逃げ延び、かつて犬夜叉を封印した御神木と骨喰いの井戸まで辿り着く。その桔梗を助けた犬夜叉は守るのは自分しかいないと桔梗を抱きしめる。しかし、その桔梗と犬夜叉を、戦国時代に帰ってきたかごめが目撃してしまう。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmTMmnPqTS2s",
+                "channelId": "family-anime-1",
+                "title": "クレヨンしんちゃん #967～971",
+                "startAt": 1741884900,
+                "endAt": 1741887960,
+                "tableStartAt": 1741884900,
+                "tableEndAt": 1741887960,
+                "highlight": "クレヨンしんちゃん #967～971",
+                "displayProgramId": "35-50_s1_p967",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744297200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-50",
+                "content": "新しいカーペットを買ったみさえ。しんのすけやひろしに汚されないよう、必死にガードするのだが……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DWB27jm58yXuYT",
+                "channelId": "family-anime-1",
+                "title": "ドラえもん #967～971",
+                "startAt": 1741887960,
+                "endAt": 1741891740,
+                "tableStartAt": 1741887960,
+                "tableEndAt": 1741891740,
+                "highlight": "ドラえもん #967～971",
+                "displayProgramId": "35-53_s1_p967",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744297200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-53",
+                "content": "しずかの誕生日に何をあげたらよいか、頭をかかえるのび太。みかねたドラえもんは、『カミぬきミラー』と『アンケーター』を取りだす。カミぬきミラーを使って、かみの毛を１本だけぬき、アンケーターの中に入れると、その人の考えていることがわかるのだという。\n　のび太は２つの道具を使って、しずかの心の中をリサーチ！　すると、しずかがほしがっているモノが明らかに…!?\n　さらに、スネ夫やジャイアンが、どんな誕生日プレゼントを用意しているかも調べてみると…!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmTehoYT2Whu",
+                "channelId": "family-anime-1",
+                "title": "ケシカスくん #2【無料ビデオ1週間】",
+                "startAt": 1741891740,
+                "endAt": 1741892400,
+                "tableStartAt": 1741891740,
+                "tableEndAt": 1741892400,
+                "highlight": "ケシカスくん",
+                "displayProgramId": "2-16_s1_p2",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1744570140,
+                "timeshiftFreeEndAt": 1742497200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "2-16",
+                "content": "自称、文具界NO１アイドルのケシカスくん。パックでお肌の手入れをしようとするが！？他4本",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmVAZJsJHmbD",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん　激突！ラクガキングダムとほぼ四人の勇者【無料1週間】",
+                "startAt": 1741892400,
+                "endAt": 1741899240,
+                "tableStartAt": 1741892400,
+                "tableEndAt": 1741899240,
+                "highlight": "ラクガキングダムとほぼ四人の勇者",
+                "displayProgramId": "35-55_s0_p28",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744570800,
+                "timeshiftFreeEndAt": 1742504040,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "自由なラクガキをエネルギー源として空に浮かぶ王国「ラクガキングダム」\nしかし、今やエネルギー不足により滅びようとしていた…。王国軍は、無理やりラクガキをさせるため地上・春日部への進撃を開始！\n一方、描いたものが動き出す、王国の秘宝「ミラクルクレヨン」を与えられし勇者は…まさかの“ちょ〜お気楽5歳児”野原しんのすけ！！\n\nしんのすけと、描き出したラクガキたち\n“ほぼ四人の勇者”は春日部奪還を目指す！\nそんな最中、ラクガキは水に濡れると溶けてしまうという弱点が発覚！さらに上空には今にも降り出しそうな雨雲が…\n果たして、ラクガキたちとの出会いと冒険の先に待つのは、笑いか！？涙か―！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmVmi1NFwwR9",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん もののけニンジャ珍風伝【無料ビデオ1週間】",
+                "startAt": 1741899240,
+                "endAt": 1741905840,
+                "tableStartAt": 1741899240,
+                "tableEndAt": 1741905840,
+                "highlight": "もののけニンジャ珍風伝",
+                "displayProgramId": "35-55_s0_p30",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744577640,
+                "timeshiftFreeEndAt": 1742510640,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "ひろしとみさえのもとに「しんのすけ」が誕生して5年。嵐のような平和な日々を過ごしていたが、ある日、屁祖隠ちよめと名乗る女性が野原家を訪れる。「私、しんのすけくんの本当の母親なんです」傍らには5才の少年、名は珍蔵。突然のことに戸惑いながらも、追い返すわけにもいかず、2人を泊めることに。しかし、その夜、突如謎の忍者軍団が襲い掛かる！ちよめはなんと、忍者の里を抜け出して追われているくノ一だった！そして、その息子として、しんのすけもさらわれてしまう。\n忍者の里には地球のエネルギー（ニントル）を閉じ込める「地球のへそ」があり、それを屁祖隠家は代々伝わる「もののけの術」を使って純金の栓で塞ぎ、守ってきたという。もしも栓が抜けたらニントルが漏れ出し、地球は枯れ、時点が止まり、世界の「明日」は失われてしまう！しんのすけは、果たして地球の未来、家族の明日を守れるのか！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmXJJa7GB7Yb",
+                "channelId": "family-anime-1",
+                "title": "クレヨンしんちゃん #879～884",
+                "startAt": 1741905840,
+                "endAt": 1741909500,
+                "tableStartAt": 1741905840,
+                "tableEndAt": 1741909500,
+                "highlight": "クレヨンしんちゃん #879～884",
+                "displayProgramId": "35-50_s1_p879",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744297200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-50",
+                "content": "アクション仮面の光るパジャマを買ってもらったしんのすけ。\nパジャマが光っているのを見たいのだが、まだ昼間なので光らない。そこで暗い所を求めてさまよい歩くことに……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmTfKxnLYEQF",
+                "channelId": "family-anime-1",
+                "title": "ドラえもん #879～883",
+                "startAt": 1741909500,
+                "endAt": 1741913280,
+                "tableStartAt": 1741909500,
+                "tableEndAt": 1741913280,
+                "highlight": "ドラえもん #879～883",
+                "displayProgramId": "35-50_s1_p879",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744297200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-50",
+                "content": "アクション仮面の光るパジャマを買ってもらったしんのすけ。\nパジャマが光っているのを見たいのだが、まだ昼間なので光らない。そこで暗い所を求めてさまよい歩くことに……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmWz6YfagvLP",
+                "channelId": "family-anime-1",
+                "title": "犬夜叉 #51〜54【無料ビデオ1週間】",
+                "startAt": 1741913280,
+                "endAt": 1741921200,
+                "tableStartAt": 1741913280,
+                "tableEndAt": 1741921200,
+                "highlight": "犬夜叉 #51〜54",
+                "displayProgramId": "415-9_s2_p51",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744591680,
+                "timeshiftFreeEndAt": 1742526000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-9",
+                "content": "犬夜叉の変化の秘密を探る殺生丸は、鉄砕牙と天生牙の鞘を削りだした朴の木の妖怪・朴仙翁を訪ねていた。朴仙翁は、犬夜叉が変化を繰り返せば妖怪の血に心を喰われ、ついには戦うだけの化け物になるという。一方、犬夜叉一行は旅を再開。犬夜叉と弥勒は、村を襲った野盗の頭と対決。正体を妖怪と見破る。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DWB29rqU6Lx5kB",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん　激突！ラクガキングダムとほぼ四人の勇者【無料1週間】",
+                "startAt": 1741921200,
+                "endAt": 1741928040,
+                "tableStartAt": 1741921200,
+                "tableEndAt": 1741928040,
+                "highlight": "ラクガキングダムとほぼ四人の勇者",
+                "displayProgramId": "35-55_s0_p28",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744599600,
+                "timeshiftFreeEndAt": 1742532840,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "自由なラクガキをエネルギー源として空に浮かぶ王国「ラクガキングダム」\nしかし、今やエネルギー不足により滅びようとしていた…。王国軍は、無理やりラクガキをさせるため地上・春日部への進撃を開始！\n一方、描いたものが動き出す、王国の秘宝「ミラクルクレヨン」を与えられし勇者は…まさかの“ちょ〜お気楽5歳児”野原しんのすけ！！\n\nしんのすけと、描き出したラクガキたち\n“ほぼ四人の勇者”は春日部奪還を目指す！\nそんな最中、ラクガキは水に濡れると溶けてしまうという弱点が発覚！さらに上空には今にも降り出しそうな雨雲が…\n果たして、ラクガキたちとの出会いと冒険の先に待つのは、笑いか！？涙か―！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmWzK1dGsrg7",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん もののけニンジャ珍風伝【無料ビデオ1週間】",
+                "startAt": 1741928040,
+                "endAt": 1741934640,
+                "tableStartAt": 1741928040,
+                "tableEndAt": 1741934640,
+                "highlight": "もののけニンジャ珍風伝",
+                "displayProgramId": "35-55_s0_p30",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744606440,
+                "timeshiftFreeEndAt": 1742539440,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "ひろしとみさえのもとに「しんのすけ」が誕生して5年。嵐のような平和な日々を過ごしていたが、ある日、屁祖隠ちよめと名乗る女性が野原家を訪れる。「私、しんのすけくんの本当の母親なんです」傍らには5才の少年、名は珍蔵。突然のことに戸惑いながらも、追い返すわけにもいかず、2人を泊めることに。しかし、その夜、突如謎の忍者軍団が襲い掛かる！ちよめはなんと、忍者の里を抜け出して追われているくノ一だった！そして、その息子として、しんのすけもさらわれてしまう。\n忍者の里には地球のエネルギー（ニントル）を閉じ込める「地球のへそ」があり、それを屁祖隠家は代々伝わる「もののけの術」を使って純金の栓で塞ぎ、守ってきたという。もしも栓が抜けたらニントルが漏れ出し、地球は枯れ、時点が止まり、世界の「明日」は失われてしまう！しんのすけは、果たして地球の未来、家族の明日を守れるのか！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DWB26Ww79gqN87",
+                "channelId": "family-anime-1",
+                "title": "クレヨンしんちゃん #879～884",
+                "startAt": 1741934640,
+                "endAt": 1741938300,
+                "tableStartAt": 1741934640,
+                "tableEndAt": 1741938300,
+                "highlight": "クレヨンしんちゃん #879～884",
+                "displayProgramId": "35-50_s1_p879",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744297200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-50",
+                "content": "アクション仮面の光るパジャマを買ってもらったしんのすけ。\nパジャマが光っているのを見たいのだが、まだ昼間なので光らない。そこで暗い所を求めてさまよい歩くことに……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmVV2wvs2jS7",
+                "channelId": "family-anime-1",
+                "title": "ドラえもん #879～883",
+                "startAt": 1741938300,
+                "endAt": 1741942080,
+                "tableStartAt": 1741938300,
+                "tableEndAt": 1741942080,
+                "highlight": "ドラえもん #879～883",
+                "displayProgramId": "35-50_s1_p879",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744297200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-50",
+                "content": "アクション仮面の光るパジャマを買ってもらったしんのすけ。\nパジャマが光っているのを見たいのだが、まだ昼間なので光らない。そこで暗い所を求めてさまよい歩くことに……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmW69eg3KGs1",
+                "channelId": "family-anime-1",
+                "title": "犬夜叉 #51〜54【無料ビデオ1週間】",
+                "startAt": 1741942080,
+                "endAt": 1741950000,
+                "tableStartAt": 1741942080,
+                "tableEndAt": 1741950000,
+                "highlight": "犬夜叉 #51〜54",
+                "displayProgramId": "415-9_s2_p51",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744620480,
+                "timeshiftFreeEndAt": 1742554800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-9",
+                "content": "犬夜叉の変化の秘密を探る殺生丸は、鉄砕牙と天生牙の鞘を削りだした朴の木の妖怪・朴仙翁を訪ねていた。朴仙翁は、犬夜叉が変化を繰り返せば妖怪の血に心を喰われ、ついには戦うだけの化け物になるという。一方、犬夜叉一行は旅を再開。犬夜叉と弥勒は、村を襲った野盗の頭と対決。正体を妖怪と見破る。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmUGLfMqwEnB",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん　激突！ラクガキングダムとほぼ四人の勇者【無料1週間】",
+                "startAt": 1741950000,
+                "endAt": 1741956660,
+                "tableStartAt": 1741950000,
+                "tableEndAt": 1741956240,
+                "highlight": "ラクガキングダムとほぼ四人の勇者",
+                "displayProgramId": "35-55_s0_p28",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744628400,
+                "timeshiftFreeEndAt": 1742561460,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "自由なラクガキをエネルギー源として空に浮かぶ王国「ラクガキングダム」\nしかし、今やエネルギー不足により滅びようとしていた…。王国軍は、無理やりラクガキをさせるため地上・春日部への進撃を開始！\n一方、描いたものが動き出す、王国の秘宝「ミラクルクレヨン」を与えられし勇者は…まさかの“ちょ〜お気楽5歳児”野原しんのすけ！！\n\nしんのすけと、描き出したラクガキたち\n“ほぼ四人の勇者”は春日部奪還を目指す！\nそんな最中、ラクガキは水に濡れると溶けてしまうという弱点が発覚！さらに上空には今にも降り出しそうな雨雲が…\n果たして、ラクガキたちとの出会いと冒険の先に待つのは、笑いか！？涙か―！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmXHufkPA8pw",
+                "channelId": "family-anime-1",
+                "title": "映画クレヨンしんちゃん もののけニンジャ珍風伝【無料ビデオ1週間】",
+                "startAt": 1741956840,
+                "endAt": 1741963440,
+                "tableStartAt": 1741956840,
+                "tableEndAt": 1741963440,
+                "highlight": "もののけニンジャ珍風伝",
+                "displayProgramId": "35-55_s0_p30",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744635240,
+                "timeshiftFreeEndAt": 1742568240,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-55",
+                "content": "ひろしとみさえのもとに「しんのすけ」が誕生して5年。嵐のような平和な日々を過ごしていたが、ある日、屁祖隠ちよめと名乗る女性が野原家を訪れる。「私、しんのすけくんの本当の母親なんです」傍らには5才の少年、名は珍蔵。突然のことに戸惑いながらも、追い返すわけにもいかず、2人を泊めることに。しかし、その夜、突如謎の忍者軍団が襲い掛かる！ちよめはなんと、忍者の里を抜け出して追われているくノ一だった！そして、その息子として、しんのすけもさらわれてしまう。\n忍者の里には地球のエネルギー（ニントル）を閉じ込める「地球のへそ」があり、それを屁祖隠家は代々伝わる「もののけの術」を使って純金の栓で塞ぎ、守ってきたという。もしも栓が抜けたらニントルが漏れ出し、地球は枯れ、時点が止まり、世界の「明日」は失われてしまう！しんのすけは、果たして地球の未来、家族の明日を守れるのか！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "A2AmW6P74T4hq9",
+                "channelId": "family-anime-1",
+                "title": "犬夜叉 #51〜54【無料ビデオ1週間】",
+                "startAt": 1741963440,
+                "endAt": 1741971360,
+                "tableStartAt": 1741963440,
+                "tableEndAt": 1741971360,
+                "highlight": "犬夜叉 #51〜54",
+                "displayProgramId": "415-9_s2_p51",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744641840,
+                "timeshiftFreeEndAt": 1742576160,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-9",
+                "content": "犬夜叉の変化の秘密を探る殺生丸は、鉄砕牙と天生牙の鞘を削りだした朴の木の妖怪・朴仙翁を訪ねていた。朴仙翁は、犬夜叉が変化を繰り返せば妖怪の血に心を喰われ、ついには戦うだけの化け物になるという。一方、犬夜叉一行は旅を再開。犬夜叉と弥勒は、村を襲った野盗の頭と対決。正体を妖怪と見破る。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "family-anime-2": [
             {
                 "id": "A2AmVUxbTCiFtb",
