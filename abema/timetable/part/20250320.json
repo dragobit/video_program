@@ -1,6 +1,6 @@
 {
-    "pubAt": 1741824087,
-    "pubDate": "2025031309",
+    "pubAt": 1741910494,
+    "pubDate": "2025031409",
     "slots": {
         "abema-anime": [],
         "abema-anime-2": [],
@@ -73,6 +73,34 @@
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
+            },
+            {
+                "id": "DZS1r7hX5sHhts",
+                "channelId": "late-night-anime",
+                "title": "OVA「SK∞ エスケーエイト EXTRA PART」発売記念！TVシリーズ一挙",
+                "startAt": 1742468400,
+                "endAt": 1742490000,
+                "tableStartAt": 1742468400,
+                "tableEndAt": 1742490000,
+                "highlight": "SK∞ エスケーエイト #1～12",
+                "displayProgramId": "26-128_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "26-128",
+                "content": "カナダから転校してきたランガは、スケートボードが大好きな高校生・暦と出会う。暦は、閉鎖された鉱山で行われる危険な極秘レース“S”にハマっているらしい。バイト先を探していたランガは、手伝いとして暦と一緒に“S”の会場に向かうことに。そこで暦に怪我をさせた仇敵でもあるシャドウが暦を挑発し、スケート未経験のランガも巻き込まれて……？！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
             }
         ],
         "anime-live": [
@@ -106,6 +134,35 @@
                 },
                 "displaySeriesId": "218-690",
                 "content": "【水曜日はラプラス・ダークネス × 高野麻里佳】\n\n隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DZS1rjSi7xzeqM",
+                "channelId": "anime-live",
+                "title": "しまじろうのわお！ 2012 #33〜41",
+                "startAt": 1742416200,
+                "endAt": 1742421600,
+                "tableStartAt": 1742416200,
+                "tableEndAt": 1742421600,
+                "highlight": "しまじろうのわお！ 2012 #33〜41",
+                "displayProgramId": "19-234_s1_p33",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1745094600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-234",
+                "content": "「しまじろう」と愉快な仲間たちが「ちゃれんじ島」で展開する、冒険あり、ファンタジーありの物語。日常生活で起こる様々な出来事、行動を通して、たくさんのことを学んでいきます。",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
@@ -216,7 +273,39 @@
                 ]
             }
         ],
-        "family-anime-1": [],
+        "family-anime-1": [
+            {
+                "id": "DWB28LogczNoJw",
+                "channelId": "family-anime-1",
+                "title": "しまじろうのわお！ 2012 #33〜41【無料ビデオ1週間】",
+                "startAt": 1742422980,
+                "endAt": 1742428380,
+                "tableStartAt": 1742422980,
+                "tableEndAt": 1742428380,
+                "highlight": "しまじろうのわお！ 2012 #33〜41",
+                "displayProgramId": "19-234_s1_p33",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1745101380,
+                "timeshiftFreeEndAt": 1743033180,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-234",
+                "content": "「しまじろう」と愉快な仲間たちが「ちゃれんじ島」で展開する、冒険あり、ファンタジーありの物語。日常生活で起こる様々な出来事、行動を通して、たくさんのことを学んでいきます。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "family-anime-2": [],
         "80s-anime-1": [],
         "90s-anime-1": [],

@@ -1,6 +1,6 @@
 {
-    "pubAt": 1741824087,
-    "pubDate": "2025031309",
+    "pubAt": 1741910494,
+    "pubDate": "2025031409",
     "slots": {
         "abema-anime": [
             {
@@ -172,6 +172,35 @@
                 ]
             },
             {
+                "id": "DWB27kCMhvdeBR",
+                "channelId": "anime-live",
+                "title": "しまじろうのわお！ 2012 #24〜32",
+                "startAt": 1742329800,
+                "endAt": 1742335200,
+                "tableStartAt": 1742329800,
+                "tableEndAt": 1742335200,
+                "highlight": "しまじろうのわお！ 2012 #24〜32",
+                "displayProgramId": "19-234_s1_p24",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1745008200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-234",
+                "content": "「しまじろう」と愉快な仲間たちが「ちゃれんじ島」で展開する、冒険あり、ファンタジーありの物語。日常生活で起こる様々な出来事、行動を通して、たくさんのことを学んでいきます。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
                 "id": "9jsnjoPaPdiQr3",
                 "channelId": "anime-live",
                 "title": "不遇職【鑑定士】が実は最強だった #1〜10",
@@ -307,7 +336,39 @@
                 ]
             }
         ],
-        "family-anime-1": [],
+        "family-anime-1": [
+            {
+                "id": "DWB29FEnkXomKD",
+                "channelId": "family-anime-1",
+                "title": "しまじろうのわお！ 2012 #24〜32【無料ビデオ1週間】",
+                "startAt": 1742337360,
+                "endAt": 1742342760,
+                "tableStartAt": 1742337360,
+                "tableEndAt": 1742342760,
+                "highlight": "しまじろうのわお！ 2012 #24〜32",
+                "displayProgramId": "19-234_s1_p24",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1745015760,
+                "timeshiftFreeEndAt": 1742947560,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-234",
+                "content": "「しまじろう」と愉快な仲間たちが「ちゃれんじ島」で展開する、冒険あり、ファンタジーありの物語。日常生活で起こる様々な出来事、行動を通して、たくさんのことを学んでいきます。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "family-anime-2": [],
         "80s-anime-1": [],
         "90s-anime-1": [],

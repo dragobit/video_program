@@ -1,6 +1,6 @@
 {
-    "pubAt": 1741651292,
-    "pubDate": "2025031109",
+    "pubAt": 1741910494,
+    "pubDate": "2025031409",
     "slots": {
         "abema-anime": [
             {
@@ -107,6 +107,35 @@
                 },
                 "displaySeriesId": "218-690",
                 "content": "【月曜日は白上フブキ×悠木碧】\n\n隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DWB29FPEHNFMsV",
+                "channelId": "anime-live",
+                "title": "しまじろうのわお！ 2012 #14〜23",
+                "startAt": 1742243400,
+                "endAt": 1742249400,
+                "tableStartAt": 1742243400,
+                "tableEndAt": 1742249400,
+                "highlight": "しまじろうのわお！ 2012 #14〜23",
+                "displayProgramId": "19-234_s1_p14",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744921800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-234",
+                "content": "「しまじろう」と愉快な仲間たちが「ちゃれんじ島」で展開する、冒険あり、ファンタジーありの物語。日常生活で起こる様々な出来事、行動を通して、たくさんのことを学んでいきます。",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
@@ -247,7 +276,39 @@
                 ]
             }
         ],
-        "family-anime-1": [],
+        "family-anime-1": [
+            {
+                "id": "DWB26E5gbnmeTy",
+                "channelId": "family-anime-1",
+                "title": "しまじろうのわお！ 2012 #14〜23【無料ビデオ1週間】",
+                "startAt": 1742251020,
+                "endAt": 1742257020,
+                "tableStartAt": 1742251020,
+                "tableEndAt": 1742257020,
+                "highlight": "しまじろうのわお！ 2012 #14〜23",
+                "displayProgramId": "19-234_s1_p14",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744929420,
+                "timeshiftFreeEndAt": 1742861820,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-234",
+                "content": "「しまじろう」と愉快な仲間たちが「ちゃれんじ島」で展開する、冒険あり、ファンタジーありの物語。日常生活で起こる様々な出来事、行動を通して、たくさんのことを学んでいきます。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "family-anime-2": [],
         "80s-anime-1": [],
         "90s-anime-1": [],
