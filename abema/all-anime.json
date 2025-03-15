@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025031410",
+    "pubAt": "2025031510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -103,9 +103,10 @@
             "seriesId": "11-36",
             "title": "ゴールデンカムイ（第三期）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -187,9 +188,11 @@
         {
             "seriesId": "11-56",
             "title": "ゴールデンカムイ OAD",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1178,10 +1181,9 @@
             "seriesId": "150-3",
             "title": "咲-Saki-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1594,11 +1596,9 @@
         {
             "seriesId": "169-143",
             "title": "魔王軍最強の魔術師は人間だった",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1700,9 +1700,10 @@
             "seriesId": "171-25",
             "title": "『FARMAGIA』",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1880,9 +1881,10 @@
             "seriesId": "174-6",
             "title": "俺の彼女と幼なじみが修羅場すぎる",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2475,10 +2477,9 @@
             "seriesId": "189-70",
             "title": "ひとりぼっちの異世界攻略",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2917,12 +2918,9 @@
         {
             "seriesId": "19-189",
             "title": "中二病でも恋がしたい！",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -2978,9 +2976,10 @@
             "seriesId": "19-195",
             "title": "CLANNAD",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3460,9 +3459,11 @@
         {
             "seriesId": "19-77",
             "title": "やはり俺の青春ラブコメはまちがっている｡",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3515,10 +3516,9 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4083,6 +4083,16 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "218-162",
+            "title": "ディズニー ツイステッドワンダーランド チャンネル",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -4909,10 +4919,9 @@
             "seriesId": "25-163",
             "title": "８６―エイティシックス―",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5181,10 +5190,9 @@
             "seriesId": "25-253",
             "title": "ダンジョン飯",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5493,6 +5501,26 @@
             ]
         },
         {
+            "seriesId": "25-285",
+            "title": "ざつ旅 -That's Journey-",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "25-286",
+            "title": "忍者と殺し屋のふたりぐらし",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "25-2xrwzkrsieb",
             "title": "魔法科高校の劣等生",
             "label": {
@@ -5642,10 +5670,9 @@
             "seriesId": "25-7krpy-sgurg",
             "title": "氷菓",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6151,6 +6178,16 @@
             "label": {},
             "onDemandTypes": [
                 1
+            ]
+        },
+        {
+            "seriesId": "26-241",
+            "title": "LAZARUS ラザロ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
             ]
         },
         {
@@ -7201,10 +7238,9 @@
             "seriesId": "506-4",
             "title": "出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7234,9 +7270,10 @@
             "seriesId": "512-11",
             "title": "勇気爆発バーンブレイバーン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7292,10 +7329,9 @@
             "seriesId": "536-6",
             "title": "とんでもスキルで異世界放浪メシ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7694,10 +7730,9 @@
             "seriesId": "564-2",
             "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8036,9 +8071,10 @@
             "seriesId": "656-1",
             "title": "僕らの雨いろプロトコル",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8046,9 +8082,10 @@
             "seriesId": "656-2",
             "title": "魔王様、リトライ！R",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
