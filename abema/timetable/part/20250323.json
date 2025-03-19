@@ -1,65 +1,7 @@
 {
-    "pubAt": 1742260591,
-    "pubDate": "2025031810",
+    "pubAt": 1742346087,
+    "pubDate": "2025031910",
     "slots": {
-        "animejapan-green": [
-            {
-                "id": "9jsnkQ5Q2xwrbh",
-                "channelId": "animejapan-green",
-                "title": "アニメ『黒執事 -緑の魔女編ｰ』AnimeJapan Special Stage",
-                "startAt": 1742697000,
-                "endAt": 1742700600,
-                "tableStartAt": 1742697000,
-                "tableEndAt": 1742700600,
-                "highlight": "黒執事 -緑の魔女編ｰ AJ SPステージ",
-                "displayProgramId": "218-790_s10000_p12",
-                "mark": {
-                    "live": true,
-                    "recommendation": true
-                },
-                "flags": {
-                    "chasePlay": true,
-                    "archiveComment": true
-                },
-                "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
-                },
-                "displaySeriesId": "218-790",
-                "content": "-",
-                "chasePlayFeatureAuthorityIds": [
-                    "d42dccf7-267d-4d75-88e1-587d851202c9"
-                ]
-            },
-            {
-                "id": "9jsnmc8qzPVw3M",
-                "channelId": "animejapan-green",
-                "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 最新情報発表会",
-                "startAt": 1742711400,
-                "endAt": 1742715000,
-                "tableStartAt": 1742711400,
-                "tableEndAt": 1742715000,
-                "highlight": "ラブライブ！ 最新情報発表会",
-                "displayProgramId": "218-790_s10000_p13",
-                "mark": {
-                    "live": true,
-                    "recommendation": true
-                },
-                "flags": {
-                    "chasePlay": true,
-                    "archiveComment": true
-                },
-                "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
-                },
-                "displaySeriesId": "218-790",
-                "content": "-",
-                "chasePlayFeatureAuthorityIds": [
-                    "d42dccf7-267d-4d75-88e1-587d851202c9"
-                ]
-            }
-        ],
         "abema-anime": [
             {
                 "id": "A2AmWh5RwcGJL7",
@@ -87,6 +29,29 @@
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
+            },
+            {
+                "id": "AXVjDjQeAzkx87",
+                "channelId": "abema-anime",
+                "title": "UniteUp! -Uni:Birth- 絆特番 後編",
+                "startAt": 1742655600,
+                "endAt": 1742657400,
+                "tableStartAt": 1742655600,
+                "tableEndAt": 1742657400,
+                "highlight": "UniteUp! -Uni:Birth- 絆特番 後編",
+                "displayProgramId": "175-1rthzhecdme_s0_p56",
+                "mark": {
+                    "recommendation": true
+                },
+                "flags": {
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "ついにCDデビューを果たしたPROTOSTARは「新人メンズアイドルフェス」で優勝し、順風満帆なアイドル生活を送っていた。\nそんな3人に事務所の代表である凛、真音から告げられたのは、同じsMiLeaプロダクション所属アイドルのLEGIT、JAXX/JAXXと新曲のリリースで競うリリースバトルだった。リリースバトルをきっかけに様々な困難にぶつかるアイドル達。彼らに待っている結末とは...?!"
             },
             {
                 "id": "DZS1swbbCk2FkK",
@@ -1047,6 +1012,150 @@
                 ]
             }
         ],
+        "animejapan-green": [
+            {
+                "id": "9jsnkQ5Q2xwrbh",
+                "channelId": "animejapan-green",
+                "title": "アニメ『黒執事 -緑の魔女編ｰ』AnimeJapan Special Stage",
+                "startAt": 1742697000,
+                "endAt": 1742700600,
+                "tableStartAt": 1742697000,
+                "tableEndAt": 1742700600,
+                "highlight": "黒執事 -緑の魔女編ｰ AJ SPステージ",
+                "displayProgramId": "218-790_s10000_p12",
+                "mark": {
+                    "live": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-790",
+                "content": "-",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9jsnmc8qzPVw3M",
+                "channelId": "animejapan-green",
+                "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 最新情報発表会",
+                "startAt": 1742711400,
+                "endAt": 1742715000,
+                "tableStartAt": 1742711400,
+                "tableEndAt": 1742715000,
+                "highlight": "ラブライブ！ 最新情報発表会",
+                "displayProgramId": "218-790_s10000_p13",
+                "mark": {
+                    "live": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-790",
+                "content": "-",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "animejapan-white": [
+            {
+                "id": "F5Qu1ep7DkQY4o",
+                "channelId": "animejapan-white",
+                "title": "TVアニメ『Summer Pockets』スタッフトークステージ",
+                "startAt": 1742696700,
+                "endAt": 1742700300,
+                "tableStartAt": 1742696700,
+                "tableEndAt": 1742700300,
+                "highlight": "Summer Pocketsスタッフトークステージ",
+                "displayProgramId": "218-790_s10000_p31",
+                "mark": {
+                    "live": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-790",
+                "content": "4月より放送が開始されるTVアニメ『Summer Pockets』より、\n小林智樹監督、原作シナリオの魁さん、プロデューサーの中島直人さんをお迎えして、ゲーム原作からなるアニメ制作の制作裏話や、制作スタッフ陣が語る本作の魅力をたっぷりお届けするスペシャルステージ！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9jsnkiDfPyoUFR",
+                "channelId": "animejapan-white",
+                "title": "「ロックは淑女の嗜みでして」トークショー",
+                "startAt": 1742704800,
+                "endAt": 1742708400,
+                "tableStartAt": 1742704800,
+                "tableEndAt": 1742708400,
+                "highlight": "ロックは淑女の嗜みでして",
+                "displayProgramId": "218-790_s10000_p32",
+                "mark": {
+                    "live": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-790",
+                "content": "-",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "FBvtXATArkaqj5",
+                "channelId": "animejapan-white",
+                "title": "TVアニメ「甘神さんちの縁結び」AnimeJapanスペシャルステージ",
+                "startAt": 1742708400,
+                "endAt": 1742712000,
+                "tableStartAt": 1742708400,
+                "tableEndAt": 1742712000,
+                "highlight": "「甘神さんちの縁結び」AJ SPステージ",
+                "displayProgramId": "218-790_s10000_p33",
+                "mark": {
+                    "live": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-790",
+                "content": "-",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "isekai-anime": [
             {
                 "id": "ExtuYHebuin1q9",
@@ -1769,6 +1878,38 @@
             }
         ],
         "dailylife-anime": [
+            {
+                "id": "DfxkC48GgpddD9",
+                "channelId": "dailylife-anime",
+                "title": "恋する小惑星（アステロイド）#1〜12【無料ビデオ2週間】",
+                "startAt": 1742640900,
+                "endAt": 1742662500,
+                "tableStartAt": 1742640900,
+                "tableEndAt": 1742662500,
+                "highlight": "恋する小惑星（アステロイド）#1〜12",
+                "displayProgramId": "25-137_s1_p1",
+                "mark": {
+                    "bingeWatching": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1745319300,
+                "timeshiftFreeEndAt": 1743872100,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-137",
+                "content": "春。高校に入学した木ノ幡みらは、絶対入ろうと決めていた天文部がなくなっていて大ショック。みらには、幼い頃にある人物と約束した「小惑星を発見する」という夢があったのだ。今年から「天文部」と「地質研」が合併した「地学部」が出来たと聞いてさっそく入部する。部室でみらを待っていたのは個性的な3人の先輩と、そしてもう1人……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
             {
                 "id": "Aakiy2DxNEQjDR",
                 "channelId": "dailylife-anime",
