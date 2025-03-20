@@ -1,6 +1,6 @@
 {
-    "pubAt": 1742346087,
-    "pubDate": "2025031910",
+    "pubAt": 1742432481,
+    "pubDate": "2025032010",
     "slots": {
         "abema-anime": [
             {
@@ -71,9 +71,41 @@
             }
         ],
         "anime-special-2": [],
-        "animejapan-green": [],
-        "animejapan-white": [],
-        "isekai-anime": [],
+        "animejapan-red": [],
+        "isekai-anime": [
+            {
+                "id": "CiZ5fKJCMhsX4B",
+                "channelId": "isekai-anime",
+                "title": "俺は星間国家の悪徳領主！ #1〜2【宇宙最速先行上映会】",
+                "startAt": 1742900400,
+                "endAt": 1742903100,
+                "tableStartAt": 1742900400,
+                "tableEndAt": 1742903100,
+                "highlight": "俺は星間国家の悪徳領主！ #1〜2",
+                "displayProgramId": "248-23_s1_p101",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1742922000,
+                "timeshiftFreeEndAt": 1742922000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "248-23",
+                "content": "星間国家アルグランド帝国の辺境を治める伯爵家に生まれ、\n幼くして当主となった転生者リアム。\n\n善良さ故に奪われ続けた前世を反省した彼は、\n今度は奪う側である「悪徳領主」となり民を虐げようと決意！\n\nせっかくのSF世界なのだからロボットにだって乗りたい！\n最強の剣術だって習得して、傍若無人に振る舞いたい！\nゆくゆくはハーレムを作って、酒池肉林も楽しみたい!!\n\n──しかし。\n\nリアムなりに「悪徳領主」らしく振る舞っているはずが、\nなぜか民からは感謝されて好感度は上がりっぱなし……!?\n\n魔法ありロボットありの星間国家を舞台に、\n超銀河スケールでお贈りする勘違い領地経営譚が堂々開幕!!",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "isekai-anime-2": [],
         "isekai-anime-3": [],
         "lovecomedy-anime": [],

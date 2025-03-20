@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025031910",
+    "pubAt": "2025032010",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -252,9 +252,10 @@
             "seriesId": "11-62",
             "title": "パーティーから追放されたその治癒師、実は最強につき",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -415,9 +416,10 @@
             "seriesId": "115-115",
             "title": "アクロトリップ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -589,10 +591,9 @@
             "seriesId": "117-36",
             "title": "治癒魔法の間違った使い方",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1349,12 +1350,9 @@
         {
             "seriesId": "168-50",
             "title": "頭文字[イニシャル]D OVA",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1453,10 +1451,9 @@
             "seriesId": "168-7",
             "title": "ゾンビランドサガ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1716,10 +1713,9 @@
             "seriesId": "172-52",
             "title": "HIGH CARD",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1760,10 +1756,9 @@
             "seriesId": "172-59",
             "title": "アオのハコ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2298,9 +2293,10 @@
             "seriesId": "189-41",
             "title": "東京ミュウミュウ にゅ～♡",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3244,10 +3240,9 @@
             "seriesId": "19-221",
             "title": "よばれてとびでて！アクビちゃん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3542,9 +3537,10 @@
             "seriesId": "194-15",
             "title": "彼女、お借りします",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3552,10 +3548,9 @@
             "seriesId": "194-18",
             "title": "ドメスティックな彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3650,9 +3645,10 @@
             "seriesId": "194-41",
             "title": "菜なれ花なれ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3871,6 +3867,16 @@
         {
             "seriesId": "2-26",
             "title": "ポケットモンスターXY",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "2-28",
+            "title": "ポケットモンスター サン＆ムーン",
             "label": {
                 "free": true
             },
@@ -4516,16 +4522,6 @@
             ]
         },
         {
-            "seriesId": "218-791",
-            "title": "「いずれ最強の錬金術師？」第十話直前ABEMA特番",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "221-276",
             "title": "青の祓魔師 特別授業 -オルタナヴェルト大解剖-",
             "label": {
@@ -4833,9 +4829,10 @@
             "seriesId": "25-139",
             "title": "Re:ゼロから始める異世界生活",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4977,9 +4974,10 @@
             "seriesId": "25-201",
             "title": "乙女ゲー世界はモブに厳しい世界です",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5081,10 +5079,9 @@
             "seriesId": "25-23aagrwux-zi",
             "title": "のんのんびより",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5614,10 +5611,9 @@
             "seriesId": "25-68",
             "title": "ロウきゅーぶ！SS",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5851,10 +5847,9 @@
             "seriesId": "26-176",
             "title": "万聖街",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6178,6 +6173,16 @@
             ]
         },
         {
+            "seriesId": "26-240",
+            "title": "mono",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "26-241",
             "title": "LAZARUS ラザロ",
             "label": {
@@ -6362,9 +6367,10 @@
             "seriesId": "301-2",
             "title": "マクロスF",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6644,9 +6650,10 @@
             "seriesId": "413-12",
             "title": "異世界ゆるり紀行 ～子育てしながら冒険者します～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7348,10 +7355,9 @@
             "seriesId": "536-8",
             "title": "らんま1/2",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7446,9 +7452,10 @@
             "seriesId": "54-70",
             "title": "史上最強の大魔王、村人Aに転生する",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7532,9 +7539,10 @@
             "seriesId": "54-86",
             "title": "ヤンキーハムスター",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7553,9 +7561,10 @@
             "seriesId": "54-89",
             "title": "ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7747,10 +7756,9 @@
             "seriesId": "564-10",
             "title": "ワンルーム、日当たり普通、天使つき。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7812,10 +7820,9 @@
             "seriesId": "564-9",
             "title": "休日のわるものさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7833,10 +7840,9 @@
             "seriesId": "593-1",
             "title": "阿波連さんははかれない",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8252,6 +8258,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "727-1",
+            "title": "アン・シャーリー",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
