@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025032210",
+    "pubAt": "2025032310",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -685,10 +685,9 @@
             "seriesId": "12-26",
             "title": "君は冥土様。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -711,9 +710,11 @@
         {
             "seriesId": "13-158",
             "title": "機動戦士ガンダム 水星の魔女",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -731,9 +732,10 @@
             "seriesId": "13-168",
             "title": "幻日のヨハネ -SUNSHINE in the MIRROR-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -765,10 +767,9 @@
             "seriesId": "13-194",
             "title": "魔神創造伝ワタル",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -822,10 +823,9 @@
             "seriesId": "13-67",
             "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1882,6 +1882,16 @@
             ]
         },
         {
+            "seriesId": "174-31",
+            "title": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "174-6",
             "title": "俺の彼女と幼なじみが修羅場すぎる",
             "label": {
@@ -1907,10 +1917,9 @@
             "seriesId": "177-228",
             "title": "TVアニメ『レベル1だけどユニークスキルで最強です』",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2359,10 +2368,9 @@
             "seriesId": "189-57",
             "title": "ポーション頼みで生き延びます！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2432,10 +2440,9 @@
             "seriesId": "189-65",
             "title": "疑似ハーレム",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2459,10 +2466,9 @@
             "seriesId": "189-68",
             "title": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2478,9 +2484,10 @@
             "seriesId": "189-70",
             "title": "ひとりぼっちの異世界攻略",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2509,9 +2516,11 @@
         {
             "seriesId": "189-73",
             "title": "来世は他人がいい",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2587,11 +2596,9 @@
         {
             "seriesId": "19-100",
             "title": "映画しまじろう しまじろうと キラキラおうこくの おうじさま",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2645,11 +2652,9 @@
         {
             "seriesId": "19-112",
             "title": "いぬやしき",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3448,9 +3453,11 @@
         {
             "seriesId": "19-53",
             "title": "映画しまじろう　しまじろうとうるるのヒーローランド",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3478,19 +3485,19 @@
         {
             "seriesId": "19-74",
             "title": "映画しまじろう しまじろうとそらとぶふね",
-            "label": {},
-            "onDemandTypes": [
-                1
-            ]
-        },
-        {
-            "seriesId": "19-77",
-            "title": "やはり俺の青春ラブコメはまちがっている｡",
             "label": {
                 "free": true
             },
             "onDemandTypes": [
                 3
+            ]
+        },
+        {
+            "seriesId": "19-77",
+            "title": "やはり俺の青春ラブコメはまちがっている｡",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -3590,9 +3597,10 @@
             "seriesId": "194-28",
             "title": "魔法使い黎明期",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4521,6 +4529,16 @@
             ]
         },
         {
+            "seriesId": "218-793",
+            "title": "『Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。』第1話ビジュアルコメンタリー",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "221-276",
             "title": "青の祓魔師 特別授業 -オルタナヴェルト大解剖-",
             "label": {
@@ -4533,11 +4551,9 @@
         {
             "seriesId": "221-295",
             "title": "WIND BREAKER ポトス クリスマスパーティー",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -4716,9 +4732,10 @@
             "seriesId": "25-109",
             "title": "盾の勇者の成り上がり",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4726,9 +4743,10 @@
             "seriesId": "25-10wkyfrkuytx",
             "title": "ノーゲーム・ノーライフ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5164,9 +5182,10 @@
             "seriesId": "25-251",
             "title": "外科医エリーゼ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5433,10 +5452,9 @@
             "seriesId": "25-278",
             "title": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5525,10 +5543,9 @@
             "seriesId": "25-2xrwzkrsieb",
             "title": "魔法科高校の劣等生",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5564,10 +5581,9 @@
             "seriesId": "25-43zr98hyeb55",
             "title": "NEW GAME!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6404,10 +6420,9 @@
             "seriesId": "301-4",
             "title": "マクロス7",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6912,9 +6927,10 @@
             "seriesId": "420-72",
             "title": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7006,9 +7022,10 @@
             "seriesId": "481-9",
             "title": "テクノロイド オーバーマインド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7229,9 +7246,10 @@
             "seriesId": "5-73",
             "title": "魔法つかいプリキュア！！～MIRAI DAYS～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7250,8 +7268,7 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -7269,9 +7286,10 @@
             "seriesId": "506-4",
             "title": "出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7372,9 +7390,10 @@
             "seriesId": "536-6",
             "title": "とんでもスキルで異世界放浪メシ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7837,9 +7856,10 @@
             "seriesId": "564-2",
             "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7879,9 +7899,10 @@
             "seriesId": "568-32",
             "title": "チ。 ―地球の運動について―",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8100,6 +8121,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "643-10",
+            "title": "やたらやらしい深見くん【オンエア版】",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
