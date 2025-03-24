@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025032310",
+    "pubAt": "2025032410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -37,10 +37,9 @@
             "seriesId": "11-13",
             "title": "ゲーマーズ！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -692,6 +691,14 @@
             ]
         },
         {
+            "seriesId": "13-120",
+            "title": "機動武闘伝Ｇガンダム",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "13-130",
             "title": "新機動戦記ガンダムW　Endless Waltz",
             "label": {},
@@ -849,9 +856,10 @@
             "seriesId": "13-97",
             "title": "機動戦士ガンダムSEED DESTINY HDリマスター",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -919,9 +927,10 @@
             "seriesId": "143-47",
             "title": "エルフェンリート",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1234,10 +1243,9 @@
             "seriesId": "168-13",
             "title": "異世界食堂",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1627,10 +1635,9 @@
             "seriesId": "169-147",
             "title": "沖縄で好きになった子が方言すぎてツラすぎる",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1834,10 +1841,9 @@
             "seriesId": "174-10",
             "title": "ゴブリンスレイヤー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1864,9 +1870,10 @@
             "seriesId": "174-29",
             "title": "ひきこまり吸血姫の悶々",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1964,9 +1971,10 @@
             "seriesId": "177-481",
             "title": "あんた売れないわよ!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2838,11 +2846,9 @@
         {
             "seriesId": "19-171",
             "title": "葬送のフリーレン",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2857,10 +2863,9 @@
             "seriesId": "19-174",
             "title": "薬屋のひとりごと",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4325,10 +4330,9 @@
             "seriesId": "218-709",
             "title": "モブから始まる探索英雄譚",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4529,6 +4533,16 @@
             ]
         },
         {
+            "seriesId": "218-790",
+            "title": "AnimeJapan 2025 ステージ生中継",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-793",
             "title": "『Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。』第1話ビジュアルコメンタリー",
             "label": {
@@ -4592,9 +4606,10 @@
             "seriesId": "247-18",
             "title": "政宗くんのリベンジR",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4632,9 +4647,10 @@
             "seriesId": "248-15",
             "title": "最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4998,10 +5014,9 @@
             "seriesId": "25-202",
             "title": "リアデイルの大地にて",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5255,6 +5270,7 @@
                 "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5273,10 +5289,9 @@
             "seriesId": "25-260",
             "title": "終末トレインどこへいく？",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5472,9 +5487,10 @@
             "seriesId": "25-280",
             "title": "戦隊レッド 異世界で冒険者になる",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5591,10 +5607,9 @@
             "seriesId": "25-47",
             "title": "ガヴリールドロップアウト",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5665,9 +5680,10 @@
             "seriesId": "25-73",
             "title": "ようこそ実力至上主義の教室へ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5897,10 +5913,9 @@
             "seriesId": "26-191",
             "title": "UniteUp! -Uni:Birth-",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6096,10 +6111,9 @@
             "seriesId": "26-226",
             "title": "TRUMPシリーズTVアニメ『デリコズ・ナーサリー』",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6410,9 +6424,10 @@
             "seriesId": "301-3",
             "title": "超時空要塞マクロス",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6474,10 +6489,9 @@
             "seriesId": "35-3",
             "title": "新あたしンち",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7640,9 +7654,10 @@
             "seriesId": "54-90",
             "title": "Lv2からチートだった元勇者候補のまったり異世界ライフ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7803,10 +7818,9 @@
             "seriesId": "560-3",
             "title": "全修。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7899,10 +7913,9 @@
             "seriesId": "568-32",
             "title": "チ。 ―地球の運動について―",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
