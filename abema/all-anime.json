@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025032410",
+    "pubAt": "2025032510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -58,10 +58,9 @@
             "seriesId": "11-23",
             "title": "ゴールデンカムイ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -177,9 +176,10 @@
             "seriesId": "11-54",
             "title": "聖剣学院の魔剣使い",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -195,9 +195,10 @@
             "seriesId": "11-57",
             "title": "魔女と野獣",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -693,9 +694,12 @@
         {
             "seriesId": "13-120",
             "title": "機動武闘伝Ｇガンダム",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1057,10 +1061,9 @@
             "seriesId": "149-22",
             "title": "結婚指輪物語",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1366,12 +1369,9 @@
         {
             "seriesId": "168-50",
             "title": "頭文字[イニシャル]D OVA",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1539,9 +1539,12 @@
         {
             "seriesId": "169-116",
             "title": "精霊幻想記",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -2305,9 +2308,10 @@
             "seriesId": "189-30",
             "title": "東京リベンジャーズ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2366,9 +2370,10 @@
             "seriesId": "189-56",
             "title": "婚約破棄された令嬢を拾った俺が、イケナイことを教え込む",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2798,10 +2803,9 @@
             "seriesId": "19-150",
             "title": "もののがたり",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3006,9 +3010,11 @@
         {
             "seriesId": "19-196",
             "title": "僕らはみんな河合荘",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -3508,11 +3514,9 @@
         {
             "seriesId": "19-78",
             "title": "やはり俺の青春ラブコメはまちがっている｡続",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -3548,11 +3552,9 @@
         {
             "seriesId": "194-10",
             "title": "荒ぶる季節の乙女どもよ。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5054,10 +5056,9 @@
             "seriesId": "25-229",
             "title": "宇宙よりも遠い場所",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5065,9 +5066,10 @@
             "seriesId": "25-235",
             "title": "スパイ教室",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5118,9 +5120,10 @@
             "seriesId": "25-240",
             "title": "【推しの子】",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5852,9 +5855,10 @@
             "seriesId": "26-159",
             "title": "時光代理人 -LINK CLICK- Ⅱ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6170,10 +6174,9 @@
             "seriesId": "26-232",
             "title": "クラスの大嫌いな女子と結婚することになった。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6413,10 +6416,9 @@
             "seriesId": "301-2",
             "title": "マクロスF",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7393,10 +7395,9 @@
             "seriesId": "536-5",
             "title": "ぶっちぎり?!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7447,10 +7448,9 @@
             "seriesId": "54-100",
             "title": "サラリーマンが異世界に行ったら四天王になった話",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8249,10 +8249,9 @@
             "seriesId": "656-2",
             "title": "魔王様、リトライ！R",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
