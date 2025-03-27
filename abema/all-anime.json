@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025032610",
+    "pubAt": "2025032710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -100,10 +100,9 @@
             "seriesId": "11-36",
             "title": "ゴールデンカムイ（第三期）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -195,10 +194,9 @@
             "seriesId": "11-57",
             "title": "魔女と野獣",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -710,6 +708,14 @@
             ]
         },
         {
+            "seriesId": "13-149",
+            "title": "劇場版シティーハンター <新宿プライベート・アイズ>",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "13-151",
             "title": "ラブライブ！スーパースター!!",
             "label": {},
@@ -792,6 +798,14 @@
             ]
         },
         {
+            "seriesId": "13-196",
+            "title": "劇場版シティーハンター 天使の涙(エンジェルダスト)",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "13-27uzkrexuzx2",
             "title": "Thunderbolt Fantasy 東離劍遊紀",
             "label": {
@@ -842,6 +856,41 @@
         {
             "seriesId": "13-73",
             "title": "機動戦士ガンダム 逆襲のシャア",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "13-78",
+            "title": "シティーハンター",
+            "label": {
+                "someFree": true
+            },
+            "onDemandTypes": [
+                1,
+                3
+            ]
+        },
+        {
+            "seriesId": "13-81",
+            "title": "シティーハンター2",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "13-86",
+            "title": "シティーハンター3",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
+            "seriesId": "13-88",
+            "title": "シティーハンター’91",
             "label": {},
             "onDemandTypes": [
                 1
@@ -949,10 +998,9 @@
             "seriesId": "143-49",
             "title": "多数欠",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1466,9 +1514,10 @@
             "seriesId": "168-7",
             "title": "ゾンビランドサガ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1711,11 +1760,9 @@
         {
             "seriesId": "171-24",
             "title": "やはり俺の青春ラブコメはまちがっている。完",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1787,9 +1834,10 @@
             "seriesId": "172-59",
             "title": "アオのハコ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2448,10 +2496,9 @@
             "seriesId": "189-64",
             "title": "お嬢と番犬くん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2899,10 +2946,9 @@
             "seriesId": "19-181",
             "title": "ちいかわ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2999,9 +3045,10 @@
             "seriesId": "19-194",
             "title": "刀剣乱舞 廻 -虚伝 燃ゆる本能寺-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4742,6 +4789,16 @@
             ]
         },
         {
+            "seriesId": "248-24",
+            "title": "GUILTY GEAR STRIVE: DUAL RULERS",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "25-101",
             "title": "劇場版 魔法科高校の劣等生 星を呼ぶ少女",
             "label": {},
@@ -4886,9 +4943,10 @@
             "seriesId": "25-139",
             "title": "Re:ゼロから始める異世界生活",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4907,9 +4965,10 @@
             "seriesId": "25-13tyr-wzynnz",
             "title": "狼と香辛料",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5653,10 +5712,9 @@
             "seriesId": "25-59",
             "title": "エロマンガ先生",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5931,9 +5989,10 @@
             "seriesId": "26-176",
             "title": "万聖街",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6438,10 +6497,9 @@
             "seriesId": "301-1",
             "title": "マクロスΔ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6470,9 +6528,10 @@
             "seriesId": "301-4",
             "title": "マクロス7",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7070,10 +7129,9 @@
             "seriesId": "481-9",
             "title": "テクノロイド オーバーマインド",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7459,9 +7517,10 @@
             "seriesId": "536-8",
             "title": "らんま1/2",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7608,10 +7667,9 @@
             "seriesId": "54-79",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。2",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7912,10 +7970,9 @@
             "seriesId": "564-2",
             "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7923,10 +7980,9 @@
             "seriesId": "564-4",
             "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7945,9 +8001,10 @@
             "seriesId": "564-9",
             "title": "休日のわるものさん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7965,9 +8022,10 @@
             "seriesId": "593-1",
             "title": "阿波連さんははかれない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7975,9 +8033,10 @@
             "seriesId": "593-10",
             "title": "ダンダダン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8334,10 +8393,9 @@
             "seriesId": "675-2",
             "title": "しかのこのこのここしたんたん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8356,10 +8414,9 @@
             "seriesId": "675-4",
             "title": "誰ソ彼ホテル",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
