@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025032710",
+    "pubAt": "2025032810",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -185,9 +185,11 @@
         {
             "seriesId": "11-56",
             "title": "ゴールデンカムイ OAD",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -422,9 +424,10 @@
             "seriesId": "115-116",
             "title": "甘神さんちの縁結び",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -447,6 +450,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "115-119",
+            "title": "クラシック★スターズ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -596,9 +609,10 @@
             "seriesId": "117-36",
             "title": "治癒魔法の間違った使い方",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -865,10 +879,9 @@
             "seriesId": "13-78",
             "title": "シティーハンター",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1040,10 +1053,9 @@
             "seriesId": "144-1smeznwkexx",
             "title": "侵略!イカ娘",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1701,11 +1713,9 @@
         {
             "seriesId": "169-47",
             "title": "異世界はスマートフォンとともに。2",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1791,9 +1801,10 @@
             "seriesId": "172-52",
             "title": "HIGH CARD",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2474,10 +2485,9 @@
             "seriesId": "189-62",
             "title": "異世界のんびり農家",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2946,9 +2956,10 @@
             "seriesId": "19-181",
             "title": "ちいかわ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3635,9 +3646,10 @@
             "seriesId": "194-18",
             "title": "ドメスティックな彼女",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3782,9 +3794,10 @@
             "seriesId": "194-46",
             "title": "想星のアクエリオン Myth of Emotions",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3929,16 +3942,6 @@
         {
             "seriesId": "2-25",
             "title": "ポケットモンスター アドバンスジェネレーション",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "2-26",
-            "title": "ポケットモンスターXY",
             "label": {
                 "free": true
             },
@@ -4493,6 +4496,16 @@
             ]
         },
         {
+            "seriesId": "218-767",
+            "title": "TVアニメ「不遇職【鑑定士】が実は最強だった」スペシャル特番",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "218-771",
             "title": "日本アニメトレンド大賞2024",
             "label": {
@@ -4695,10 +4708,9 @@
             "seriesId": "247-20",
             "title": "きのこいぬ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4851,9 +4863,10 @@
             "seriesId": "25-115",
             "title": "異世界かるてっと",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4943,10 +4956,9 @@
             "seriesId": "25-139",
             "title": "Re:ゼロから始める異世界生活",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5024,10 +5036,9 @@
             "seriesId": "25-15nn-yaysxby",
             "title": "日常",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5261,10 +5272,9 @@
             "seriesId": "25-24bkfwbcunxt",
             "title": "さくら荘のペットな彼女",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5303,9 +5313,10 @@
             "seriesId": "25-253",
             "title": "ダンジョン飯",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5507,10 +5518,9 @@
             "seriesId": "25-274",
             "title": "魔王2099",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6144,9 +6154,10 @@
             "seriesId": "26-220",
             "title": "黒執事 -寄宿学校編-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6517,10 +6528,9 @@
             "seriesId": "301-3",
             "title": "超時空要塞マクロス",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6655,21 +6665,17 @@
         {
             "seriesId": "35-51",
             "title": "映画あたしンち",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
             "seriesId": "35-52",
             "title": "劇場版あたしンち「情熱のちょ～超能力♪ 母大暴走！」",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -7474,11 +7480,9 @@
         {
             "seriesId": "536-4",
             "title": "劇場版 呪術廻戦 0",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -7612,10 +7616,9 @@
             "seriesId": "54-66",
             "title": "進化の実〜知らないうちに勝ち組人生〜",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7939,9 +7942,10 @@
             "seriesId": "564-10",
             "title": "ワンルーム、日当たり普通、天使つき。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7963,6 +7967,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "564-14",
+            "title": "華Doll* -Reinterpretation of Flowering-",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
@@ -8176,6 +8190,16 @@
             ]
         },
         {
+            "seriesId": "622-5",
+            "title": "ちくわ戦記～おれのカワイイで地球侵略～",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "632-1",
             "title": "女神のカフェテラス",
             "label": {
@@ -8249,6 +8273,16 @@
             ]
         },
         {
+            "seriesId": "643-11",
+            "title": "かくして！ マキナさん!!",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "643-2",
             "title": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
             "label": {
@@ -8274,10 +8308,9 @@
             "seriesId": "643-4",
             "title": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },

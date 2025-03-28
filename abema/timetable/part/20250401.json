@@ -1,6 +1,6 @@
 {
-    "pubAt": 1743033693,
-    "pubDate": "2025032709",
+    "pubAt": 1743124883,
+    "pubDate": "2025032810",
     "slots": {
         "abema-anime": [
             {
@@ -141,7 +141,76 @@
         "lovecomedy-anime": [],
         "dailylife-anime": [],
         "late-night-anime": [],
-        "anime-live": [],
+        "anime-live": [
+            {
+                "id": "AMbMoYMMmvHt3H",
+                "groupId": "CKcjHVZNdJJnAj",
+                "channelId": "anime-live",
+                "title": "ホロごえっ！【白上フブキ×悠木碧】(再放送)#24",
+                "startAt": 1743431400,
+                "endAt": 1743434100,
+                "tableStartAt": 1743431400,
+                "tableEndAt": 1743434100,
+                "highlight": "ホロごえっ！ 白上フブキ 悠木碧",
+                "displayProgramId": "218-690_s2_p24",
+                "mark": {
+                    "recommendation": true
+                },
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746109800,
+                "timeshiftFreeEndAt": 1744038900,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-690",
+                "content": "【月曜日は白上フブキ×悠木碧】\n\n隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AMbMkWvpVsvB7M",
+                "groupId": "CKcjEkNWad6zaT",
+                "channelId": "anime-live",
+                "title": "ホロごえっ！【宝鐘マリン×上坂すみれ】(再放送)#24",
+                "startAt": 1743517800,
+                "endAt": 1743520500,
+                "tableStartAt": 1743517800,
+                "tableEndAt": 1743520500,
+                "highlight": "ホロごえっ！ 宝鐘マリン 上坂すみれ",
+                "displayProgramId": "218-690_s3_p24",
+                "mark": {
+                    "recommendation": true
+                },
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746196200,
+                "timeshiftFreeEndAt": 1744125300,
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "218-690",
+                "content": "【火曜日は宝鐘マリン×上坂すみれ】\n\n隔週月曜から金曜までVTuber(ホロライブプロダクション所属タレント)と声優がタッグを組んだABEMAオリジナルのレギュラー深夜番組。ABEMAでしか見られない素敵な時間をお届けします！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "family-anime-1": [],
         "family-anime-2": [],
         "80s-anime-1": [],
