@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025032810",
+    "pubAt": "2025032910",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -47,10 +47,9 @@
             "seriesId": "11-15",
             "title": "ヨルムンガンド",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -154,9 +153,10 @@
             "seriesId": "11-50",
             "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -238,10 +238,9 @@
             "seriesId": "11-61",
             "title": "ゴールデンカムイ（第四期）",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -888,9 +887,11 @@
         {
             "seriesId": "13-81",
             "title": "シティーハンター2",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1021,9 +1022,10 @@
             "seriesId": "143-50",
             "title": "ふらいんぐうぃっち",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1623,9 +1625,10 @@
             "seriesId": "169-132",
             "title": "神達に拾われた男2",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1656,11 +1659,9 @@
         {
             "seriesId": "169-142",
             "title": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2395,10 +2396,9 @@
             "seriesId": "189-41",
             "title": "東京ミュウミュウ にゅ～♡",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2956,10 +2956,9 @@
             "seriesId": "19-181",
             "title": "ちいかわ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3307,9 +3306,10 @@
             "seriesId": "19-219",
             "title": "どうせ、恋してしまうんだ。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3816,9 +3816,10 @@
             "seriesId": "198-10",
             "title": "30歳まで童貞だと魔法使いになれるらしい",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3826,10 +3827,9 @@
             "seriesId": "198-11",
             "title": "黄昏アウトフォーカス",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3932,16 +3932,6 @@
         {
             "seriesId": "2-18",
             "title": "超速スピナー",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
-            "seriesId": "2-25",
-            "title": "ポケットモンスター アドバンスジェネレーション",
             "label": {
                 "free": true
             },
@@ -4784,9 +4774,10 @@
             "seriesId": "248-22",
             "title": "マーダーミステリー・オブ・ザ・デッド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4918,9 +4909,10 @@
             "seriesId": "25-12jpgzpcyjjb",
             "title": "狼と香辛料II",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5046,9 +5038,10 @@
             "seriesId": "25-163",
             "title": "８６―エイティシックス―",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5303,9 +5296,10 @@
             "seriesId": "25-252",
             "title": "愚かな天使は悪魔と踊る",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5673,9 +5667,10 @@
             "seriesId": "25-3069dr7nb-uc",
             "title": "はたらく魔王さま！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5901,16 +5896,6 @@
             ]
         },
         {
-            "seriesId": "26-128",
-            "title": "SK∞ エスケーエイト",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "26-12wggi-emdez",
             "title": "Angel Beats!",
             "label": {
@@ -6080,10 +6065,9 @@
             "seriesId": "26-201",
             "title": "TVアニメ「ホリミヤ」",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7471,9 +7455,10 @@
             "seriesId": "536-3",
             "title": "チェンソーマン",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7953,9 +7938,10 @@
             "seriesId": "564-11",
             "title": "僕の妻は感情がない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7967,6 +7953,16 @@
             },
             "onDemandTypes": [
                 1,
+                3
+            ]
+        },
+        {
+            "seriesId": "564-13",
+            "title": "白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
                 3
             ]
         },
