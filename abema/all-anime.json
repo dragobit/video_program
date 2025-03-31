@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025033010",
+    "pubAt": "2025033110",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -37,9 +37,10 @@
             "seriesId": "11-13",
             "title": "ゲーマーズ！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -269,10 +270,9 @@
             "seriesId": "11-64",
             "title": "ゆゆ式",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -647,6 +647,16 @@
             ]
         },
         {
+            "seriesId": "117-41",
+            "title": "ツインズひなひま",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "117-5",
             "title": "ヨスガノソラ",
             "label": {
@@ -692,9 +702,10 @@
             "seriesId": "12-26",
             "title": "君は冥土様。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -738,11 +749,9 @@
         {
             "seriesId": "13-158",
             "title": "機動戦士ガンダム 水星の魔女",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -870,9 +879,10 @@
             "seriesId": "13-67",
             "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -943,9 +953,12 @@
         {
             "seriesId": "13-98",
             "title": "新機動戦記ガンダムＷ",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1409,9 +1422,11 @@
         {
             "seriesId": "168-48",
             "title": "新劇場版 頭文字[イニシャル]D",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1721,8 +1736,7 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1880,10 +1894,9 @@
             "seriesId": "172-60",
             "title": "ハニーレモンソーダ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1891,10 +1904,10 @@
             "seriesId": "172-61",
             "title": "SAKAMOTO DAYS",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2028,10 +2041,10 @@
             "seriesId": "177-234",
             "title": "リトル・パイレーツ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2473,9 +2486,10 @@
             "seriesId": "189-57",
             "title": "ポーション頼みで生き延びます！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2494,9 +2508,10 @@
             "seriesId": "189-60",
             "title": "異世界でもふもふなでなでするためにがんばってます。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2619,11 +2634,9 @@
         {
             "seriesId": "189-73",
             "title": "来世は他人がいい",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2830,9 +2843,11 @@
         {
             "seriesId": "19-140",
             "title": "暗殺教室",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2959,9 +2974,10 @@
             "seriesId": "19-174",
             "title": "薬屋のひとりごと",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3728,10 +3744,9 @@
             "seriesId": "194-35",
             "title": "デキる猫は今日も憂鬱",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3972,6 +3987,16 @@
         {
             "seriesId": "2-18",
             "title": "超速スピナー",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "2-22",
+            "title": "ポケットモンスター（2019）",
             "label": {
                 "free": true
             },
@@ -4635,16 +4660,6 @@
             ]
         },
         {
-            "seriesId": "218-792",
-            "title": "NBCユニバーサル AnimeJapan 2025 スペシャルステージ",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "221-276",
             "title": "青の祓魔師 特別授業 -オルタナヴェルト大解剖-",
             "label": {
@@ -4652,14 +4667,6 @@
             },
             "onDemandTypes": [
                 3
-            ]
-        },
-        {
-            "seriesId": "221-295",
-            "title": "WIND BREAKER ポトス クリスマスパーティー",
-            "label": {},
-            "onDemandTypes": [
-                1
             ]
         },
         {
@@ -5214,9 +5221,10 @@
             "seriesId": "25-23aagrwux-zi",
             "title": "のんのんびより",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5464,10 +5472,9 @@
             "seriesId": "25-268",
             "title": "義妹生活",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5475,10 +5482,9 @@
             "seriesId": "25-269",
             "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5508,10 +5514,9 @@
             "seriesId": "25-272",
             "title": "健全ロボ ダイミダラー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5573,9 +5578,10 @@
             "seriesId": "25-278",
             "title": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5715,9 +5721,10 @@
             "seriesId": "25-43zr98hyeb55",
             "title": "NEW GAME!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6020,9 +6027,10 @@
             "seriesId": "26-191",
             "title": "UniteUp! -Uni:Birth-",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6421,10 +6429,9 @@
             "seriesId": "273-528",
             "title": "すとぷりのHere!We!GO!!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6589,10 +6596,9 @@
             "seriesId": "35-21jawjxfkwuj",
             "title": "ジャングルはいつもハレのちグゥ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7376,10 +7382,9 @@
             "seriesId": "5-73",
             "title": "魔法つかいプリキュア！！～MIRAI DAYS～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7584,10 +7589,10 @@
             "seriesId": "54-102",
             "title": "勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -7941,9 +7946,10 @@
             "seriesId": "560-3",
             "title": "全修。",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7984,10 +7990,9 @@
             "seriesId": "564-12",
             "title": "ダンジョンの中のひと",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8057,9 +8062,10 @@
             "seriesId": "568-32",
             "title": "チ。 ―地球の運動について―",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8213,12 +8219,9 @@
         {
             "seriesId": "622-4",
             "title": "0歳児スタートダッシュ物語",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -8478,9 +8481,10 @@
             "seriesId": "675-4",
             "title": "誰ソ彼ホテル",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
