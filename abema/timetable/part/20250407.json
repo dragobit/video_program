@@ -1,6 +1,6 @@
 {
-    "pubAt": 1743465704,
-    "pubDate": "2025040109",
+    "pubAt": 1743552087,
+    "pubDate": "2025040209",
     "slots": {
         "abema-anime": [
             {
@@ -17,13 +17,15 @@
                     "recommendation": true
                 },
                 "flags": {
+                    "timeshift": true,
                     "chasePlay": true,
                     "archiveComment": true,
                     "disableTrim": true
                 },
+                "timeshiftEndAt": 1744038000,
                 "broadcastRegionPolicies": {
-                    "linear": 0,
-                    "timeshift": 0
+                    "linear": 1,
+                    "timeshift": 1
                 },
                 "displaySeriesId": "26-75",
                 "content": "時は大正。竈門炭治郎は、家族とともに山でつつましくも幸せな日々をおくっていた。\nある日、町で炭を売りに出かけた炭治郎が山に戻ると、家族は鬼に襲われ血だまりの中で絶命していた。\n唯一、一命をとりとめていた妹・禰豆子を救うべく、降りしきる雪の中背中に背負い必死に雪山を下りる炭治郎。\nその途中、禰豆子は突然唸り声を上げ、炭治郎に襲いかかる。",
@@ -930,7 +932,101 @@
                 ]
             }
         ],
-        "family-anime-2": [],
+        "family-anime-2": [
+            {
+                "id": "AUGD4kS8f3jPdH",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #180〜186【無料ビデオ1週間】",
+                "startAt": 1743944400,
+                "endAt": 1743957000,
+                "tableStartAt": 1743944400,
+                "tableEndAt": 1743957000,
+                "highlight": "名探偵コナン #180〜186",
+                "displayProgramId": "415-5_s5_p180",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746622800,
+                "timeshiftFreeEndAt": 1744561800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "音楽産業グループの会長の妻に不気味な脅迫状が送られてくるという。脅迫状には、極秘に進めている日本人シャンソン歌手・ジェラール天馬の日本デビューの契約をかねて開く内輪のパーティーで事件が起こることが暗示されている。小五郎と蘭、コナンは会長の知り合いの家族と偽ってパーティーに潜入することになるが…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AUGD7mnCfnbefH",
+                "channelId": "family-anime-2",
+                "title": "マッハGoGoGo('97年版) #17〜20【無料ビデオ1週間】",
+                "startAt": 1743957000,
+                "endAt": 1743964200,
+                "tableStartAt": 1743957000,
+                "tableEndAt": 1743964200,
+                "highlight": "マッハGoGoGo('97年版) #17〜20",
+                "displayProgramId": "19-216_s1_p17",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746635400,
+                "timeshiftFreeEndAt": 1744569000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-216",
+                "content": "覆面レーサーＸとクラッシャーキッドがイーストブロックの予選通過を果たし、後は残る一人・剛を待つ状態となっていた。しかし、エクセリオンは打倒マッハ号の切り札として、アルバトロスはマッハ号を模倣して開発されたマシーンで、その性能はオリジナルを凌駕していたのだ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "CYgBu72GXSgKfu",
+                "channelId": "family-anime-2",
+                "title": "マッハGoGoGo('97年版) #17〜20【無料ビデオ1週間】",
+                "startAt": 1743964200,
+                "endAt": 1743971400,
+                "tableStartAt": 1743964200,
+                "tableEndAt": 1743971400,
+                "highlight": "マッハGoGoGo('97年版) #17〜20",
+                "displayProgramId": "19-216_s1_p17",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746642600,
+                "timeshiftFreeEndAt": 1744576200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-216",
+                "content": "覆面レーサーＸとクラッシャーキッドがイーストブロックの予選通過を果たし、後は残る一人・剛を待つ状態となっていた。しかし、エクセリオンは打倒マッハ号の切り札として、アルバトロスはマッハ号を模倣して開発されたマシーンで、その性能はオリジナルを凌駕していたのだ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "80s-anime-1": [
             {
                 "id": "91YKfR1DZ5QbZZ",
