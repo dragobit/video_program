@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025040210",
+    "pubAt": "2025040310",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -69,9 +69,10 @@
             "seriesId": "11-24",
             "title": "ゴールデンカムイ（第二期）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -90,9 +91,10 @@
             "seriesId": "11-36",
             "title": "ゴールデンカムイ（第三期）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -198,9 +200,10 @@
             "seriesId": "11-59",
             "title": "ささやくように恋を唄う",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -553,10 +556,9 @@
             "seriesId": "117-39",
             "title": "G-onらいだーす",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -596,9 +598,10 @@
             "seriesId": "117-6zrzjibaxzh",
             "title": "ご注文はうさぎですか？",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -929,9 +932,10 @@
             "seriesId": "143-49",
             "title": "多数欠",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1230,9 +1234,10 @@
             "seriesId": "168-32",
             "title": "私、能力は平均値でって言ったよね！",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1282,11 +1287,9 @@
         {
             "seriesId": "168-48",
             "title": "新劇場版 頭文字[イニシャル]D",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1839,10 +1842,9 @@
             "seriesId": "177-228",
             "title": "TVアニメ『レベル1だけどユニークスキルで最強です』",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2349,9 +2351,10 @@
             "seriesId": "189-64",
             "title": "お嬢と番犬くん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2395,9 +2398,11 @@
         {
             "seriesId": "189-69",
             "title": "グレンダイザーU",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2426,9 +2431,10 @@
             "seriesId": "189-72",
             "title": "メカウデ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3598,9 +3604,10 @@
             "seriesId": "194-42",
             "title": "さようなら竜生、こんにちは人生",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -3777,6 +3784,16 @@
         {
             "seriesId": "2-18",
             "title": "超速スピナー",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "2-21",
+            "title": "ポケットモンスター（1997）",
             "label": {
                 "free": true
             },
@@ -4427,10 +4444,9 @@
             "seriesId": "247-13",
             "title": "魔王城でおやすみ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5292,10 +5308,9 @@
             "seriesId": "25-280",
             "title": "戦隊レッド 異世界で冒険者になる",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5627,6 +5642,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "26-135",
+            "title": "中高一貫！！キメツ学園物語",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -6015,6 +6038,16 @@
             ]
         },
         {
+            "seriesId": "26-243",
+            "title": "日々は過ぎれど飯うまし",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "26-244",
             "title": "リコリス・リコイル Friends are thieves of time.",
             "label": {
@@ -6280,12 +6313,9 @@
         {
             "seriesId": "35-35",
             "title": "笑ゥせぇるすまん（89～93年）【ﾃﾞｼﾞﾀﾙﾘﾏｽﾀｰ版】",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -6731,9 +6761,10 @@
             "seriesId": "481-9",
             "title": "テクノロイド オーバーマインド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7071,10 +7102,9 @@
             "seriesId": "536-6",
             "title": "とんでもスキルで異世界放浪メシ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7207,10 +7237,9 @@
             "seriesId": "54-70",
             "title": "史上最強の大魔王、村人Aに転生する",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7240,9 +7269,10 @@
             "seriesId": "54-79",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。2",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7949,10 +7979,9 @@
             "seriesId": "675-1",
             "title": "オーイ！とんぼ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8002,10 +8031,10 @@
             "seriesId": "675-6",
             "title": "ユア・フォルマ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
