@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025040310",
+    "pubAt": "2025040410",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -178,11 +178,9 @@
         {
             "seriesId": "11-56",
             "title": "ゴールデンカムイ OAD",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -491,10 +489,9 @@
             "seriesId": "115-7yjdnebupe-",
             "title": "鬼灯の冷徹",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -764,6 +761,26 @@
             ]
         },
         {
+            "seriesId": "13-198",
+            "title": "ロックは淑女の嗜みでして",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
+            "seriesId": "13-199",
+            "title": "Summer Pockets",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "13-27uzkrexuzx2",
             "title": "Thunderbolt Fantasy 東離劍遊紀",
             "label": {
@@ -976,9 +993,10 @@
             "seriesId": "144-1smeznwkexx",
             "title": "侵略!イカ娘",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1544,10 +1562,10 @@
             "seriesId": "169-144",
             "title": "鬼人幻燈抄",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1569,9 +1587,11 @@
         {
             "seriesId": "169-147",
             "title": "沖縄で好きになった子が方言すぎてツラすぎる",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -1820,10 +1840,9 @@
             "seriesId": "174-6",
             "title": "俺の彼女と幼なじみが修羅場すぎる",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2246,9 +2265,10 @@
             "seriesId": "189-41",
             "title": "東京ミュウミュウ にゅ～♡",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2351,10 +2371,9 @@
             "seriesId": "189-64",
             "title": "お嬢と番犬くん",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3125,10 +3144,9 @@
             "seriesId": "19-219",
             "title": "どうせ、恋してしまうんだ。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3700,10 +3718,9 @@
             "seriesId": "198-13",
             "title": "不遇職【鑑定士】が実は最強だった",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4340,16 +4357,6 @@
             ]
         },
         {
-            "seriesId": "218-767",
-            "title": "TVアニメ「不遇職【鑑定士】が実は最強だった」スペシャル特番",
-            "label": {
-                "free": true
-            },
-            "onDemandTypes": [
-                3
-            ]
-        },
-        {
             "seriesId": "218-771",
             "title": "日本アニメトレンド大賞2024",
             "label": {
@@ -4423,9 +4430,10 @@
             "seriesId": "244-6",
             "title": "BanG Dream! It's MyGO!!!!!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4473,9 +4481,10 @@
             "seriesId": "247-20",
             "title": "きのこいぬ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4712,9 +4721,10 @@
             "seriesId": "25-139",
             "title": "Re:ゼロから始める異世界生活",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5298,9 +5308,10 @@
             "seriesId": "25-279",
             "title": "メダリスト",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5430,10 +5441,9 @@
             "seriesId": "25-43zr98hyeb55",
             "title": "NEW GAME!",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5483,9 +5493,10 @@
             "seriesId": "25-68",
             "title": "ロウきゅーぶ！SS",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5503,9 +5514,10 @@
             "seriesId": "25-7",
             "title": "Panty&Stocking with Garterbelt",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6230,9 +6242,10 @@
             "seriesId": "301-3",
             "title": "超時空要塞マクロス",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6261,9 +6274,10 @@
             "seriesId": "35-21jawjxfkwuj",
             "title": "ジャングルはいつもハレのちグゥ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6271,10 +6285,9 @@
             "seriesId": "35-22hnwbphuwmw",
             "title": "ゲームセンターあらし",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6491,6 +6504,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "415-11",
+            "title": "あらいぐま カルカル団",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -7216,9 +7237,10 @@
             "seriesId": "54-66",
             "title": "進化の実〜知らないうちに勝ち組人生〜",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7247,10 +7269,9 @@
             "seriesId": "54-74",
             "title": "黒の召喚士",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7605,9 +7626,10 @@
             "seriesId": "564-4",
             "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7989,9 +8011,10 @@
             "seriesId": "675-2",
             "title": "しかのこのこのここしたんたん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
