@@ -1,17 +1,2049 @@
 {
-    "pubAt": 1743724896,
-    "pubDate": "2025040409",
+    "pubAt": 1743814885,
+    "pubDate": "2025040510",
     "slots": {
-        "abema-anime": [],
-        "abema-anime-2": [],
-        "anime-special-2": [],
-        "isekai-anime": [],
-        "isekai-anime-2": [],
-        "isekai-anime-3": [],
-        "lovecomedy-anime": [],
-        "dailylife-anime": [],
-        "late-night-anime": [],
+        "abema-anime": [
+            {
+                "id": "AanCdGSbS9oniK",
+                "groupId": "ExnzyX4RwYtu7m",
+                "channelId": "abema-anime",
+                "title": "闇ヒーラー #2【地上波同時・WEB最速】",
+                "startAt": 1744295400,
+                "endAt": 1744297200,
+                "tableStartAt": 1744295400,
+                "tableEndAt": 1744297200,
+                "highlight": "闇ヒーラー #2",
+                "displayProgramId": "175-1rthzhecdme_s0_p49",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746973800,
+                "timeshiftFreeEndAt": 1744902000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "冒険者パーティから役立たずと言われ、追放された治癒師の青年ゼノス。\n貧民の生まれで、自己流の治癒魔法を使うゼノスは治癒師のライセンスも持たない。\n行く先をなくしたゼノスは瀕死のエルフの少女リリと出会い…\n貧民街の外れに開業した治療院を舞台に、無免許天才治癒師による無自覚最強ファンタジーが始まる―。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLWVqfWjrXuR",
+                "channelId": "abema-anime",
+                "title": "盾の勇者の成り上がり Season 3 #1・再放送【無料ビデオ2週間】",
+                "startAt": 1744297200,
+                "endAt": 1744299000,
+                "tableStartAt": 1744297200,
+                "tableEndAt": 1744299000,
+                "highlight": "盾の勇者の成り上がり Season 3 #1",
+                "displayProgramId": "25-109_s3_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746975600,
+                "timeshiftFreeEndAt": 1745508600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-109",
+                "content": "新たな四霊「鳳凰」の復活に備え、尚文は散り散りになったルロロナ村出身の亜人を取り戻そうとする。だが亜人の奴隷たちはある理由で買い占められていた。尚文は彼らを救うため、商人と傭兵の国ゼルトブルへ向かう。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AanCZwy6MDkZro",
+                "channelId": "abema-anime",
+                "title": "宇宙人ムームー #1・見逃し放送",
+                "startAt": 1744299000,
+                "endAt": 1744300800,
+                "tableStartAt": 1744299000,
+                "tableEndAt": 1744300800,
+                "highlight": "宇宙人ムームー #1",
+                "displayProgramId": "175-1rthzhecdme_s0_p83",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746977400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "遠い宇宙から地球にやってきた猫型異星人・ムームー。\nその目的は、自らの種族が失ったテクノロジーを取り戻すため、地球で家電の技術を学ぶこと。\n主人公・桜子の平凡な大学生活は、ムームーの登場で一変！\n予想外の同居が始まり、次々と起こる騒動に巻き込まれることに。\nムームーとの化学反応が巻き起こす、\nスーパースペクタクル×家電あれこれ×にゃんコメディ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AanCc4xYHXR7nP",
+                "channelId": "abema-anime",
+                "title": "愛重ダークエルフ+ミニアニメ #1・見逃し放送",
+                "startAt": 1744300800,
+                "endAt": 1744302600,
+                "tableStartAt": 1744300800,
+                "tableEndAt": 1744302600,
+                "highlight": "愛重ダークエルフ+ミニアニメ #1",
+                "displayProgramId": "175-1rthzhecdme_s0_p91",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746979200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "異世界に転移し、勇者となった春原日向。\nダークエルフのマリアベル、亜人族のメイ、神官のセシルと共についに魔王を討伐。役目を終えた日向は現世へと帰還を果たし元の生活に戻る、はずだったが……\nそれから1カ月、マリアベルが日向の住むマンションにやって来る。目的は日向と結ばれるため!?\n同級生の持田咲良も巻き込んで、ちょっとだけ（？）愛が重いマリアベルとの甘くて刺激的な逆異世界同棲ラブコメが幕を開ける！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CJLK1iLEXJP",
+                "channelId": "abema-anime",
+                "title": "ヤンキーハムスター シーズン2 #17〜26【無料ビデオ1週間】",
+                "startAt": 1744302600,
+                "endAt": 1744304100,
+                "tableStartAt": 1744302600,
+                "tableEndAt": 1744303680,
+                "highlight": "ヤンキーハムスター シーズン2 #17〜26",
+                "displayProgramId": "54-86_s2_p17",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746981000,
+                "timeshiftFreeEndAt": 1744908900,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-86",
+                "content": "このソファーで一番涼しい場所を見つけたヤツが一番エラい！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ah7rdMkKc4ggnj",
+                "groupId": "ExyLVEc8V1ZBHy",
+                "channelId": "abema-anime",
+                "title": "SHIBUYA♡HACHI #26【最新話】",
+                "startAt": 1744304100,
+                "endAt": 1744304280,
+                "tableStartAt": 1744303680,
+                "tableEndAt": 1744304280,
+                "highlight": "SHIBUYA♡HACHI #26",
+                "displayProgramId": "115-111_s1_p26",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982500,
+                "timeshiftFreeEndAt": 1744646640,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "115-111",
+                "content": "渋谷駅前のシンボル“忠犬ハチ公像“として、\nまちを見守り続けて来た“HACHI(ハチ)”が現代の渋谷で動き出す！\n\nミケ・ナナ・ハリー・クロといった\n渋谷に集まる愉快な仲間たちと繰り広げるユル〜く楽しい日常。\n\n“HACHI(ハチ)”の小さな冒険が、いま始まる！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AXXCrmfubSQ4mu",
+                "groupId": "9M4pa5dqYrSFpB",
+                "channelId": "abema-anime",
+                "title": "WIND BREAKER Season 2 #15【最新話】",
+                "startAt": 1744304280,
+                "endAt": 1744306080,
+                "tableStartAt": 1744304280,
+                "tableEndAt": 1744305600,
+                "highlight": "WIND BREAKER Season 2 #15",
+                "displayProgramId": "175-1rthzhecdme_s0_p51",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982680,
+                "timeshiftFreeEndAt": 1744910880,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "人を傷つける者、物を壊す者、悪意を持ち込む者\n何人も例外なくボウフウリンが粛清する――！\n\n偏差値は最底辺、ケンカは最強。超不良校として名高い、風鈴（ふうりん）高校。\nその「てっぺん」を獲るため、街の“外”からやってきた高校1年生・桜遥。\nしかし、現在の風鈴高校は“防風鈴”（ボウフウリン）と名付けられ街を守る集団となっていた。\n\n仲間や街の人々との触れ合いを通して、少しずつ「てっぺん」のあり方が変わり始めた桜。\n新たな仲間、新たな敵との出会い――\n級長として“守るために闘う”桜の英雄伝説、次なるステージへ！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLUgRe4TM7wD",
+                "channelId": "abema-anime",
+                "title": "ヤンキーハムスター シーズン2 #1【無料ビデオ1週間】",
+                "startAt": 1744306080,
+                "endAt": 1744306200,
+                "tableStartAt": 1744305600,
+                "tableEndAt": 1744306200,
+                "highlight": "ヤンキーハムスター シーズン2 #1",
+                "displayProgramId": "54-86_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746984480,
+                "timeshiftFreeEndAt": 1744911000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-86",
+                "content": "ヤンキーなのにハムスター。ハムスターなのにヤンキー。毛玉伝説が今はじまる。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC3uxBG3w43q",
+                "groupId": "ExnzxJBjtZXVEF",
+                "channelId": "abema-anime",
+                "title": "ロックは淑女の嗜みでして #2【最新話】",
+                "startAt": 1744306200,
+                "endAt": 1744308000,
+                "tableStartAt": 1744306200,
+                "tableEndAt": 1744308000,
+                "highlight": "ロックは淑女の嗜みでして #2",
+                "displayProgramId": "175-1rthzhecdme_s0_p54",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746984600,
+                "timeshiftFreeEndAt": 1744909200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "一流の淑女だけが在籍を許される「桜心女学園高等部」に通う鈴ノ宮りりさ。学園で最も栄誉と誇りある称号「高潔な乙女（ノーブルメイデン）」を手に入れるべく精進し、周囲からも一目置かれるほどのお嬢様だが、実は 一年前に母親の再婚で鈴ノ宮家に入った「元・庶民」だった。母親の期待に応えるため、本心を押し殺し、大好きだったロックやギターを捨て、お嬢様として振るまうりりさ。ある日、学園の憧れの的である黒鉄音羽と出会い、ひょんなことからドラムを叩く音羽を目撃し… 。お嬢様×ロック!? “本音”がぶつかる青春ロックアニメ、開幕！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AanCbm43bDmHkb",
+                "channelId": "abema-anime",
+                "title": "この恋で鼻血を止めて #2・見逃し放送",
+                "startAt": 1744308000,
+                "endAt": 1744309800,
+                "tableStartAt": 1744308000,
+                "tableEndAt": 1744309800,
+                "highlight": "この恋で鼻血を止めて #2",
+                "displayProgramId": "175-1rthzhecdme_s0_p25",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746986400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "時は未来。\nどこにでもいる平凡な女性のモカは刺激のない退屈な日々を送っていた。\nしかしある日、彼女が働くオフィスがエイリアンの戦いに巻き込まれてしまう。\nモカを助けたスーパー宇宙人のヤーセンだったが、\n彼が捕獲していた心原虫（しんげんちゅう）という寄生虫が誤ってモカに寄生してしまった。\nその虫に寄生された者は「退屈すると死んでしまう」という！\n\n日々死の脅威にさらされるモカと、彼女を救いたい不器用でまっすぐなヒーロー、\nヤーセンの運命は……！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AanCbT9mksE6hu",
+                "channelId": "abema-anime",
+                "title": "未ル　わたしのみらい #2・見逃し放送",
+                "startAt": 1744309800,
+                "endAt": 1744311600,
+                "tableStartAt": 1744309800,
+                "tableEndAt": 1744311600,
+                "highlight": "未ル　わたしのみらい #2",
+                "displayProgramId": "175-1rthzhecdme_s0_p44",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746988200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "5つのスタジオがオムニバス形式でお送りする\n新作オリジナルアニメ『未ル　わたしのみらい』。\n\nロボットと人間の出会いを描く物語。\n\n未来で生まれた武器を持たないロボット「MIRU」は、 時空を超えて、さまざまな時代の人々に寄り添う。\n 「MIRU」が出会うのは、異なる時代、場所で、苦悩しながらも懸命に生きる人々。\n\n人々は「MIRU」との出会いを通じて小さな一歩を踏み出す。\nその一歩が 「バタフライエフェクト※」のように大きな変化を生み、再生に向けた一歩になっていく。\n\n「未来は自分たちの手でつくれる」\nそんな思いを込めたアニメです。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLY2VAqpEhd1",
+                "channelId": "abema-anime",
+                "title": "Unnamed Memory #13〜24【無料ビデオ2週間】",
+                "startAt": 1744311600,
+                "endAt": 1744331400,
+                "tableStartAt": 1744311600,
+                "tableEndAt": 1744331400,
+                "highlight": "Unnamed Memory #13〜24",
+                "displayProgramId": "25-262_s1_p13",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746990000,
+                "timeshiftFreeEndAt": 1745541000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-262",
+                "content": "大国ファルサスの王太子・オスカーは、自らにかけられた呪いを解く手立てを求め、魔法大国トゥルダールを訪れる。案内された城の地下では、ティナーシャが長き眠りについていた……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLXREWYaNSTZ",
+                "channelId": "abema-anime",
+                "title": "Unnamed Memory #13〜24【無料ビデオ2週間】",
+                "startAt": 1744331400,
+                "endAt": 1744351200,
+                "tableStartAt": 1744331400,
+                "tableEndAt": 1744351200,
+                "highlight": "Unnamed Memory #13〜24",
+                "displayProgramId": "25-262_s1_p13",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747009800,
+                "timeshiftFreeEndAt": 1745560800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-262",
+                "content": "大国ファルサスの王太子・オスカーは、自らにかけられた呪いを解く手立てを求め、魔法大国トゥルダールを訪れる。案内された城の地下では、ティナーシャが長き眠りについていた……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLUNToJyVfMZ",
+                "channelId": "abema-anime",
+                "title": "BanG Dream! Ave Mujica #1〜13【無料ビデオ1週間】",
+                "startAt": 1744351200,
+                "endAt": 1744372500,
+                "tableStartAt": 1744351200,
+                "tableEndAt": 1744372200,
+                "highlight": "BanG Dream! Ave Mujica #1〜13",
+                "displayProgramId": "283-26_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747029600,
+                "timeshiftFreeEndAt": 1744977300,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "283-26",
+                "content": "発起人・祥子の采配により、Ave Mujicaの人気や評判は上々。\n次なる大舞台の成功に向け、祥子は完璧なステージを作り上げることに全身全霊を捧げる。\nしかし、バンドの方向性に不満を持つメンバーと不和が発生し――。\nそれぞれが異なった思惑を抱えたまま、舞台は幕を開ける。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AMbMor4mqajn3R",
+                "channelId": "abema-anime",
+                "title": "＜見どころ＞アニメ「ポケットモンスター」新章突入記念SP",
+                "startAt": 1744372500,
+                "endAt": 1744372800,
+                "tableStartAt": 1744372200,
+                "tableEndAt": 1744372800,
+                "highlight": "ポケットモンスター 新章突入記念SP",
+                "displayProgramId": "218-706_s1_p30000",
+                "mark": {},
+                "flags": {
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "218-706",
+                "content": "3/28（金）に放送した特別番組『アニメ「ポケットモンスター」新章突入記念SP！』の見どころをお届け！\nMCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲストにポケモン大好きサンシャイン池崎さん、高柳明音さんらが出演。\nさらに、アニメ「ポケットモンスター」メインキャストの、鈴木みのりさん（リコ役）と寺崎裕香さん（ロイ役）を迎え、 4月から始まる新章「メガボルテージ」の魅力をたっぷりと紹介！\nダブル主人公の2人がアニメ放送開始からこれまでを振り返り、思い出の名シーンを厳選して紹介するコーナーも実施。"
+            },
+            {
+                "id": "DW8odyMProtfS7",
+                "channelId": "abema-anime",
+                "title": "SHIBUYA ANIME BASE #43",
+                "startAt": 1744372800,
+                "endAt": 1744376400,
+                "tableStartAt": 1744372800,
+                "tableEndAt": 1744376400,
+                "highlight": "SHIBUYA ANIME BASE #43",
+                "displayProgramId": "175-1rthzhecdme_s0_p99",
+                "mark": {
+                    "live": true
+                },
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747051200,
+                "timeshiftFreeEndAt": 1747051200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "アニメ/ポップカルチャー情報番組。「ABEMA」の独占情報や、今知りたいアニメ・アニソン・ゲーム・漫画、そして最新鋭かつちょっとマニアックな“1週間のトピックス”をテーマにゲストたちが言いたい放題語りつくします。ほかにも関係者、声優を招いての激レアトークも！？金曜日の夜、アニメ/ポップカルチャーがもっと好きになる1時間を、渋谷よりお届けいたします。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CLSd47Nk26s",
+                "channelId": "abema-anime",
+                "title": "魔王軍最強の魔術師は人間だった #1・再放送【無料ビデオ1週間】",
+                "startAt": 1744376400,
+                "endAt": 1744378200,
+                "tableStartAt": 1744376400,
+                "tableEndAt": 1744378200,
+                "highlight": "魔王軍最強の魔術師は人間だった #1",
+                "displayProgramId": "169-143_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747054800,
+                "timeshiftFreeEndAt": 1744983000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "169-143",
+                "content": "人間と戦いを続ける魔王軍。その不死旅団の団長・アイクは、難攻不落といわれた交易都市を1週間で陥落させるほどの実力者だ。偉大な大魔術師ロンベルクの孫として多くの魔族から一目置かれるアイクだが、その正体は人間。バレたら大変と、正体を隠し通そうとするが……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9jnd1mHKohiBif",
+                "groupId": "A2AmWge6CTwnzK",
+                "channelId": "abema-anime",
+                "title": "男女の友情は成立する？（いや、しないっ!!） #2【地上波同時・WEB最速】",
+                "startAt": 1744378200,
+                "endAt": 1744380000,
+                "tableStartAt": 1744378200,
+                "tableEndAt": 1744380000,
+                "highlight": "だんじょる #2",
+                "displayProgramId": "175-1rthzhecdme_s0_p62",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747056600,
+                "timeshiftFreeEndAt": 1744984800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "とある田舎の中学校で、ある男女が永遠の友情を誓い合った。\n１つの夢に向かい運命共同体（しんゆう）となった二人の仲は――\n特に進展しないまま２年の歳月が過ぎる……！\n未だに初恋がこない陽キャ女子・犬塚日葵と、花を愛する植物系男子・夏目悠宇は、\n高校２年生になっても変わらず、二人だけの園芸部で平和に親友をやっていた。\nところが、悠宇が過去の初恋相手と再会したことで、突如二人の歯車が狂い出す!?　\n果たして恋を知った日葵は〈理想の友だち〉脱却なるか？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CM4Ro4RVRBV",
+                "groupId": "8XKbGV6k3StqrX",
+                "channelId": "abema-anime",
+                "title": "ポケットモンスター 新シリーズ #90〜91【最新話】",
+                "startAt": 1744380000,
+                "endAt": 1744383600,
+                "tableStartAt": 1744380000,
+                "tableEndAt": 1744383600,
+                "highlight": "アニポケ 新シリーズ #90〜91",
+                "displayProgramId": "175-1rthzhecdme_s0_p36",
+                "mark": {
+                    "newcomer": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747058400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "detailHighlight": "新しい冒険、見つけた！",
+                "content": "ポケットモンスター、縮めてポケモン。\nこの星の不思議な不思議な生き物。\n空、海、森、街の中と至る所でその姿を見ることができる。\n\n不思議なペンダントを持つパルデア出身の少女、リコ。\n謎のモンスターボールを持つカントー出身の少年、ロイ。\n\n広大なポケットモンスターの世界を舞台に\nリコとロイの新たな冒険が始まる！\nふたりを待ち受ける出会い、そして運命とは―！？\n\nこれは、冒険を通じて大事な何かを「見つける」物語。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "abema-anime-2": [
+            {
+                "id": "AvJhSVEXejeHUT",
+                "channelId": "abema-anime-2",
+                "title": "呪術廻戦 #14〜24【無料ビデオ1週間】",
+                "startAt": 1744279200,
+                "endAt": 1744299000,
+                "tableStartAt": 1744279200,
+                "tableEndAt": 1744299000,
+                "highlight": "呪術廻戦 #14〜24",
+                "displayProgramId": "536-1_s1_p14",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746957600,
+                "timeshiftFreeEndAt": 1744903800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "536-1",
+                "content": "虎杖たちから逃れた真人は、夏油らと合流し、あるプランを進めようとする。一方、呪術高専では“京都姉妹校交流会”が行われようとしていた。伏黒と釘崎、二年の真希、棘、パンダが集合するが、そこに東堂ら京都校の面々も到着。早速一触即発な空気の中、さらに遅れて五条が駆けつけあるサプライズを行う――。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "CYgBsGd1RG1SVu",
+                "channelId": "abema-anime-2",
+                "title": "姫様\"拷問\"の時間です #1〜12【無料ビデオ1週間】",
+                "startAt": 1744299000,
+                "endAt": 1744320600,
+                "tableStartAt": 1744299000,
+                "tableEndAt": 1744320600,
+                "highlight": "姫様\"拷問\"の時間です #1〜12",
+                "displayProgramId": "2-15_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1746977400,
+                "timeshiftFreeEndAt": 1744925400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "2-15",
+                "content": "国王軍と魔王軍が衝突をはじめ、幾年月。王女にして、国王軍第三騎士団“騎士団長”である姫は魔王軍によって囚われの身となっていた。魔王軍の最高位拷問官、トーチャー・トルチュールは、王国の秘密を聞き出すべく、姫への“拷問”を開始する。次々と繰り出される苛烈な“拷問”に屈することなく、姫は秘密を守り通す事が出来るのであろうか…？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLVHEyKVw3DH",
+                "channelId": "abema-anime-2",
+                "title": "姫様\"拷問\"の時間です #1〜12【無料ビデオ1週間】",
+                "startAt": 1744320600,
+                "endAt": 1744342200,
+                "tableStartAt": 1744320600,
+                "tableEndAt": 1744342200,
+                "highlight": "姫様\"拷問\"の時間です #1〜12",
+                "displayProgramId": "2-15_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1746999000,
+                "timeshiftFreeEndAt": 1744947000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "2-15",
+                "content": "国王軍と魔王軍が衝突をはじめ、幾年月。王女にして、国王軍第三騎士団“騎士団長”である姫は魔王軍によって囚われの身となっていた。魔王軍の最高位拷問官、トーチャー・トルチュールは、王国の秘密を聞き出すべく、姫への“拷問”を開始する。次々と繰り出される苛烈な“拷問”に屈することなく、姫は秘密を守り通す事が出来るのであろうか…？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLXQho76ffKM",
+                "channelId": "abema-anime-2",
+                "title": "東京リベンジャーズ【試し見#1 続きはABEMAビデオへ】",
+                "startAt": 1744342200,
+                "endAt": 1744344000,
+                "tableStartAt": 1744342200,
+                "tableEndAt": 1744344000,
+                "highlight": "東京リベンジャーズ #1",
+                "displayProgramId": "189-30_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747020600,
+                "timeshiftFreeEndAt": 1744948800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-30",
+                "content": "人生どん底のダメフリーターの花垣武道（タケミチ）は、中学時代に付き合っていた人生唯一の恋人橘日向（ヒナタ）が犯罪組織“東京卍會”の抗争に巻き込まれて死亡したことを知る。突然の悲報に驚きながらも変わらぬ日常を過ごすタケミチだったが、駅のホームで何者かに突き飛ばされて線路へ転落。迫り来る電車に死を覚悟したが、目を開けると何故か12年前にタイムリープしていたのだ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AvJhQMGqFn5HTm",
+                "channelId": "abema-anime-2",
+                "title": "呪術廻戦 #14〜24【無料ビデオ1週間】",
+                "startAt": 1744344000,
+                "endAt": 1744363800,
+                "tableStartAt": 1744344000,
+                "tableEndAt": 1744363800,
+                "highlight": "呪術廻戦 #14〜24",
+                "displayProgramId": "536-1_s1_p14",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747022400,
+                "timeshiftFreeEndAt": 1744968600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "536-1",
+                "content": "虎杖たちから逃れた真人は、夏油らと合流し、あるプランを進めようとする。一方、呪術高専では“京都姉妹校交流会”が行われようとしていた。伏黒と釘崎、二年の真希、棘、パンダが集合するが、そこに東堂ら京都校の面々も到着。早速一触即発な空気の中、さらに遅れて五条が駆けつけあるサプライズを行う――。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "EdLw3K6eayDpxo",
+                "channelId": "abema-anime-2",
+                "title": "呪術廻戦 #14〜24【無料ビデオ1週間】",
+                "startAt": 1744363800,
+                "endAt": 1744383600,
+                "tableStartAt": 1744363800,
+                "tableEndAt": 1744383600,
+                "highlight": "呪術廻戦 #14〜24",
+                "displayProgramId": "536-1_s1_p14",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747042200,
+                "timeshiftFreeEndAt": 1744988400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "536-1",
+                "content": "虎杖たちから逃れた真人は、夏油らと合流し、あるプランを進めようとする。一方、呪術高専では“京都姉妹校交流会”が行われようとしていた。伏黒と釘崎、二年の真希、棘、パンダが集合するが、そこに東堂ら京都校の面々も到着。早速一触即発な空気の中、さらに遅れて五条が駆けつけあるサプライズを行う――。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "anime-special-2": [
+            {
+                "id": "AdtMB11wLj14CP",
+                "channelId": "anime-special-2",
+                "title": "ドラゴンボール改 #88〜105【無料ビデオ1週間】",
+                "startAt": 1744282800,
+                "endAt": 1744311600,
+                "tableStartAt": 1744282800,
+                "tableEndAt": 1744311600,
+                "highlight": "ドラゴンボール改 88〜105",
+                "displayProgramId": "5-29_s1_p88",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746961200,
+                "timeshiftFreeEndAt": 1744916400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "5-29",
+                "content": "サタンが敗れ、いよいよ悟空とセルの闘いが始まる！　二人は開始直後から凄まじいバトルを繰り広げる。セルの強さを確認した悟空は、ついに真の力を解放することに！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtMqohzZzyVGT",
+                "channelId": "anime-special-2",
+                "title": "ドラゴンボール改 #106〜123【無料ビデオ1週間】",
+                "startAt": 1744311600,
+                "endAt": 1744340400,
+                "tableStartAt": 1744311600,
+                "tableEndAt": 1744340400,
+                "highlight": "ドラゴンボール改 #106〜123",
+                "displayProgramId": "5-29_s1_p106",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746990000,
+                "timeshiftFreeEndAt": 1744945200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "5-29",
+                "content": "スポポビッチの容赦ない攻撃でビーデルはボロボロに。悟飯が救出のため乱入しようとするが、寸前でビーデルは場外負けとなる。続く第四試合で悟飯は対戦相手のキビトから超サイヤ人になれと言われ変身する。そこへヤムーとスポポビッチが乱入。吸引器で悟飯のエネルギーを吸収したヤムーたちは逃亡する！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtNWcQ3oGwvLX",
+                "channelId": "anime-special-2",
+                "title": "ドラゴンボール改 #106〜123【無料ビデオ1週間】",
+                "startAt": 1744340400,
+                "endAt": 1744369200,
+                "tableStartAt": 1744340400,
+                "tableEndAt": 1744369200,
+                "highlight": "ドラゴンボール改 #106〜123",
+                "displayProgramId": "5-29_s1_p106",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747018800,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "5-29",
+                "content": "スポポビッチの容赦ない攻撃でビーデルはボロボロに。悟飯が救出のため乱入しようとするが、寸前でビーデルは場外負けとなる。続く第四試合で悟飯は対戦相手のキビトから超サイヤ人になれと言われ変身する。そこへヤムーとスポポビッチが乱入。吸引器で悟飯のエネルギーを吸収したヤムーたちは逃亡する！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLWVuj5HdxMV",
+                "channelId": "anime-special-2",
+                "title": "ドラゴンボール改 #106〜123【無料ビデオ1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744398000,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744398000,
+                "highlight": "ドラゴンボール改 #106〜123",
+                "displayProgramId": "5-29_s1_p106",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1745002800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "5-29",
+                "content": "スポポビッチの容赦ない攻撃でビーデルはボロボロに。悟飯が救出のため乱入しようとするが、寸前でビーデルは場外負けとなる。続く第四試合で悟飯は対戦相手のキビトから超サイヤ人になれと言われ変身する。そこへヤムーとスポポビッチが乱入。吸引器で悟飯のエネルギーを吸収したヤムーたちは逃亡する！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "isekai-anime": [
+            {
+                "id": "CYgBto67tL4by1",
+                "channelId": "isekai-anime",
+                "title": "外れスキル《木の実マスター》 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744282500,
+                "endAt": 1744304100,
+                "tableStartAt": 1744282500,
+                "tableEndAt": 1744304100,
+                "highlight": "外れスキル《木の実マスター》 #1〜12",
+                "displayProgramId": "194-45_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746960900,
+                "timeshiftFreeEndAt": 1744908900,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "194-45",
+                "content": "冒険者を夢見るライトは、特別な能力を授かるためスキルの実を食べる。しかし、得たのは戦闘に向かない外れスキル《木の実マスター》だった。スキルの実は2つ目を食べると死んでしまう。やり直せないライトは仕方なく木の実農家に。一方、幼なじみのレーナは《剣聖》のスキルを授かり、冒険者デビューを飾る。ある夜、ライトは誤って2つ目のスキルの実を食べてしまい…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "C6akH6frB83KdH",
+                "channelId": "isekai-anime",
+                "title": "骸骨騎士様、只今異世界へお出掛け中 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744304100,
+                "endAt": 1744325700,
+                "tableStartAt": 1744304100,
+                "tableEndAt": 1744325700,
+                "highlight": "骸骨騎士様 #1〜12",
+                "displayProgramId": "54-69_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982500,
+                "timeshiftFreeEndAt": 1744930500,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-69",
+                "content": "MMORPGプレイ中に寝落ちし、目覚めるとゲームキャラの姿で異世界にいたアーク。全身に鎧を纏ったその姿は一見すると騎士のようだが、中身はモンスターにしか見えない“骸骨姿”であった。目立たず過ごすことを決意したアークは、傭兵になるために獣と魔獣の討伐試験に挑む。しかし、盗賊が貴族の少女たちを襲っている場面に出くわしてしまい──。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AUGD53seFDWSUP",
+                "channelId": "isekai-anime",
+                "title": "骸骨騎士様、只今異世界へお出掛け中 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744325700,
+                "endAt": 1744347600,
+                "tableStartAt": 1744325700,
+                "tableEndAt": 1744347600,
+                "highlight": "骸骨騎士様 #1〜12",
+                "displayProgramId": "54-69_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747004100,
+                "timeshiftFreeEndAt": 1744952400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-69",
+                "content": "MMORPGプレイ中に寝落ちし、目覚めるとゲームキャラの姿で異世界にいたアーク。全身に鎧を纏ったその姿は一見すると騎士のようだが、中身はモンスターにしか見えない“骸骨姿”であった。目立たず過ごすことを決意したアークは、傭兵になるために獣と魔獣の討伐試験に挑む。しかし、盗賊が貴族の少女たちを襲っている場面に出くわしてしまい──。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9QCS5RuqbJNeKZ",
+                "channelId": "isekai-anime",
+                "title": "ハズレ枠の【状態異常スキル】で最強 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744347600,
+                "endAt": 1744369200,
+                "tableStartAt": 1744347600,
+                "tableEndAt": 1744369200,
+                "highlight": "ハズレ枠 #1〜12",
+                "displayProgramId": "189-68_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747026000,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-68",
+                "content": "修学旅行の移動中。２年C組のバスは突然白い光に包まれる。C組の教師と生徒は女神ヴィシスによって異世界に召喚されてしまったのだ。\n女神の目的は、彼らを勇者として育て、大魔帝を倒すこと。女神の持つ水晶で次々に能力を鑑定され選別されて、歓迎されるクラスメイトたち。\nだが、三森灯河だけは最低ランクのE級判定……いわゆるハズレ勇者の烙印を押されてしまう。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AUGD5xZyCppWHd",
+                "channelId": "isekai-anime",
+                "title": "転生したら第七王子だったので、気ままに魔術を極めます #1〜12【無料72時間】",
+                "startAt": 1744369200,
+                "endAt": 1744390800,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744390800,
+                "highlight": "第七王子 #1〜12",
+                "displayProgramId": "420-66_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1744650000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "420-66",
+                "content": "才能に恵まれず息絶えた男は、魔術の血統と才能に恵まれたサルーム王国の第七王子・ロイドに転生。そんなある日、封印書庫へ潜り込み、禁書の魔人を目覚めさせてしまう…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "isekai-anime-2": [
+            {
+                "id": "9jnffU4w9SZgTH",
+                "channelId": "isekai-anime-2",
+                "title": "アラフォー男の異世界通販 #1〜13【無料ビデオ2週間】",
+                "startAt": 1744282800,
+                "endAt": 1744304400,
+                "tableStartAt": 1744282800,
+                "tableEndAt": 1744304400,
+                "highlight": "アラフォー男の異世界通販 #1〜13",
+                "displayProgramId": "175-1rthzhecdme_s0_p22",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746961200,
+                "timeshiftFreeEndAt": 1745514000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "アラフォーの独身男・ケンイチは、突如として異世界に転移してしまう。\nわけもわからず危険な森をさまよう中で、\n巨大ネット通販サイト「シャングリ・ラ」が使えることに気づく。\nそれは異世界のアイテムを換金し、現代日本の商品を購入できる“チート能力”だった！\n能力を駆使して商売を始めたケンイチは、瞬く間に商人として頭角を現していく。\n「目指すは、異世界でのスローライフ！」\n街はずれの森で自由気ままな自給自足の生活を送ろうとするが……。\n才気溢れるケンイチに惹かれた少女たちが押し寄せ、\nさらには次々とトラブルに巻き込まれ――\nアラフォー男は、念願のスローライフを実現できるのか!?\n異世界ファンタジーここに開幕！！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CJKPmSsBmGT",
+                "channelId": "isekai-anime-2",
+                "title": "アラフォー男の異世界通販 #1〜13【無料ビデオ2週間】",
+                "startAt": 1744304400,
+                "endAt": 1744325700,
+                "tableStartAt": 1744304400,
+                "tableEndAt": 1744325700,
+                "highlight": "アラフォー男の異世界通販 #1〜13",
+                "displayProgramId": "175-1rthzhecdme_s0_p22",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982800,
+                "timeshiftFreeEndAt": 1745535300,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "アラフォーの独身男・ケンイチは、突如として異世界に転移してしまう。\nわけもわからず危険な森をさまよう中で、\n巨大ネット通販サイト「シャングリ・ラ」が使えることに気づく。\nそれは異世界のアイテムを換金し、現代日本の商品を購入できる“チート能力”だった！\n能力を駆使して商売を始めたケンイチは、瞬く間に商人として頭角を現していく。\n「目指すは、異世界でのスローライフ！」\n街はずれの森で自由気ままな自給自足の生活を送ろうとするが……。\n才気溢れるケンイチに惹かれた少女たちが押し寄せ、\nさらには次々とトラブルに巻き込まれ――\nアラフォー男は、念願のスローライフを実現できるのか!?\n異世界ファンタジーここに開幕！！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC4ESruNjqYT",
+                "channelId": "isekai-anime-2",
+                "title": "最果てのパラディン #1〜12【無料ビデオ1週間】",
+                "startAt": 1744325700,
+                "endAt": 1744347300,
+                "tableStartAt": 1744325700,
+                "tableEndAt": 1744347300,
+                "highlight": "最果てのパラディン #1〜12",
+                "displayProgramId": "54-64_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747004100,
+                "timeshiftFreeEndAt": 1744952100,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-64",
+                "content": "死者の街と呼ばれる辺境の地で、少年ウィルは三人の不死者（アンデッド）に育てられていた。愛情を一身に受け健やかに育つウィルだが、自分以外にこの地に住んでいる人間はいない。なぜ自分はここにいるのか、そして三人がひた隠しにする秘密とは何なのか。そんな疑問を抱くようになるが、彼自身にも秘密があり…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC5SMM6DRtdD",
+                "channelId": "isekai-anime-2",
+                "title": "アラフォー男の異世界通販 #1〜13【無料ビデオ2週間】",
+                "startAt": 1744347300,
+                "endAt": 1744369200,
+                "tableStartAt": 1744347300,
+                "tableEndAt": 1744369200,
+                "highlight": "アラフォー男の異世界通販 #1〜13",
+                "displayProgramId": "175-1rthzhecdme_s0_p22",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747025700,
+                "timeshiftFreeEndAt": 1745578800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "175-1rthzhecdme",
+                "content": "アラフォーの独身男・ケンイチは、突如として異世界に転移してしまう。\nわけもわからず危険な森をさまよう中で、\n巨大ネット通販サイト「シャングリ・ラ」が使えることに気づく。\nそれは異世界のアイテムを換金し、現代日本の商品を購入できる“チート能力”だった！\n能力を駆使して商売を始めたケンイチは、瞬く間に商人として頭角を現していく。\n「目指すは、異世界でのスローライフ！」\n街はずれの森で自由気ままな自給自足の生活を送ろうとするが……。\n才気溢れるケンイチに惹かれた少女たちが押し寄せ、\nさらには次々とトラブルに巻き込まれ――\nアラフォー男は、念願のスローライフを実現できるのか!?\n異世界ファンタジーここに開幕！！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "9jnczYtZCBHHQB",
+                "channelId": "isekai-anime-2",
+                "title": "不遇職【鑑定士】が実は最強だった #1〜12【無料ビデオ1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744390800,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744390800,
+                "highlight": "ふぐ鑑 #1〜12",
+                "displayProgramId": "198-13_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1744995600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "198-13",
+                "content": "鑑定士のアインはパーティの仲間であるゾイドとジョリーンとダンジョンを探索していた。ふたりはアインに重い荷物を背負わせた上、『ゴミ拾い』呼ばわりしている。不遇職の『鑑定士』である自分はそんな扱いを受けても仕方ないと諦めているのだった。そんな中、ヘル･ハウンドの群れに襲われるアイン達。ゾイドとジョリーンはアインを犠牲にして逃げてしまう。絶体絶命になるアイン！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "isekai-anime-3": [
+            {
+                "id": "AanDvAFEQVRR7d",
+                "channelId": "isekai-anime-3",
+                "title": "悪役令嬢転生おじさん #1〜12【無料ビデオ1週間】",
+                "startAt": 1744282800,
+                "endAt": 1744304400,
+                "tableStartAt": 1744282800,
+                "tableEndAt": 1744304400,
+                "highlight": "悪役令嬢転生おじさん #1〜12",
+                "displayProgramId": "593-11_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746961200,
+                "timeshiftFreeEndAt": 1744909200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "593-11",
+                "content": "52歳の真面目な公務員、屯田林憲三郎。彼は交通事故で死んだ……。はずだったのだが、なぜか乙女ゲーム「マジカル学園ラブ＆ビースト」の世界に転生し、ゲームに登場する悪役令嬢、グレイス・オーヴェルヌとして生きていくことに。公爵令嬢という前世と大きなギャップがある“転生先”に持ち前の社会人スキルで早々に順応していくグレイス＝憲三郎。そして転生したからには、本来のグレイスと同じように悪役令嬢としての役目を果たそうと決意する。そんな矢先、ついつい親目線の優しい発言をしてしまい……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLX6zqmceood",
+                "channelId": "isekai-anime-3",
+                "title": "悪役令嬢転生おじさん #1〜12【無料ビデオ1週間】",
+                "startAt": 1744304400,
+                "endAt": 1744326000,
+                "tableStartAt": 1744304400,
+                "tableEndAt": 1744326000,
+                "highlight": "悪役令嬢転生おじさん #1〜12",
+                "displayProgramId": "593-11_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982800,
+                "timeshiftFreeEndAt": 1744930800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "593-11",
+                "content": "52歳の真面目な公務員、屯田林憲三郎。彼は交通事故で死んだ……。はずだったのだが、なぜか乙女ゲーム「マジカル学園ラブ＆ビースト」の世界に転生し、ゲームに登場する悪役令嬢、グレイス・オーヴェルヌとして生きていくことに。公爵令嬢という前世と大きなギャップがある“転生先”に持ち前の社会人スキルで早々に順応していくグレイス＝憲三郎。そして転生したからには、本来のグレイスと同じように悪役令嬢としての役目を果たそうと決意する。そんな矢先、ついつい親目線の優しい発言をしてしまい……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLXisNA5kdh9",
+                "channelId": "isekai-anime-3",
+                "title": "悪役令嬢転生おじさん #1〜12【無料ビデオ1週間】",
+                "startAt": 1744326000,
+                "endAt": 1744347600,
+                "tableStartAt": 1744326000,
+                "tableEndAt": 1744347600,
+                "highlight": "悪役令嬢転生おじさん #1〜12",
+                "displayProgramId": "593-11_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747004400,
+                "timeshiftFreeEndAt": 1744952400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "593-11",
+                "content": "52歳の真面目な公務員、屯田林憲三郎。彼は交通事故で死んだ……。はずだったのだが、なぜか乙女ゲーム「マジカル学園ラブ＆ビースト」の世界に転生し、ゲームに登場する悪役令嬢、グレイス・オーヴェルヌとして生きていくことに。公爵令嬢という前世と大きなギャップがある“転生先”に持ち前の社会人スキルで早々に順応していくグレイス＝憲三郎。そして転生したからには、本来のグレイスと同じように悪役令嬢としての役目を果たそうと決意する。そんな矢先、ついつい親目線の優しい発言をしてしまい……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AanDFf92944KGj",
+                "channelId": "isekai-anime-3",
+                "title": "月が導く異世界道中 第二幕 #13〜25【無料ビデオ1週間】",
+                "startAt": 1744347600,
+                "endAt": 1744369200,
+                "tableStartAt": 1744347600,
+                "tableEndAt": 1744369200,
+                "highlight": "月が導く異世界道中 第二幕 #13〜25",
+                "displayProgramId": "54-60_s2_p13",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747026000,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-60",
+                "content": "街をあげた一大行事・学園祭の開催が迫ったある日。女神を信仰する神殿の準司祭・シナイが真のもとにやって来る。急遽、設けられた話し合いの場で、クズノハ商会が販売する薬に関して良くない噂が流れていることを伝えるシナイ。さらに彼は薬の製法を神殿に明かせば噂の払拭に協力することを約束するという。その提案に真は……。 それから数日後、文化祭がスタート。前日、夜遅くまでお店の準備をしていた真は、初日から寝坊をしてしまい！？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AanDvTq5NL2kLo",
+                "channelId": "isekai-anime-3",
+                "title": "シャングリラ・フロンティア 2nd Season #26～50【無料1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744412400,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744412400,
+                "highlight": "シャンフロ 2期 #26～50",
+                "displayProgramId": "632-3_s2_p26",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1745017200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "632-3",
+                "content": "ビィラックの育成に必要な「魔力運用ユニット」を求めて、サンラクたちは「去栄の残骸遺道」に向かう。しかし、サンラクたちの行く手を神代の頃に作られたゴーレムが立ちはだかる。サンラクとエムルがゴーレムに立ち向かおうと思った矢先、その横をアラミースが駆け抜けた…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "lovecomedy-anime": [
+            {
+                "id": "B9BrZPZvYv9dMy",
+                "channelId": "lovecomedy-anime",
+                "title": "カノジョも彼女 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744282800,
+                "endAt": 1744304400,
+                "tableStartAt": 1744282800,
+                "tableEndAt": 1744304400,
+                "highlight": "カノジョも彼女 #1〜12",
+                "displayProgramId": "11-38_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746961200,
+                "timeshiftFreeEndAt": 1744909200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-38",
+                "content": "高校一年生の向井直也は、小学一年生の頃から、幼馴染の女の子・佐⽊咲に毎月告白し、高校に入って、やっとOKをもらい付き合いはじめた。\n幸せの絶頂にいる直也だったが、ある日、彼の前に⽔瀬渚という美少女が現れる。気立てがよく、頑張り屋さんで、料理上手な彼女はいきなり、直也に付き合ってほしいと迫るのだった。渚のあまりのいい⼈ぶりに⼼が揺れる直也は、咲と渚を引き合わせ、ある提案を持ちかけて…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "B9BsECFynC84S3",
+                "channelId": "lovecomedy-anime",
+                "title": "這いよれ！ニャル子さんW #1〜12【無料ビデオ1週間】",
+                "startAt": 1744304400,
+                "endAt": 1744326000,
+                "tableStartAt": 1744304400,
+                "tableEndAt": 1744326000,
+                "highlight": "這いよれ！ニャル子さんW #1〜12",
+                "displayProgramId": "174-2_s0_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982800,
+                "timeshiftFreeEndAt": 1744930800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "174-1",
+                "content": "ごく普通の高校生・八坂真尋の家に居候するクトゥルー神話の邪神、ニャルラトホテプのニャル子、クトゥグアのクー子、ハスターのハス太は、今日も地球のエンタメをガッツリ堪能。ゲームに買い物にコスプレに、真尋をムリヤリ連れ回して……。『怒涛のハイテンション混沌コメディ』魅力をダブルに詰め込んで、あなたのもとへ這いよります！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "B9BpZH5bpvqfNw",
+                "channelId": "lovecomedy-anime",
+                "title": "カノジョも彼女 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744326000,
+                "endAt": 1744347600,
+                "tableStartAt": 1744326000,
+                "tableEndAt": 1744347600,
+                "highlight": "カノジョも彼女 #1〜12",
+                "displayProgramId": "11-38_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747004400,
+                "timeshiftFreeEndAt": 1744952400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-38",
+                "content": "高校一年生の向井直也は、小学一年生の頃から、幼馴染の女の子・佐⽊咲に毎月告白し、高校に入って、やっとOKをもらい付き合いはじめた。\n幸せの絶頂にいる直也だったが、ある日、彼の前に⽔瀬渚という美少女が現れる。気立てがよく、頑張り屋さんで、料理上手な彼女はいきなり、直也に付き合ってほしいと迫るのだった。渚のあまりのいい⼈ぶりに⼼が揺れる直也は、咲と渚を引き合わせ、ある提案を持ちかけて…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "B9BqE5mf4Cp6T1",
+                "channelId": "lovecomedy-anime",
+                "title": "イジらないで、長瀞さん 2nd Attack #1〜12【無料ビデオ1週間】",
+                "startAt": 1744347600,
+                "endAt": 1744369200,
+                "tableStartAt": 1744347600,
+                "tableEndAt": 1744369200,
+                "highlight": "イジらないで、長瀞さん 2nd Attack",
+                "displayProgramId": "115-91_s2_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747026000,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "115-91",
+                "content": "センパイはあいもかわらず、読んでいるマンガをイジられたり、女子への声の掛け方をレクチャーされたり、はたまたタイツを無理やり履かされたりと長瀞に翻弄されている。\nそんななか、長瀞に誘われたセンパイは、フレンズたち囲まれて文化祭の打ち上げに参戦することに……！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "B9BqttTiHUnXX5",
+                "channelId": "lovecomedy-anime",
+                "title": "TVアニメ「カノジョも彼女」Season 2 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744390800,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744390800,
+                "highlight": "TVアニメ「カノジョも彼女」Season 2",
+                "displayProgramId": "11-38_s2_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1744995600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-38",
+                "content": "夏休みを目前に、夏を満喫しようと旅行の計画を立てる直也、咲、渚。\n期末テストの結果によっては、夏休みに補習を受けなければいけないとわかり猛勉強を開始する。\n勉強が苦手な渚は、要領が悪いながらも勤勉な直也に勉強を教わるがなかなかうまくいかない。\nそこで成績学年1位の、咲の親友・紫乃に頼み込み家庭教師になってもらう。密かに直也に思いを寄せる紫乃は、直也と咲と渚が3人で住んでいると知りある提案をする…！",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "dailylife-anime": [
+            {
+                "id": "Ae3CKERniGQMkB",
+                "channelId": "dailylife-anime",
+                "title": "女子高生の無駄づかい #1〜12【無料ビデオ2週間】",
+                "startAt": 1744282200,
+                "endAt": 1744303500,
+                "tableStartAt": 1744282200,
+                "tableEndAt": 1744303500,
+                "highlight": "女子高生の無駄づかい #1〜12",
+                "displayProgramId": "25-118_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746960600,
+                "timeshiftFreeEndAt": 1745513100,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-118",
+                "content": "かつてとあることをきっかけに何となく疎遠になってしまっていた田中、菊池、鷺宮の三人は、偶然にも同じ高校に進学したことによって再会を果たす。久しぶりに会う旧友を前に、ぎこちなさを隠せない菊池だったが、昔と何一つ変わらない田中と鷺宮のやりとりを見ているうちに、自然とツッコミを入れてしまう。クラス分けでも同じクラスになった三人は、そのまま入学式に出るが、途中から何やら落ち着かない様子の田中。入学式を終えて、教室へと向かう途中で、田中は取り返しのつかない失敗をしてしまったと話し始める。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC6f65Fb54CP",
+                "channelId": "dailylife-anime",
+                "title": "ヤンキーハムスター #76〜79【無料ビデオ1週間】",
+                "startAt": 1744303500,
+                "endAt": 1744304100,
+                "tableStartAt": 1744303500,
+                "tableEndAt": 1744304100,
+                "highlight": "ヤンキーハムスター #76〜79",
+                "displayProgramId": "54-86_s1_p76",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746981900,
+                "timeshiftFreeEndAt": 1744908900,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "54-86",
+                "content": "換気口の前あっちい！よし、ここで我慢大会だ。あぁー。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC3d1LNf5G15",
+                "channelId": "dailylife-anime",
+                "title": "ガヴリールドロップアウト #1〜12【無料ビデオ2週間】",
+                "startAt": 1744304100,
+                "endAt": 1744325700,
+                "tableStartAt": 1744304100,
+                "tableEndAt": 1744325700,
+                "highlight": "ガヴリールドロップアウト #1〜12",
+                "displayProgramId": "25-47_s0_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982500,
+                "timeshiftFreeEndAt": 1745535300,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-47",
+                "content": "ガヴリールは品行方正でとっても優秀な天使。天使学校を首席で卒業した彼女は、人間の事を学び、さらに立派な天使になるために人間界にやってきました。毎日、公園の掃除を行ったり子供たちの遊び相手になったり、善い行いをしながら人間の学校に通っています。ある日、宿題を終えてひと息ついていると、パソコンの中から助けを呼ぶ声が聞こえてきました。それは人間界の遊戯、ネットゲーム。運命の出会いを果たしてしまったガヴリールは・・・。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC8A5deV9ZQj",
+                "channelId": "dailylife-anime",
+                "title": "菜なれ花なれ #1〜12【無料ビデオ1週間】",
+                "startAt": 1744325700,
+                "endAt": 1744347300,
+                "tableStartAt": 1744325700,
+                "tableEndAt": 1744347300,
+                "highlight": "菜なれ花なれ #1〜12",
+                "displayProgramId": "194-41_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747004100,
+                "timeshiftFreeEndAt": 1744952100,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "194-41",
+                "content": "鷹ノ咲高校チアリーディング部に所属する美空かなたは大会中の事故をきっかけに飛べなくなってしまう。ある日の朝、重々しくため息をつきながら歩くかなたの前に屋根や壁を自由自在に跳び回る少女・小父内涼葉が現れる。宙を駆け回る姿に心を奪われたかなたは思わず涼葉を追って走り出す。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJDPEPSqD289D",
+                "channelId": "dailylife-anime",
+                "title": "ガヴリールドロップアウト #1〜12【無料ビデオ2週間】",
+                "startAt": 1744347300,
+                "endAt": 1744369200,
+                "tableStartAt": 1744347300,
+                "tableEndAt": 1744369200,
+                "highlight": "ガヴリールドロップアウト #1〜12",
+                "displayProgramId": "25-47_s0_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747025700,
+                "timeshiftFreeEndAt": 1745578800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-47",
+                "content": "ガヴリールは品行方正でとっても優秀な天使。天使学校を首席で卒業した彼女は、人間の事を学び、さらに立派な天使になるために人間界にやってきました。毎日、公園の掃除を行ったり子供たちの遊び相手になったり、善い行いをしながら人間の学校に通っています。ある日、宿題を終えてひと息ついていると、パソコンの中から助けを呼ぶ声が聞こえてきました。それは人間界の遊戯、ネットゲーム。運命の出会いを果たしてしまったガヴリールは・・・。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJE435W4UzZDH",
+                "channelId": "dailylife-anime",
+                "title": "空色ユーティリティ #1〜12【無料ビデオ1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744390800,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744390800,
+                "highlight": "空色ユーティリティ #1〜12",
+                "displayProgramId": "189-79_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1744995600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "189-79",
+                "content": "高校生の青羽美波は、大好きだったゲームのサービス終了をきっかけに、自分が『特別』になれる何かを見つけるべく奮闘中。色々な部活に体験入部してみたり、学校の外へと探しに行くものの、なかなか主人公にはなれそうにない。そんなとき、偶然助けたおじいちゃんに連れられてたどり着いたのはなじみのないゴルフ練習場だった。美波は練習をしている一人の女の子に目を奪われ、思わず中へと足を踏み入れていく……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "late-night-anime": [
+            {
+                "id": "AhJC6MGk5vhMq1",
+                "channelId": "late-night-anime",
+                "title": "serial experiments lain #1〜13【無料ビデオ1週間】",
+                "startAt": 1744282800,
+                "endAt": 1744304400,
+                "tableStartAt": 1744282800,
+                "tableEndAt": 1744304400,
+                "highlight": "serial experiments lain #1〜13",
+                "displayProgramId": "11-58_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746025200,
+                "timeshiftFreeEndAt": 1744909200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-58",
+                "content": "自殺した生徒からメールが届く。面白半分・恐さ半分で学校中の話題になっていた。人づきあいが苦手な玲音はこの日初めて数少ない友人・ありす達から聞かされ、それを知った。帰宅後、玲音は自分の部屋にある、まれにしか開くことのないNAVIを立ち上げる。はたして、そこには自殺した生徒・千砂からのメールが来ていた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AXXEsV8La8u3FV",
+                "channelId": "late-night-anime",
+                "title": "怪異と乙女と神隠し #1〜12【無料ビデオ1週間】",
+                "startAt": 1744304400,
+                "endAt": 1744326000,
+                "tableStartAt": 1744304400,
+                "tableEndAt": 1744326000,
+                "highlight": "怪異と乙女と神隠し #1〜12",
+                "displayProgramId": "25-261_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982800,
+                "timeshiftFreeEndAt": 1744930800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-261",
+                "content": "閑古鳥が鳴くみどり書店で、今日も仕事と不毛な無駄話に勤しむ菫子と化野。\nそこへ現れた店長は、明日が誕生日の菫子に“逆万引きの本”を渡す。\nいつ、誰が置いていったのか分からない、出所不明な不気味な本。\n深夜0時を過ぎ、28歳になった菫子はふと、その本を読んでしまうのだが……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AXXCsNe1r9b5GT",
+                "channelId": "late-night-anime",
+                "title": "serial experiments lain #1〜13【無料ビデオ1週間】",
+                "startAt": 1744326000,
+                "endAt": 1744347600,
+                "tableStartAt": 1744326000,
+                "tableEndAt": 1744347600,
+                "highlight": "serial experiments lain #1〜13",
+                "displayProgramId": "11-58_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746025200,
+                "timeshiftFreeEndAt": 1744952400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-58",
+                "content": "自殺した生徒からメールが届く。面白半分・恐さ半分で学校中の話題になっていた。人づきあいが苦手な玲音はこの日初めて数少ない友人・ありす達から聞かされ、それを知った。帰宅後、玲音は自分の部屋にある、まれにしか開くことのないNAVIを立ち上げる。はたして、そこには自殺した生徒・千砂からのメールが来ていた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AXXDYBL55RZWLX",
+                "channelId": "late-night-anime",
+                "title": "怪異と乙女と神隠し #1〜12【無料ビデオ1週間】",
+                "startAt": 1744347600,
+                "endAt": 1744369200,
+                "tableStartAt": 1744347600,
+                "tableEndAt": 1744369200,
+                "highlight": "怪異と乙女と神隠し #1〜12",
+                "displayProgramId": "25-261_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747026000,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-261",
+                "content": "閑古鳥が鳴くみどり書店で、今日も仕事と不毛な無駄話に勤しむ菫子と化野。\nそこへ現れた店長は、明日が誕生日の菫子に“逆万引きの本”を渡す。\nいつ、誰が置いていったのか分からない、出所不明な不気味な本。\n深夜0時を過ぎ、28歳になった菫子はふと、その本を読んでしまうのだが……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AXXECz28JhXwQb",
+                "channelId": "late-night-anime",
+                "title": "メダリスト #1〜13【無料ビデオ2週間】",
+                "startAt": 1744369200,
+                "endAt": 1744390800,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744390800,
+                "highlight": "メダリスト #1〜13",
+                "displayProgramId": "25-279_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1745600400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-279",
+                "content": "元フィギュアスケート選手の明浦路司は、\nスケートを独学で学ぶ少女・結束いのりと出会う。\n司はいのりに正式なクラブへ入ることを薦めるが、彼女の母親は\n不器用な娘にスケートを諦めさせることを望んでいた……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
         "anime-live": [
+            {
+                "id": "AdtLWCcNWSAh3M",
+                "channelId": "anime-live",
+                "title": "聖者無双 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744295400,
+                "endAt": 1744317000,
+                "tableStartAt": 1744295400,
+                "tableEndAt": 1744317000,
+                "highlight": "聖者無双 #1〜12",
+                "displayProgramId": "11-50_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746973800,
+                "timeshiftFreeEndAt": 1744921800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-50",
+                "content": "出世を目前に凶弾に倒れたサラリーマンは、気が付くと15歳・ジョブ「治癒士」のルシエルとして異世界に転生していた。「絶対に寿命で老衰する！」という決意を胸に、新たな人生をスタートさせたルシエル。前世で培った営業スキルを活かし女性聖騎士隊隊長・ルミナに治癒士ギルドへ案内をしてもらうが、まだ治癒魔法が使えないルシエルは10日間のスパルタ訓練を受けることに…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CNGKYGBdCTq",
+                "channelId": "anime-live",
+                "title": "スーパーウィングス ミッションチーム #9〜10【無料ビデオ1週間】",
+                "startAt": 1744317000,
+                "endAt": 1744318800,
+                "tableStartAt": 1744317000,
+                "tableEndAt": 1744318800,
+                "highlight": "ミッションチーム #9〜10",
+                "displayProgramId": "19-90_s2_p9",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746995400,
+                "timeshiftFreeEndAt": 1744923600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-90",
+                "content": "今日の荷物のお届け先はカンボジアのソリナという女の子。ソリナはお父さん、お母さんと一緒にカモをたくさん飼っている。届け物はカモの群れをあやつるためのカモ笛だった。\nカモたちを別の田んぼにつれていくために、カモ笛を使ってカモたちをトラックに乗せて走り出したが、途中で荷台の扉が開いてカモたちは脱走してしまった。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC3cRpMnQPFM",
+                "channelId": "anime-live",
+                "title": "しまじろうのわお！ 2015 #193〜205",
+                "startAt": 1744318800,
+                "endAt": 1744324500,
+                "tableStartAt": 1744318800,
+                "tableEndAt": 1744324500,
+                "highlight": "しまじろうのわお！ 2015 #193〜205",
+                "displayProgramId": "19-234_s1_p193",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746997200,
+                "timeshiftFreeEndAt": 1746997200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-234",
+                "content": "「しまじろう」と愉快な仲間たちが「ちゃれんじ島」で展開する、冒険あり、ファンタジーありの物語。日常生活で起こる様々な出来事、行動を通して、たくさんのことを学んでいきます。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC5SkdnwZ7rF",
+                "channelId": "anime-live",
+                "title": "スーパーウィングス ミッションチーム #11〜12【無料ビデオ1週間】",
+                "startAt": 1744324500,
+                "endAt": 1744326000,
+                "tableStartAt": 1744324500,
+                "tableEndAt": 1744326000,
+                "highlight": "ミッションチーム #11〜12",
+                "displayProgramId": "19-90_s2_p11",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747002900,
+                "timeshiftFreeEndAt": 1744930800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-90",
+                "content": "今回のお届け先はドイツのトリーアに住むルイーサ。ルイーサは遊園地にあるジェットコースターのウルフが大好き。ジェットを連れて遊園地に向かうと、老朽化で客足が減ってしまい閉鎖になっていた。ウルフもすっかり古びて、速く走れなくなってしまっていた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLYdScKxtebq",
+                "channelId": "anime-live",
+                "title": "聖者無双 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744326000,
+                "endAt": 1744347600,
+                "tableStartAt": 1744326000,
+                "tableEndAt": 1744347600,
+                "highlight": "聖者無双 #1〜12",
+                "displayProgramId": "11-50_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747004400,
+                "timeshiftFreeEndAt": 1744952400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-50",
+                "content": "出世を目前に凶弾に倒れたサラリーマンは、気が付くと15歳・ジョブ「治癒士」のルシエルとして異世界に転生していた。「絶対に寿命で老衰する！」という決意を胸に、新たな人生をスタートさせたルシエル。前世で培った営業スキルを活かし女性聖騎士隊隊長・ルミナに治癒士ギルドへ案内をしてもらうが、まだ治癒魔法が使えないルシエルは10日間のスパルタ訓練を受けることに…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC5jXP1DLees",
+                "channelId": "anime-live",
+                "title": "聖者無双 #1〜12【無料ビデオ1週間】",
+                "startAt": 1744347600,
+                "endAt": 1744369020,
+                "tableStartAt": 1744347600,
+                "tableEndAt": 1744368600,
+                "highlight": "聖者無双 #1〜12",
+                "displayProgramId": "11-50_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747026000,
+                "timeshiftFreeEndAt": 1744973820,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "11-50",
+                "content": "出世を目前に凶弾に倒れたサラリーマンは、気が付くと15歳・ジョブ「治癒士」のルシエルとして異世界に転生していた。「絶対に寿命で老衰する！」という決意を胸に、新たな人生をスタートさせたルシエル。前世で培った営業スキルを活かし女性聖騎士隊隊長・ルミナに治癒士ギルドへ案内をしてもらうが、まだ治癒魔法が使えないルシエルは10日間のスパルタ訓練を受けることに…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
             {
                 "id": "DW8ohbb7hYkcJK",
                 "channelId": "anime-live",
@@ -42,12 +2074,1257 @@
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
+            },
+            {
+                "id": "Ae3CJKU8qsa4Th",
+                "channelId": "anime-live",
+                "title": "終末トレインどこへいく？【試し見#1 続きはABEMAビデオへ】",
+                "startAt": 1744381800,
+                "endAt": 1744383600,
+                "tableStartAt": 1744381800,
+                "tableEndAt": 1744383600,
+                "highlight": "終末トレインどこへいく？ #1",
+                "displayProgramId": "25-260_s1_p1",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747060200,
+                "timeshiftFreeEndAt": 1744988400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "25-260",
+                "content": "埼玉県にある吾野駅。住民たちにとある異変が起きてしまったこの田舎町で、高校生の静留は日々を過ごしていた。ある日、町に届いた荷物の中に、静留がずっと探していた親友の手がかりを見つけ……。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
             }
         ],
         "family-anime-1": [],
-        "family-anime-2": [],
-        "80s-anime-1": [],
-        "90s-anime-1": [],
-        "00s-anime-1": []
+        "family-anime-2": [
+            {
+                "id": "AdtLVbSbWenW7R",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #132〜134【無料ビデオ1週間】",
+                "startAt": 1744292580,
+                "endAt": 1744298520,
+                "tableStartAt": 1744292580,
+                "tableEndAt": 1744298520,
+                "highlight": "名探偵コナン #132〜134",
+                "displayProgramId": "415-5_s4_p132",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746970980,
+                "timeshiftFreeEndAt": 1744903320,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "園子がインターネットでアクセスしている「奇術愛好家連盟」の集まりが雪の山中にあるロッジで開催された。蘭も園子と一緒に参加することになり、小五郎とコナンは車で二人を送っていく。その帰り道、カーラジオのニュースで蘭が参加している集まりのリーダーが自宅で殺されたことを知り、あわててロッジに引き返すが…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC7FsvCLJBou",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #138〜139【無料ビデオ1週間】",
+                "startAt": 1744298520,
+                "endAt": 1744302540,
+                "tableStartAt": 1744298520,
+                "tableEndAt": 1744302540,
+                "highlight": "名探偵コナン #138〜139",
+                "displayProgramId": "415-5_s4_p138",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746976920,
+                "timeshiftFreeEndAt": 1744907340,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "小学校の創立記念日にコナンと、哀、歩美、元太、光彦の5人は、リバイバルの映画「大怪獣ゴメラ」を見に行く。この映画館は不動産屋の張田の嫌がらせで閉館に追い込まれ、今日が最後の上映だという。コナンも昔に戻って映画を楽しもうとするが、映画の上映中に首を吊った張田のシルエットがスクリーンに映し出される。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLVHMRCcN5AF",
+                "channelId": "family-anime-2",
+                "title": "マッハGoGoGo('97年版) #32〜34【無料ビデオ1週間】",
+                "startAt": 1744302540,
+                "endAt": 1744308000,
+                "tableStartAt": 1744302540,
+                "tableEndAt": 1744308000,
+                "highlight": "マッハGoGoGo('97年版) #32〜34",
+                "displayProgramId": "19-216_s1_p32",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746980940,
+                "timeshiftFreeEndAt": 1744912800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "19-216",
+                "content": "時空間を移動するエゼキエル・ホイールの影響で、現世と冥界の境が崩れた時代があった。その近未来の時代では事故で死亡したレーサーが車好きな若者を誘い、事故を誘ってとり殺していたのである。ホイールを探しにここへ訪れた剛も、幽霊の一人である少女・メアリーに見入られてしまった。メアリーの正体を知らない剛はレースの誘いを受けて、生気を失っていく。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC7YytYFHnUF",
+                "channelId": "family-anime-2",
+                "title": "ケシカスくん #11〜16【無料ビデオ1週間】",
+                "startAt": 1744308000,
+                "endAt": 1744311600,
+                "tableStartAt": 1744308000,
+                "tableEndAt": 1744311600,
+                "highlight": "ケシカスくん #11〜16",
+                "displayProgramId": "2-16_s1_p11",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1746986400,
+                "timeshiftFreeEndAt": 1744916400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "2-16",
+                "content": "ボウズが頑張って埋めたテストの解答を、全部消してしまったケシカスくん。\n自分がカス答者として１００点の答案を完成させるというが！？他4本",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLUgw86eW54B",
+                "channelId": "family-anime-2",
+                "title": "ケシカスくん #17〜21【無料ビデオ1週間】",
+                "startAt": 1744311600,
+                "endAt": 1744314600,
+                "tableStartAt": 1744311600,
+                "tableEndAt": 1744314600,
+                "highlight": "ケシカスくん #17〜21",
+                "displayProgramId": "2-16_s1_p17",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true,
+                    "disableTrim": true
+                },
+                "timeshiftEndAt": 1746990000,
+                "timeshiftFreeEndAt": 1744919400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "2-16",
+                "content": "風邪をひいてしまったケシカスくん。それでもケシをサボるわけにはいかないと頑張るが！？他4本",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CNsWQZSNoo5",
+                "channelId": "family-anime-2",
+                "title": "逆転イッパツマン #1〜4【無料ビデオ1週間】",
+                "startAt": 1744314600,
+                "endAt": 1744321800,
+                "tableStartAt": 1744314600,
+                "tableEndAt": 1744321800,
+                "highlight": "逆転イッパツマン #1〜4",
+                "displayProgramId": "19-218_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "19-218",
+                "content": "世界一のリース会社であるタイムリース社は、新事業として時間を超えて何でも届ける“タイム運搬”をスタートすることになった。その初仕事を任されたランたちは紀元前３世紀のエジプトへ。しかしライバル社であるシャレコーベリースのクリーン悪トリオの妨害工作によってピンチに陥ってしまう。その時、空の彼方から謎のヒーロー・イッパツマンが現れた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLUPJG9ayMEo",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #541 毛利小五郎セレクション【無料ビデオ1週間】",
+                "startAt": 1744321800,
+                "endAt": 1744323600,
+                "tableStartAt": 1744321800,
+                "tableEndAt": 1744323600,
+                "highlight": "名探偵コナン #541",
+                "displayProgramId": "415-5_s14_p541",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747000200,
+                "timeshiftFreeEndAt": 1744928400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "小五郎は衣笠殺害事件で無実の新井を犯人と疑い、自殺に追い込んだ責任を取り、看板を下ろす事に。蒲生が自殺した日、隣の住人が新井の声を聞いたのは午後８時頃。コナンはその時間が８時半以降なら新井の犯行が可能だと訴える。自分自身で事件を解決すれば小五郎が立ち直ると考えるコナンは事件を振り返り何かに気付く。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC7G1xG997FV",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #141〜149【無料ビデオ1週間】",
+                "startAt": 1744323600,
+                "endAt": 1744341000,
+                "tableStartAt": 1744323600,
+                "tableEndAt": 1744341000,
+                "highlight": "名探偵コナン #141〜149",
+                "displayProgramId": "415-5_s4_p141",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747002000,
+                "timeshiftFreeEndAt": 1744945800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "コナンのライバル、服部平次が結婚式に出席するため上京した。ガールフレンドの和葉と一緒に東京見物がしたいと、小五郎、コナン、蘭を呼び出す。結婚式で花嫁になる楓と、森園家の執事・重松に出会い、コナンたちと平次、和葉は森園家に招待される。豪華な食事を振る舞われた5人は、帰り際、殺人事件に遭遇する。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLU5B5rg7dc3",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #152【無料ビデオ1週間】",
+                "startAt": 1744341000,
+                "endAt": 1744342800,
+                "tableStartAt": 1744341000,
+                "tableEndAt": 1744342800,
+                "highlight": "名探偵コナン #152",
+                "displayProgramId": "415-5_s4_p152",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747019400,
+                "timeshiftFreeEndAt": 1744947600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "蘭がバスで知り合った老人が突然いなくなった。心配した蘭は老人を捜すが、その足取りは全くつかめない。同じバスで居眠りをしていた園子は最初からそんな老人はいなかった、蘭が寝ぼけたのだと決めつける。が、帰宅した蘭のポーチの中に見覚えのないMOが入っていた。コナンはMOの調査を阿笠博士に依頼するが…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC3veTET75My",
+                "channelId": "family-anime-2",
+                "title": "逆転イッパツマン #1〜4【無料ビデオ1週間】",
+                "startAt": 1744342800,
+                "endAt": 1744350000,
+                "tableStartAt": 1744342800,
+                "tableEndAt": 1744350000,
+                "highlight": "逆転イッパツマン #1〜4",
+                "displayProgramId": "19-218_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "19-218",
+                "content": "世界一のリース会社であるタイムリース社は、新事業として時間を超えて何でも届ける“タイム運搬”をスタートすることになった。その初仕事を任されたランたちは紀元前３世紀のエジプトへ。しかしライバル社であるシャレコーベリースのクリーン悪トリオの妨害工作によってピンチに陥ってしまう。その時、空の彼方から謎のヒーロー・イッパツマンが現れた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLYcy5oC8UfH",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #541 毛利小五郎セレクション【無料ビデオ1週間】",
+                "startAt": 1744350000,
+                "endAt": 1744351800,
+                "tableStartAt": 1744350000,
+                "tableEndAt": 1744351800,
+                "highlight": "名探偵コナン #541",
+                "displayProgramId": "415-5_s14_p541",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747028400,
+                "timeshiftFreeEndAt": 1744956600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "小五郎は衣笠殺害事件で無実の新井を犯人と疑い、自殺に追い込んだ責任を取り、看板を下ろす事に。蒲生が自殺した日、隣の住人が新井の声を聞いたのは午後８時頃。コナンはその時間が８時半以降なら新井の犯行が可能だと訴える。自分自身で事件を解決すれば小五郎が立ち直ると考えるコナンは事件を振り返り何かに気付く。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC4qW3StBqNX",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #141〜149【無料ビデオ1週間】",
+                "startAt": 1744351800,
+                "endAt": 1744369200,
+                "tableStartAt": 1744351800,
+                "tableEndAt": 1744369200,
+                "highlight": "名探偵コナン #141〜149",
+                "displayProgramId": "415-5_s4_p141",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747030200,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "コナンのライバル、服部平次が結婚式に出席するため上京した。ガールフレンドの和葉と一緒に東京見物がしたいと、小五郎、コナン、蘭を呼び出す。結婚式で花嫁になる楓と、森園家の執事・重松に出会い、コナンたちと平次、和葉は森園家に招待される。豪華な食事を振る舞われた5人は、帰り際、殺人事件に遭遇する。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CKYeS3mn3ks",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #152【無料ビデオ1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744371000,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744371000,
+                "highlight": "名探偵コナン #152",
+                "displayProgramId": "415-5_s4_p152",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1744975800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "蘭がバスで知り合った老人が突然いなくなった。心配した蘭は老人を捜すが、その足取りは全くつかめない。同じバスで居眠りをしていた園子は最初からそんな老人はいなかった、蘭が寝ぼけたのだと決めつける。が、帰宅した蘭のポーチの中に見覚えのないMOが入っていた。コナンはMOの調査を阿笠博士に依頼するが…。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CNs4SWKAWLw",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #589 毛利小五郎セレクション【無料ビデオ1週間】",
+                "startAt": 1744371000,
+                "endAt": 1744372800,
+                "tableStartAt": 1744371000,
+                "tableEndAt": 1744372800,
+                "highlight": "名探偵コナン #589",
+                "displayProgramId": "415-5_s15_p589",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747049400,
+                "timeshiftFreeEndAt": 1744977600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "10月10日の誕生日、英理が宿泊する部屋に依頼人の国分秋穂が現れる。夫の健彦とケンカしたという。秋穂はストーカー被害に遭い、明日は相手の親と示談交渉の予定だった。英理は秋穂を迎えに来て欲しいと健彦に連絡した後、レストランで小五郎たちとディナーを食べる。英理が部屋に戻ると、すでに秋穂の姿はなかった。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CLkMZotKx7h",
+                "channelId": "family-anime-2",
+                "title": "逆転イッパツマン #1〜4【無料ビデオ1週間】",
+                "startAt": 1744372800,
+                "endAt": 1744380000,
+                "tableStartAt": 1744372800,
+                "tableEndAt": 1744380000,
+                "highlight": "逆転イッパツマン #1〜4",
+                "displayProgramId": "19-218_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "broadcastRegionPolicies": {
+                    "linear": 0,
+                    "timeshift": 0
+                },
+                "displaySeriesId": "19-218",
+                "content": "世界一のリース会社であるタイムリース社は、新事業として時間を超えて何でも届ける“タイム運搬”をスタートすることになった。その初仕事を任されたランたちは紀元前３世紀のエジプトへ。しかしライバル社であるシャレコーベリースのクリーン悪トリオの妨害工作によってピンチに陥ってしまう。その時、空の彼方から謎のヒーロー・イッパツマンが現れた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC7ZKPgt7pLP",
+                "channelId": "family-anime-2",
+                "title": "名探偵コナン #141〜149【無料ビデオ1週間】",
+                "startAt": 1744380000,
+                "endAt": 1744397400,
+                "tableStartAt": 1744380000,
+                "tableEndAt": 1744397400,
+                "highlight": "名探偵コナン #141〜149",
+                "displayProgramId": "415-5_s4_p141",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747058400,
+                "timeshiftFreeEndAt": 1745002200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "415-5",
+                "content": "コナンのライバル、服部平次が結婚式に出席するため上京した。ガールフレンドの和葉と一緒に東京見物がしたいと、小五郎、コナン、蘭を呼び出す。結婚式で花嫁になる楓と、森園家の執事・重松に出会い、コナンたちと平次、和葉は森園家に招待される。豪華な食事を振る舞われた5人は、帰り際、殺人事件に遭遇する。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "80s-anime-1": [
+            {
+                "id": "Ae3CJL8CYGnFwu",
+                "channelId": "80s-anime-1",
+                "title": "美味しんぼ #43～54【無料ビデオ1週間】",
+                "startAt": 1744282800,
+                "endAt": 1744304400,
+                "tableStartAt": 1744282800,
+                "tableEndAt": 1744304400,
+                "highlight": "美味しんぼ #43～54",
+                "displayProgramId": "35-5_s0_p43",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746961200,
+                "timeshiftFreeEndAt": 1744909200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-5",
+                "content": "中国の陳副主席が希望する接待の場は”美食倶楽部”。しかし政治家嫌いの雄山は依頼に来た星村外務大臣を門前払い。困った星村は大原社主を頼るが良策がない。そこで士郎は周大人を訪ねる。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC6eyFpJqeLF",
+                "channelId": "80s-anime-1",
+                "title": "怪物くん #26～30【無料ビデオ1週間】",
+                "startAt": 1744304400,
+                "endAt": 1744311600,
+                "tableStartAt": 1744304400,
+                "tableEndAt": 1744311600,
+                "highlight": "怪物くん #26～30",
+                "displayProgramId": "35-6p-ykmmdmgj_s0_p26",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746982800,
+                "timeshiftFreeEndAt": 1744916400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-6p-ykmmdmgj",
+                "content": "『やってきた怪子ちゃん』…怪物くんの幼馴染、怪子ちゃんがやってきた。怪子ちゃんは怪物ランドの一級貴族であるゴーリキ公爵の一人娘なのだ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLVtkUSEQpAK",
+                "channelId": "80s-anime-1",
+                "title": "怪物くん #26～30【無料ビデオ1週間】",
+                "startAt": 1744311600,
+                "endAt": 1744318800,
+                "tableStartAt": 1744311600,
+                "tableEndAt": 1744318800,
+                "highlight": "怪物くん #26～30",
+                "displayProgramId": "35-6p-ykmmdmgj_s0_p26",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746990000,
+                "timeshiftFreeEndAt": 1744923600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-6p-ykmmdmgj",
+                "content": "『やってきた怪子ちゃん』…怪物くんの幼馴染、怪子ちゃんがやってきた。怪子ちゃんは怪物ランドの一級貴族であるゴーリキ公爵の一人娘なのだ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLY1eRspW9H9",
+                "channelId": "80s-anime-1",
+                "title": "美味しんぼ #55～66【無料ビデオ1週間】",
+                "startAt": 1744318800,
+                "endAt": 1744340400,
+                "tableStartAt": 1744318800,
+                "tableEndAt": 1744340400,
+                "highlight": "美味しんぼ #55～66",
+                "displayProgramId": "35-5_s0_p55",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746997200,
+                "timeshiftFreeEndAt": 1744945200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-5",
+                "content": "調理士見習の上田は仕事先の大衆食堂の主人のやる気のなさに嫌気がさして料理そのものへの興味をなくしていた。士郎はオムレツ専門店へ上田を誘い、女性シェフ花森の働く姿をみせる。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLU5VNGRBEis",
+                "channelId": "80s-anime-1",
+                "title": "怪物くん #26～30【無料ビデオ1週間】",
+                "startAt": 1744340400,
+                "endAt": 1744347600,
+                "tableStartAt": 1744340400,
+                "tableEndAt": 1744347600,
+                "highlight": "怪物くん #26～30",
+                "displayProgramId": "35-6p-ykmmdmgj_s0_p26",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747018800,
+                "timeshiftFreeEndAt": 1744952400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-6p-ykmmdmgj",
+                "content": "『やってきた怪子ちゃん』…怪物くんの幼馴染、怪子ちゃんがやってきた。怪子ちゃんは怪物ランドの一級貴族であるゴーリキ公爵の一人娘なのだ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC7ZCmsNJ1dZ",
+                "channelId": "80s-anime-1",
+                "title": "美味しんぼ #55～66【無料ビデオ1週間】",
+                "startAt": 1744347600,
+                "endAt": 1744369200,
+                "tableStartAt": 1744347600,
+                "tableEndAt": 1744369200,
+                "highlight": "美味しんぼ #55～66",
+                "displayProgramId": "35-5_s0_p55",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747026000,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-5",
+                "content": "調理士見習の上田は仕事先の大衆食堂の主人のやる気のなさに嫌気がさして料理そのものへの興味をなくしていた。士郎はオムレツ専門店へ上田を誘い、女性シェフ花森の働く姿をみせる。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC63PXkoi5yR",
+                "channelId": "80s-anime-1",
+                "title": "美味しんぼ #55～66【無料ビデオ1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744390800,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744390800,
+                "highlight": "美味しんぼ #55～66",
+                "displayProgramId": "35-5_s0_p55",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1744995600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "35-5",
+                "content": "調理士見習の上田は仕事先の大衆食堂の主人のやる気のなさに嫌気がさして料理そのものへの興味をなくしていた。士郎はオムレツ専門店へ上田を誘い、女性シェフ花森の働く姿をみせる。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "90s-anime-1": [
+            {
+                "id": "Ae3CJvyTFrSYib",
+                "channelId": "90s-anime-1",
+                "title": "こちら葛飾区亀有公園前派出所 #97〜104【無料ビデオ1週間】",
+                "startAt": 1744282800,
+                "endAt": 1744297800,
+                "tableStartAt": 1744282800,
+                "tableEndAt": 1744297800,
+                "highlight": "こち亀 #97〜104",
+                "displayProgramId": "203-2_s1_p97",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746961200,
+                "timeshiftFreeEndAt": 1744902600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "203-2",
+                "content": "ジョディーに下町を案内する両津たち、皆で銭湯へ行くことになった。ところが中川が銭湯の親父の行方不明の息子に似ているらしくて…",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC5junVKzwMR",
+                "channelId": "90s-anime-1",
+                "title": "クッキングパパ #48〜54【無料ビデオ1週間】",
+                "startAt": 1744297800,
+                "endAt": 1744311600,
+                "tableStartAt": 1744297800,
+                "tableEndAt": 1744311600,
+                "highlight": "クッキングパパ #48〜54",
+                "displayProgramId": "482-3_s1_p46",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746976200,
+                "timeshiftFreeEndAt": 1744916400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "482-3",
+                "content": "父ちゃんと母ちゃんの思い出の場所は菜の花畑。菜の花のポカポカ鍋で体も心もポッカポカ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AhJC7FURmjSK59",
+                "channelId": "90s-anime-1",
+                "title": "クッキングパパ #55〜62【無料ビデオ1週間】",
+                "startAt": 1744311600,
+                "endAt": 1744325400,
+                "tableStartAt": 1744311600,
+                "tableEndAt": 1744325400,
+                "highlight": "クッキングパパ #55〜62",
+                "displayProgramId": "482-3_s1_p53",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746990000,
+                "timeshiftFreeEndAt": 1744930200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "482-3",
+                "content": "みつぐ君が転校！？エツ！？田中兄ちゃんも？寂しくなるなぁ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CLSvYAKQAcw",
+                "channelId": "90s-anime-1",
+                "title": "こちら葛飾区亀有公園前派出所 #105〜112【無料ビデオ1週間】",
+                "startAt": 1744325400,
+                "endAt": 1744340400,
+                "tableStartAt": 1744325400,
+                "tableEndAt": 1744340400,
+                "highlight": "こち亀 #105〜112",
+                "displayProgramId": "203-2_s1_p105",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747003800,
+                "timeshiftFreeEndAt": 1744945200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "203-2",
+                "content": "毎年恒例商店街の面面とのボーナス争奪戦。今年から銀行振り込みになった両津は、かつしか署前で張り込む商店街の人々から逃れられたと一安心だが。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLWoHbJg3DZq",
+                "channelId": "90s-anime-1",
+                "title": "クッキングパパ #55〜62【無料ビデオ1週間】",
+                "startAt": 1744340400,
+                "endAt": 1744354200,
+                "tableStartAt": 1744340400,
+                "tableEndAt": 1744354200,
+                "highlight": "クッキングパパ #55〜62",
+                "displayProgramId": "482-3_s1_p53",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747018800,
+                "timeshiftFreeEndAt": 1744959000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "482-3",
+                "content": "みつぐ君が転校！？エツ！？田中兄ちゃんも？寂しくなるなぁ。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLWovwbFNwJf",
+                "channelId": "90s-anime-1",
+                "title": "こちら葛飾区亀有公園前派出所 #105〜112【無料ビデオ1週間】",
+                "startAt": 1744354200,
+                "endAt": 1744369200,
+                "tableStartAt": 1744354200,
+                "tableEndAt": 1744369200,
+                "highlight": "こち亀 #105〜112",
+                "displayProgramId": "203-2_s1_p105",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747032600,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "203-2",
+                "content": "毎年恒例商店街の面面とのボーナス争奪戦。今年から銀行振り込みになった両津は、かつしか署前で張り込む商店街の人々から逃れられたと一安心だが。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AdtLXQLKSdq9Ls",
+                "channelId": "90s-anime-1",
+                "title": "こちら葛飾区亀有公園前派出所 #105〜112【無料ビデオ1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744384200,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744384200,
+                "highlight": "こち亀 #105〜112",
+                "displayProgramId": "203-2_s1_p105",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1744989000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "203-2",
+                "content": "毎年恒例商店街の面面とのボーナス争奪戦。今年から銀行振り込みになった両津は、かつしか署前で張り込む商店街の人々から逃れられたと一安心だが。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ],
+        "00s-anime-1": [
+            {
+                "id": "C6akHhiXrrx9Rh",
+                "channelId": "00s-anime-1",
+                "title": "ロックマンエグゼBEAST #17〜25【無料ビデオ1週間】",
+                "startAt": 1744288200,
+                "endAt": 1744305540,
+                "tableStartAt": 1744288200,
+                "tableEndAt": 1744305540,
+                "highlight": "ロックマンエグゼBEAST #17〜25",
+                "displayProgramId": "168-67_s4_p17",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746966600,
+                "timeshiftFreeEndAt": 1744910340,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "168-67",
+                "content": "熱斗達を捜してビヨンダードの山中をさ迷うライカとディンゴの前に、仙人のような風体の老人が現れる。風の声を聞くことができ、熱斗の居所も知っているという老人を信用したライカ達だが、案内されて来たのは温泉街アミータ。お金も無いのに食堂で大量の料理を注文し、温泉を楽しむ老人のペースに巻き込まれ、ディンゴとライカは散々な目に遭う。\nそこに、アミータの町を牛耳るナルシーとビデオマンのコンビがやって来た。町の人を困らせるビデオマンをサーチマン、トマホークマンで撃退するライカとディンゴだが･･･",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DtvJEHbrUCQTqH",
+                "channelId": "00s-anime-1",
+                "title": "ロックマンエグゼBEAST＋ #1〜9【無料ビデオ1週間】",
+                "startAt": 1744305540,
+                "endAt": 1744311600,
+                "tableStartAt": 1744305540,
+                "tableEndAt": 1744311600,
+                "highlight": "ロックマンエグゼBEAST＋ #1〜9",
+                "displayProgramId": "168-67_s5_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746983940,
+                "timeshiftFreeEndAt": 1744916400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "168-67",
+                "content": "ビヨンダードから帰還した熱斗達は、これまでの生活を取り戻し平穏な日常を過ごしていた。が、それも束の間。ほどなくして植物状の電子データが実体化し、はびこるという奇怪な事件が発生する。調査を始めた祐一朗たちだが、続いて獣化ウイルスが実体化し人々を襲うという事態に発展。熱斗はクロスフュージョンして獣化ウイルスを倒すが、そこに一体のナビらしき人影が現れる。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DtvJDyss88fiTR",
+                "channelId": "00s-anime-1",
+                "title": "ロックマンエグゼBEAST＋ #10〜26【無料ビデオ1週間】",
+                "startAt": 1744311600,
+                "endAt": 1744323240,
+                "tableStartAt": 1744311600,
+                "tableEndAt": 1744323240,
+                "highlight": "ロックマンエグゼBEAST＋ #10〜26",
+                "displayProgramId": "168-67_s5_p10",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1746990000,
+                "timeshiftFreeEndAt": 1744928040,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "168-67",
+                "content": "ワイリーが隠し持っていたチップを使い、クロスフュージョンを試みたクロヒゲとチロルは早速大暴れ。更には散々な目に遭わされた熱斗とロックマンに仕返ししてやる、と熱斗の居場所を探して街をうろつく。その頃ダーク・ミヤビがワイリーに頼まれ熱斗の家を訪問していた。ミヤビは熱斗に、ワイリーのチップを持って姿を消したクロヒゲとチロルを探し出して欲しいと依頼してきた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "C6akGC8aRytFkK",
+                "channelId": "00s-anime-1",
+                "title": "流星のロックマン #1〜18【無料ビデオ1週間】",
+                "startAt": 1744323240,
+                "endAt": 1744335000,
+                "tableStartAt": 1744323240,
+                "tableEndAt": 1744335000,
+                "highlight": "流星のロックマン #1〜18",
+                "displayProgramId": "168-68_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747001640,
+                "timeshiftFreeEndAt": 1744939800,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "168-68",
+                "content": "電波によるテクノロジーが発達した未来。人類はその技術を利用し、遥か遠い異星の知的生命体とのコンタクト計画を進めていた。主人公、星河スバルは宇宙飛行士の父を持つ少年。ある時スバルの家に父の後輩・天地が訪ねてくる。天地が差し出したのは父、大吾が開発したというメガネ、ビジライザーだった。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "C6akJcXR978JEs",
+                "channelId": "00s-anime-1",
+                "title": "銀魂 4年目 #159〜161【無料ビデオ1週間】",
+                "startAt": 1744335000,
+                "endAt": 1744340400,
+                "tableStartAt": 1744335000,
+                "tableEndAt": 1744340400,
+                "highlight": "銀魂 4年目 #159〜161",
+                "displayProgramId": "13-12_s0_p9",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747013400,
+                "timeshiftFreeEndAt": 1744945200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-47",
+                "content": "お通ちゃん公式ファンクラブの座を目指す予選ロードレース。タカチンは重症だし、先頭を走っていたはずの神楽はルートを間違えるしと、新八チームは勝利から遠ざかっていく。一計を案じた銀時がタカチンを病院に担ぎ込み、瞬時に回復＆パワーアップ？させて戦線に復帰させる！ レースはさながら騙し合いの体をなして来たが、それでも必死にゴール目指してひた走る新八。果たして知将、トッシーに勝利できるのか!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DqfJXRNN1idS7q",
+                "channelId": "00s-anime-1",
+                "title": "ロックマンエグゼBEAST＋ #10〜26【無料ビデオ1週間】",
+                "startAt": 1744340400,
+                "endAt": 1744352040,
+                "tableStartAt": 1744340400,
+                "tableEndAt": 1744352040,
+                "highlight": "ロックマンエグゼBEAST＋ #10〜26",
+                "displayProgramId": "168-67_s5_p10",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747018800,
+                "timeshiftFreeEndAt": 1744956840,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "168-67",
+                "content": "ワイリーが隠し持っていたチップを使い、クロスフュージョンを試みたクロヒゲとチロルは早速大暴れ。更には散々な目に遭わされた熱斗とロックマンに仕返ししてやる、と熱斗の居場所を探して街をうろつく。その頃ダーク・ミヤビがワイリーに頼まれ熱斗の家を訪問していた。ミヤビは熱斗に、ワイリーのチップを持って姿を消したクロヒゲとチロルを探し出して欲しいと依頼してきた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DnN6JxQRXs4D35",
+                "channelId": "00s-anime-1",
+                "title": "流星のロックマン #1〜18【無料ビデオ1週間】",
+                "startAt": 1744352040,
+                "endAt": 1744363800,
+                "tableStartAt": 1744352040,
+                "tableEndAt": 1744363800,
+                "highlight": "流星のロックマン #1〜18",
+                "displayProgramId": "168-68_s1_p1",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747030440,
+                "timeshiftFreeEndAt": 1744968600,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "168-68",
+                "content": "電波によるテクノロジーが発達した未来。人類はその技術を利用し、遥か遠い異星の知的生命体とのコンタクト計画を進めていた。主人公、星河スバルは宇宙飛行士の父を持つ少年。ある時スバルの家に父の後輩・天地が訪ねてくる。天地が差し出したのは父、大吾が開発したというメガネ、ビジライザーだった。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "C6akJv6oUeHjnw",
+                "channelId": "00s-anime-1",
+                "title": "銀魂 4年目 #159〜161【無料ビデオ1週間】",
+                "startAt": 1744363800,
+                "endAt": 1744369200,
+                "tableStartAt": 1744363800,
+                "tableEndAt": 1744369200,
+                "highlight": "銀魂 4年目 #159〜161",
+                "displayProgramId": "13-12_s0_p9",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747042200,
+                "timeshiftFreeEndAt": 1744974000,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-47",
+                "content": "お通ちゃん公式ファンクラブの座を目指す予選ロードレース。タカチンは重症だし、先頭を走っていたはずの神楽はルートを間違えるしと、新八チームは勝利から遠ざかっていく。一計を案じた銀時がタカチンを病院に担ぎ込み、瞬時に回復＆パワーアップ？させて戦線に復帰させる！ レースはさながら騙し合いの体をなして来たが、それでも必死にゴール目指してひた走る新八。果たして知将、トッシーに勝利できるのか!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DqfJWoFQq219vF",
+                "channelId": "00s-anime-1",
+                "title": "銀魂 4年目 #159〜161【無料ビデオ1週間】",
+                "startAt": 1744369200,
+                "endAt": 1744374600,
+                "tableStartAt": 1744369200,
+                "tableEndAt": 1744374600,
+                "highlight": "銀魂 4年目 #159〜161",
+                "displayProgramId": "13-12_s0_p9",
+                "mark": {},
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747047600,
+                "timeshiftFreeEndAt": 1744979400,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "13-47",
+                "content": "お通ちゃん公式ファンクラブの座を目指す予選ロードレース。タカチンは重症だし、先頭を走っていたはずの神楽はルートを間違えるしと、新八チームは勝利から遠ざかっていく。一計を案じた銀時がタカチンを病院に担ぎ込み、瞬時に回復＆パワーアップ？させて戦線に復帰させる！ レースはさながら騙し合いの体をなして来たが、それでも必死にゴール目指してひた走る新八。果たして知将、トッシーに勝利できるのか!?",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "DnN6H99oubJdhR",
+                "channelId": "00s-anime-1",
+                "title": "ロックマンエグゼBEAST＋ #10〜26【無料ビデオ1週間】",
+                "startAt": 1744374600,
+                "endAt": 1744386240,
+                "tableStartAt": 1744374600,
+                "tableEndAt": 1744386240,
+                "highlight": "ロックマンエグゼBEAST＋ #10〜26",
+                "displayProgramId": "168-67_s5_p10",
+                "mark": {
+                    "bingeWatching": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1747053000,
+                "timeshiftFreeEndAt": 1744991040,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "168-67",
+                "content": "ワイリーが隠し持っていたチップを使い、クロスフュージョンを試みたクロヒゲとチロルは早速大暴れ。更には散々な目に遭わされた熱斗とロックマンに仕返ししてやる、と熱斗の居場所を探して街をうろつく。その頃ダーク・ミヤビがワイリーに頼まれ熱斗の家を訪問していた。ミヤビは熱斗に、ワイリーのチップを持って姿を消したクロヒゲとチロルを探し出して欲しいと依頼してきた。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            }
+        ]
     }
 }

@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025040410",
+    "pubAt": "2025040510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -48,9 +48,10 @@
             "seriesId": "11-15",
             "title": "ヨルムンガンド",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -157,10 +158,9 @@
             "seriesId": "11-53",
             "title": "冒険者になりたいと都に出て行った娘がSランクになってた",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -636,6 +636,14 @@
             ]
         },
         {
+            "seriesId": "13-115",
+            "title": "機動戦士ガンダムΖΖ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "13-120",
             "title": "機動武闘伝Ｇガンダム",
             "label": {},
@@ -646,9 +654,11 @@
         {
             "seriesId": "13-130",
             "title": "新機動戦記ガンダムW　Endless Waltz",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -811,6 +821,14 @@
             ]
         },
         {
+            "seriesId": "13-62",
+            "title": "機動戦士Ζガンダム",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "13-66",
             "title": "機動戦士ガンダムユニコーン RE:0096",
             "label": {},
@@ -851,9 +869,10 @@
             "seriesId": "13-81",
             "title": "シティーハンター2",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1627,10 +1646,9 @@
             "seriesId": "171-1",
             "title": "東京喰種トーキョーグール",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2199,10 +2217,9 @@
             "seriesId": "189-11",
             "title": "五等分の花嫁",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2350,9 +2367,10 @@
             "seriesId": "189-62",
             "title": "異世界のんびり農家",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2381,9 +2399,10 @@
             "seriesId": "189-65",
             "title": "疑似ハーレム",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2905,9 +2924,12 @@
         {
             "seriesId": "19-195",
             "title": "CLANNAD",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -3371,6 +3393,16 @@
             ]
         },
         {
+            "seriesId": "19-263",
+            "title": "ンめねこ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "19-34",
             "title": "Dr.STONE",
             "label": {
@@ -3420,10 +3452,9 @@
             "seriesId": "19-6",
             "title": "灰と幻想のグリムガル",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4259,12 +4290,9 @@
         {
             "seriesId": "218-707",
             "title": "鈴村健一のラジベース DUO",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -4410,10 +4438,10 @@
             "seriesId": "218-789",
             "title": "ボールパークでつかまえて！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -4547,10 +4575,9 @@
             "seriesId": "248-21",
             "title": "妖怪学校の先生はじめました！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5287,10 +5314,9 @@
             "seriesId": "25-277",
             "title": "マジック・メイカー　～異世界魔法の作り方～",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5619,10 +5645,9 @@
             "seriesId": "26-12",
             "title": "黒執事",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5649,10 +5674,9 @@
             "seriesId": "26-13",
             "title": "黒執事Ⅱ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6253,9 +6277,10 @@
             "seriesId": "301-4",
             "title": "マクロス7",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6523,6 +6548,14 @@
             "onDemandTypes": [
                 1,
                 3
+            ]
+        },
+        {
+            "seriesId": "415-8",
+            "title": "劇場版 名探偵コナン",
+            "label": {},
+            "onDemandTypes": [
+                1
             ]
         },
         {
@@ -7290,10 +7323,9 @@
             "seriesId": "54-79",
             "title": "痛いのは嫌なので防御力に極振りしたいと思います。2",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7476,10 +7508,9 @@
             "seriesId": "54-99",
             "title": "時空の隙",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7668,10 +7699,9 @@
             "seriesId": "593-10",
             "title": "ダンダダン",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7979,10 +8009,9 @@
             "seriesId": "656-3",
             "title": "日本へようこそエルフさん。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
