@@ -1,6 +1,6 @@
 {
-    "pubAt": 1743814885,
-    "pubDate": "2025040510",
+    "pubAt": 1743897682,
+    "pubDate": "2025040609",
     "slots": {
         "abema-anime": [
             {
@@ -421,6 +421,49 @@
                 },
                 "displaySeriesId": "560-3",
                 "content": "新進気鋭のアニメ監督、広瀬ナツ子は、初恋をテーマにした長編ラブコメ映画のコンテに取り掛かっていたが、初恋を経験したことがないナツ子は絵コンテが描けなくなる。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "AFEE6nKe6hkxjh",
+                "channelId": "abema-anime",
+                "title": "【冒頭無料】JOJODAY STAGE",
+                "startAt": 1744448400,
+                "endAt": 1744449600,
+                "tableStartAt": 1744448400,
+                "tableEndAt": 1744449600,
+                "highlight": "冒頭無料 JOJODAY STAGE",
+                "displayProgramId": "527-709_s100000_p1",
+                "mark": {
+                    "live": true,
+                    "recommendation": true
+                },
+                "flags": {
+                    "timeshift": true,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1745053200,
+                "timeshiftFreeEndAt": 1745053200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "527-709",
+                "detailHighlight": "「ジョジョの奇妙な冒険」アニメーションシリーズの「これまで」と「これから」を繋ぐファンイベントを特別に冒頭を無料配信！",
+                "content": "「ジョジョの奇妙な冒険」アニメーションシリーズの「これまで」と「これから」を繋ぐファンイベントをABEMAで独占生配信決定！\n\nさらに特別に冒頭を無料配信！",
+                "liveEventLinearFeedLink": {
+                    "linkText": "配信チケットを購入する",
+                    "link": "https://abema.tv/live-event/1de73cf3-8cf5-4d08-9d7a-7daf3af84d77",
+                    "image": {
+                        "urlPrefix": "https://image.p-c2-x.abema-tv.com/image/slots/AFEE6nKe6hkxjh/feedlinks",
+                        "filename": "dd2d4d4574034808b68d00ffff018ef9.png",
+                        "query": "version=1743473318",
+                        "extension": "png"
+                    }
+                },
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
