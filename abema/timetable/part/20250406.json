@@ -1,6 +1,6 @@
 {
-    "pubAt": 1743814885,
-    "pubDate": "2025040510",
+    "pubAt": 1743984086,
+    "pubDate": "2025040709",
     "slots": {
         "abema-anime": [
             {
@@ -2517,7 +2517,9 @@
                     "recommendation": true
                 },
                 "flags": {
+                    "share": true,
                     "timeshift": true,
+                    "sharingPolicy": 1,
                     "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
@@ -2956,6 +2958,38 @@
                 },
                 "displaySeriesId": "35-50",
                 "content": "誰もいない公園で、自分たちそっくりの老人達と出会うしんのすけ達。\n話をしてみると性格までそっくり。この老人達、一体何者なのか……？",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "Ae3CNZhyzKPLAT",
+                "channelId": "family-anime-1",
+                "title": "ダイキン空気予報 4/6",
+                "startAt": 1743940140,
+                "endAt": 1743940320,
+                "tableStartAt": 1743940140,
+                "tableEndAt": 1743940740,
+                "highlight": "ダイキン空気予報 4/6",
+                "displayProgramId": "221-115_s6_p6",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744026540,
+                "timeshiftFreeEndAt": 1744026540,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "221-115",
+                "detailHighlight": "”人々の生活をよりよくする”をテーマに、明日の天気と空気を毎日お伝えする予報番組",
+                "content": "人々の生活をよりよくする空気をお届けしたい。\nそんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！\n \n 【提供】ダイキン工業",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]

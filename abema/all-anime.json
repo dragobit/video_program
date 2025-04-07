@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025040610",
+    "pubAt": "2025040710",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -383,12 +383,9 @@
         {
             "seriesId": "115-116",
             "title": "甘神さんちの縁結び",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -458,10 +455,9 @@
             "seriesId": "115-4cp-hkkdddk",
             "title": "さよなら絶望先生",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -575,11 +571,9 @@
         {
             "seriesId": "117-41",
             "title": "ツインズひなひま",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -657,11 +651,9 @@
         {
             "seriesId": "13-149",
             "title": "劇場版シティーハンター <新宿プライベート・アイズ>",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -784,6 +776,16 @@
             ]
         },
         {
+            "seriesId": "13-200",
+            "title": "前橋ウィッチーズ",
+            "label": {
+                "free": true
+            },
+            "onDemandTypes": [
+                3
+            ]
+        },
+        {
             "seriesId": "13-27uzkrexuzx2",
             "title": "Thunderbolt Fantasy 東離劍遊紀",
             "label": {
@@ -808,9 +810,12 @@
         {
             "seriesId": "13-53",
             "title": "機動戦士ガンダム",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -855,9 +860,10 @@
             "seriesId": "13-78",
             "title": "シティーハンター",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -865,10 +871,9 @@
             "seriesId": "13-81",
             "title": "シティーハンター2",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -993,10 +998,9 @@
             "seriesId": "143-56",
             "title": "この会社に好きな人がいます",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -1517,9 +1521,12 @@
         {
             "seriesId": "169-116",
             "title": "精霊幻想記",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -1738,11 +1745,9 @@
         {
             "seriesId": "172-60",
             "title": "ハニーレモンソーダ",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -1883,10 +1888,10 @@
             "seriesId": "177-234",
             "title": "リトル・パイレーツ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2229,10 +2234,9 @@
             "seriesId": "189-12",
             "title": "まちカドまぞく",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -2805,10 +2809,9 @@
             "seriesId": "19-174",
             "title": "薬屋のひとりごと",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3377,6 +3380,14 @@
             ]
         },
         {
+            "seriesId": "19-256",
+            "title": "空挺ドラゴンズ",
+            "label": {},
+            "onDemandTypes": [
+                1
+            ]
+        },
+        {
             "seriesId": "19-261",
             "title": "しまじろうコンサート　しまじろうと わくわく ドーナツフェスティバル",
             "label": {},
@@ -3710,10 +3721,9 @@
             "seriesId": "194-47",
             "title": "黒岩メダカに私の可愛いが通じない",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -3897,12 +3907,9 @@
         {
             "seriesId": "2-8",
             "title": "劇場版ポケットモンスター",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -4134,12 +4141,9 @@
         {
             "seriesId": "218-332",
             "title": "声優と夜あそび 2021",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -4769,10 +4773,9 @@
             "seriesId": "25-139",
             "title": "Re:ゼロから始める異世界生活",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4810,10 +4813,9 @@
             "seriesId": "25-151",
             "title": "くまクマ熊ベアー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4944,10 +4946,9 @@
             "seriesId": "25-221",
             "title": "陰の実力者になりたくて！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5321,12 +5322,9 @@
         {
             "seriesId": "25-276",
             "title": "トリリオンゲーム",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -5747,9 +5745,10 @@
             "seriesId": "26-176",
             "title": "万聖街",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5889,9 +5888,10 @@
             "seriesId": "26-219",
             "title": "WIND BREAKER",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -5909,9 +5909,10 @@
             "seriesId": "26-221",
             "title": "龍族 -The Blazing Dawn-（日本語吹替版）",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6041,10 +6042,9 @@
             "seriesId": "26-234",
             "title": "グリザイア：ファントムトリガー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -6174,9 +6174,10 @@
             "seriesId": "273-528",
             "title": "すとぷりのHere!We!GO!!",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6280,9 +6281,10 @@
             "seriesId": "301-1",
             "title": "マクロスΔ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6355,9 +6357,10 @@
             "seriesId": "35-3",
             "title": "新あたしンち",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -7133,10 +7136,10 @@
             "seriesId": "512-12",
             "title": "ウマ娘 シンデレラグレイ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -7257,7 +7260,8 @@
                 "someFree": true
             },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -7608,10 +7612,9 @@
             "seriesId": "560-3",
             "title": "全修。",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -7887,9 +7890,10 @@
             "seriesId": "632-3",
             "title": "シャングリラ・フロンティア",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
