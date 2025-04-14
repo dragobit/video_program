@@ -1,6 +1,6 @@
 {
-    "pubAt": 1744421485,
-    "pubDate": "2025041210",
+    "pubAt": 1744592482,
+    "pubDate": "2025041410",
     "slots": {
         "abema-anime": [
             {
@@ -2234,7 +2234,9 @@
                     "recommendation": true
                 },
                 "flags": {
+                    "share": true,
                     "timeshift": true,
+                    "sharingPolicy": 1,
                     "timeshiftFree": true,
                     "chasePlay": true,
                     "archiveComment": true
@@ -2752,6 +2754,38 @@
                 },
                 "displaySeriesId": "35-46",
                 "content": "のび太は、秘境の探検をするために、ドラえもんのひみつ道具で秘境探しをするが、それは膨大な航空写真から探し出すというものだった。そこにあらわれたのは、のび太がひろってきた一匹の子犬、ペコ。ペコは、アフリカのコンゴにある謎の巨大巨像を、航空写真から探し出した。",
+                "chasePlayFeatureAuthorityIds": [
+                    "d42dccf7-267d-4d75-88e1-587d851202c9"
+                ]
+            },
+            {
+                "id": "FF4W42DZV5HShm",
+                "channelId": "family-anime-1",
+                "title": "ダイキン空気予報 4/13",
+                "startAt": 1744543800,
+                "endAt": 1744543980,
+                "tableStartAt": 1744543800,
+                "tableEndAt": 1744544400,
+                "highlight": "ダイキン空気予報 4/13",
+                "displayProgramId": "221-115_s6_p13",
+                "mark": {},
+                "flags": {
+                    "share": true,
+                    "timeshift": true,
+                    "sharingPolicy": 1,
+                    "timeshiftFree": true,
+                    "chasePlay": true,
+                    "archiveComment": true
+                },
+                "timeshiftEndAt": 1744630200,
+                "timeshiftFreeEndAt": 1744630200,
+                "broadcastRegionPolicies": {
+                    "linear": 1,
+                    "timeshift": 1
+                },
+                "displaySeriesId": "221-115",
+                "detailHighlight": "”人々の生活をよりよくする”をテーマに、明日の天気と空気を毎日お伝えする予報番組",
+                "content": "人々の生活をよりよくする空気をお届けしたい。\nそんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！\n \n 【提供】ダイキン工業",
                 "chasePlayFeatureAuthorityIds": [
                     "d42dccf7-267d-4d75-88e1-587d851202c9"
                 ]
