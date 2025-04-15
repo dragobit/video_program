@@ -4,7 +4,7 @@
         "name": "アニメ",
         "subGenres": []
     },
-    "pubAt": "2025041410",
+    "pubAt": "2025041510",
     "items": [
         {
             "seriesId": "106-1zxpewrca-r",
@@ -168,10 +168,9 @@
             "seriesId": "11-54",
             "title": "聖剣学院の魔剣使い",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -454,9 +453,10 @@
             "seriesId": "115-4cp-hkkdddk",
             "title": "さよなら絶望先生",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -772,9 +772,10 @@
             "seriesId": "13-199",
             "title": "Summer Pockets",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -825,12 +826,9 @@
         {
             "seriesId": "13-62",
             "title": "機動戦士Ζガンダム",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -1003,9 +1001,10 @@
             "seriesId": "143-56",
             "title": "この会社に好きな人がいます",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -1525,12 +1524,9 @@
         {
             "seriesId": "169-116",
             "title": "精霊幻想記",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -2276,9 +2272,10 @@
             "seriesId": "189-12",
             "title": "まちカドまぞく",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2392,9 +2389,10 @@
             "seriesId": "189-59",
             "title": "魔都精兵のスレイブ",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -2591,10 +2589,10 @@
             "seriesId": "189-81",
             "title": "宇宙人ムームー",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -2725,11 +2723,9 @@
         {
             "seriesId": "19-139",
             "title": "暗殺教室（第2期）",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -2970,12 +2966,9 @@
         {
             "seriesId": "19-195",
             "title": "CLANNAD",
-            "label": {
-                "someFree": true
-            },
+            "label": {},
             "onDemandTypes": [
-                1,
-                3
+                1
             ]
         },
         {
@@ -3772,9 +3765,10 @@
             "seriesId": "194-47",
             "title": "黒岩メダカに私の可愛いが通じない",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -4553,10 +4547,9 @@
             "seriesId": "247-18",
             "title": "政宗くんのリベンジR",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4658,10 +4651,9 @@
             "seriesId": "248-23",
             "title": "俺は星間国家の悪徳領主！",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -4872,11 +4864,9 @@
         {
             "seriesId": "25-157",
             "title": "映画 この素晴らしい世界に祝福を！紅伝説",
-            "label": {
-                "free": true
-            },
+            "label": {},
             "onDemandTypes": [
-                3
+                1
             ]
         },
         {
@@ -5190,10 +5180,9 @@
             "seriesId": "25-259",
             "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -5264,9 +5253,11 @@
         {
             "seriesId": "25-267",
             "title": "異世界失格",
-            "label": {},
+            "label": {
+                "free": true
+            },
             "onDemandTypes": [
-                1
+                3
             ]
         },
         {
@@ -5284,9 +5275,10 @@
             "seriesId": "25-269",
             "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6061,9 +6053,10 @@
             "seriesId": "26-234",
             "title": "グリザイア：ファントムトリガー",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -6288,9 +6281,12 @@
         {
             "seriesId": "30-5",
             "title": "進撃の巨人",
-            "label": {},
+            "label": {
+                "someFree": true
+            },
             "onDemandTypes": [
-                1
+                1,
+                3
             ]
         },
         {
@@ -7328,9 +7324,10 @@
             "seriesId": "54-104",
             "title": "履いてください、鷹峰さん",
             "label": {
-                "free": true
+                "someFree": true
             },
             "onDemandTypes": [
+                1,
                 3
             ]
         },
@@ -8109,10 +8106,9 @@
             "seriesId": "673-5",
             "title": "妄想代理人",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
@@ -8175,10 +8171,9 @@
             "seriesId": "675-6",
             "title": "ユア・フォルマ",
             "label": {
-                "someFree": true
+                "free": true
             },
             "onDemandTypes": [
-                1,
                 3
             ]
         },
